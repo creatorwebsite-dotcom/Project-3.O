@@ -8306,6 +8306,162 @@
   // Boot & sync enriched fields immediately
   window.loadAndSyncMasterPortal();
 })();
+</script><script id="sn-master-production-engine">
+(function() {
+  "use strict";
+
+  // 1. Ensure PDF.js Worker is active
+  if (window.pdfjsLib) {
+    window.pdfjsLib.GlobalWorkerOptions.workerSrc = "https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.worker.min.js";
+  }
+
+  // 2. Clear conflicting legacy intervals & keep 1s clock ticking
+  const maxT = window.setInterval(function(){}, 99999);
+  for (let i = 1; i <= maxT; i++) window.clearInterval(i);
+
+  window.setInterval(function() {
+    const tm = document.getElementById("dynTime");
+    if (tm) tm.textContent = new Date().toLocaleTimeString("en-US");
+  }, 1000);
+
+  // 3. The Hindu In-App Broadsheet Reader (3-Day Archive + Zero Redirect)
+  window.__SN_HINDU_ARCHIVE__ = {};
+  window.__SN_HINDU_DATE__ = "";
+  window.__SN_HINDU_CAT__ = "all";
+
+  function getRolling3Dates() {
+    const arr = [];
+    const now = new Date();
+    for (let i = 0; i < 3; i++) {
+      const d = new Date(now.getTime() - i * 86400000);
+      const iso = d.toISOString().split("T")[0];
+      const disp = d.toLocaleDateString("en-GB", { day: "2-digit", month: "short", year: "numeric" });
+      arr.push({ iso, disp, label: i === 0 ? `📅 Today (${disp})` : (i === 1 ? `📅 Yesterday (${disp})` : `📅 ${disp}`) });
+    }
+    return arr;
+  }
+
+  window.openTheHinduReaderModal = async function() {
+    let modal = document.getElementById("mTheHinduReaderModal");
+    if (!modal) {
+      modal = document.createElement("div");
+      modal.id = "mTheHinduReaderModal";
+      modal.onclick = (e) => { if (e.target === modal) modal.style.display = "none"; };
+      modal.innerHTML = `
+        <div class="hindu-modal-card" style="max-width:920px; width:98%; max-height:94vh;" onclick="event.stopPropagation()">
+          <div class="hindu-modal-head" style="background:linear-gradient(135deg,#041922,#094053); color:#fff; padding:12px 16px; display:flex; justify-content:space-between; align-items:center;">
+            <div style="display:flex; align-items:center; gap:8px;">
+              <span style="font-size:1.25rem;">🗞️</span>
+              <div>
+                <div style="font-size:0.9rem; font-weight:900; color:#f8c016; text-transform:uppercase;">The Hindu — In-App Broadsheet Newspaper & Editorial Reader</div>
+                <div style="font-size:0.66rem; color:#cbd5e1;" id="thLiveTimestampSub">100% In-App Printed Newspaper View • Last 3 Days Archive • Zero Redirect</div>
+              </div>
+            </div>
+            <button onclick="document.getElementById('mTheHinduReaderModal').style.display='none'" style="background:#ef4444; color:#fff; border:none; width:26px; height:26px; border-radius:50%; font-weight:900; cursor:pointer;">✕</button>
+          </div>
+          <div class="hindu-modal-body" id="hinduModalContentArea" style="padding:14px; overflow-y:auto; background:#f8fafc; max-height:82vh;"></div>
+        </div>
+      `;
+      document.body.appendChild(modal);
+    }
+
+    modal.style.display = "flex";
+    const area = document.getElementById("hinduModalContentArea");
+    const last3 = getRolling3Dates();
+
+    window.__SN_HINDU_ARCHIVE__ = {};
+    last3.forEach(d => { window.__SN_HINDU_ARCHIVE__[d.iso] = []; });
+
+    try {
+      const res = await fetch("the_hindu_daily.json?t=" + Date.now());
+      if (res.ok) {
+        const data = await res.json();
+        if (data.archiveByDate && typeof data.archiveByDate === "object") {
+          Object.keys(data.archiveByDate).forEach(k => {
+            window.__SN_HINDU_ARCHIVE__[k] = data.archiveByDate[k].articles || [];
+          });
+        } else if (Array.isArray(data.articles)) {
+          window.__SN_HINDU_ARCHIVE__[last3[0].iso] = data.articles;
+        }
+      }
+    } catch (e) {}
+
+    window.__SN_HINDU_DATE__ = last3[0].iso;
+    window.__SN_HINDU_CAT__ = "all";
+    renderHinduAppUI();
+  };
+
+  window.snSelectHinduDate = function(iso) {
+    window.__SN_HINDU_DATE__ = iso;
+    renderHinduAppUI();
+  };
+
+  window.snSelectHinduCat = function(cat) {
+    window.__SN_HINDU_CAT__ = cat;
+    renderHinduAppUI();
+  };
+
+  function renderHinduAppUI() {
+    const area = document.getElementById("hinduModalContentArea");
+    if (!area) return;
+
+    const last3 = getRolling3Dates();
+    const activeDate = window.__SN_HINDU_DATE__ || last3[0].iso;
+    const activeCat = window.__SN_HINDU_CAT__ || "all";
+    const bucket = window.__SN_HINDU_ARCHIVE__[activeDate] || [];
+    const filtered = activeCat === "all" ? bucket : bucket.filter(a => a.category === activeCat);
+    const dateLabel = (last3.find(d => d.iso === activeDate)?.disp) || activeDate;
+
+    area.innerHTML = `
+      <div style="display:flex; gap:8px; overflow-x:auto; padding:8px 10px; background:#041922; border-radius:10px; margin-bottom:12px; border:1.5px solid #f8c016; align-items:center;">
+        <span style="color:#f8c016; font-size:0.74rem; font-weight:900; white-space:nowrap;">🗓️ Date:</span>
+        ${last3.map(d => `
+          <button type="button" onclick="window.snSelectHinduDate('${d.iso}')" style="padding:7px 14px; border-radius:20px; border:1.5px solid #006975; background:${d.iso === activeDate ? '#f8c016' : '#094053'}; color:${d.iso === activeDate ? '#041922' : '#e2e8f0'}; font-size:0.72rem; font-weight:800; cursor:pointer; white-space:nowrap;">
+            ${d.label} [${(window.__SN_HINDU_ARCHIVE__[d.iso] || []).length}]
+          </button>
+        `).join("")}
+      </div>
+
+      <div style="display:flex; gap:6px; overflow-x:auto; padding-bottom:6px; margin-bottom:10px;">
+        <button type="button" onclick="window.snSelectHinduCat('all')" style="padding:6px 11px; border-radius:18px; border:1.5px solid #094053; background:${activeCat==='all'?'#094053':'#fff'}; color:${activeCat==='all'?'#f8c016':'#094053'}; font-size:0.7rem; font-weight:900; cursor:pointer; white-space:nowrap;">🌟 All (${bucket.length})</button>
+        <button type="button" onclick="window.snSelectHinduCat('editorial')" style="padding:6px 11px; border-radius:18px; border:1.5px solid #094053; background:${activeCat==='editorial'?'#094053':'#fff'}; color:${activeCat==='editorial'?'#f8c016':'#094053'}; font-size:0.7rem; font-weight:900; cursor:pointer; white-space:nowrap;">✍️ Editorial</button>
+        <button type="button" onclick="window.snSelectHinduCat('national')" style="padding:6px 11px; border-radius:18px; border:1.5px solid #094053; background:${activeCat==='national'?'#094053':'#fff'}; color:${activeCat==='national'?'#f8c016':'#094053'}; font-size:0.7rem; font-weight:900; cursor:pointer; white-space:nowrap;">🏛️ National</button>
+        <button type="button" onclick="window.snSelectHinduCat('economy')" style="padding:6px 11px; border-radius:18px; border:1.5px solid #094053; background:${activeCat==='economy'?'#094053':'#fff'}; color:${activeCat==='economy'?'#f8c016':'#094053'}; font-size:0.7rem; font-weight:900; cursor:pointer; white-space:nowrap;">📈 Economy</button>
+        <button type="button" onclick="window.snSelectHinduCat('ir')" style="padding:6px 11px; border-radius:18px; border:1.5px solid #094053; background:${activeCat==='ir'?'#094053':'#fff'}; color:${activeCat==='ir'?'#f8c016':'#094053'}; font-size:0.7rem; font-weight:900; cursor:pointer; white-space:nowrap;">🌐 IR</button>
+        <button type="button" onclick="window.snSelectHinduCat('scitech')" style="padding:6px 11px; border-radius:18px; border:1.5px solid #094053; background:${activeCat==='scitech'?'#094053':'#fff'}; color:${activeCat==='scitech'?'#f8c016':'#094053'}; font-size:0.7rem; font-weight:900; cursor:pointer; white-space:nowrap;">🚀 Sci-Tech</button>
+      </div>
+
+      ${filtered.length === 0 ? `
+        <div style="padding:24px; text-align:center; background:#fff; border:1.5px solid #cbd5e1; border-radius:8px; color:#475569; font-weight:800;">
+          No articles found for ${dateLabel}. Select another date or tab above.
+        </div>
+      ` : filtered.map((art, i) => `
+        <div style="background:#fcfaf2; color:#111; border:2px solid #1e293b; border-radius:6px; padding:16px; font-family:Georgia,serif; margin-bottom:14px; box-shadow:0 4px 15px rgba(0,0,0,0.08);">
+          <div style="border-top:3px double #111; border-bottom:3px double #111; padding:6px 0; text-align:center; margin-bottom:10px;">
+            <div style="font-size:1.4rem; font-weight:900; text-transform:uppercase;">THE HINDU • EXAM EDITION</div>
+            <div style="display:flex; justify-content:space-between; font-size:0.66rem; font-weight:800; color:#334155; font-family:'Plus Jakarta Sans',sans-serif; margin-top:4px;">
+              <span>INDIA BROADSHEET PRINT</span>
+              <span>DATE: ${dateLabel}</span>
+              <span>PAGE ${i + 1}</span>
+            </div>
+          </div>
+          <h3 style="font-size:1.15rem; font-weight:900; color:#000; margin:0 0 8px 0; line-height:1.35;">${esc(art.title)}</h3>
+          <div style="background:#fffbeb; border:1px solid #fde047; color:#854d0e; padding:5px 8px; border-radius:4px; font-size:0.7rem; font-weight:800; margin-bottom:10px; font-family:'Plus Jakarta Sans',sans-serif;">
+            🎯 <strong>Exam Relevance:</strong> ${esc(art.examRelevance || 'UPSC / SSC / Banking')}
+          </div>
+          <div style="font-size:0.8rem; line-height:1.6; color:#111827; text-align:justify;">
+            ${art.imageUrl ? `<img src="${esc(art.imageUrl)}" style="width:100%; max-height:220px; object-fit:cover; border-radius:4px; margin-bottom:8px; border:1px solid #94a3b8;" onerror="this.style.display='none'">` : ""}
+            ${Array.isArray(art.fullParagraphs) && art.fullParagraphs.length ? art.fullParagraphs.map(p => `<p style="margin:0 0 8px 0;">${esc(p)}</p>`).join("") : `<p>${esc(art.summary || art.title)}</p>`}
+          </div>
+          <div style="background:#fffbeb; border:1.2px solid #f59e0b; border-left:4px solid #b45309; border-radius:6px; padding:10px; margin-top:10px; font-family:'Plus Jakarta Sans',sans-serif; font-size:0.74rem; line-height:1.5; color:#1e293b;">
+            <div style="font-weight:900; color:#92400e; margin-bottom:4px; text-transform:uppercase;">🔎 Deep Editorial Breakdown (In-App):</div>
+            <div>${art.deepExplanation || art.keyPoints || ''}</div>
+          </div>
+        </div>
+      `).join("")}
+    `;
+  }
+})();
 </script>
 </body>
 </html>
