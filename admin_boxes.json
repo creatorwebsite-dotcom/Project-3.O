@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-22 17:58:14",
+  "updated_at": "2026-10-22 19:30:53",
   "window_days": 15,
   "category_counts": {
-    "latest_jobs": 29,
+    "latest_jobs": 32,
     "results": 6,
     "admit_cards": 0,
-    "answer_keys": 0,
+    "answer_keys": 3,
     "syllabus": 0,
     "admissions": 0
   },
@@ -25,6 +25,15 @@
       "sub": "Latest Jobs",
       "url": "https://www.rrcjaipur.in",
       "details": "RRC North Western Railway has released the Recruitment 2026 notification for 2008 Act Apprentice posts. The online application process will be conducted from 23 October 2026 to 22 November 2026. Eligible candidates can apply through the official website, rrcjaipur.in.",
+      "rushScore": 100,
+      "active": true
+    },
+    {
+      "id": "8a04f504b286",
+      "title": "Railway RRC NWR Apprentice Online Form 2026",
+      "sub": "Latest Jobs",
+      "url": "https://rrcjaipur.in/storeWebFiles/1008_11718187.PDF",
+      "details": "Railway Recruitment Cell (RRC-NWR-Jaipur) , has released a notification on official website for the recruitment of RRC NWR Jaipur Apprentice Posts. This recruitment is for 2008 positions. RRC Application Form will start on 23 October 2026 & the candidates can apply until 22 November 2026 . Minimum age is 15 Years & The Maximum Age required Is 24 Years as on 22 November 2026. Candidates must check the complete details for Railway RRC NWR Apprentice Recruitment 2026. which has given below. (Advt. No. 04/2026 (NWR/AA)",
       "rushScore": 100,
       "active": true
     },
@@ -53,15 +62,6 @@
       "url": "https://www.rrbapply.gov.in/#/auth/landing",
       "details": "Railway Recruitment Board (RRB) , has released a Notification on its official website for the recruitment of Non-Technical Popular Categories (NTPC) Graduate Level Posts. This recruitment is for 3548 positions. The RRB application form has started on 08 October 2026, and candidates can apply until 06 November 2026. The minimum age is 18 Years & the maximum age is 33 years as on 01 January 2027. Candidates must check the complete details for the RRB NTPC Graduate Level Recruitment 2026 provided below. (Advt No : CEN 06/2026)",
       "rushScore": 90,
-      "active": true
-    },
-    {
-      "id": "2edfe3d65731",
-      "title": "BHEL 660 Artisan Online Form 2026",
-      "sub": "Latest Jobs",
-      "url": "https://careers.bhel.in/index.jsp",
-      "details": "Bharat Heavy Electricals Limited (BHEL) has released Notification No. 01/2026 for 660 vacancies across various posts. The recruitment drive includes Fitter, Electrician, Welder, Turner, and other positions. Eligible candidates can apply online at careers.bhel.in.",
-      "rushScore": 88,
       "active": true
     }
   ],
