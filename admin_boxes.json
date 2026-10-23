@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-10-22 19:30:53",
+  "updated_at": "2026-10-23 05:58:13",
   "window_days": 15,
   "category_counts": {
-    "latest_jobs": 32,
+    "latest_jobs": 30,
     "results": 6,
     "admit_cards": 0,
     "answer_keys": 3,
@@ -56,12 +56,12 @@
       "active": true
     },
     {
-      "id": "98caf671d10b",
-      "title": "RRB NTPC Graduate Level Online Form 2026 (3548 Posts)",
+      "id": "2edfe3d65731",
+      "title": "BHEL 660 Artisan Online Form 2026",
       "sub": "Latest Jobs",
-      "url": "https://www.rrbapply.gov.in/#/auth/landing",
-      "details": "Railway Recruitment Board (RRB) , has released a Notification on its official website for the recruitment of Non-Technical Popular Categories (NTPC) Graduate Level Posts. This recruitment is for 3548 positions. The RRB application form has started on 08 October 2026, and candidates can apply until 06 November 2026. The minimum age is 18 Years & the maximum age is 33 years as on 01 January 2027. Candidates must check the complete details for the RRB NTPC Graduate Level Recruitment 2026 provided below. (Advt No : CEN 06/2026)",
-      "rushScore": 90,
+      "url": "https://careers.bhel.in/index.jsp",
+      "details": "Bharat Heavy Electricals Limited (BHEL) has released Notification No. 01/2026 for 660 vacancies across various posts. The recruitment drive includes Fitter, Electrician, Welder, Turner, and other positions. Eligible candidates can apply online at careers.bhel.in.",
+      "rushScore": 88,
       "active": true
     }
   ],
