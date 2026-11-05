@@ -1,12 +1,12 @@
 {
-  "updatedAt": "06 Nov 2026, 02:08 AM IST",
+  "updatedAt": "06 Nov 2026, 03:04 AM IST",
   "currentDateIso": "2026-11-06",
   "currentDateDisplay": "06 Nov 2026",
   "availableDates": [
     {
       "dateIso": "2026-11-06",
       "dateDisplay": "06 Nov 2026",
-      "updatedAt": "06 Nov 2026, 02:08 AM IST",
+      "updatedAt": "06 Nov 2026, 03:04 AM IST",
       "articleCount": 30
     },
     {
@@ -23,9 +23,77 @@
     }
   ],
   "hookLine1": "The Hindu Printed Broadsheet & Editorial Digest (06 Nov 2026)",
-  "hookLine2": "100% In-App Full Newspaper Pages & Deep Editorial Analysis • Updated: 06 Nov 2026, 02:08 AM IST",
+  "hookLine2": "100% In-App Full Newspaper Pages & Deep Editorial Analysis • Updated: 06 Nov 2026, 03:04 AM IST",
   "totalArticles": 30,
   "articles": [
+    {
+      "category": "national",
+      "categoryLabel": "🏛️ National & Polity",
+      "title": "Maharashtra FDA seizes drugs, cosmetics worth ₹34.51 lakh, cancels 122 licences",
+      "link": "https://www.thehindu.com/news/national/maharashtra/maharashtra-fda-seizes-drugs-cosmetics-worth-3451-lakh-cancels-122-licences/article71671236.ece",
+      "pubDate": "Fri, 06 Nov 2026 02:08:49 +0530",
+      "dateIso": "2026-11-06",
+      "dateDisplay": "06 Nov 2026",
+      "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
+      "imageUrl": "https://th-i.thgim.com/public/incoming/t8vr3j/article71671611.ece/alternates/LANDSCAPE_1200/2026-08-24T020008Z_1123646610_RC2A2NA9IYJM_RTRMADP_3_INDIA-FOOD-OFFICER.JPG",
+      "fullParagraphs": [
+        "The Maharashtra Food and Drug Administration (FDA) seized drugs and cosmetics worth ₹34.51 lakh, cancelled 122 licences and suspended 422 others following enforcement action across the State in October 2026, according to a press note issued by the department on Thursday (November 5, 2026).",
+        "The FDA conducted 1,986 inspections of drug manufacturing, sales and other regulated establishments during the month and issued 674 notices. Of these, 1,694 inspections were conducted at drug sales establishments and 292 at manufacturing and other regulated establishments. The department cancelled 105 licences and suspended 367 licences of sales establishments, while 17 licences were cancelled and 55 suspended in the manufacturing and other categories.",
+        "The department also carried out 11 search and seizure operations involving alleged violations related to the manufacture, storage and sale of drugs and cosmetics. Two FIRs were registered, and four persons were arrested under the Narcotic Drugs and Psychotropic Substances (NDPS) Act in connection with the illegal sale of narcotic drugs.",
+        "Among the major seizures, FDA officials recovered allopathic drugs worth ₹22.03 lakh from the premises of Phoenix Medicorp in Nagpur on October 7. According to the department, the establishment had stored drugs at unlicensed premises despite surrendering its licences.",
+        "In Mumbai, FDA officials seized spurious drugs identified as Empirime tablets and Cardiurex 2 ml, worth ₹1.01 lakh, from INHS Asvini in Colaba on October 29, according to the department.",
+        "In separate operations in Chhatrapati Sambhajinagar on October 14 and 25, officials seized 199 Nitrosun 10 tablets containing Nitrazepam. Four persons were arrested in connection with their alleged illegal sale.",
+        "The FDA also seized cosmetic soaps worth ₹4.05 lakh from Vedas Herbals Mahila Gruh Udyog in Baramati, Pune district, on October 14, for alleged manufacturing without a licence. In Vasai East, officials seized raw materials, packaging materials and machinery worth ₹1.83 lakh from G.B. Cosmetics on October 10 in connection with alleged unlicensed manufacture and sale of nail polish.",
+        "The Konkan division recorded the highest number of inspections in October at 556, followed by Pune with 375 and Greater Mumbai with 322. Konkan also accounted for the highest number of regulatory actions at 156, followed by Greater Mumbai with 105 and Pune with 77.",
+        "Between April 1 and October 31, the FDA conducted 7,950 inspections across Maharashtra, issued 2,888 notices, cancelled 555 licences and suspended 2,074 licences. The department recorded 2,629 regulatory actions, comprising licence cancellations and suspensions, during the seven-month period.",
+        "The FDA urged citizens to report instances of illegal drug manufacturing or sales, as well as suspected substandard drugs, medical devices and cosmetics, to its commissioner’s office or the nearest district office."
+      ],
+      "deepExplanation": "<strong>1. Core Context & Background:</strong> The Maharashtra Food and Drug Administration (FDA) seized drugs and cosmetics worth ₹34.51 lakh, cancelled 122 licences and suspended 422 others following enforcement action across the State in October 2026, according to a press note issued by the department on Thursday (November 5, 2026).<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> The FDA conducted 1,986 inspections of drug manufacturing, sales and other regulated establishments during the month and issued 674 notices. Of these, 1,694 inspections were conducted at drug sales establishments and 292 at manufacturing and other regulated establishments.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> The FDA urged citizens to report instances of illegal drug manufacturing or sales, as well as suspected substandard drugs, medical devices and cosmetics, to its commissioner’s office or the nearest district office.",
+      "vocabList": [
+        "Maharashtra",
+        "Administration",
+        "Cosmetics",
+        "Cancelled",
+        "Licences",
+        "Suspended"
+      ],
+      "summary": "The Maharashtra Food and Drug Administration (FDA) seized drugs and cosmetics worth ₹34.51 lakh, cancelled 122 licences and suspended 422 others following enforcement action across the State in October 2026, according to a press note issued by the department on Thursday (November 5, 2026).",
+      "keyPoints": "• The Maharashtra Food and Drug Administration (FDA) seized drugs and cosmetics worth ₹34.51 lakh, cancelled 122 licences and suspended 422 others following enforcement action across the State in October 2026, according to a press note issued by the department on Thursday (November 5, 2026).<br>• The FDA conducted 1,986 inspections of drug manufacturing, sales and other regulated establishments during the month and issued 674 notices. Of these, 1,694 inspections were conducted at drug sales establishments and 292 at manufacturing and other regulated establishments. The department cancelled 105 licences and suspended 367 licences of sales establishments, while 17 licences were cancelled and 55 suspended in the manufacturing and other categories.<br>• The department also carried out 11 search and seizure operations involving alleged violations related to the manufacture, storage and sale of drugs and cosmetics. Two FIRs were registered, and four persons were arrested under the Narcotic Drugs and Psychotropic Substances (NDPS) Act in connection with the illegal sale of narcotic drugs."
+    },
+    {
+      "category": "national",
+      "categoryLabel": "🏛️ National & Polity",
+      "title": "Foreign Secretary Misri sets stage for Nepal PM’s upcoming India visit",
+      "link": "https://www.thehindu.com/news/national/foreign-secretary-misri-sets-stage-for-nepal-pms-upcoming-india-visit/article71671036.ece",
+      "pubDate": "Fri, 06 Nov 2026 02:04:58 +0530",
+      "dateIso": "2026-11-06",
+      "dateDisplay": "06 Nov 2026",
+      "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
+      "imageUrl": "https://th-i.thgim.com/public/news/national/989jam/article71671547.ece/alternates/LANDSCAPE_1200/HWXi2RkboAARUb_.jpg",
+      "fullParagraphs": [
+        "Foreign Secretary Vikram Misri on Thursday (November 5, 2026) met Nepal Prime Minister Balendra Shah in Kathmandu, with discussions focused on “possible outcomes and initiatives” from the expected upcoming visit of the Himalayan nation’s leader to New Delhi.",
+        "Concluding his official engagements in Nepal that spanned Wednesday and Thursday, Mr. Misri also met Nepal Finance Minister Swarnim Wagle and Foreign Minister Sisir Khanal.",
+        "“The Foreign Secretary of India highlighted the wide-ranging engagement and overall progress in diverse areas of bilateral cooperation, and discussed possible outcomes and initiatives in the context of the upcoming visit of the Prime Minister of Nepal to India,” stated a joint press release issued by the Ministry of External Affairs and Kathmandu’s Ministry of Foreign Affairs.",
+        "Mr. Misri held detailed talks with his host, Nepali Foreign Secretary Amrit Bahadur Rai, on the “mutually beneficial partnership” between India and Nepal.",
+        "Mr. Shah had earlier this year highlighted the border dispute with India in the Lipulekh-Kalapai-Limpiyadhura area that is part of India’s Uttarakhand but claimed by Nepal as a sticking point in ties.",
+        "Mr. Shah had sought to involve other countries, such as the United Kingdom and China, in talks on the issue. But India wants the matter to be resolved bilaterally.",
+        "The Nepali leaders expressed “gratitude for India’s swift and substantial humanitarian and technical assistance in the aftermath of the Bhotekoshi floods”, the joint press release stated.",
+        "Mr. Misri’s discussions with Nepali stakeholders included a “commerce and development partnership, hydropower, physical connectivity, border management, energy and people-to-people ties”, as well as new areas like digital connectivity and AI.",
+        "Mr. Misri also met Minister for Energy, Water Resources and Irrigation Biraj Bhakta Shrestha and Minister for Infrastructure Development Sunil Lamsal.",
+        "Mr. Shah was sworn in as Prime Minister in March this year following the Gen-Z uprising in Nepal in September 2025 that led to the ouster of the previous government."
+      ],
+      "deepExplanation": "<strong>1. Core Context & Background:</strong> Foreign Secretary Vikram Misri on Thursday (November 5, 2026) met Nepal Prime Minister Balendra Shah in Kathmandu, with discussions focused on “possible outcomes and initiatives” from the expected upcoming visit of the Himalayan nation’s leader to New Delhi.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Concluding his official engagements in Nepal that spanned Wednesday and Thursday, Mr. Misri also met Nepal Finance Minister Swarnim Wagle and Foreign Minister Sisir Khanal.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Shah was sworn in as Prime Minister in March this year following the Gen-Z uprising in Nepal in September 2025 that led to the ouster of the previous government.",
+      "vocabList": [
+        "Secretary",
+        "Thursday",
+        "November",
+        "Balendra",
+        "Kathmandu",
+        "Discussions"
+      ],
+      "summary": "Foreign Secretary Vikram Misri on Thursday (November 5, 2026) met Nepal Prime Minister Balendra Shah in Kathmandu, with discussions focused on “possible outcomes and initiatives” from the expected upcoming visit of the Himalayan nation’s leader to New Delhi.",
+      "keyPoints": "• Foreign Secretary Vikram Misri on Thursday (November 5, 2026) met Nepal Prime Minister Balendra Shah in Kathmandu, with discussions focused on “possible outcomes and initiatives” from the expected upcoming visit of the Himalayan nation’s leader to New Delhi.<br>• Concluding his official engagements in Nepal that spanned Wednesday and Thursday, Mr. Misri also met Nepal Finance Minister Swarnim Wagle and Foreign Minister Sisir Khanal.<br>• “The Foreign Secretary of India highlighted the wide-ranging engagement and overall progress in diverse areas of bilateral cooperation, and discussed possible outcomes and initiatives in the context of the upcoming visit of the Prime Minister of Nepal to India,” stated a joint press release issued by the Ministry of External Affairs and Kathmandu’s Ministry of Foreign Affairs."
+    },
     {
       "category": "national",
       "categoryLabel": "🏛️ National & Polity",
@@ -159,66 +227,6 @@
       ],
       "summary": "Several voters from Kotia gram panchayat, whose jurisdiction has long been disputed between Odisha and Andhra Pradesh, crossed the Odisha border on Thursday to cast their votes in the mandal parishad territorial constituency and zilla parishad territorial constituency elections conducted by the Andhra Pradesh State Election Commission.",
       "keyPoints": "• Several voters from Kotia gram panchayat, whose jurisdiction has long been disputed between Odisha and Andhra Pradesh, crossed the Odisha border on Thursday to cast their votes in the mandal parishad territorial constituency and zilla parishad territorial constituency elections conducted by the Andhra Pradesh State Election Commission.<br>• The Odisha government had deployed 16 platoons of police and erected three border checkpoints, restricting people’s entry and exit. However, several voters sneaked out from the borders to cast votes.<br>• The Andhra Pradesh government had set up a polling booth for villagers of Kotia at Sariki in its State boundary."
-    },
-    {
-      "category": "national",
-      "categoryLabel": "🏛️ National & Polity",
-      "title": "Kochi police yet to complete verification of private bus employees",
-      "link": "https://www.thehindu.com/news/national/kerala/kochi-police-yet-to-complete-verification-of-private-bus-employees/article71666851.ece",
-      "pubDate": "Fri, 06 Nov 2026 01:22:39 +0530",
-      "dateIso": "2026-11-06",
-      "dateDisplay": "06 Nov 2026",
-      "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
-      "imageUrl": "https://th-i.thgim.com/public/incoming/j14kla/article71667202.ece/alternates/LANDSCAPE_1200/80968_11_7_2026_18_49_39_2_7O3A2831.JPEG",
-      "fullParagraphs": [
-        "The Kochi City police’s special drive to conduct background verification of private bus employees and issue them special identity cards is yet to be completed, even two months after the initiative was launched.",
-        "The police, according to sources, are planning to issue the ID cards by next week, though they admitted that a final decision on how to proceed with the drive was yet to be taken. Earlier, the police had planned to complete the process within a few weeks in September and then by the end of October, but the initial plan could not be implemented.",
-        "An officer involved in the process said the verification of over 1,500 employees, including drivers and conductors, had been completed. It is roughly estimated that around 2,000 employees work as bus crew in the city.",
-        "Bus employees were asked to submit their personal details to the police in a pro forma for verification. The police launched the background verification drive in response to a series of incidents involving alleged criminal behaviour by private bus employees in recent times. The Special Branch of the police is conducting the verification based on the applications received by the traffic wing.",
-        "Sources said the police were planning to introduce smart ID cards for the bus crew, though the details of the cards were yet to be finalised. However, the police are yet to decide whether the cards should be issued to all employees who undergo verification, the officer said.",
-        "“We have come across employees who were booked for minor offences, including drunk driving, during the verification. For those who have a criminal background, we will note adverse remarks. Once the verification is completed, it would be up to the bus operator to decide whether a person should be employed or not,” the officer said.",
-        "District Police Chief (Kochi City) R. Nishanthini is yet to review the project, which was initiated by her predecessor, Kaliraj Mahesh Kumar, sources said."
-      ],
-      "deepExplanation": "<strong>1. Core Context & Background:</strong> The Kochi City police’s special drive to conduct background verification of private bus employees and issue them special identity cards is yet to be completed, even two months after the initiative was launched.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> The police, according to sources, are planning to issue the ID cards by next week, though they admitted that a final decision on how to proceed with the drive was yet to be taken. Earlier, the police had planned to complete the process within a few weeks in September and then by the end of October, but the initial plan could not be implemented.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Nishanthini is yet to review the project, which was initiated by her predecessor, Kaliraj Mahesh Kumar, sources said.",
-      "vocabList": [
-        "Background",
-        "Verification",
-        "Employees",
-        "Identity",
-        "Completed",
-        "Initiative"
-      ],
-      "summary": "The Kochi City police’s special drive to conduct background verification of private bus employees and issue them special identity cards is yet to be completed, even two months after the initiative was launched.",
-      "keyPoints": "• The Kochi City police’s special drive to conduct background verification of private bus employees and issue them special identity cards is yet to be completed, even two months after the initiative was launched.<br>• The police, according to sources, are planning to issue the ID cards by next week, though they admitted that a final decision on how to proceed with the drive was yet to be taken. Earlier, the police had planned to complete the process within a few weeks in September and then by the end of October, but the initial plan could not be implemented.<br>• An officer involved in the process said the verification of over 1,500 employees, including drivers and conductors, had been completed. It is roughly estimated that around 2,000 employees work as bus crew in the city."
-    },
-    {
-      "category": "national",
-      "categoryLabel": "🏛️ National & Polity",
-      "title": "Opposition trying to destabilise TVK-led government, says Manickam Tagore",
-      "link": "https://www.thehindu.com/news/national/tamil-nadu/opposition-trying-to-destabilise-tvk-led-government-says-manickam-tagore/article71670045.ece",
-      "pubDate": "Fri, 06 Nov 2026 00:47:12 +0530",
-      "dateIso": "2026-11-06",
-      "dateDisplay": "06 Nov 2026",
-      "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
-      "imageUrl": "https://th-i.thgim.com/public/incoming/hphhbm/article71671587.ece/alternates/LANDSCAPE_1200/DSC_4033.JPG",
-      "fullParagraphs": [
-        "TNCC president Manickam Tagore on Thursday alleged that opposition parties were attempting to destabilise the TVK-led government by approaching its MLAs.",
-        "Supporting Minister C.T.R. Nirmal Kumar’s allegation that the DMK and AIADMK were attempting to poach TVK MLAs with the BJP’s support, he said those who had lost power were trying to disturb the government.",
-        "Speaking to mediapersons, Mr. Tagore said senior leaders of the DMK, AIADMK, and the BJP had repeatedly questioned the stability of the government. “An honest government has been installed, honest Ministers have been appointed, and the Chief Minister has been delivering a clean administration for the past four months,” he said, adding that the Opposition was attempting to create uncertainty and undermine the State’s development.",
-        "On Union Minister of State Jitendra Singh’s allegations about foreign funding for protests in Delhi, Mr. Tagore said he should file a police complaint if he had evidence. “Such baseless claims must stop. As a Minister of State in the Prime Minister’s Office, he should act responsibly. Who is stopping him from going to a police station if he has proof?” he asked.",
-        "He also accused the BJP of spreading misinformation to divert attention from allegations of electoral malpractice."
-      ],
-      "deepExplanation": "<strong>1. Core Context & Background:</strong> TNCC president Manickam Tagore on Thursday alleged that opposition parties were attempting to destabilise the TVK-led government by approaching its MLAs.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Nirmal Kumar’s allegation that the DMK and AIADMK were attempting to poach TVK MLAs with the BJP’s support, he said those who had lost power were trying to disturb the government. Tagore said senior leaders of the DMK, AIADMK, and the BJP had repeatedly questioned the stability of the government.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> He also accused the BJP of spreading misinformation to divert attention from allegations of electoral malpractice.",
-      "vocabList": [
-        "President",
-        "Manickam",
-        "Thursday",
-        "Opposition",
-        "Attempting",
-        "Destabilise"
-      ],
-      "summary": "TNCC president Manickam Tagore on Thursday alleged that opposition parties were attempting to destabilise the TVK-led government by approaching its MLAs.",
-      "keyPoints": "• TNCC president Manickam Tagore on Thursday alleged that opposition parties were attempting to destabilise the TVK-led government by approaching its MLAs.<br>• Supporting Minister C.T.R. Nirmal Kumar’s allegation that the DMK and AIADMK were attempting to poach TVK MLAs with the BJP’s support, he said those who had lost power were trying to disturb the government.<br>• Speaking to mediapersons, Mr. Tagore said senior leaders of the DMK, AIADMK, and the BJP had repeatedly questioned the stability of the government. “An honest government has been installed, honest Ministers have been appointed, and the Chief Minister has been delivering a clean administration for the past four months,” he said, adding that the Opposition was attempting to create uncertainty and undermine the State’s development."
     },
     {
       "category": "economy",
@@ -408,6 +416,130 @@
     {
       "category": "ir",
       "categoryLabel": "🌐 International Relations",
+      "title": "India-born Nithya Raman beats Democratic incumbent to become LA mayor",
+      "link": "https://www.thehindu.com/news/international/india-born-nithya-raman-beats-democratic-incumbent-to-become-la-mayor/article71671618.ece",
+      "pubDate": "Fri, 06 Nov 2026 03:01:01 +0530",
+      "dateIso": "2026-11-06",
+      "dateDisplay": "06 Nov 2026",
+      "examRelevance": "GS Paper-II & Current Affairs: Bilateral Agreements, Foreign Visits & UN/G20/BRICS",
+      "imageUrl": "https://th-i.thgim.com/public/incoming/lybrgf/article71671620.ece/alternates/LANDSCAPE_1200/Election_2_26_Los_Angeles_Mayor_28767.jpg",
+      "fullParagraphs": [
+        "Democratic socialist Nithya Raman ousted incumbent Democrat Karen Bass to become the next mayor of Los Angeles, ending a heated race that saw the one-time allies spar over frustration with the status quo.",
+        "Ms. Bass called Raman on Thursday (November 5, 2026) to concede, after the latest numbers showed Raman with 52% of the vote against the outgoing mayor’s 48%, with three-quarters of votes counted.",
+        "“I’m deeply honored to be your next mayor,” said India-born Nithya Raman, 45, in a statement on social media.",
+        "“I love this city. I believe in its people. The work ahead will be hard, and change will take time. And together, we are going to build a future as extraordinary as the city we call home.”",
+        "Ms. Raman campaigned in the nation’s second-largest city on a platform of “pothole politics” — dubbing broken streetlights and jagged sidewalks as failures of her predecessor’s leadership — while harnessing the anger of younger voters over affordability.",
+        "Her victory is yet another in the win column for candidates backed by the Democratic Socialists of America, who have propelled a cadre of left-wing leaders into office in cities across the country as well as Congress.",
+        "Ms. Raman, who was the first DSA-affiliated Los Angeles City Council member, will now helm the entertainment capital as it prepares to host the 2028 Olympics.",
+        "Ms. Bass, 73, was elected in 2022 as the first Black woman mayor in Los Angeles history and entered the role with decades of state and federal government experience.",
+        "But her term was riddled with setbacks. She was haunted by her handling of deadly wildfires in 2025, which erupted while she was traveling for the Biden administration.",
+        "“While this is not the outcome we hoped for, the people of Los Angeles have spoken,” Ms. Bass said in a statement.",
+        "“I have called Councilmember Nithya Raman to congratulate her on her victory, and I have committed to ensuring a smooth and seamless transition. Moving this city forward is what Los Angeles needs from all of us.”",
+        "Ms. Raman was an 11th-hour entrant into the race, and had even initially backed Bass’s re-election bid."
+      ],
+      "deepExplanation": "<strong>1. Core Context & Background:</strong> Democratic socialist Nithya Raman ousted incumbent Democrat Karen Bass to become the next mayor of Los Angeles, ending a heated race that saw the one-time allies spar over frustration with the status quo.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Bass called Raman on Thursday (November 5, 2026) to concede, after the latest numbers showed Raman with 52% of the vote against the outgoing mayor’s 48%, with three-quarters of votes counted. “I’m deeply honored to be your next mayor,” said India-born Nithya Raman, 45, in a statement on social media.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Raman was an 11th-hour entrant into the race, and had even initially backed Bass’s re-election bid.",
+      "vocabList": [
+        "Democratic",
+        "Socialist",
+        "Incumbent",
+        "Democrat",
+        "Frustration",
+        "Thursday"
+      ],
+      "summary": "Democratic socialist Nithya Raman ousted incumbent Democrat Karen Bass to become the next mayor of Los Angeles, ending a heated race that saw the one-time allies spar over frustration with the status quo.",
+      "keyPoints": "• Democratic socialist Nithya Raman ousted incumbent Democrat Karen Bass to become the next mayor of Los Angeles, ending a heated race that saw the one-time allies spar over frustration with the status quo.<br>• Ms. Bass called Raman on Thursday (November 5, 2026) to concede, after the latest numbers showed Raman with 52% of the vote against the outgoing mayor’s 48%, with three-quarters of votes counted.<br>• “I’m deeply honored to be your next mayor,” said India-born Nithya Raman, 45, in a statement on social media."
+    },
+    {
+      "category": "ir",
+      "categoryLabel": "🌐 International Relations",
+      "title": "Foreign Secretary Misri sets stage for Nepal PM’s upcoming India visit",
+      "link": "https://www.thehindu.com/news/national/foreign-secretary-misri-sets-stage-for-nepal-pms-upcoming-india-visit/article71671036.ece",
+      "pubDate": "Fri, 06 Nov 2026 02:04:58 +0530",
+      "dateIso": "2026-11-06",
+      "dateDisplay": "06 Nov 2026",
+      "examRelevance": "GS Paper-II & Current Affairs: Bilateral Agreements, Foreign Visits & UN/G20/BRICS",
+      "imageUrl": "https://th-i.thgim.com/public/news/national/989jam/article71671547.ece/alternates/LANDSCAPE_1200/HWXi2RkboAARUb_.jpg",
+      "fullParagraphs": [
+        "Foreign Secretary Vikram Misri on Thursday (November 5, 2026) met Nepal Prime Minister Balendra Shah in Kathmandu, with discussions focused on “possible outcomes and initiatives” from the expected upcoming visit of the Himalayan nation’s leader to New Delhi.",
+        "Concluding his official engagements in Nepal that spanned Wednesday and Thursday, Mr. Misri also met Nepal Finance Minister Swarnim Wagle and Foreign Minister Sisir Khanal.",
+        "“The Foreign Secretary of India highlighted the wide-ranging engagement and overall progress in diverse areas of bilateral cooperation, and discussed possible outcomes and initiatives in the context of the upcoming visit of the Prime Minister of Nepal to India,” stated a joint press release issued by the Ministry of External Affairs and Kathmandu’s Ministry of Foreign Affairs.",
+        "Mr. Misri held detailed talks with his host, Nepali Foreign Secretary Amrit Bahadur Rai, on the “mutually beneficial partnership” between India and Nepal.",
+        "Mr. Shah had earlier this year highlighted the border dispute with India in the Lipulekh-Kalapai-Limpiyadhura area that is part of India’s Uttarakhand but claimed by Nepal as a sticking point in ties.",
+        "Mr. Shah had sought to involve other countries, such as the United Kingdom and China, in talks on the issue. But India wants the matter to be resolved bilaterally.",
+        "The Nepali leaders expressed “gratitude for India’s swift and substantial humanitarian and technical assistance in the aftermath of the Bhotekoshi floods”, the joint press release stated.",
+        "Mr. Misri’s discussions with Nepali stakeholders included a “commerce and development partnership, hydropower, physical connectivity, border management, energy and people-to-people ties”, as well as new areas like digital connectivity and AI.",
+        "Mr. Misri also met Minister for Energy, Water Resources and Irrigation Biraj Bhakta Shrestha and Minister for Infrastructure Development Sunil Lamsal.",
+        "Mr. Shah was sworn in as Prime Minister in March this year following the Gen-Z uprising in Nepal in September 2025 that led to the ouster of the previous government."
+      ],
+      "deepExplanation": "<strong>1. Core Context & Background:</strong> Foreign Secretary Vikram Misri on Thursday (November 5, 2026) met Nepal Prime Minister Balendra Shah in Kathmandu, with discussions focused on “possible outcomes and initiatives” from the expected upcoming visit of the Himalayan nation’s leader to New Delhi.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Concluding his official engagements in Nepal that spanned Wednesday and Thursday, Mr. Misri also met Nepal Finance Minister Swarnim Wagle and Foreign Minister Sisir Khanal.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Shah was sworn in as Prime Minister in March this year following the Gen-Z uprising in Nepal in September 2025 that led to the ouster of the previous government.",
+      "vocabList": [
+        "Secretary",
+        "Thursday",
+        "November",
+        "Balendra",
+        "Kathmandu",
+        "Discussions"
+      ],
+      "summary": "Foreign Secretary Vikram Misri on Thursday (November 5, 2026) met Nepal Prime Minister Balendra Shah in Kathmandu, with discussions focused on “possible outcomes and initiatives” from the expected upcoming visit of the Himalayan nation’s leader to New Delhi.",
+      "keyPoints": "• Foreign Secretary Vikram Misri on Thursday (November 5, 2026) met Nepal Prime Minister Balendra Shah in Kathmandu, with discussions focused on “possible outcomes and initiatives” from the expected upcoming visit of the Himalayan nation’s leader to New Delhi.<br>• Concluding his official engagements in Nepal that spanned Wednesday and Thursday, Mr. Misri also met Nepal Finance Minister Swarnim Wagle and Foreign Minister Sisir Khanal.<br>• “The Foreign Secretary of India highlighted the wide-ranging engagement and overall progress in diverse areas of bilateral cooperation, and discussed possible outcomes and initiatives in the context of the upcoming visit of the Prime Minister of Nepal to India,” stated a joint press release issued by the Ministry of External Affairs and Kathmandu’s Ministry of Foreign Affairs."
+    },
+    {
+      "category": "ir",
+      "categoryLabel": "🌐 International Relations",
+      "title": "The ecological fallout of Israel’s war in Gaza",
+      "link": "https://www.thehindu.com/opinion/op-ed/the-ecological-fallout-of-israels-war-in-gaza/article71670933.ece",
+      "pubDate": "Fri, 06 Nov 2026 01:56:44 +0530",
+      "dateIso": "2026-11-06",
+      "dateDisplay": "06 Nov 2026",
+      "examRelevance": "GS Paper-II & Current Affairs: Bilateral Agreements, Foreign Visits & UN/G20/BRICS",
+      "imageUrl": "https://th-i.thgim.com/public/incoming/knjxlu/article71670949.ece/alternates/LANDSCAPE_1200/AFP_D3VN4BZ.jpg",
+      "fullParagraphs": [
+        "On November 5, 2001, the United Nations General Assembly (UNGA) designated November 6 each year as the International Day for Preventing the Exploitation of the Environment in War and Armed Conflict . This recognition underscores the far-reaching impacts of environmental damage caused by armed conflict, including degradation of ecosystems and resource depletion well after the conflict period. This impact often extends beyond the limits of national territories and affects future generations.",
+        "Considering the importance of the issue, the International Law Commission (ILC), in its report titled ‘Protection of the Environment in Relation to Armed Conflicts’ (PERAC), adopted 27 draft principles in 2022, which were formally noted by the UNGA on December 7, 2022. The overarching purpose of these principles is to enhance the protection of the environment in relation to armed conflicts. The first principle of the PERAC provides that the principles apply to the protection of the environment before, during and after an armed conflict, including in situations of occupation. In this context, Israel’s responsibility for internationally wrongful acts causing environmental harm arises not only from its ongoing genocide in Gaza but also from its continuing role as an occupying power.",
+        "United Nations / war / armed conflict / environmental issues / law / Israel-Palestine Conflict / water / famine / agriculture / flood / groundwater / international court or tribunal / natural resources"
+      ],
+      "deepExplanation": "<strong>1. Core Context & Background:</strong> On November 5, 2001, the United Nations General Assembly (UNGA) designated November 6 each year as the International Day for Preventing the Exploitation of the Environment in War and Armed Conflict .<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> This recognition underscores the far-reaching impacts of environmental damage caused by armed conflict, including degradation of ecosystems and resource depletion well after the conflict period. This impact often extends beyond the limits of national territories and affects future generations.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> United Nations / war / armed conflict / environmental issues / law / Israel-Palestine Conflict / water / famine / agriculture / flood / groundwater / international court or tribunal / natural resources",
+      "vocabList": [
+        "November",
+        "Assembly",
+        "Designated",
+        "Preventing",
+        "Exploitation",
+        "Environment"
+      ],
+      "summary": "On November 5, 2001, the United Nations General Assembly (UNGA) designated November 6 each year as the International Day for Preventing the Exploitation of the Environment in War and Armed Conflict . This recognition underscores the far-reaching impacts of environmental damage caused by armed conflict, including degradation of ecosystems and resource depletion well after the conflict period. This impact often extends beyond the limits of national territories and affects future generations.",
+      "keyPoints": "• On November 5, 2001, the United Nations General Assembly (UNGA) designated November 6 each year as the International Day for Preventing the Exploitation of the Environment in War and Armed Conflict . This recognition underscores the far-reaching impacts of environmental damage caused by armed conflict, including degradation of ecosystems and resource depletion well after the conflict period. This impact often extends beyond the limits of national territories and affects future generations.<br>• Considering the importance of the issue, the International Law Commission (ILC), in its report titled ‘Protection of the Environment in Relation to Armed Conflicts’ (PERAC), adopted 27 draft principles in 2022, which were formally noted by the UNGA on December 7, 2022. The overarching purpose of these principles is to enhance the protection of the environment in relation to armed conflicts. The first principle of the PERAC provides that the principles apply to the protection of the environment before, during and after an armed conflict, including in situations of occupation. In this context, Israel’s responsibility for internationally wrongful acts causing environmental harm arises not only from its ongoing genocide in Gaza but also from its continuing role as an occupying power.<br>• United Nations / war / armed conflict / environmental issues / law / Israel-Palestine Conflict / water / famine / agriculture / flood / groundwater / international court or tribunal / natural resources"
+    },
+    {
+      "category": "ir",
+      "categoryLabel": "🌐 International Relations",
+      "title": "Trump debacle: On the U.S. midterm election results",
+      "link": "https://www.thehindu.com/opinion/editorial/trump-debacle-on-the-us-midterm-election-results/article71670096.ece",
+      "pubDate": "Fri, 06 Nov 2026 01:45:12 +0530",
+      "dateIso": "2026-11-06",
+      "dateDisplay": "06 Nov 2026",
+      "examRelevance": "GS Paper-II & Current Affairs: Bilateral Agreements, Foreign Visits & UN/G20/BRICS",
+      "imageUrl": "https://www.thehindu.com/static/content/images/20260921062859/editorialLeadImg.jpg",
+      "fullParagraphs": [
+        "President Donald Trump faced the worst political setback of his current term in office after the Republican Party lost control of both the Senate and the House of Representatives in the mid-term election. Democrats not only won resoundingly in their traditional stronghold States, such as Colorado, Oregon and Illinois, and held onto important swing States, such as Georgia, Michigan and Virginia, but they also made historic inroads into “red states” such as Texas, Kansas and Iowa. While Mr. Trump fumed that Republicans would have performed better had his name been on the ballot, he also appeared to be resigned to the imminent reality of working with Democratic lawmakers over the remaining two years of his administration. Beyond the immediate impact on the future functioning of the federal government, this week’s “bluenami” has also brought sweeping changes at the State level: Democrats won a Senate seat in Texas for the first time in 37 years; Democrat Abdul El-Sayed won in Michigan , making him the first Muslim Senator in history ; Chris Pappas of New Hampshire became the first openly gay man to be elected to the Senate ; and Senate Minority Leader Hakeem Jeffries will soon be the first African-American Speaker of the House.",
+        "It is ironic that Mr. Trump alluded to his name not being on the ballot as the cause for the Republican collapse because, for many voters, the midterm election was indeed a referendum on the second Trump administration’s performance in office. The result has been an unambiguous thumbs-down from voters so far as top policy areas of the Trump administration are concerned, including cost of living and jobs, immigration enforcement, the war in Iran. The writing was on the wall, as were the approval ratings, especially in the case of oil prices and the Iran war, given that the price of gas in the U.S. has soared since the conflict around the Strait of Hormuz escalated. Similarly, the widespread raids by ICE and accelerated deportation processes for undocumented migrants led to protests across States and galvanised progressives around immigration reform. While Democrats may be justified in celebrating their victory after two years of harsh Trumpism, they would do well to remember that the President still retains a veto vote for policies passed by Congress. The temptation to launch a series of investigations and interrogate the functioning of the Trump White House may be strong, yet congressional Democrats may wish to avoid any posturing that yields no palpable policy impact, including kicking off impeachment proceedings against Mr. Trump. A more productive way forward for Democratic lawmakers would be to engage with the White House and, through negotiation and compromise, mitigate the real impact of deleterious policies in critical areas such as health-care insurance and tariffs.",
+        "USA / politics / election / political parties / government / oil and gas - upstream activities / Israel-US strikes on Iran / migration / health insurance / taxes and duties / Donald Trump"
+      ],
+      "deepExplanation": "<strong>1. Core Context & Background:</strong> President Donald Trump faced the worst political setback of his current term in office after the Republican Party lost control of both the Senate and the House of Representatives in the mid-term election.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Democrats not only won resoundingly in their traditional stronghold States, such as Colorado, Oregon and Illinois, and held onto important swing States, such as Georgia, Michigan and Virginia, but they also made historic inroads into “red states” such as Texas, Kansas and Iowa. Trump fumed that Republicans would have performed better had his name been on the ballot, he also appeared to be resigned to the imminent reality of working with Democratic lawmakers over the remaining two years of his administration.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> USA / politics / election / political parties / government / oil and gas - upstream activities / Israel-US strikes on Iran / migration / health insurance / taxes and duties / Donald Trump",
+      "vocabList": [
+        "President",
+        "Political",
+        "Republican",
+        "Representatives",
+        "Election",
+        "Democrats"
+      ],
+      "summary": "President Donald Trump faced the worst political setback of his current term in office after the Republican Party lost control of both the Senate and the House of Representatives in the mid-term election. Democrats not only won resoundingly in their traditional stronghold States, such as Colorado, Oregon and Illinois, and held onto important swing States, such as Georgia, Michigan and Virginia, but they also made historic inroads into “red states” such as Texas, Kansas and Iowa. While Mr. Trump fumed that Republicans would have performed better had his name been on the ballot, he also appeared to be resigned to the imminent reality of working with Democratic lawmakers over the remaining two years of his administration. Beyond the immediate impact on the future functioning of the federal government, this week’s “bluenami” has also brought sweeping changes at the State level: Democrats won a Senate seat in Texas for the first time in 37 years; Democrat Abdul El-Sayed won in Michigan , making him the first Muslim Senator in history ; Chris Pappas of New Hampshire became the first openly gay man to be elected to the Senate ; and Senate Minority Leader Hakeem Jeffries will soon be the first African-American Speaker of the House.",
+      "keyPoints": "• President Donald Trump faced the worst political setback of his current term in office after the Republican Party lost control of both the Senate and the House of Representatives in the mid-term election. Democrats not only won resoundingly in their traditional stronghold States, such as Colorado, Oregon and Illinois, and held onto important swing States, such as Georgia, Michigan and Virginia, but they also made historic inroads into “red states” such as Texas, Kansas and Iowa. While Mr. Trump fumed that Republicans would have performed better had his name been on the ballot, he also appeared to be resigned to the imminent reality of working with Democratic lawmakers over the remaining two years of his administration. Beyond the immediate impact on the future functioning of the federal government, this week’s “bluenami” has also brought sweeping changes at the State level: Democrats won a Senate seat in Texas for the first time in 37 years; Democrat Abdul El-Sayed won in Michigan , making him the first Muslim Senator in history ; Chris Pappas of New Hampshire became the first openly gay man to be elected to the Senate ; and Senate Minority Leader Hakeem Jeffries will soon be the first African-American Speaker of the House.<br>• It is ironic that Mr. Trump alluded to his name not being on the ballot as the cause for the Republican collapse because, for many voters, the midterm election was indeed a referendum on the second Trump administration’s performance in office. The result has been an unambiguous thumbs-down from voters so far as top policy areas of the Trump administration are concerned, including cost of living and jobs, immigration enforcement, the war in Iran. The writing was on the wall, as were the approval ratings, especially in the case of oil prices and the Iran war, given that the price of gas in the U.S. has soared since the conflict around the Strait of Hormuz escalated. Similarly, the widespread raids by ICE and accelerated deportation processes for undocumented migrants led to protests across States and galvanised progressives around immigration reform. While Democrats may be justified in celebrating their victory after two years of harsh Trumpism, they would do well to remember that the President still retains a veto vote for policies passed by Congress. The temptation to launch a series of investigations and interrogate the functioning of the Trump White House may be strong, yet congressional Democrats may wish to avoid any posturing that yields no palpable policy impact, including kicking off impeachment proceedings against Mr. Trump. A more productive way forward for Democratic lawmakers would be to engage with the White House and, through negotiation and compromise, mitigate the real impact of deleterious policies in critical areas such as health-care insurance and tariffs.<br>• USA / politics / election / political parties / government / oil and gas - upstream activities / Israel-US strikes on Iran / migration / health insurance / taxes and duties / Donald Trump"
+    },
+    {
+      "category": "ir",
+      "categoryLabel": "🌐 International Relations",
       "title": "Melania Trump calls for ‘enduring’ Ukraine truce as rivals meet at White House",
       "link": "https://www.thehindu.com/news/international/melania-trump-calls-for-enduring-ukraine-truce-as-rivals-meet-at-white-house/article71671601.ece",
       "pubDate": "Fri, 06 Nov 2026 01:21:25 +0530",
@@ -476,145 +608,6 @@
       ],
       "summary": "A Nigerian court on Thursday (November 5, 2026) declared invalid the nomination of Atiku Abubakar as the presidential candidate for the opposition African Democratic Congress (ADC), just two months before the country’s elections.",
       "keyPoints": "• A Nigerian court on Thursday (November 5, 2026) declared invalid the nomination of Atiku Abubakar as the presidential candidate for the opposition African Democratic Congress (ADC), just two months before the country’s elections.<br>• The party, which accused the ruling All Progressives Congress (APC) of involvement in the lawsuit, will appeal, its spokesman said — but the ruling creates legal headaches for Abubakar and uncertainty for voters with the January 16 vote around the corner.<br>• The ADC, one of the main opposition parties trying to oust President Bola Tinubu, has been mired in lawsuits around its leadership, which have now ensnared its 2027 nominee."
-    },
-    {
-      "category": "ir",
-      "categoryLabel": "🌐 International Relations",
-      "title": "Eight dead in mass shooting in rural west Turkiye: officials",
-      "link": "https://www.thehindu.com/news/international/people-dead-in-mass-shooting-in-rural-west-turkiye-officials/article71671567.ece",
-      "pubDate": "Fri, 06 Nov 2026 00:30:38 +0530",
-      "dateIso": "2026-11-06",
-      "dateDisplay": "06 Nov 2026",
-      "examRelevance": "GS Paper-II & Current Affairs: Bilateral Agreements, Foreign Visits & UN/G20/BRICS",
-      "imageUrl": "https://th-i.thgim.com/public/news/national/bms94r/article71671568.ece/alternates/LANDSCAPE_1200/AFP__20261105__D6KH4ZQ__v1__HighRes__TurkeyCrimeShooting.jpg",
-      "fullParagraphs": [
-        "Eight people were shot dead in three villages in west-central Turkiye on Thursday (November 5, 2026), local officials said, as police pressed a major manhunt to find the gunman.",
-        "“Unfortunately, eight of our citizens have lost their lives, and one has been seriously injured in armed attacks in our province,” the Afyonkarahisar governor’s office said.",
-        "The shooting struck in a rural area near Afyonkarahisar, a town halfway between the capital Ankara and the coastal city of Izmir.",
-        "Two women with gunshot wounds were found on a road in Yukaritandir village, and despite being rushed to the hospital, both died, Anadolu state news agency said.",
-        "Three more bodies were found in Kiyir village, which lies a half-hour drive to the northeast, and another three in Ayazini village, a further half-hour drive east, it said.",
-        "Another person found in critical condition was fighting for their life in hospital, it said, without saying where they had been injured.",
-        "Grainy CCTV footage published by Turkish media showed a man in a black jacket, white trousers and glasses clutching a rifle as he stood by a faded red minivan.",
-        "Police later found the red vehicle stuck in the mud on the outskirts of the university town of Eskisehir, which lies about 100 kilometres (60 miles) to the north, the suspect having fled on foot, the private NTV channel said.",
-        "DHA news agency said investigators were looking to see if there was any connection with an earlier incident in the centre of Afyonkarahisar in which a woman in a car was shot and seriously injured by a gunman."
-      ],
-      "deepExplanation": "<strong>1. Core Context & Background:</strong> Eight people were shot dead in three villages in west-central Turkiye on Thursday (November 5, 2026), local officials said, as police pressed a major manhunt to find the gunman.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> “Unfortunately, eight of our citizens have lost their lives, and one has been seriously injured in armed attacks in our province,” the Afyonkarahisar governor’s office said. The shooting struck in a rural area near Afyonkarahisar, a town halfway between the capital Ankara and the coastal city of Izmir.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> DHA news agency said investigators were looking to see if there was any connection with an earlier incident in the centre of Afyonkarahisar in which a woman in a car was shot and seriously injured by a gunman.",
-      "vocabList": [
-        "Villages",
-        "Thursday",
-        "November",
-        "Officials",
-        "Unfortunately",
-        "Citizens"
-      ],
-      "summary": "Eight people were shot dead in three villages in west-central Turkiye on Thursday (November 5, 2026), local officials said, as police pressed a major manhunt to find the gunman.",
-      "keyPoints": "• Eight people were shot dead in three villages in west-central Turkiye on Thursday (November 5, 2026), local officials said, as police pressed a major manhunt to find the gunman.<br>• “Unfortunately, eight of our citizens have lost their lives, and one has been seriously injured in armed attacks in our province,” the Afyonkarahisar governor’s office said.<br>• The shooting struck in a rural area near Afyonkarahisar, a town halfway between the capital Ankara and the coastal city of Izmir."
-    },
-    {
-      "category": "ir",
-      "categoryLabel": "🌐 International Relations",
-      "title": "Hasina says she will return from exile in December ‘at any cost’",
-      "link": "https://www.thehindu.com/news/international/hasina-says-she-will-return-from-exile-in-december-at-any-cost/article71671189.ece",
-      "pubDate": "Thu, 05 Nov 2026 23:55:50 +0530",
-      "dateIso": "2026-11-06",
-      "dateDisplay": "06 Nov 2026",
-      "examRelevance": "GS Paper-II & Current Affairs: Bilateral Agreements, Foreign Visits & UN/G20/BRICS",
-      "imageUrl": "https://th-i.thgim.com/public/incoming/349136/article71671222.ece/alternates/LANDSCAPE_1200/Bangladesh_Sheikh_Hasina_425_7.jpg",
-      "fullParagraphs": [
-        "Former Prime Minister Sheikh Hasina, ousted in a mass uprising in 2024, has told The Associated Press that she remains committed to returning to Bangladesh from exile in India next month, despite being sentenced to death over her government's deadly crackdown on protesters.",
-        "Ms. Hasina fled to India after student-led protests forced her from power and has remained there ever since.",
-        "In 2025, a Bangladeshi special tribunal sentenced her to death for crimes against humanity, ruling that she was responsible for ordering the crackdown, which left hundreds of people dead and thousands of others injured.",
-        "The United Nations has said in a report that nearly 1,400 people were killed. Ms. Hasina denies any wrongdoing. She has also rejected the tribunal's verdict and challenged the legitimacy of the trial.",
-        "Bangladesh has repeatedly sought Ms. Hasina's extradition, but India has declined to hand her over. She had first announced in August her intention to return in December.",
-        "“If death is my destiny, I would rather die on the soil of my own country, among my own people,” she told The Associated Press in response to questions by email. “So, I will return to Bangladesh. That decision has not changed.”",
-        "Questions were submitted to her last week and she responded on Wednesday (November 4, 2026).",
-        "Ms. Hasina, who was Prime Minister from 2009-2024, didn't disclose how she plans to return from India. She could face arrest upon arrival in Bangladesh.",
-        "“I know that I may be arrested when I return. I may be imprisoned, tortured or even killed. I am fully aware of those possibilities. But I cannot spend the rest of my life watching my people suffer from a distance,” she told the AP .",
-        "Following Ms. Hasina's ouster, Nobel Peace Prize laureate Muhammad Yunus took charge of an interim administration, leading the country for the next 18 months.",
-        "In February, Tarique Rahman, son of former Prime Minister Khaleda Zia and a longtime political rival of Ms. Hasina, swept to power in a landslide election held under Mr. Yunus' administration. Ms. Hasina's Awami League party was barred from contesting the vote.",
-        "Ms. Hasina's planned return comes as her party faces an uncertain future amid a sweeping crackdown. The party remains banned, with senior leaders arrested or driven into exile."
-      ],
-      "deepExplanation": "<strong>1. Core Context & Background:</strong> Former Prime Minister Sheikh Hasina, ousted in a mass uprising in 2024, has told The Associated Press that she remains committed to returning to Bangladesh from exile in India next month, despite being sentenced to death over her government's deadly crackdown on protesters.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Hasina fled to India after student-led protests forced her from power and has remained there ever since. In 2025, a Bangladeshi special tribunal sentenced her to death for crimes against humanity, ruling that she was responsible for ordering the crackdown, which left hundreds of people dead and thousands of others injured.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> The party remains banned, with senior leaders arrested or driven into exile.",
-      "vocabList": [
-        "Uprising",
-        "Associated",
-        "Committed",
-        "Returning",
-        "Bangladesh",
-        "Sentenced"
-      ],
-      "summary": "Former Prime Minister Sheikh Hasina, ousted in a mass uprising in 2024, has told The Associated Press that she remains committed to returning to Bangladesh from exile in India next month, despite being sentenced to death over her government's deadly crackdown on protesters.",
-      "keyPoints": "• Former Prime Minister Sheikh Hasina, ousted in a mass uprising in 2024, has told The Associated Press that she remains committed to returning to Bangladesh from exile in India next month, despite being sentenced to death over her government's deadly crackdown on protesters.<br>• Ms. Hasina fled to India after student-led protests forced her from power and has remained there ever since.<br>• In 2025, a Bangladeshi special tribunal sentenced her to death for crimes against humanity, ruling that she was responsible for ordering the crackdown, which left hundreds of people dead and thousands of others injured."
-    },
-    {
-      "category": "ir",
-      "categoryLabel": "🌐 International Relations",
-      "title": "Foreign Secretary Misri sets stage for Nepal PM’s upcoming India visit",
-      "link": "https://www.thehindu.com/news/national/foreign-secretary-misri-sets-stage-for-nepal-pms-upcoming-india-visit/article71671036.ece",
-      "pubDate": "Thu, 05 Nov 2026 23:50:21 +0530",
-      "dateIso": "2026-11-06",
-      "dateDisplay": "06 Nov 2026",
-      "examRelevance": "GS Paper-II & Current Affairs: Bilateral Agreements, Foreign Visits & UN/G20/BRICS",
-      "imageUrl": "https://th-i.thgim.com/public/news/national/989jam/article71671547.ece/alternates/LANDSCAPE_1200/HWXi2RkboAARUb_.jpg",
-      "fullParagraphs": [
-        "Foreign Secretary Vikram Misri on Thursday (November 5, 2026) met Nepal Prime Minister Balendra Shah in Kathmandu, with discussions focused on “possible outcomes and initiatives” from the expected upcoming visit of the Himalayan nation’s leader to New Delhi.",
-        "Concluding his official engagements in Nepal that spanned Wednesday and Thursday, Mr. Misri also met Nepal Finance Minister Swarnim Wagle and Foreign Minister Sisir Khanal.",
-        "“The Foreign Secretary of India highlighted the wide-ranging engagement and overall progress in diverse areas of bilateral cooperation, and discussed possible outcomes and initiatives in the context of the upcoming visit of the Prime Minister of Nepal to India,” stated a joint press release issued by the Ministry of External Affairs and Kathmandu’s Ministry of Foreign Affairs.",
-        "Mr. Misri held detailed talks with his host, Nepali Foreign Secretary Amrit Bahadur Rai, on the “mutually beneficial partnership” between India and Nepal.",
-        "Mr. Shah had earlier this year highlighted the border dispute with India in the Lipulekh-Kalapai-Limpiyadhura area that is part of India’s Uttarakhand but claimed by Nepal as a sticking point in ties.",
-        "Mr. Shah had sought to involve other countries, such as the United Kingdom and China, in talks on the issue. But India wants the matter to be resolved bilaterally.",
-        "The Nepali leaders expressed “gratitude for India’s swift and substantial humanitarian and technical assistance in the aftermath of the Bhotekoshi floods”, the joint press release stated.",
-        "Mr. Misri’s discussions with Nepali stakeholders included a “commerce and development partnership, hydropower, physical connectivity, border management, energy and people-to-people ties”, as well as new areas like digital connectivity and AI.",
-        "Mr. Misri also met Minister for Energy, Water Resources and Irrigation Biraj Bhakta Shrestha and Minister for Infrastructure Development Sunil Lamsal.",
-        "Mr. Shah was sworn in as Prime Minister in March this year following the Gen-Z uprising in Nepal in September 2025 that led to the ouster of the previous government."
-      ],
-      "deepExplanation": "<strong>1. Core Context & Background:</strong> Foreign Secretary Vikram Misri on Thursday (November 5, 2026) met Nepal Prime Minister Balendra Shah in Kathmandu, with discussions focused on “possible outcomes and initiatives” from the expected upcoming visit of the Himalayan nation’s leader to New Delhi.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Concluding his official engagements in Nepal that spanned Wednesday and Thursday, Mr. Misri also met Nepal Finance Minister Swarnim Wagle and Foreign Minister Sisir Khanal.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Shah was sworn in as Prime Minister in March this year following the Gen-Z uprising in Nepal in September 2025 that led to the ouster of the previous government.",
-      "vocabList": [
-        "Secretary",
-        "Thursday",
-        "November",
-        "Balendra",
-        "Kathmandu",
-        "Discussions"
-      ],
-      "summary": "Foreign Secretary Vikram Misri on Thursday (November 5, 2026) met Nepal Prime Minister Balendra Shah in Kathmandu, with discussions focused on “possible outcomes and initiatives” from the expected upcoming visit of the Himalayan nation’s leader to New Delhi.",
-      "keyPoints": "• Foreign Secretary Vikram Misri on Thursday (November 5, 2026) met Nepal Prime Minister Balendra Shah in Kathmandu, with discussions focused on “possible outcomes and initiatives” from the expected upcoming visit of the Himalayan nation’s leader to New Delhi.<br>• Concluding his official engagements in Nepal that spanned Wednesday and Thursday, Mr. Misri also met Nepal Finance Minister Swarnim Wagle and Foreign Minister Sisir Khanal.<br>• “The Foreign Secretary of India highlighted the wide-ranging engagement and overall progress in diverse areas of bilateral cooperation, and discussed possible outcomes and initiatives in the context of the upcoming visit of the Prime Minister of Nepal to India,” stated a joint press release issued by the Ministry of External Affairs and Kathmandu’s Ministry of Foreign Affairs."
-    },
-    {
-      "category": "ir",
-      "categoryLabel": "🌐 International Relations",
-      "title": "U.S. midterm elections 2026 updates: Democrats vow to rein in Trump as he shows off White House ballroom",
-      "link": "https://www.thehindu.com/news/international/us-midterm-elections-2026-results-trump-senate-congress-races-winners-losers-live-updates-republicans-democrats/article71668404.ece",
-      "pubDate": "Thu, 05 Nov 2026 23:20:46 +0530",
-      "dateIso": "2026-11-06",
-      "dateDisplay": "06 Nov 2026",
-      "examRelevance": "GS Paper-II & Current Affairs: Bilateral Agreements, Foreign Visits & UN/G20/BRICS",
-      "imageUrl": "https://th-i.thgim.com/public/incoming/t0lc4p/article71668759.ece/alternates/LANDSCAPE_1200/AP10_29_2026_000007B.jpg",
-      "fullParagraphs": [
-        "Mexican ‌President Claudia Sheinbaum on ⁠Thursday said it was “very ‌likely” and “logical” that raids ‌and ‌racism ⁠against ⁠immigrants influenced the Latino vote in U.S. ‌midterm elections.",
-        "Democrats won control of ‌Congress in Tuesday’s elections, making gains ⁠deep in Republican-held ‌districts as voters delivered a rebuke to ‌President Donald Trump and his agenda.- Reuters",
-        "Following the drubbing of U.S. President Donald Trump’s Republican Party in the midterm elections, Iranians set fire to a giant poster featuring the American leader and his allies at a rally in Tehran.",
-        "The cheering audience waved red flags to demand revenge for Khamenei’s death.",
-        "“We will kill Trump,” read the slogan on some of the flags waved by the crowd as a song named “We Must Rise” mourning Khamenei blared from nearby speakers.",
-        "As Washington navigates the fallout from a sweeping Republican electoral defeat, Iran’s chief negotiator in talks with the U.S., Parliament Speaker Mohammad Bagher Ghalibaf, has launched a blistering critique of American leadership, accusing officials of bringing “losing gambler energy” to the table while America teeters on an “Israel-First cliff”.",
-        "In a post on X, Mr. Ghalibaf wrote, “Losing gambler energy, can’t walk away from the table. Boss is prepping the next war phase while America teeters on an Israel-First cliff. Skip the TED talk. Why not say this to your boss?”",
-        "Democrats vowed to use their resounding midterm victory to rein in President Donald Trump, setting up two years of possible deadlock in Washington, as Mr. Trump spent his first post-election appearance showing off his under-construction White House ballroom.",
-        "It will be the first time ⁠that Mr. Trump, a Republican who also held the White House from 2017 to 2021, has had to contend with Democrats controlling both chambers of Congress.",
-        "House Democratic Leader Hakeem Jeffries said on Wednesday (November 4) that the incoming majority would be focused on affordability and accountability.",
-        "Mr. Trump’s announcement showed that even the Republican President, who moved the American embassy to Jerusalem in his first term, cracked down on pro-Palestine protests at home and launched a war, along with Israeli Prime Minister Benjamin Netanyahu, against Iran, recognised the growing electoral liability of unconditional support for Israel.",
-        "The midterm results could accelerate this political churn. The Democrats have secured control of both the House and the Senate. The election was fought largely on domestic issues, particularly the economy and the cost of living, but the war on Iran and its impact on the economy, particularly fuel prices, also figured in the Republican setback. Mr. Trump himself acknowledged that the war had hurt his party."
-      ],
-      "deepExplanation": "<strong>1. Core Context & Background:</strong> Mexican ‌President Claudia Sheinbaum on ⁠Thursday said it was “very ‌likely” and “logical” that raids ‌and ‌racism ⁠against ⁠immigrants influenced the Latino vote in U.S.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Democrats won control of ‌Congress in Tuesday’s elections, making gains ⁠deep in Republican-held ‌districts as voters delivered a rebuke to ‌President Donald Trump and his agenda.- Reuters Following the drubbing of U.S. President Donald Trump’s Republican Party in the midterm elections, Iranians set fire to a giant poster featuring the American leader and his allies at a rally in Tehran.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Trump himself acknowledged that the war had hurt his party.",
-      "vocabList": [
-        "President",
-        "Sheinbaum",
-        "Thursday",
-        "Immigrants",
-        "Influenced",
-        "Elections"
-      ],
-      "summary": "Mexican ‌President Claudia Sheinbaum on ⁠Thursday said it was “very ‌likely” and “logical” that raids ‌and ‌racism ⁠against ⁠immigrants influenced the Latino vote in U.S. ‌midterm elections.",
-      "keyPoints": "• Mexican ‌President Claudia Sheinbaum on ⁠Thursday said it was “very ‌likely” and “logical” that raids ‌and ‌racism ⁠against ⁠immigrants influenced the Latino vote in U.S. ‌midterm elections.<br>• Democrats won control of ‌Congress in Tuesday’s elections, making gains ⁠deep in Republican-held ‌districts as voters delivered a rebuke to ‌President Donald Trump and his agenda.- Reuters<br>• Following the drubbing of U.S. President Donald Trump’s Republican Party in the midterm elections, Iranians set fire to a giant poster featuring the American leader and his allies at a rally in Tehran."
     },
     {
       "category": "scitech",
@@ -968,8 +961,76 @@
     "2026-11-06": {
       "dateIso": "2026-11-06",
       "dateDisplay": "06 Nov 2026",
-      "updatedAt": "06 Nov 2026, 02:08 AM IST",
+      "updatedAt": "06 Nov 2026, 03:04 AM IST",
       "articles": [
+        {
+          "category": "national",
+          "categoryLabel": "🏛️ National & Polity",
+          "title": "Maharashtra FDA seizes drugs, cosmetics worth ₹34.51 lakh, cancels 122 licences",
+          "link": "https://www.thehindu.com/news/national/maharashtra/maharashtra-fda-seizes-drugs-cosmetics-worth-3451-lakh-cancels-122-licences/article71671236.ece",
+          "pubDate": "Fri, 06 Nov 2026 02:08:49 +0530",
+          "dateIso": "2026-11-06",
+          "dateDisplay": "06 Nov 2026",
+          "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/t8vr3j/article71671611.ece/alternates/LANDSCAPE_1200/2026-08-24T020008Z_1123646610_RC2A2NA9IYJM_RTRMADP_3_INDIA-FOOD-OFFICER.JPG",
+          "fullParagraphs": [
+            "The Maharashtra Food and Drug Administration (FDA) seized drugs and cosmetics worth ₹34.51 lakh, cancelled 122 licences and suspended 422 others following enforcement action across the State in October 2026, according to a press note issued by the department on Thursday (November 5, 2026).",
+            "The FDA conducted 1,986 inspections of drug manufacturing, sales and other regulated establishments during the month and issued 674 notices. Of these, 1,694 inspections were conducted at drug sales establishments and 292 at manufacturing and other regulated establishments. The department cancelled 105 licences and suspended 367 licences of sales establishments, while 17 licences were cancelled and 55 suspended in the manufacturing and other categories.",
+            "The department also carried out 11 search and seizure operations involving alleged violations related to the manufacture, storage and sale of drugs and cosmetics. Two FIRs were registered, and four persons were arrested under the Narcotic Drugs and Psychotropic Substances (NDPS) Act in connection with the illegal sale of narcotic drugs.",
+            "Among the major seizures, FDA officials recovered allopathic drugs worth ₹22.03 lakh from the premises of Phoenix Medicorp in Nagpur on October 7. According to the department, the establishment had stored drugs at unlicensed premises despite surrendering its licences.",
+            "In Mumbai, FDA officials seized spurious drugs identified as Empirime tablets and Cardiurex 2 ml, worth ₹1.01 lakh, from INHS Asvini in Colaba on October 29, according to the department.",
+            "In separate operations in Chhatrapati Sambhajinagar on October 14 and 25, officials seized 199 Nitrosun 10 tablets containing Nitrazepam. Four persons were arrested in connection with their alleged illegal sale.",
+            "The FDA also seized cosmetic soaps worth ₹4.05 lakh from Vedas Herbals Mahila Gruh Udyog in Baramati, Pune district, on October 14, for alleged manufacturing without a licence. In Vasai East, officials seized raw materials, packaging materials and machinery worth ₹1.83 lakh from G.B. Cosmetics on October 10 in connection with alleged unlicensed manufacture and sale of nail polish.",
+            "The Konkan division recorded the highest number of inspections in October at 556, followed by Pune with 375 and Greater Mumbai with 322. Konkan also accounted for the highest number of regulatory actions at 156, followed by Greater Mumbai with 105 and Pune with 77.",
+            "Between April 1 and October 31, the FDA conducted 7,950 inspections across Maharashtra, issued 2,888 notices, cancelled 555 licences and suspended 2,074 licences. The department recorded 2,629 regulatory actions, comprising licence cancellations and suspensions, during the seven-month period.",
+            "The FDA urged citizens to report instances of illegal drug manufacturing or sales, as well as suspected substandard drugs, medical devices and cosmetics, to its commissioner’s office or the nearest district office."
+          ],
+          "deepExplanation": "<strong>1. Core Context & Background:</strong> The Maharashtra Food and Drug Administration (FDA) seized drugs and cosmetics worth ₹34.51 lakh, cancelled 122 licences and suspended 422 others following enforcement action across the State in October 2026, according to a press note issued by the department on Thursday (November 5, 2026).<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> The FDA conducted 1,986 inspections of drug manufacturing, sales and other regulated establishments during the month and issued 674 notices. Of these, 1,694 inspections were conducted at drug sales establishments and 292 at manufacturing and other regulated establishments.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> The FDA urged citizens to report instances of illegal drug manufacturing or sales, as well as suspected substandard drugs, medical devices and cosmetics, to its commissioner’s office or the nearest district office.",
+          "vocabList": [
+            "Maharashtra",
+            "Administration",
+            "Cosmetics",
+            "Cancelled",
+            "Licences",
+            "Suspended"
+          ],
+          "summary": "The Maharashtra Food and Drug Administration (FDA) seized drugs and cosmetics worth ₹34.51 lakh, cancelled 122 licences and suspended 422 others following enforcement action across the State in October 2026, according to a press note issued by the department on Thursday (November 5, 2026).",
+          "keyPoints": "• The Maharashtra Food and Drug Administration (FDA) seized drugs and cosmetics worth ₹34.51 lakh, cancelled 122 licences and suspended 422 others following enforcement action across the State in October 2026, according to a press note issued by the department on Thursday (November 5, 2026).<br>• The FDA conducted 1,986 inspections of drug manufacturing, sales and other regulated establishments during the month and issued 674 notices. Of these, 1,694 inspections were conducted at drug sales establishments and 292 at manufacturing and other regulated establishments. The department cancelled 105 licences and suspended 367 licences of sales establishments, while 17 licences were cancelled and 55 suspended in the manufacturing and other categories.<br>• The department also carried out 11 search and seizure operations involving alleged violations related to the manufacture, storage and sale of drugs and cosmetics. Two FIRs were registered, and four persons were arrested under the Narcotic Drugs and Psychotropic Substances (NDPS) Act in connection with the illegal sale of narcotic drugs."
+        },
+        {
+          "category": "national",
+          "categoryLabel": "🏛️ National & Polity",
+          "title": "Foreign Secretary Misri sets stage for Nepal PM’s upcoming India visit",
+          "link": "https://www.thehindu.com/news/national/foreign-secretary-misri-sets-stage-for-nepal-pms-upcoming-india-visit/article71671036.ece",
+          "pubDate": "Fri, 06 Nov 2026 02:04:58 +0530",
+          "dateIso": "2026-11-06",
+          "dateDisplay": "06 Nov 2026",
+          "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
+          "imageUrl": "https://th-i.thgim.com/public/news/national/989jam/article71671547.ece/alternates/LANDSCAPE_1200/HWXi2RkboAARUb_.jpg",
+          "fullParagraphs": [
+            "Foreign Secretary Vikram Misri on Thursday (November 5, 2026) met Nepal Prime Minister Balendra Shah in Kathmandu, with discussions focused on “possible outcomes and initiatives” from the expected upcoming visit of the Himalayan nation’s leader to New Delhi.",
+            "Concluding his official engagements in Nepal that spanned Wednesday and Thursday, Mr. Misri also met Nepal Finance Minister Swarnim Wagle and Foreign Minister Sisir Khanal.",
+            "“The Foreign Secretary of India highlighted the wide-ranging engagement and overall progress in diverse areas of bilateral cooperation, and discussed possible outcomes and initiatives in the context of the upcoming visit of the Prime Minister of Nepal to India,” stated a joint press release issued by the Ministry of External Affairs and Kathmandu’s Ministry of Foreign Affairs.",
+            "Mr. Misri held detailed talks with his host, Nepali Foreign Secretary Amrit Bahadur Rai, on the “mutually beneficial partnership” between India and Nepal.",
+            "Mr. Shah had earlier this year highlighted the border dispute with India in the Lipulekh-Kalapai-Limpiyadhura area that is part of India’s Uttarakhand but claimed by Nepal as a sticking point in ties.",
+            "Mr. Shah had sought to involve other countries, such as the United Kingdom and China, in talks on the issue. But India wants the matter to be resolved bilaterally.",
+            "The Nepali leaders expressed “gratitude for India’s swift and substantial humanitarian and technical assistance in the aftermath of the Bhotekoshi floods”, the joint press release stated.",
+            "Mr. Misri’s discussions with Nepali stakeholders included a “commerce and development partnership, hydropower, physical connectivity, border management, energy and people-to-people ties”, as well as new areas like digital connectivity and AI.",
+            "Mr. Misri also met Minister for Energy, Water Resources and Irrigation Biraj Bhakta Shrestha and Minister for Infrastructure Development Sunil Lamsal.",
+            "Mr. Shah was sworn in as Prime Minister in March this year following the Gen-Z uprising in Nepal in September 2025 that led to the ouster of the previous government."
+          ],
+          "deepExplanation": "<strong>1. Core Context & Background:</strong> Foreign Secretary Vikram Misri on Thursday (November 5, 2026) met Nepal Prime Minister Balendra Shah in Kathmandu, with discussions focused on “possible outcomes and initiatives” from the expected upcoming visit of the Himalayan nation’s leader to New Delhi.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Concluding his official engagements in Nepal that spanned Wednesday and Thursday, Mr. Misri also met Nepal Finance Minister Swarnim Wagle and Foreign Minister Sisir Khanal.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Shah was sworn in as Prime Minister in March this year following the Gen-Z uprising in Nepal in September 2025 that led to the ouster of the previous government.",
+          "vocabList": [
+            "Secretary",
+            "Thursday",
+            "November",
+            "Balendra",
+            "Kathmandu",
+            "Discussions"
+          ],
+          "summary": "Foreign Secretary Vikram Misri on Thursday (November 5, 2026) met Nepal Prime Minister Balendra Shah in Kathmandu, with discussions focused on “possible outcomes and initiatives” from the expected upcoming visit of the Himalayan nation’s leader to New Delhi.",
+          "keyPoints": "• Foreign Secretary Vikram Misri on Thursday (November 5, 2026) met Nepal Prime Minister Balendra Shah in Kathmandu, with discussions focused on “possible outcomes and initiatives” from the expected upcoming visit of the Himalayan nation’s leader to New Delhi.<br>• Concluding his official engagements in Nepal that spanned Wednesday and Thursday, Mr. Misri also met Nepal Finance Minister Swarnim Wagle and Foreign Minister Sisir Khanal.<br>• “The Foreign Secretary of India highlighted the wide-ranging engagement and overall progress in diverse areas of bilateral cooperation, and discussed possible outcomes and initiatives in the context of the upcoming visit of the Prime Minister of Nepal to India,” stated a joint press release issued by the Ministry of External Affairs and Kathmandu’s Ministry of Foreign Affairs."
+        },
         {
           "category": "national",
           "categoryLabel": "🏛️ National & Polity",
@@ -1103,66 +1164,6 @@
           ],
           "summary": "Several voters from Kotia gram panchayat, whose jurisdiction has long been disputed between Odisha and Andhra Pradesh, crossed the Odisha border on Thursday to cast their votes in the mandal parishad territorial constituency and zilla parishad territorial constituency elections conducted by the Andhra Pradesh State Election Commission.",
           "keyPoints": "• Several voters from Kotia gram panchayat, whose jurisdiction has long been disputed between Odisha and Andhra Pradesh, crossed the Odisha border on Thursday to cast their votes in the mandal parishad territorial constituency and zilla parishad territorial constituency elections conducted by the Andhra Pradesh State Election Commission.<br>• The Odisha government had deployed 16 platoons of police and erected three border checkpoints, restricting people’s entry and exit. However, several voters sneaked out from the borders to cast votes.<br>• The Andhra Pradesh government had set up a polling booth for villagers of Kotia at Sariki in its State boundary."
-        },
-        {
-          "category": "national",
-          "categoryLabel": "🏛️ National & Polity",
-          "title": "Kochi police yet to complete verification of private bus employees",
-          "link": "https://www.thehindu.com/news/national/kerala/kochi-police-yet-to-complete-verification-of-private-bus-employees/article71666851.ece",
-          "pubDate": "Fri, 06 Nov 2026 01:22:39 +0530",
-          "dateIso": "2026-11-06",
-          "dateDisplay": "06 Nov 2026",
-          "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
-          "imageUrl": "https://th-i.thgim.com/public/incoming/j14kla/article71667202.ece/alternates/LANDSCAPE_1200/80968_11_7_2026_18_49_39_2_7O3A2831.JPEG",
-          "fullParagraphs": [
-            "The Kochi City police’s special drive to conduct background verification of private bus employees and issue them special identity cards is yet to be completed, even two months after the initiative was launched.",
-            "The police, according to sources, are planning to issue the ID cards by next week, though they admitted that a final decision on how to proceed with the drive was yet to be taken. Earlier, the police had planned to complete the process within a few weeks in September and then by the end of October, but the initial plan could not be implemented.",
-            "An officer involved in the process said the verification of over 1,500 employees, including drivers and conductors, had been completed. It is roughly estimated that around 2,000 employees work as bus crew in the city.",
-            "Bus employees were asked to submit their personal details to the police in a pro forma for verification. The police launched the background verification drive in response to a series of incidents involving alleged criminal behaviour by private bus employees in recent times. The Special Branch of the police is conducting the verification based on the applications received by the traffic wing.",
-            "Sources said the police were planning to introduce smart ID cards for the bus crew, though the details of the cards were yet to be finalised. However, the police are yet to decide whether the cards should be issued to all employees who undergo verification, the officer said.",
-            "“We have come across employees who were booked for minor offences, including drunk driving, during the verification. For those who have a criminal background, we will note adverse remarks. Once the verification is completed, it would be up to the bus operator to decide whether a person should be employed or not,” the officer said.",
-            "District Police Chief (Kochi City) R. Nishanthini is yet to review the project, which was initiated by her predecessor, Kaliraj Mahesh Kumar, sources said."
-          ],
-          "deepExplanation": "<strong>1. Core Context & Background:</strong> The Kochi City police’s special drive to conduct background verification of private bus employees and issue them special identity cards is yet to be completed, even two months after the initiative was launched.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> The police, according to sources, are planning to issue the ID cards by next week, though they admitted that a final decision on how to proceed with the drive was yet to be taken. Earlier, the police had planned to complete the process within a few weeks in September and then by the end of October, but the initial plan could not be implemented.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Nishanthini is yet to review the project, which was initiated by her predecessor, Kaliraj Mahesh Kumar, sources said.",
-          "vocabList": [
-            "Background",
-            "Verification",
-            "Employees",
-            "Identity",
-            "Completed",
-            "Initiative"
-          ],
-          "summary": "The Kochi City police’s special drive to conduct background verification of private bus employees and issue them special identity cards is yet to be completed, even two months after the initiative was launched.",
-          "keyPoints": "• The Kochi City police’s special drive to conduct background verification of private bus employees and issue them special identity cards is yet to be completed, even two months after the initiative was launched.<br>• The police, according to sources, are planning to issue the ID cards by next week, though they admitted that a final decision on how to proceed with the drive was yet to be taken. Earlier, the police had planned to complete the process within a few weeks in September and then by the end of October, but the initial plan could not be implemented.<br>• An officer involved in the process said the verification of over 1,500 employees, including drivers and conductors, had been completed. It is roughly estimated that around 2,000 employees work as bus crew in the city."
-        },
-        {
-          "category": "national",
-          "categoryLabel": "🏛️ National & Polity",
-          "title": "Opposition trying to destabilise TVK-led government, says Manickam Tagore",
-          "link": "https://www.thehindu.com/news/national/tamil-nadu/opposition-trying-to-destabilise-tvk-led-government-says-manickam-tagore/article71670045.ece",
-          "pubDate": "Fri, 06 Nov 2026 00:47:12 +0530",
-          "dateIso": "2026-11-06",
-          "dateDisplay": "06 Nov 2026",
-          "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
-          "imageUrl": "https://th-i.thgim.com/public/incoming/hphhbm/article71671587.ece/alternates/LANDSCAPE_1200/DSC_4033.JPG",
-          "fullParagraphs": [
-            "TNCC president Manickam Tagore on Thursday alleged that opposition parties were attempting to destabilise the TVK-led government by approaching its MLAs.",
-            "Supporting Minister C.T.R. Nirmal Kumar’s allegation that the DMK and AIADMK were attempting to poach TVK MLAs with the BJP’s support, he said those who had lost power were trying to disturb the government.",
-            "Speaking to mediapersons, Mr. Tagore said senior leaders of the DMK, AIADMK, and the BJP had repeatedly questioned the stability of the government. “An honest government has been installed, honest Ministers have been appointed, and the Chief Minister has been delivering a clean administration for the past four months,” he said, adding that the Opposition was attempting to create uncertainty and undermine the State’s development.",
-            "On Union Minister of State Jitendra Singh’s allegations about foreign funding for protests in Delhi, Mr. Tagore said he should file a police complaint if he had evidence. “Such baseless claims must stop. As a Minister of State in the Prime Minister’s Office, he should act responsibly. Who is stopping him from going to a police station if he has proof?” he asked.",
-            "He also accused the BJP of spreading misinformation to divert attention from allegations of electoral malpractice."
-          ],
-          "deepExplanation": "<strong>1. Core Context & Background:</strong> TNCC president Manickam Tagore on Thursday alleged that opposition parties were attempting to destabilise the TVK-led government by approaching its MLAs.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Nirmal Kumar’s allegation that the DMK and AIADMK were attempting to poach TVK MLAs with the BJP’s support, he said those who had lost power were trying to disturb the government. Tagore said senior leaders of the DMK, AIADMK, and the BJP had repeatedly questioned the stability of the government.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> He also accused the BJP of spreading misinformation to divert attention from allegations of electoral malpractice.",
-          "vocabList": [
-            "President",
-            "Manickam",
-            "Thursday",
-            "Opposition",
-            "Attempting",
-            "Destabilise"
-          ],
-          "summary": "TNCC president Manickam Tagore on Thursday alleged that opposition parties were attempting to destabilise the TVK-led government by approaching its MLAs.",
-          "keyPoints": "• TNCC president Manickam Tagore on Thursday alleged that opposition parties were attempting to destabilise the TVK-led government by approaching its MLAs.<br>• Supporting Minister C.T.R. Nirmal Kumar’s allegation that the DMK and AIADMK were attempting to poach TVK MLAs with the BJP’s support, he said those who had lost power were trying to disturb the government.<br>• Speaking to mediapersons, Mr. Tagore said senior leaders of the DMK, AIADMK, and the BJP had repeatedly questioned the stability of the government. “An honest government has been installed, honest Ministers have been appointed, and the Chief Minister has been delivering a clean administration for the past four months,” he said, adding that the Opposition was attempting to create uncertainty and undermine the State’s development."
         },
         {
           "category": "economy",
@@ -1352,6 +1353,130 @@
         {
           "category": "ir",
           "categoryLabel": "🌐 International Relations",
+          "title": "India-born Nithya Raman beats Democratic incumbent to become LA mayor",
+          "link": "https://www.thehindu.com/news/international/india-born-nithya-raman-beats-democratic-incumbent-to-become-la-mayor/article71671618.ece",
+          "pubDate": "Fri, 06 Nov 2026 03:01:01 +0530",
+          "dateIso": "2026-11-06",
+          "dateDisplay": "06 Nov 2026",
+          "examRelevance": "GS Paper-II & Current Affairs: Bilateral Agreements, Foreign Visits & UN/G20/BRICS",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/lybrgf/article71671620.ece/alternates/LANDSCAPE_1200/Election_2_26_Los_Angeles_Mayor_28767.jpg",
+          "fullParagraphs": [
+            "Democratic socialist Nithya Raman ousted incumbent Democrat Karen Bass to become the next mayor of Los Angeles, ending a heated race that saw the one-time allies spar over frustration with the status quo.",
+            "Ms. Bass called Raman on Thursday (November 5, 2026) to concede, after the latest numbers showed Raman with 52% of the vote against the outgoing mayor’s 48%, with three-quarters of votes counted.",
+            "“I’m deeply honored to be your next mayor,” said India-born Nithya Raman, 45, in a statement on social media.",
+            "“I love this city. I believe in its people. The work ahead will be hard, and change will take time. And together, we are going to build a future as extraordinary as the city we call home.”",
+            "Ms. Raman campaigned in the nation’s second-largest city on a platform of “pothole politics” — dubbing broken streetlights and jagged sidewalks as failures of her predecessor’s leadership — while harnessing the anger of younger voters over affordability.",
+            "Her victory is yet another in the win column for candidates backed by the Democratic Socialists of America, who have propelled a cadre of left-wing leaders into office in cities across the country as well as Congress.",
+            "Ms. Raman, who was the first DSA-affiliated Los Angeles City Council member, will now helm the entertainment capital as it prepares to host the 2028 Olympics.",
+            "Ms. Bass, 73, was elected in 2022 as the first Black woman mayor in Los Angeles history and entered the role with decades of state and federal government experience.",
+            "But her term was riddled with setbacks. She was haunted by her handling of deadly wildfires in 2025, which erupted while she was traveling for the Biden administration.",
+            "“While this is not the outcome we hoped for, the people of Los Angeles have spoken,” Ms. Bass said in a statement.",
+            "“I have called Councilmember Nithya Raman to congratulate her on her victory, and I have committed to ensuring a smooth and seamless transition. Moving this city forward is what Los Angeles needs from all of us.”",
+            "Ms. Raman was an 11th-hour entrant into the race, and had even initially backed Bass’s re-election bid."
+          ],
+          "deepExplanation": "<strong>1. Core Context & Background:</strong> Democratic socialist Nithya Raman ousted incumbent Democrat Karen Bass to become the next mayor of Los Angeles, ending a heated race that saw the one-time allies spar over frustration with the status quo.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Bass called Raman on Thursday (November 5, 2026) to concede, after the latest numbers showed Raman with 52% of the vote against the outgoing mayor’s 48%, with three-quarters of votes counted. “I’m deeply honored to be your next mayor,” said India-born Nithya Raman, 45, in a statement on social media.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Raman was an 11th-hour entrant into the race, and had even initially backed Bass’s re-election bid.",
+          "vocabList": [
+            "Democratic",
+            "Socialist",
+            "Incumbent",
+            "Democrat",
+            "Frustration",
+            "Thursday"
+          ],
+          "summary": "Democratic socialist Nithya Raman ousted incumbent Democrat Karen Bass to become the next mayor of Los Angeles, ending a heated race that saw the one-time allies spar over frustration with the status quo.",
+          "keyPoints": "• Democratic socialist Nithya Raman ousted incumbent Democrat Karen Bass to become the next mayor of Los Angeles, ending a heated race that saw the one-time allies spar over frustration with the status quo.<br>• Ms. Bass called Raman on Thursday (November 5, 2026) to concede, after the latest numbers showed Raman with 52% of the vote against the outgoing mayor’s 48%, with three-quarters of votes counted.<br>• “I’m deeply honored to be your next mayor,” said India-born Nithya Raman, 45, in a statement on social media."
+        },
+        {
+          "category": "ir",
+          "categoryLabel": "🌐 International Relations",
+          "title": "Foreign Secretary Misri sets stage for Nepal PM’s upcoming India visit",
+          "link": "https://www.thehindu.com/news/national/foreign-secretary-misri-sets-stage-for-nepal-pms-upcoming-india-visit/article71671036.ece",
+          "pubDate": "Fri, 06 Nov 2026 02:04:58 +0530",
+          "dateIso": "2026-11-06",
+          "dateDisplay": "06 Nov 2026",
+          "examRelevance": "GS Paper-II & Current Affairs: Bilateral Agreements, Foreign Visits & UN/G20/BRICS",
+          "imageUrl": "https://th-i.thgim.com/public/news/national/989jam/article71671547.ece/alternates/LANDSCAPE_1200/HWXi2RkboAARUb_.jpg",
+          "fullParagraphs": [
+            "Foreign Secretary Vikram Misri on Thursday (November 5, 2026) met Nepal Prime Minister Balendra Shah in Kathmandu, with discussions focused on “possible outcomes and initiatives” from the expected upcoming visit of the Himalayan nation’s leader to New Delhi.",
+            "Concluding his official engagements in Nepal that spanned Wednesday and Thursday, Mr. Misri also met Nepal Finance Minister Swarnim Wagle and Foreign Minister Sisir Khanal.",
+            "“The Foreign Secretary of India highlighted the wide-ranging engagement and overall progress in diverse areas of bilateral cooperation, and discussed possible outcomes and initiatives in the context of the upcoming visit of the Prime Minister of Nepal to India,” stated a joint press release issued by the Ministry of External Affairs and Kathmandu’s Ministry of Foreign Affairs.",
+            "Mr. Misri held detailed talks with his host, Nepali Foreign Secretary Amrit Bahadur Rai, on the “mutually beneficial partnership” between India and Nepal.",
+            "Mr. Shah had earlier this year highlighted the border dispute with India in the Lipulekh-Kalapai-Limpiyadhura area that is part of India’s Uttarakhand but claimed by Nepal as a sticking point in ties.",
+            "Mr. Shah had sought to involve other countries, such as the United Kingdom and China, in talks on the issue. But India wants the matter to be resolved bilaterally.",
+            "The Nepali leaders expressed “gratitude for India’s swift and substantial humanitarian and technical assistance in the aftermath of the Bhotekoshi floods”, the joint press release stated.",
+            "Mr. Misri’s discussions with Nepali stakeholders included a “commerce and development partnership, hydropower, physical connectivity, border management, energy and people-to-people ties”, as well as new areas like digital connectivity and AI.",
+            "Mr. Misri also met Minister for Energy, Water Resources and Irrigation Biraj Bhakta Shrestha and Minister for Infrastructure Development Sunil Lamsal.",
+            "Mr. Shah was sworn in as Prime Minister in March this year following the Gen-Z uprising in Nepal in September 2025 that led to the ouster of the previous government."
+          ],
+          "deepExplanation": "<strong>1. Core Context & Background:</strong> Foreign Secretary Vikram Misri on Thursday (November 5, 2026) met Nepal Prime Minister Balendra Shah in Kathmandu, with discussions focused on “possible outcomes and initiatives” from the expected upcoming visit of the Himalayan nation’s leader to New Delhi.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Concluding his official engagements in Nepal that spanned Wednesday and Thursday, Mr. Misri also met Nepal Finance Minister Swarnim Wagle and Foreign Minister Sisir Khanal.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Shah was sworn in as Prime Minister in March this year following the Gen-Z uprising in Nepal in September 2025 that led to the ouster of the previous government.",
+          "vocabList": [
+            "Secretary",
+            "Thursday",
+            "November",
+            "Balendra",
+            "Kathmandu",
+            "Discussions"
+          ],
+          "summary": "Foreign Secretary Vikram Misri on Thursday (November 5, 2026) met Nepal Prime Minister Balendra Shah in Kathmandu, with discussions focused on “possible outcomes and initiatives” from the expected upcoming visit of the Himalayan nation’s leader to New Delhi.",
+          "keyPoints": "• Foreign Secretary Vikram Misri on Thursday (November 5, 2026) met Nepal Prime Minister Balendra Shah in Kathmandu, with discussions focused on “possible outcomes and initiatives” from the expected upcoming visit of the Himalayan nation’s leader to New Delhi.<br>• Concluding his official engagements in Nepal that spanned Wednesday and Thursday, Mr. Misri also met Nepal Finance Minister Swarnim Wagle and Foreign Minister Sisir Khanal.<br>• “The Foreign Secretary of India highlighted the wide-ranging engagement and overall progress in diverse areas of bilateral cooperation, and discussed possible outcomes and initiatives in the context of the upcoming visit of the Prime Minister of Nepal to India,” stated a joint press release issued by the Ministry of External Affairs and Kathmandu’s Ministry of Foreign Affairs."
+        },
+        {
+          "category": "ir",
+          "categoryLabel": "🌐 International Relations",
+          "title": "The ecological fallout of Israel’s war in Gaza",
+          "link": "https://www.thehindu.com/opinion/op-ed/the-ecological-fallout-of-israels-war-in-gaza/article71670933.ece",
+          "pubDate": "Fri, 06 Nov 2026 01:56:44 +0530",
+          "dateIso": "2026-11-06",
+          "dateDisplay": "06 Nov 2026",
+          "examRelevance": "GS Paper-II & Current Affairs: Bilateral Agreements, Foreign Visits & UN/G20/BRICS",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/knjxlu/article71670949.ece/alternates/LANDSCAPE_1200/AFP_D3VN4BZ.jpg",
+          "fullParagraphs": [
+            "On November 5, 2001, the United Nations General Assembly (UNGA) designated November 6 each year as the International Day for Preventing the Exploitation of the Environment in War and Armed Conflict . This recognition underscores the far-reaching impacts of environmental damage caused by armed conflict, including degradation of ecosystems and resource depletion well after the conflict period. This impact often extends beyond the limits of national territories and affects future generations.",
+            "Considering the importance of the issue, the International Law Commission (ILC), in its report titled ‘Protection of the Environment in Relation to Armed Conflicts’ (PERAC), adopted 27 draft principles in 2022, which were formally noted by the UNGA on December 7, 2022. The overarching purpose of these principles is to enhance the protection of the environment in relation to armed conflicts. The first principle of the PERAC provides that the principles apply to the protection of the environment before, during and after an armed conflict, including in situations of occupation. In this context, Israel’s responsibility for internationally wrongful acts causing environmental harm arises not only from its ongoing genocide in Gaza but also from its continuing role as an occupying power.",
+            "United Nations / war / armed conflict / environmental issues / law / Israel-Palestine Conflict / water / famine / agriculture / flood / groundwater / international court or tribunal / natural resources"
+          ],
+          "deepExplanation": "<strong>1. Core Context & Background:</strong> On November 5, 2001, the United Nations General Assembly (UNGA) designated November 6 each year as the International Day for Preventing the Exploitation of the Environment in War and Armed Conflict .<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> This recognition underscores the far-reaching impacts of environmental damage caused by armed conflict, including degradation of ecosystems and resource depletion well after the conflict period. This impact often extends beyond the limits of national territories and affects future generations.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> United Nations / war / armed conflict / environmental issues / law / Israel-Palestine Conflict / water / famine / agriculture / flood / groundwater / international court or tribunal / natural resources",
+          "vocabList": [
+            "November",
+            "Assembly",
+            "Designated",
+            "Preventing",
+            "Exploitation",
+            "Environment"
+          ],
+          "summary": "On November 5, 2001, the United Nations General Assembly (UNGA) designated November 6 each year as the International Day for Preventing the Exploitation of the Environment in War and Armed Conflict . This recognition underscores the far-reaching impacts of environmental damage caused by armed conflict, including degradation of ecosystems and resource depletion well after the conflict period. This impact often extends beyond the limits of national territories and affects future generations.",
+          "keyPoints": "• On November 5, 2001, the United Nations General Assembly (UNGA) designated November 6 each year as the International Day for Preventing the Exploitation of the Environment in War and Armed Conflict . This recognition underscores the far-reaching impacts of environmental damage caused by armed conflict, including degradation of ecosystems and resource depletion well after the conflict period. This impact often extends beyond the limits of national territories and affects future generations.<br>• Considering the importance of the issue, the International Law Commission (ILC), in its report titled ‘Protection of the Environment in Relation to Armed Conflicts’ (PERAC), adopted 27 draft principles in 2022, which were formally noted by the UNGA on December 7, 2022. The overarching purpose of these principles is to enhance the protection of the environment in relation to armed conflicts. The first principle of the PERAC provides that the principles apply to the protection of the environment before, during and after an armed conflict, including in situations of occupation. In this context, Israel’s responsibility for internationally wrongful acts causing environmental harm arises not only from its ongoing genocide in Gaza but also from its continuing role as an occupying power.<br>• United Nations / war / armed conflict / environmental issues / law / Israel-Palestine Conflict / water / famine / agriculture / flood / groundwater / international court or tribunal / natural resources"
+        },
+        {
+          "category": "ir",
+          "categoryLabel": "🌐 International Relations",
+          "title": "Trump debacle: On the U.S. midterm election results",
+          "link": "https://www.thehindu.com/opinion/editorial/trump-debacle-on-the-us-midterm-election-results/article71670096.ece",
+          "pubDate": "Fri, 06 Nov 2026 01:45:12 +0530",
+          "dateIso": "2026-11-06",
+          "dateDisplay": "06 Nov 2026",
+          "examRelevance": "GS Paper-II & Current Affairs: Bilateral Agreements, Foreign Visits & UN/G20/BRICS",
+          "imageUrl": "https://www.thehindu.com/static/content/images/20260921062859/editorialLeadImg.jpg",
+          "fullParagraphs": [
+            "President Donald Trump faced the worst political setback of his current term in office after the Republican Party lost control of both the Senate and the House of Representatives in the mid-term election. Democrats not only won resoundingly in their traditional stronghold States, such as Colorado, Oregon and Illinois, and held onto important swing States, such as Georgia, Michigan and Virginia, but they also made historic inroads into “red states” such as Texas, Kansas and Iowa. While Mr. Trump fumed that Republicans would have performed better had his name been on the ballot, he also appeared to be resigned to the imminent reality of working with Democratic lawmakers over the remaining two years of his administration. Beyond the immediate impact on the future functioning of the federal government, this week’s “bluenami” has also brought sweeping changes at the State level: Democrats won a Senate seat in Texas for the first time in 37 years; Democrat Abdul El-Sayed won in Michigan , making him the first Muslim Senator in history ; Chris Pappas of New Hampshire became the first openly gay man to be elected to the Senate ; and Senate Minority Leader Hakeem Jeffries will soon be the first African-American Speaker of the House.",
+            "It is ironic that Mr. Trump alluded to his name not being on the ballot as the cause for the Republican collapse because, for many voters, the midterm election was indeed a referendum on the second Trump administration’s performance in office. The result has been an unambiguous thumbs-down from voters so far as top policy areas of the Trump administration are concerned, including cost of living and jobs, immigration enforcement, the war in Iran. The writing was on the wall, as were the approval ratings, especially in the case of oil prices and the Iran war, given that the price of gas in the U.S. has soared since the conflict around the Strait of Hormuz escalated. Similarly, the widespread raids by ICE and accelerated deportation processes for undocumented migrants led to protests across States and galvanised progressives around immigration reform. While Democrats may be justified in celebrating their victory after two years of harsh Trumpism, they would do well to remember that the President still retains a veto vote for policies passed by Congress. The temptation to launch a series of investigations and interrogate the functioning of the Trump White House may be strong, yet congressional Democrats may wish to avoid any posturing that yields no palpable policy impact, including kicking off impeachment proceedings against Mr. Trump. A more productive way forward for Democratic lawmakers would be to engage with the White House and, through negotiation and compromise, mitigate the real impact of deleterious policies in critical areas such as health-care insurance and tariffs.",
+            "USA / politics / election / political parties / government / oil and gas - upstream activities / Israel-US strikes on Iran / migration / health insurance / taxes and duties / Donald Trump"
+          ],
+          "deepExplanation": "<strong>1. Core Context & Background:</strong> President Donald Trump faced the worst political setback of his current term in office after the Republican Party lost control of both the Senate and the House of Representatives in the mid-term election.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Democrats not only won resoundingly in their traditional stronghold States, such as Colorado, Oregon and Illinois, and held onto important swing States, such as Georgia, Michigan and Virginia, but they also made historic inroads into “red states” such as Texas, Kansas and Iowa. Trump fumed that Republicans would have performed better had his name been on the ballot, he also appeared to be resigned to the imminent reality of working with Democratic lawmakers over the remaining two years of his administration.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> USA / politics / election / political parties / government / oil and gas - upstream activities / Israel-US strikes on Iran / migration / health insurance / taxes and duties / Donald Trump",
+          "vocabList": [
+            "President",
+            "Political",
+            "Republican",
+            "Representatives",
+            "Election",
+            "Democrats"
+          ],
+          "summary": "President Donald Trump faced the worst political setback of his current term in office after the Republican Party lost control of both the Senate and the House of Representatives in the mid-term election. Democrats not only won resoundingly in their traditional stronghold States, such as Colorado, Oregon and Illinois, and held onto important swing States, such as Georgia, Michigan and Virginia, but they also made historic inroads into “red states” such as Texas, Kansas and Iowa. While Mr. Trump fumed that Republicans would have performed better had his name been on the ballot, he also appeared to be resigned to the imminent reality of working with Democratic lawmakers over the remaining two years of his administration. Beyond the immediate impact on the future functioning of the federal government, this week’s “bluenami” has also brought sweeping changes at the State level: Democrats won a Senate seat in Texas for the first time in 37 years; Democrat Abdul El-Sayed won in Michigan , making him the first Muslim Senator in history ; Chris Pappas of New Hampshire became the first openly gay man to be elected to the Senate ; and Senate Minority Leader Hakeem Jeffries will soon be the first African-American Speaker of the House.",
+          "keyPoints": "• President Donald Trump faced the worst political setback of his current term in office after the Republican Party lost control of both the Senate and the House of Representatives in the mid-term election. Democrats not only won resoundingly in their traditional stronghold States, such as Colorado, Oregon and Illinois, and held onto important swing States, such as Georgia, Michigan and Virginia, but they also made historic inroads into “red states” such as Texas, Kansas and Iowa. While Mr. Trump fumed that Republicans would have performed better had his name been on the ballot, he also appeared to be resigned to the imminent reality of working with Democratic lawmakers over the remaining two years of his administration. Beyond the immediate impact on the future functioning of the federal government, this week’s “bluenami” has also brought sweeping changes at the State level: Democrats won a Senate seat in Texas for the first time in 37 years; Democrat Abdul El-Sayed won in Michigan , making him the first Muslim Senator in history ; Chris Pappas of New Hampshire became the first openly gay man to be elected to the Senate ; and Senate Minority Leader Hakeem Jeffries will soon be the first African-American Speaker of the House.<br>• It is ironic that Mr. Trump alluded to his name not being on the ballot as the cause for the Republican collapse because, for many voters, the midterm election was indeed a referendum on the second Trump administration’s performance in office. The result has been an unambiguous thumbs-down from voters so far as top policy areas of the Trump administration are concerned, including cost of living and jobs, immigration enforcement, the war in Iran. The writing was on the wall, as were the approval ratings, especially in the case of oil prices and the Iran war, given that the price of gas in the U.S. has soared since the conflict around the Strait of Hormuz escalated. Similarly, the widespread raids by ICE and accelerated deportation processes for undocumented migrants led to protests across States and galvanised progressives around immigration reform. While Democrats may be justified in celebrating their victory after two years of harsh Trumpism, they would do well to remember that the President still retains a veto vote for policies passed by Congress. The temptation to launch a series of investigations and interrogate the functioning of the Trump White House may be strong, yet congressional Democrats may wish to avoid any posturing that yields no palpable policy impact, including kicking off impeachment proceedings against Mr. Trump. A more productive way forward for Democratic lawmakers would be to engage with the White House and, through negotiation and compromise, mitigate the real impact of deleterious policies in critical areas such as health-care insurance and tariffs.<br>• USA / politics / election / political parties / government / oil and gas - upstream activities / Israel-US strikes on Iran / migration / health insurance / taxes and duties / Donald Trump"
+        },
+        {
+          "category": "ir",
+          "categoryLabel": "🌐 International Relations",
           "title": "Melania Trump calls for ‘enduring’ Ukraine truce as rivals meet at White House",
           "link": "https://www.thehindu.com/news/international/melania-trump-calls-for-enduring-ukraine-truce-as-rivals-meet-at-white-house/article71671601.ece",
           "pubDate": "Fri, 06 Nov 2026 01:21:25 +0530",
@@ -1420,145 +1545,6 @@
           ],
           "summary": "A Nigerian court on Thursday (November 5, 2026) declared invalid the nomination of Atiku Abubakar as the presidential candidate for the opposition African Democratic Congress (ADC), just two months before the country’s elections.",
           "keyPoints": "• A Nigerian court on Thursday (November 5, 2026) declared invalid the nomination of Atiku Abubakar as the presidential candidate for the opposition African Democratic Congress (ADC), just two months before the country’s elections.<br>• The party, which accused the ruling All Progressives Congress (APC) of involvement in the lawsuit, will appeal, its spokesman said — but the ruling creates legal headaches for Abubakar and uncertainty for voters with the January 16 vote around the corner.<br>• The ADC, one of the main opposition parties trying to oust President Bola Tinubu, has been mired in lawsuits around its leadership, which have now ensnared its 2027 nominee."
-        },
-        {
-          "category": "ir",
-          "categoryLabel": "🌐 International Relations",
-          "title": "Eight dead in mass shooting in rural west Turkiye: officials",
-          "link": "https://www.thehindu.com/news/international/people-dead-in-mass-shooting-in-rural-west-turkiye-officials/article71671567.ece",
-          "pubDate": "Fri, 06 Nov 2026 00:30:38 +0530",
-          "dateIso": "2026-11-06",
-          "dateDisplay": "06 Nov 2026",
-          "examRelevance": "GS Paper-II & Current Affairs: Bilateral Agreements, Foreign Visits & UN/G20/BRICS",
-          "imageUrl": "https://th-i.thgim.com/public/news/national/bms94r/article71671568.ece/alternates/LANDSCAPE_1200/AFP__20261105__D6KH4ZQ__v1__HighRes__TurkeyCrimeShooting.jpg",
-          "fullParagraphs": [
-            "Eight people were shot dead in three villages in west-central Turkiye on Thursday (November 5, 2026), local officials said, as police pressed a major manhunt to find the gunman.",
-            "“Unfortunately, eight of our citizens have lost their lives, and one has been seriously injured in armed attacks in our province,” the Afyonkarahisar governor’s office said.",
-            "The shooting struck in a rural area near Afyonkarahisar, a town halfway between the capital Ankara and the coastal city of Izmir.",
-            "Two women with gunshot wounds were found on a road in Yukaritandir village, and despite being rushed to the hospital, both died, Anadolu state news agency said.",
-            "Three more bodies were found in Kiyir village, which lies a half-hour drive to the northeast, and another three in Ayazini village, a further half-hour drive east, it said.",
-            "Another person found in critical condition was fighting for their life in hospital, it said, without saying where they had been injured.",
-            "Grainy CCTV footage published by Turkish media showed a man in a black jacket, white trousers and glasses clutching a rifle as he stood by a faded red minivan.",
-            "Police later found the red vehicle stuck in the mud on the outskirts of the university town of Eskisehir, which lies about 100 kilometres (60 miles) to the north, the suspect having fled on foot, the private NTV channel said.",
-            "DHA news agency said investigators were looking to see if there was any connection with an earlier incident in the centre of Afyonkarahisar in which a woman in a car was shot and seriously injured by a gunman."
-          ],
-          "deepExplanation": "<strong>1. Core Context & Background:</strong> Eight people were shot dead in three villages in west-central Turkiye on Thursday (November 5, 2026), local officials said, as police pressed a major manhunt to find the gunman.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> “Unfortunately, eight of our citizens have lost their lives, and one has been seriously injured in armed attacks in our province,” the Afyonkarahisar governor’s office said. The shooting struck in a rural area near Afyonkarahisar, a town halfway between the capital Ankara and the coastal city of Izmir.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> DHA news agency said investigators were looking to see if there was any connection with an earlier incident in the centre of Afyonkarahisar in which a woman in a car was shot and seriously injured by a gunman.",
-          "vocabList": [
-            "Villages",
-            "Thursday",
-            "November",
-            "Officials",
-            "Unfortunately",
-            "Citizens"
-          ],
-          "summary": "Eight people were shot dead in three villages in west-central Turkiye on Thursday (November 5, 2026), local officials said, as police pressed a major manhunt to find the gunman.",
-          "keyPoints": "• Eight people were shot dead in three villages in west-central Turkiye on Thursday (November 5, 2026), local officials said, as police pressed a major manhunt to find the gunman.<br>• “Unfortunately, eight of our citizens have lost their lives, and one has been seriously injured in armed attacks in our province,” the Afyonkarahisar governor’s office said.<br>• The shooting struck in a rural area near Afyonkarahisar, a town halfway between the capital Ankara and the coastal city of Izmir."
-        },
-        {
-          "category": "ir",
-          "categoryLabel": "🌐 International Relations",
-          "title": "Hasina says she will return from exile in December ‘at any cost’",
-          "link": "https://www.thehindu.com/news/international/hasina-says-she-will-return-from-exile-in-december-at-any-cost/article71671189.ece",
-          "pubDate": "Thu, 05 Nov 2026 23:55:50 +0530",
-          "dateIso": "2026-11-06",
-          "dateDisplay": "06 Nov 2026",
-          "examRelevance": "GS Paper-II & Current Affairs: Bilateral Agreements, Foreign Visits & UN/G20/BRICS",
-          "imageUrl": "https://th-i.thgim.com/public/incoming/349136/article71671222.ece/alternates/LANDSCAPE_1200/Bangladesh_Sheikh_Hasina_425_7.jpg",
-          "fullParagraphs": [
-            "Former Prime Minister Sheikh Hasina, ousted in a mass uprising in 2024, has told The Associated Press that she remains committed to returning to Bangladesh from exile in India next month, despite being sentenced to death over her government's deadly crackdown on protesters.",
-            "Ms. Hasina fled to India after student-led protests forced her from power and has remained there ever since.",
-            "In 2025, a Bangladeshi special tribunal sentenced her to death for crimes against humanity, ruling that she was responsible for ordering the crackdown, which left hundreds of people dead and thousands of others injured.",
-            "The United Nations has said in a report that nearly 1,400 people were killed. Ms. Hasina denies any wrongdoing. She has also rejected the tribunal's verdict and challenged the legitimacy of the trial.",
-            "Bangladesh has repeatedly sought Ms. Hasina's extradition, but India has declined to hand her over. She had first announced in August her intention to return in December.",
-            "“If death is my destiny, I would rather die on the soil of my own country, among my own people,” she told The Associated Press in response to questions by email. “So, I will return to Bangladesh. That decision has not changed.”",
-            "Questions were submitted to her last week and she responded on Wednesday (November 4, 2026).",
-            "Ms. Hasina, who was Prime Minister from 2009-2024, didn't disclose how she plans to return from India. She could face arrest upon arrival in Bangladesh.",
-            "“I know that I may be arrested when I return. I may be imprisoned, tortured or even killed. I am fully aware of those possibilities. But I cannot spend the rest of my life watching my people suffer from a distance,” she told the AP .",
-            "Following Ms. Hasina's ouster, Nobel Peace Prize laureate Muhammad Yunus took charge of an interim administration, leading the country for the next 18 months.",
-            "In February, Tarique Rahman, son of former Prime Minister Khaleda Zia and a longtime political rival of Ms. Hasina, swept to power in a landslide election held under Mr. Yunus' administration. Ms. Hasina's Awami League party was barred from contesting the vote.",
-            "Ms. Hasina's planned return comes as her party faces an uncertain future amid a sweeping crackdown. The party remains banned, with senior leaders arrested or driven into exile."
-          ],
-          "deepExplanation": "<strong>1. Core Context & Background:</strong> Former Prime Minister Sheikh Hasina, ousted in a mass uprising in 2024, has told The Associated Press that she remains committed to returning to Bangladesh from exile in India next month, despite being sentenced to death over her government's deadly crackdown on protesters.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Hasina fled to India after student-led protests forced her from power and has remained there ever since. In 2025, a Bangladeshi special tribunal sentenced her to death for crimes against humanity, ruling that she was responsible for ordering the crackdown, which left hundreds of people dead and thousands of others injured.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> The party remains banned, with senior leaders arrested or driven into exile.",
-          "vocabList": [
-            "Uprising",
-            "Associated",
-            "Committed",
-            "Returning",
-            "Bangladesh",
-            "Sentenced"
-          ],
-          "summary": "Former Prime Minister Sheikh Hasina, ousted in a mass uprising in 2024, has told The Associated Press that she remains committed to returning to Bangladesh from exile in India next month, despite being sentenced to death over her government's deadly crackdown on protesters.",
-          "keyPoints": "• Former Prime Minister Sheikh Hasina, ousted in a mass uprising in 2024, has told The Associated Press that she remains committed to returning to Bangladesh from exile in India next month, despite being sentenced to death over her government's deadly crackdown on protesters.<br>• Ms. Hasina fled to India after student-led protests forced her from power and has remained there ever since.<br>• In 2025, a Bangladeshi special tribunal sentenced her to death for crimes against humanity, ruling that she was responsible for ordering the crackdown, which left hundreds of people dead and thousands of others injured."
-        },
-        {
-          "category": "ir",
-          "categoryLabel": "🌐 International Relations",
-          "title": "Foreign Secretary Misri sets stage for Nepal PM’s upcoming India visit",
-          "link": "https://www.thehindu.com/news/national/foreign-secretary-misri-sets-stage-for-nepal-pms-upcoming-india-visit/article71671036.ece",
-          "pubDate": "Thu, 05 Nov 2026 23:50:21 +0530",
-          "dateIso": "2026-11-06",
-          "dateDisplay": "06 Nov 2026",
-          "examRelevance": "GS Paper-II & Current Affairs: Bilateral Agreements, Foreign Visits & UN/G20/BRICS",
-          "imageUrl": "https://th-i.thgim.com/public/news/national/989jam/article71671547.ece/alternates/LANDSCAPE_1200/HWXi2RkboAARUb_.jpg",
-          "fullParagraphs": [
-            "Foreign Secretary Vikram Misri on Thursday (November 5, 2026) met Nepal Prime Minister Balendra Shah in Kathmandu, with discussions focused on “possible outcomes and initiatives” from the expected upcoming visit of the Himalayan nation’s leader to New Delhi.",
-            "Concluding his official engagements in Nepal that spanned Wednesday and Thursday, Mr. Misri also met Nepal Finance Minister Swarnim Wagle and Foreign Minister Sisir Khanal.",
-            "“The Foreign Secretary of India highlighted the wide-ranging engagement and overall progress in diverse areas of bilateral cooperation, and discussed possible outcomes and initiatives in the context of the upcoming visit of the Prime Minister of Nepal to India,” stated a joint press release issued by the Ministry of External Affairs and Kathmandu’s Ministry of Foreign Affairs.",
-            "Mr. Misri held detailed talks with his host, Nepali Foreign Secretary Amrit Bahadur Rai, on the “mutually beneficial partnership” between India and Nepal.",
-            "Mr. Shah had earlier this year highlighted the border dispute with India in the Lipulekh-Kalapai-Limpiyadhura area that is part of India’s Uttarakhand but claimed by Nepal as a sticking point in ties.",
-            "Mr. Shah had sought to involve other countries, such as the United Kingdom and China, in talks on the issue. But India wants the matter to be resolved bilaterally.",
-            "The Nepali leaders expressed “gratitude for India’s swift and substantial humanitarian and technical assistance in the aftermath of the Bhotekoshi floods”, the joint press release stated.",
-            "Mr. Misri’s discussions with Nepali stakeholders included a “commerce and development partnership, hydropower, physical connectivity, border management, energy and people-to-people ties”, as well as new areas like digital connectivity and AI.",
-            "Mr. Misri also met Minister for Energy, Water Resources and Irrigation Biraj Bhakta Shrestha and Minister for Infrastructure Development Sunil Lamsal.",
-            "Mr. Shah was sworn in as Prime Minister in March this year following the Gen-Z uprising in Nepal in September 2025 that led to the ouster of the previous government."
-          ],
-          "deepExplanation": "<strong>1. Core Context & Background:</strong> Foreign Secretary Vikram Misri on Thursday (November 5, 2026) met Nepal Prime Minister Balendra Shah in Kathmandu, with discussions focused on “possible outcomes and initiatives” from the expected upcoming visit of the Himalayan nation’s leader to New Delhi.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Concluding his official engagements in Nepal that spanned Wednesday and Thursday, Mr. Misri also met Nepal Finance Minister Swarnim Wagle and Foreign Minister Sisir Khanal.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Shah was sworn in as Prime Minister in March this year following the Gen-Z uprising in Nepal in September 2025 that led to the ouster of the previous government.",
-          "vocabList": [
-            "Secretary",
-            "Thursday",
-            "November",
-            "Balendra",
-            "Kathmandu",
-            "Discussions"
-          ],
-          "summary": "Foreign Secretary Vikram Misri on Thursday (November 5, 2026) met Nepal Prime Minister Balendra Shah in Kathmandu, with discussions focused on “possible outcomes and initiatives” from the expected upcoming visit of the Himalayan nation’s leader to New Delhi.",
-          "keyPoints": "• Foreign Secretary Vikram Misri on Thursday (November 5, 2026) met Nepal Prime Minister Balendra Shah in Kathmandu, with discussions focused on “possible outcomes and initiatives” from the expected upcoming visit of the Himalayan nation’s leader to New Delhi.<br>• Concluding his official engagements in Nepal that spanned Wednesday and Thursday, Mr. Misri also met Nepal Finance Minister Swarnim Wagle and Foreign Minister Sisir Khanal.<br>• “The Foreign Secretary of India highlighted the wide-ranging engagement and overall progress in diverse areas of bilateral cooperation, and discussed possible outcomes and initiatives in the context of the upcoming visit of the Prime Minister of Nepal to India,” stated a joint press release issued by the Ministry of External Affairs and Kathmandu’s Ministry of Foreign Affairs."
-        },
-        {
-          "category": "ir",
-          "categoryLabel": "🌐 International Relations",
-          "title": "U.S. midterm elections 2026 updates: Democrats vow to rein in Trump as he shows off White House ballroom",
-          "link": "https://www.thehindu.com/news/international/us-midterm-elections-2026-results-trump-senate-congress-races-winners-losers-live-updates-republicans-democrats/article71668404.ece",
-          "pubDate": "Thu, 05 Nov 2026 23:20:46 +0530",
-          "dateIso": "2026-11-06",
-          "dateDisplay": "06 Nov 2026",
-          "examRelevance": "GS Paper-II & Current Affairs: Bilateral Agreements, Foreign Visits & UN/G20/BRICS",
-          "imageUrl": "https://th-i.thgim.com/public/incoming/t0lc4p/article71668759.ece/alternates/LANDSCAPE_1200/AP10_29_2026_000007B.jpg",
-          "fullParagraphs": [
-            "Mexican ‌President Claudia Sheinbaum on ⁠Thursday said it was “very ‌likely” and “logical” that raids ‌and ‌racism ⁠against ⁠immigrants influenced the Latino vote in U.S. ‌midterm elections.",
-            "Democrats won control of ‌Congress in Tuesday’s elections, making gains ⁠deep in Republican-held ‌districts as voters delivered a rebuke to ‌President Donald Trump and his agenda.- Reuters",
-            "Following the drubbing of U.S. President Donald Trump’s Republican Party in the midterm elections, Iranians set fire to a giant poster featuring the American leader and his allies at a rally in Tehran.",
-            "The cheering audience waved red flags to demand revenge for Khamenei’s death.",
-            "“We will kill Trump,” read the slogan on some of the flags waved by the crowd as a song named “We Must Rise” mourning Khamenei blared from nearby speakers.",
-            "As Washington navigates the fallout from a sweeping Republican electoral defeat, Iran’s chief negotiator in talks with the U.S., Parliament Speaker Mohammad Bagher Ghalibaf, has launched a blistering critique of American leadership, accusing officials of bringing “losing gambler energy” to the table while America teeters on an “Israel-First cliff”.",
-            "In a post on X, Mr. Ghalibaf wrote, “Losing gambler energy, can’t walk away from the table. Boss is prepping the next war phase while America teeters on an Israel-First cliff. Skip the TED talk. Why not say this to your boss?”",
-            "Democrats vowed to use their resounding midterm victory to rein in President Donald Trump, setting up two years of possible deadlock in Washington, as Mr. Trump spent his first post-election appearance showing off his under-construction White House ballroom.",
-            "It will be the first time ⁠that Mr. Trump, a Republican who also held the White House from 2017 to 2021, has had to contend with Democrats controlling both chambers of Congress.",
-            "House Democratic Leader Hakeem Jeffries said on Wednesday (November 4) that the incoming majority would be focused on affordability and accountability.",
-            "Mr. Trump’s announcement showed that even the Republican President, who moved the American embassy to Jerusalem in his first term, cracked down on pro-Palestine protests at home and launched a war, along with Israeli Prime Minister Benjamin Netanyahu, against Iran, recognised the growing electoral liability of unconditional support for Israel.",
-            "The midterm results could accelerate this political churn. The Democrats have secured control of both the House and the Senate. The election was fought largely on domestic issues, particularly the economy and the cost of living, but the war on Iran and its impact on the economy, particularly fuel prices, also figured in the Republican setback. Mr. Trump himself acknowledged that the war had hurt his party."
-          ],
-          "deepExplanation": "<strong>1. Core Context & Background:</strong> Mexican ‌President Claudia Sheinbaum on ⁠Thursday said it was “very ‌likely” and “logical” that raids ‌and ‌racism ⁠against ⁠immigrants influenced the Latino vote in U.S.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Democrats won control of ‌Congress in Tuesday’s elections, making gains ⁠deep in Republican-held ‌districts as voters delivered a rebuke to ‌President Donald Trump and his agenda.- Reuters Following the drubbing of U.S. President Donald Trump’s Republican Party in the midterm elections, Iranians set fire to a giant poster featuring the American leader and his allies at a rally in Tehran.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Trump himself acknowledged that the war had hurt his party.",
-          "vocabList": [
-            "President",
-            "Sheinbaum",
-            "Thursday",
-            "Immigrants",
-            "Influenced",
-            "Elections"
-          ],
-          "summary": "Mexican ‌President Claudia Sheinbaum on ⁠Thursday said it was “very ‌likely” and “logical” that raids ‌and ‌racism ⁠against ⁠immigrants influenced the Latino vote in U.S. ‌midterm elections.",
-          "keyPoints": "• Mexican ‌President Claudia Sheinbaum on ⁠Thursday said it was “very ‌likely” and “logical” that raids ‌and ‌racism ⁠against ⁠immigrants influenced the Latino vote in U.S. ‌midterm elections.<br>• Democrats won control of ‌Congress in Tuesday’s elections, making gains ⁠deep in Republican-held ‌districts as voters delivered a rebuke to ‌President Donald Trump and his agenda.- Reuters<br>• Following the drubbing of U.S. President Donald Trump’s Republican Party in the midterm elections, Iranians set fire to a giant poster featuring the American leader and his allies at a rally in Tehran."
         },
         {
           "category": "scitech",
@@ -3769,60 +3755,116 @@
       "id": "gk_06 Nov 2026_1",
       "cat": "🏛️ National & Polity",
       "date": "06 Nov 2026",
+      "qEn": "[06 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"The Maharashtra Food and Drug Administration (FDA) seized drugs and cosmetics worth ₹34.51 lakh, cancelled 122 licences and suspen...\"?",
+      "qHi": "[06 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"The Maharashtra Food and Drug Administration (FDA) seized drugs and cosmetics worth ₹34.51 lakh, cancelled 122 licences and suspen...\"?",
+      "qMr": "[06 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"The Maharashtra Food and Drug Administration (FDA) seized drugs and cosmetics worth ₹34.51 lakh, cancelled 122 licences and suspen...\"?",
+      "optsEn": [
+        "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "15th Finance Commission Special State Grant",
+        "Inter-State Council Constitutional Review Panel",
+        "Maharashtra FDA seizes drugs, cosmetics worth ₹34.51 lakh, cancels 122 licences"
+      ],
+      "optsHi": [
+        "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "15th Finance Commission Special State Grant",
+        "Inter-State Council Constitutional Review Panel",
+        "Maharashtra FDA seizes drugs, cosmetics worth ₹34.51 lakh, cancels 122 licences"
+      ],
+      "optsMr": [
+        "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "15th Finance Commission Special State Grant",
+        "Inter-State Council Constitutional Review Panel",
+        "Maharashtra FDA seizes drugs, cosmetics worth ₹34.51 lakh, cancels 122 licences"
+      ],
+      "ans": 3,
+      "explanation": "<strong>1. Core Context & Background:</strong> The Maharashtra Food and Drug Administration (FDA) seized drugs and cosmetics worth ₹34.51 lakh, cancelled 122 licences and suspended 422 others following enforcement action across the State in October 2026, according to a press note issued by the department on Thursday (November 5, 2026).<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> The FDA conducted 1,986 inspections of drug manufacturing, sales and other regulated establishments during the month and issued 674 notices. Of these, 1,694 inspections were conducted at drug sales establishments and 292 at manufacturing and other regulated establishments.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> The FDA urged citizens to report instances of illegal drug manufacturing or sales, as well as suspected substandard drugs, medical devices and cosmetics, to its commissioner’s office or the nearest district office."
+    },
+    {
+      "id": "gk_06 Nov 2026_2",
+      "cat": "🏛️ National & Polity",
+      "date": "06 Nov 2026",
+      "qEn": "[06 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"Foreign Secretary Vikram Misri on Thursday (November 5, 2026) met Nepal Prime Minister Balendra Shah in Kathmandu, with discussion...\"?",
+      "qHi": "[06 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"Foreign Secretary Vikram Misri on Thursday (November 5, 2026) met Nepal Prime Minister Balendra Shah in Kathmandu, with discussion...\"?",
+      "qMr": "[06 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"Foreign Secretary Vikram Misri on Thursday (November 5, 2026) met Nepal Prime Minister Balendra Shah in Kathmandu, with discussion...\"?",
+      "optsEn": [
+        "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "15th Finance Commission Special State Grant",
+        "Inter-State Council Constitutional Review Panel",
+        "Foreign Secretary Misri sets stage for Nepal PM’s upcoming India visit"
+      ],
+      "optsHi": [
+        "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "15th Finance Commission Special State Grant",
+        "Inter-State Council Constitutional Review Panel",
+        "Foreign Secretary Misri sets stage for Nepal PM’s upcoming India visit"
+      ],
+      "optsMr": [
+        "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "15th Finance Commission Special State Grant",
+        "Inter-State Council Constitutional Review Panel",
+        "Foreign Secretary Misri sets stage for Nepal PM’s upcoming India visit"
+      ],
+      "ans": 3,
+      "explanation": "<strong>1. Core Context & Background:</strong> Foreign Secretary Vikram Misri on Thursday (November 5, 2026) met Nepal Prime Minister Balendra Shah in Kathmandu, with discussions focused on “possible outcomes and initiatives” from the expected upcoming visit of the Himalayan nation’s leader to New Delhi.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Concluding his official engagements in Nepal that spanned Wednesday and Thursday, Mr. Misri also met Nepal Finance Minister Swarnim Wagle and Foreign Minister Sisir Khanal.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Shah was sworn in as Prime Minister in March this year following the Gen-Z uprising in Nepal in September 2025 that led to the ouster of the previous government."
+    },
+    {
+      "id": "gk_06 Nov 2026_3",
+      "cat": "🏛️ National & Polity",
+      "date": "06 Nov 2026",
       "qEn": "[06 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"Jharkhand Chief Minister Hemant Soren on Thursday (November 5, 2026) called for further strengthening of the tribal community. He ...\"?",
       "qHi": "[06 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"Jharkhand Chief Minister Hemant Soren on Thursday (November 5, 2026) called for further strengthening of the tribal community. He ...\"?",
       "qMr": "[06 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"Jharkhand Chief Minister Hemant Soren on Thursday (November 5, 2026) called for further strengthening of the tribal community. He ...\"?",
       "optsEn": [
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "Jharkhand CM Hemant Soren calls of strengthening the tribal community",
         "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel"
+        "Inter-State Council Constitutional Review Panel",
+        "Jharkhand CM Hemant Soren calls of strengthening the tribal community"
       ],
       "optsHi": [
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "Jharkhand CM Hemant Soren calls of strengthening the tribal community",
         "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel"
+        "Inter-State Council Constitutional Review Panel",
+        "Jharkhand CM Hemant Soren calls of strengthening the tribal community"
       ],
       "optsMr": [
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "Jharkhand CM Hemant Soren calls of strengthening the tribal community",
         "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel"
+        "Inter-State Council Constitutional Review Panel",
+        "Jharkhand CM Hemant Soren calls of strengthening the tribal community"
       ],
-      "ans": 1,
+      "ans": 3,
       "explanation": "<strong>1. Core Context & Background:</strong> Jharkhand Chief Minister Hemant Soren on Thursday (November 5, 2026) called for further strengthening of the tribal community.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> He asserted that the tribal society holds specific social rights, which have also been granted recognition by the Indian Constitution. Soren said this while addressing the concluding day of the two-day ‘Marang Buru Dhoromgad Mahasammelan’ at the Madhuban Police Station grounds in Pirtand, Giridih district, organised by Marang Buru Bachao Sangharsh Morcha.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> He urged the youth to understand their own traditions and customs, and to become familiar with the historical background of their community."
     },
     {
-      "id": "gk_06 Nov 2026_2",
+      "id": "gk_06 Nov 2026_4",
       "cat": "🏛️ National & Polity",
       "date": "06 Nov 2026",
       "qEn": "[06 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"Despite legislation, Supreme Court orders, government programmes, the availability of mechanised cleaning technologies, and exhort...\"?",
       "qHi": "[06 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"Despite legislation, Supreme Court orders, government programmes, the availability of mechanised cleaning technologies, and exhort...\"?",
       "qMr": "[06 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"Despite legislation, Supreme Court orders, government programmes, the availability of mechanised cleaning technologies, and exhort...\"?",
       "optsEn": [
+        "Danger in the sewer: On India’s sewer cleaning deaths",
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
         "15th Finance Commission Special State Grant",
-        "Danger in the sewer: On India’s sewer cleaning deaths",
         "Inter-State Council Constitutional Review Panel"
       ],
       "optsHi": [
+        "Danger in the sewer: On India’s sewer cleaning deaths",
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
         "15th Finance Commission Special State Grant",
-        "Danger in the sewer: On India’s sewer cleaning deaths",
         "Inter-State Council Constitutional Review Panel"
       ],
       "optsMr": [
+        "Danger in the sewer: On India’s sewer cleaning deaths",
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
         "15th Finance Commission Special State Grant",
-        "Danger in the sewer: On India’s sewer cleaning deaths",
         "Inter-State Council Constitutional Review Panel"
       ],
-      "ans": 2,
+      "ans": 0,
       "explanation": "<strong>1. Core Context & Background:</strong> Despite legislation, Supreme Court orders, government programmes, the availability of mechanised cleaning technologies, and exhortations from politicians, India continues to lose sanitation workers to foreseeable, and largely preventable, circumstances.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> In a recent incident, four workers lost their lives in Ujjain, Madhya Pradesh , cleaning a hotel’s food-waste chamber. According to Parliament and the National Commission for Safai Karamcharis data, the number of workers who died on jobs involving sewer and septic tanks was 859 between 2014 and 2025, 498 from 2019 to mid-2026, 332 across 18 States and Union Territories in 2021-26, and 1,350 between 1993 and 2025.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> law / court / technology (general) / politics / civic infrastructure / parliament / employment / labour / local authority / death / Bengaluru / Hyderabad / Madhya Pradesh / Caste"
     },
     {
-      "id": "gk_06 Nov 2026_3",
+      "id": "gk_06 Nov 2026_5",
       "cat": "🏛️ National & Polity",
       "date": "06 Nov 2026",
       "qEn": "[06 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"Chief Minister Samrat Choudhary on Thursday (November 5, 2026) convened a meeting of National Democratic Alliance (NDA) leaders at...\"?",
@@ -3830,108 +3872,52 @@
       "qMr": "[06 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"Chief Minister Samrat Choudhary on Thursday (November 5, 2026) convened a meeting of National Democratic Alliance (NDA) leaders at...\"?",
       "optsEn": [
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "Bihar NDA leaders led by CM Samrat Choudhary review the council results",
         "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel"
+        "Inter-State Council Constitutional Review Panel",
+        "Bihar NDA leaders led by CM Samrat Choudhary review the council results"
       ],
       "optsHi": [
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "Bihar NDA leaders led by CM Samrat Choudhary review the council results",
         "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel"
+        "Inter-State Council Constitutional Review Panel",
+        "Bihar NDA leaders led by CM Samrat Choudhary review the council results"
       ],
       "optsMr": [
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "Bihar NDA leaders led by CM Samrat Choudhary review the council results",
         "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel"
+        "Inter-State Council Constitutional Review Panel",
+        "Bihar NDA leaders led by CM Samrat Choudhary review the council results"
       ],
-      "ans": 1,
+      "ans": 3,
       "explanation": "<strong>1. Core Context & Background:</strong> Chief Minister Samrat Choudhary on Thursday (November 5, 2026) convened a meeting of National Democratic Alliance (NDA) leaders at his official residence (Lok Sevak Awas) to review the performance in the recently concluded Bihar Legislative Council polls held in eight seats.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Out of eight seats, NDA won three, the Bharatiya Janata Party (BJP) bagged two seats, whereas Janata Dal (United) won one. Both BJP and JD(U) had contested four seats each.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Prashant Kishor, on the other hand, issued a statement over the internal strife within the JD(U), asserting that Nitish Kumar was the party’s true strength."
     },
     {
-      "id": "gk_06 Nov 2026_4",
+      "id": "gk_06 Nov 2026_6",
       "cat": "🏛️ National & Polity",
       "date": "06 Nov 2026",
       "qEn": "[06 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"Several voters from Kotia gram panchayat, whose jurisdiction has long been disputed between Odisha and Andhra Pradesh, crossed the...\"?",
       "qHi": "[06 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"Several voters from Kotia gram panchayat, whose jurisdiction has long been disputed between Odisha and Andhra Pradesh, crossed the...\"?",
       "qMr": "[06 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"Several voters from Kotia gram panchayat, whose jurisdiction has long been disputed between Odisha and Andhra Pradesh, crossed the...\"?",
       "optsEn": [
+        "Residents of disputed villages in Kotia cross Odisha border to vote in Andhra Prad...",
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
         "15th Finance Commission Special State Grant",
-        "Residents of disputed villages in Kotia cross Odisha border to vote in Andhra Prad...",
         "Inter-State Council Constitutional Review Panel"
       ],
       "optsHi": [
+        "Residents of disputed villages in Kotia cross Odisha border to vote in Andhra Prad...",
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
         "15th Finance Commission Special State Grant",
-        "Residents of disputed villages in Kotia cross Odisha border to vote in Andhra Prad...",
         "Inter-State Council Constitutional Review Panel"
       ],
       "optsMr": [
+        "Residents of disputed villages in Kotia cross Odisha border to vote in Andhra Prad...",
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
         "15th Finance Commission Special State Grant",
-        "Residents of disputed villages in Kotia cross Odisha border to vote in Andhra Prad...",
         "Inter-State Council Constitutional Review Panel"
       ],
-      "ans": 2,
+      "ans": 0,
       "explanation": "<strong>1. Core Context & Background:</strong> Several voters from Kotia gram panchayat, whose jurisdiction has long been disputed between Odisha and Andhra Pradesh, crossed the Odisha border on Thursday to cast their votes in the mandal parishad territorial constituency and zilla parishad territorial constituency elections conducted by the Andhra Pradesh State Election Commission.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> The Odisha government had deployed 16 platoons of police and erected three border checkpoints, restricting people’s entry and exit. However, several voters sneaked out from the borders to cast votes.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Some possess voter identity card of both States and cast their votes depending on poll schedule."
-    },
-    {
-      "id": "gk_06 Nov 2026_5",
-      "cat": "🏛️ National & Polity",
-      "date": "06 Nov 2026",
-      "qEn": "[06 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"The Kochi City police’s special drive to conduct background verification of private bus employees and issue them special identity ...\"?",
-      "qHi": "[06 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"The Kochi City police’s special drive to conduct background verification of private bus employees and issue them special identity ...\"?",
-      "qMr": "[06 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"The Kochi City police’s special drive to conduct background verification of private bus employees and issue them special identity ...\"?",
-      "optsEn": [
-        "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "15th Finance Commission Special State Grant",
-        "Kochi police yet to complete verification of private bus employees",
-        "Inter-State Council Constitutional Review Panel"
-      ],
-      "optsHi": [
-        "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "15th Finance Commission Special State Grant",
-        "Kochi police yet to complete verification of private bus employees",
-        "Inter-State Council Constitutional Review Panel"
-      ],
-      "optsMr": [
-        "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "15th Finance Commission Special State Grant",
-        "Kochi police yet to complete verification of private bus employees",
-        "Inter-State Council Constitutional Review Panel"
-      ],
-      "ans": 2,
-      "explanation": "<strong>1. Core Context & Background:</strong> The Kochi City police’s special drive to conduct background verification of private bus employees and issue them special identity cards is yet to be completed, even two months after the initiative was launched.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> The police, according to sources, are planning to issue the ID cards by next week, though they admitted that a final decision on how to proceed with the drive was yet to be taken. Earlier, the police had planned to complete the process within a few weeks in September and then by the end of October, but the initial plan could not be implemented.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Nishanthini is yet to review the project, which was initiated by her predecessor, Kaliraj Mahesh Kumar, sources said."
-    },
-    {
-      "id": "gk_06 Nov 2026_6",
-      "cat": "🏛️ National & Polity",
-      "date": "06 Nov 2026",
-      "qEn": "[06 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"TNCC president Manickam Tagore on Thursday alleged that opposition parties were attempting to destabilise the TVK-led government b...\"?",
-      "qHi": "[06 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"TNCC president Manickam Tagore on Thursday alleged that opposition parties were attempting to destabilise the TVK-led government b...\"?",
-      "qMr": "[06 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"TNCC president Manickam Tagore on Thursday alleged that opposition parties were attempting to destabilise the TVK-led government b...\"?",
-      "optsEn": [
-        "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "15th Finance Commission Special State Grant",
-        "Opposition trying to destabilise TVK-led government, says Manickam Tagore",
-        "Inter-State Council Constitutional Review Panel"
-      ],
-      "optsHi": [
-        "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "15th Finance Commission Special State Grant",
-        "Opposition trying to destabilise TVK-led government, says Manickam Tagore",
-        "Inter-State Council Constitutional Review Panel"
-      ],
-      "optsMr": [
-        "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "15th Finance Commission Special State Grant",
-        "Opposition trying to destabilise TVK-led government, says Manickam Tagore",
-        "Inter-State Council Constitutional Review Panel"
-      ],
-      "ans": 2,
-      "explanation": "<strong>1. Core Context & Background:</strong> TNCC president Manickam Tagore on Thursday alleged that opposition parties were attempting to destabilise the TVK-led government by approaching its MLAs.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Nirmal Kumar’s allegation that the DMK and AIADMK were attempting to poach TVK MLAs with the BJP’s support, he said those who had lost power were trying to disturb the government. Tagore said senior leaders of the DMK, AIADMK, and the BJP had repeatedly questioned the stability of the government.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> He also accused the BJP of spreading misinformation to divert attention from allegations of electoral malpractice."
     },
     {
       "id": "gk_06 Nov 2026_7",
