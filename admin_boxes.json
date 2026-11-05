@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-05 12:14:01",
+  "updated_at": "2026-11-05 13:29:48",
   "window_days": 15,
   "category_counts": {
-    "latest_jobs": 143,
-    "results": 14,
-    "admit_cards": 7,
+    "latest_jobs": 153,
+    "results": 38,
+    "admit_cards": 21,
     "answer_keys": 23,
     "syllabus": 2,
     "admissions": 1
@@ -47,21 +47,21 @@
       "active": true
     },
     {
-      "id": "b034e86b56ae",
-      "title": "Odisha Police 7,268 Constable Online Form 2026",
-      "sub": "Latest Jobs",
-      "url": "https://ousssc.odisha.gov.in/",
-      "details": "The Odisha Uniformed Services Staff Selection Commission (OUSSSC) has released the Recruitment 2026 notification for 7,268 vacancies across various posts. The online application process will be conducted from 23 October 2026 to 12 November 2026. Interested candidates can apply through the official website, ousssc.odisha.gov.in. The recruitment drive includes Constable, Constable OISF, Driver PMT, Firefighting Driver, and other positions.",
-      "rushScore": 118,
+      "id": "4d110a11cdc3",
+      "title": "SSC GD Constable 2026 Marks / Score Card",
+      "sub": "Result",
+      "url": "https://ssc.gov.in/",
+      "details": "Staff Selection Commission SSC has released the notification for Constable (GD) in Central Armed Police Forces (CAPFs) and SSF, and Rifleman (GD) in Assam Rifles Examination, 2026. Those Candidate Are Enrolled with Vacancy Can Check the Exam Exam Admit Card. Before applying, candidates must read the complete advertisement in which selection procedure, exam syllabus, pattern, exam date and other information will be available.",
+      "rushScore": 121,
       "active": true
     },
     {
-      "id": "72cf52211868",
-      "title": "UPESSC 2647 Principal, Headmaster Online Form 2026",
-      "sub": "Latest Jobs",
-      "url": "https://apply.upessc.org/",
-      "details": "Uttar Pradesh Education Service Selection Commission, Prayagraj (UPESSC) has released the official notification for the recruitment of 2,647 Principal, Headmaster posts. The online application process will begin on 23 October 2026, and the last date to apply is 22 November 2026. Candidates can apply through the official website, upessc.up.gov.in.",
-      "rushScore": 116,
+      "id": "e3c33fcd0c4f",
+      "title": "WBSSC Group C and D Result 2026 Out",
+      "sub": "Result",
+      "url": "https://img2.freejobalert.com/news/2026/11/526418-6aec0fa8d0cce52238702.pdf",
+      "details": "The West Bengal Central School Service Commission (WBSSC) has released the WBSSC Group C and D Result 2026 on 5 November 2026 for the 1st State Level Selection Test (Non-Teaching Staff), 2025. Separate preliminary interview lists have been published for Group C (Clerk) and Group D posts. Candidates who appeared in the written examinations held on 1 March 2026 for Group C and 8 March 2026 for Group D can check their names, roll numbers, marks and preliminary interview-list positions through the published result documents.",
+      "rushScore": 118,
       "active": true
     }
   ],
