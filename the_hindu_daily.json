@@ -1,12 +1,12 @@
 {
-  "updatedAt": "07 Nov 2026, 01:26 AM IST",
+  "updatedAt": "07 Nov 2026, 02:34 AM IST",
   "currentDateIso": "2026-11-07",
   "currentDateDisplay": "07 Nov 2026",
   "availableDates": [
     {
       "dateIso": "2026-11-07",
       "dateDisplay": "07 Nov 2026",
-      "updatedAt": "07 Nov 2026, 01:26 AM IST",
+      "updatedAt": "07 Nov 2026, 02:34 AM IST",
       "articleCount": 30
     },
     {
@@ -23,15 +23,47 @@
     }
   ],
   "hookLine1": "The Hindu Printed Broadsheet & Editorial Digest (07 Nov 2026)",
-  "hookLine2": "100% In-App Full Newspaper Pages & Deep Editorial Analysis • Updated: 07 Nov 2026, 01:26 AM IST",
+  "hookLine2": "100% In-App Full Newspaper Pages & Deep Editorial Analysis • Updated: 07 Nov 2026, 02:34 AM IST",
   "totalArticles": 30,
   "articles": [
     {
       "category": "national",
       "categoryLabel": "🏛️ National & Polity",
+      "title": "West Bengal election is not legally valid: Former CEC S.Y. Quraishi",
+      "link": "https://www.thehindu.com/news/national/west-bengal/west-bengal-election-is-not-legally-validformer-cec-sy-quraishi/article71674557.ece",
+      "pubDate": "Sat, 07 Nov 2026 01:57:48 +0530",
+      "dateIso": "2026-11-07",
+      "dateDisplay": "07 Nov 2026",
+      "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
+      "imageUrl": "https://th-i.thgim.com/public/incoming/nbyo7g/article71676078.ece/alternates/LANDSCAPE_1200/In-India-votinG4TG7AQV3.3.jpg.jpg",
+      "fullParagraphs": [
+        "Former Chief Election Commissioner S.Y. Quraishi alleged that the West Bengal elections were not legally valid. He reinstated that the decisions at the Election Commission of India should be based on a majority.",
+        "“Were the West Bengal elections legally valid? In my opinion, it was not. I have said this several times; I will say it again. Now it is in front of the Supreme Court; I am hoping they will take the right decision,” Mr. Quraishi said. He further added that some parts of it may have been valid but also said that in places where there was suspicious of majority Muslim voters being removed must be rechecked and go for re-polls if needed.",
+        "“This government has been in power for 6-7 months. People are happy. But some people are raising questions, maybe because they did not get the outcome that they desired,” Minister Dilip Ghosh said on Friday (November 6, 2026), reacting to Mr. Quraishi’s allegations. He also warned that accepting the people’s verdict and choice of government is the right decision; otherwise the people opposing it have a “tough” road ahead.",
+        "This comes after the former CEC raised allegations against the SIR process and discrepancies at the West Bengal elections while delivering the keynote address at the Hashim Abdul Halim Memorial Lecture on Thursday (November 5, 2026) in Kolkata.",
+        "“The CEC is not the Election Commission. The rules first call for unanimous decisions. If that is not possible, there must be a majority-based decision among the three members of the ECI,” Mr. Quraishi said. He added that the CEC is not the ECI on their own, and their decision alone cannot be final.",
+        "The former CEC said this in reference to The Indian Express report, which had claimed that election commissioners Sukhbir Singh Sandhu and Vivek Joshi had raised at least 14 objections to the various decisions allegedly taken unilaterally by CEC Gyanesh Kumar.",
+        "Meanwhile, Mr. Quraishi also said that the voter is not supposed to beg for their voting rights; rather, tradition in the past ensured that voter cards were delivered to the homes of each voter, and they did not have to negotiate to be included in the voter lists. He accused the special intensive revision (SIR) was used as a process to do backdoor checks for citizenships.",
+        "“It was neither smooth nor transparent. So many questions were raised that are currently being heard in the Supreme Court. Now, things will come out clearly once their judgment arrives, regarding what went wrong and what was correct,” Mr. Quraishi added."
+      ],
+      "deepExplanation": "<strong>1. Core Context & Background:</strong> Former Chief Election Commissioner S.Y.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Quraishi alleged that the West Bengal elections were not legally valid. He reinstated that the decisions at the Election Commission of India should be based on a majority.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Now, things will come out clearly once their judgment arrives, regarding what went wrong and what was correct,” Mr.",
+      "vocabList": [
+        "Election",
+        "Commissioner",
+        "Quraishi",
+        "Elections",
+        "Reinstated",
+        "Decisions"
+      ],
+      "summary": "Former Chief Election Commissioner S.Y. Quraishi alleged that the West Bengal elections were not legally valid. He reinstated that the decisions at the Election Commission of India should be based on a majority.",
+      "keyPoints": "• Former Chief Election Commissioner S.Y. Quraishi alleged that the West Bengal elections were not legally valid. He reinstated that the decisions at the Election Commission of India should be based on a majority.<br>• “Were the West Bengal elections legally valid? In my opinion, it was not. I have said this several times; I will say it again. Now it is in front of the Supreme Court; I am hoping they will take the right decision,” Mr. Quraishi said. He further added that some parts of it may have been valid but also said that in places where there was suspicious of majority Muslim voters being removed must be rechecked and go for re-polls if needed.<br>• “This government has been in power for 6-7 months. People are happy. But some people are raising questions, maybe because they did not get the outcome that they desired,” Minister Dilip Ghosh said on Friday (November 6, 2026), reacting to Mr. Quraishi’s allegations. He also warned that accepting the people’s verdict and choice of government is the right decision; otherwise the people opposing it have a “tough” road ahead."
+    },
+    {
+      "category": "national",
+      "categoryLabel": "🏛️ National & Polity",
       "title": "Agasthyamalai conservation case: SC directs temporary and non-resident silk cotton cultivators not eligible for protection under FRA Act",
       "link": "https://www.thehindu.com/news/national/agasthyamalai-conservation-case-sc-directs-temporary-and-non-resident-silk-cotton-cultivators-not-eligible-for-protection-under-fra-act/article71675811.ece",
-      "pubDate": "Sat, 07 Nov 2026 01:07:17 +0530",
+      "pubDate": "Sat, 07 Nov 2026 01:47:51 +0530",
       "dateIso": "2026-11-07",
       "dateDisplay": "07 Nov 2026",
       "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
@@ -64,6 +96,109 @@
     {
       "category": "national",
       "categoryLabel": "🏛️ National & Polity",
+      "title": "Pakistan says willing to issue visa to Punjab CM Bhagwant Mann for visit",
+      "link": "https://www.thehindu.com/news/national/punjab/pakistan-says-willing-to-issue-visa-to-punjab-cm-bhagwant-mann-for-visit/article71676075.ece",
+      "pubDate": "Sat, 07 Nov 2026 01:40:09 +0530",
+      "dateIso": "2026-11-07",
+      "dateDisplay": "07 Nov 2026",
+      "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
+      "imageUrl": "https://th-i.thgim.com/public/incoming/6dftmh/article71676076.ece/alternates/LANDSCAPE_1200/20261104137L.jpg",
+      "fullParagraphs": [
+        "Pakistan on Friday (November 6, 2026) said it would consider issuing a visa to Punjab Chief Minister Bhagwant Mann if the Indian politician wished to visit the country.",
+        "Pakistan Foreign Office Spokesperson Sajjad Haider Khan made the remarks during his weekly media briefing in response to a question about the possible visit of the Aam Aadmi Party (AAP) leader.",
+        "The Pakistani government would “consider issuing him a visa if he wished to visit the country”, Mr. Khan said, clarifying that whether the Indian government permits Mr. Mann to travel to Pakistan was an entirely separate matter.",
+        "On October 23, Mr. Mann had said that he had been invited to attend the World Punjabi Conference in Lahore on November 27.",
+        "However, he questioned whether he would be allowed to travel to Pakistan. “Our culture is the same. Many poets from here will go there,” he had said.",
+        "Mr. Mann had also expressed his desire that all legislators of the Punjab Legislative Assembly visit Kartarpur Sahib in Pakistan if the Kartarpur Corridor reopened.",
+        "The corridor, which connects Dera Baba Nanak in India's Punjab with the historic Gurdwara Darbar Sahib in Kartarpur, Pakistan, was established to facilitate Sikh pilgrims travelling to the shrine associated with Guru Nanak Dev, the founder of Sikhism.",
+        "It allows Indian pilgrims to visit the gurdwara without requiring a visa for Pakistan, subject to the applicable arrangements.",
+        "The corridor has remained closed to pilgrim movement from the Indian side since May 7, 2025, when India launched pre-dawn missile strikes on nine terror targets in Pakistan and Pakistan-occupied Kashmir following the Pahalgam terror attack.",
+        "Pakistan said it remained ready to facilitate pilgrims once the restrictions were lifted.",
+        "The foreign office spokesperson said Pakistan welcomes pilgrims of all faiths and remains committed to facilitating visits to religious sites.",
+        "He said the country issued more than 9,000 visas to Indian religious pilgrims in 2025, including Sikh and Hindu pilgrims, and issued over 4,000 additional visas to Sikh pilgrims during the first half of this year."
+      ],
+      "deepExplanation": "<strong>1. Core Context & Background:</strong> Pakistan on Friday (November 6, 2026) said it would consider issuing a visa to Punjab Chief Minister Bhagwant Mann if the Indian politician wished to visit the country.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Pakistan Foreign Office Spokesperson Sajjad Haider Khan made the remarks during his weekly media briefing in response to a question about the possible visit of the Aam Aadmi Party (AAP) leader. The Pakistani government would “consider issuing him a visa if he wished to visit the country”, Mr.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> He said the country issued more than 9,000 visas to Indian religious pilgrims in 2025, including Sikh and Hindu pilgrims, and issued over 4,000 additional visas to Sikh pilgrims during the first half of this year.",
+      "vocabList": [
+        "Pakistan",
+        "November",
+        "Consider",
+        "Bhagwant",
+        "Politician",
+        "Spokesperson"
+      ],
+      "summary": "Pakistan on Friday (November 6, 2026) said it would consider issuing a visa to Punjab Chief Minister Bhagwant Mann if the Indian politician wished to visit the country.",
+      "keyPoints": "• Pakistan on Friday (November 6, 2026) said it would consider issuing a visa to Punjab Chief Minister Bhagwant Mann if the Indian politician wished to visit the country.<br>• Pakistan Foreign Office Spokesperson Sajjad Haider Khan made the remarks during his weekly media briefing in response to a question about the possible visit of the Aam Aadmi Party (AAP) leader.<br>• The Pakistani government would “consider issuing him a visa if he wished to visit the country”, Mr. Khan said, clarifying that whether the Indian government permits Mr. Mann to travel to Pakistan was an entirely separate matter."
+    },
+    {
+      "category": "national",
+      "categoryLabel": "🏛️ National & Polity",
+      "title": "Supreme Court decision on BBMB arrears a victory for Himachal, says CM Sukhu",
+      "link": "https://www.thehindu.com/news/national/himachal-pradesh/supreme-court-decision-on-bbmb-arrears-a-victory-for-himachal-says-cm-sukhu/article71675039.ece",
+      "pubDate": "Sat, 07 Nov 2026 01:30:58 +0530",
+      "dateIso": "2026-11-07",
+      "dateDisplay": "07 Nov 2026",
+      "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
+      "imageUrl": "https://th-i.thgim.com/public/incoming/fuxivu/article71676074.ece/alternates/LANDSCAPE_1200/20261023191L.jpg",
+      "fullParagraphs": [
+        "Himachal Pradesh Chief Minister Sukhvinder Singh Sukhu on Friday (November 6, 2026) termed the Supreme Court’s decision directing Punjab and Haryana to supply 11,973 million units of electricity to the State over 20 years towards its outstanding dues from the Bhakra-Nangal and Beas hydroelectric projects a historic victory for its people.",
+        "The order settles a decades-old dispute over Himachal Pradesh’s 7.19% share in the power generated from the projects. The State will receive nearly 60 crore units annually during the lean season, generating an estimated revenue of ₹10,000 crore to ₹20,000 crore over the 20-year period, depending on electricity prices, Mr. Sukhu said in a statement.",
+        "He said the decision could fetch the State additional revenue of up to ₹1,000 crore annually. Even at ₹6 per unit, Himachal Pradesh would earn at least ₹500 crore a year, while a rate of ₹13-14 per unit would significantly increase the returns.",
+        "Mr. Sukhu attributed the outcome to the State government’s sustained legal battle and determination to secure its financial rights. He described it as the fourth major success in protecting Himachal Pradesh’s interests, citing earlier victories in matters relating to Wildflower Hall, the Kishau Dam among others.",
+        "The Chief Minister said the government was also pursuing its claims over the Shanan Power Project and the water cess.",
+        "The additional revenue, he said, would be used to strengthen education and healthcare, improve road infrastructure, generate employment and ensure timely payment of financial benefits to government employees.",
+        "Congratulating the State’s nearly 75 lakh residents, Mr. Sukhu said protecting its resources and making Himachal Pradesh self-reliant remained a top priority for his government."
+      ],
+      "deepExplanation": "<strong>1. Core Context & Background:</strong> Himachal Pradesh Chief Minister Sukhvinder Singh Sukhu on Friday (November 6, 2026) termed the Supreme Court’s decision directing Punjab and Haryana to supply 11,973 million units of electricity to the State over 20 years towards its outstanding dues from the Bhakra-Nangal and Beas hydroelectric projects a historic victory for its people.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> The order settles a decades-old dispute over Himachal Pradesh’s 7.19% share in the power generated from the projects. The State will receive nearly 60 crore units annually during the lean season, generating an estimated revenue of ₹10,000 crore to ₹20,000 crore over the 20-year period, depending on electricity prices, Mr.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Sukhu said protecting its resources and making Himachal Pradesh self-reliant remained a top priority for his government.",
+      "vocabList": [
+        "Himachal",
+        "Sukhvinder",
+        "November",
+        "Decision",
+        "Directing",
+        "Electricity"
+      ],
+      "summary": "Himachal Pradesh Chief Minister Sukhvinder Singh Sukhu on Friday (November 6, 2026) termed the Supreme Court’s decision directing Punjab and Haryana to supply 11,973 million units of electricity to the State over 20 years towards its outstanding dues from the Bhakra-Nangal and Beas hydroelectric projects a historic victory for its people.",
+      "keyPoints": "• Himachal Pradesh Chief Minister Sukhvinder Singh Sukhu on Friday (November 6, 2026) termed the Supreme Court’s decision directing Punjab and Haryana to supply 11,973 million units of electricity to the State over 20 years towards its outstanding dues from the Bhakra-Nangal and Beas hydroelectric projects a historic victory for its people.<br>• The order settles a decades-old dispute over Himachal Pradesh’s 7.19% share in the power generated from the projects. The State will receive nearly 60 crore units annually during the lean season, generating an estimated revenue of ₹10,000 crore to ₹20,000 crore over the 20-year period, depending on electricity prices, Mr. Sukhu said in a statement.<br>• He said the decision could fetch the State additional revenue of up to ₹1,000 crore annually. Even at ₹6 per unit, Himachal Pradesh would earn at least ₹500 crore a year, while a rate of ₹13-14 per unit would significantly increase the returns."
+    },
+    {
+      "category": "national",
+      "categoryLabel": "🏛️ National & Polity",
+      "title": "A missing persons complaint that unravelled Bengaluru’s seven murders",
+      "link": "https://www.thehindu.com/news/cities/bangalore/a-missing-persons-complaint-that-unravelled-bengalurus-seven-murders/article71675640.ece",
+      "pubDate": "Sat, 07 Nov 2026 01:11:07 +0530",
+      "dateIso": "2026-11-07",
+      "dateDisplay": "07 Nov 2026",
+      "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
+      "imageUrl": "https://th-i.thgim.com/public/incoming/galcuk/article71675839.ece/alternates/LANDSCAPE_1200/PTI11_06_2026_000134A.jpg",
+      "fullParagraphs": [
+        "It was not until the mother of Nalini, one of the seven allegedly killed by cab driver-turned-YouTuber Indushekhar, lodged a missing person complaint that the police found the first clue to the murders. While the murders allegedly took place between October 16 and October 31, the last two bodies were disposed of on November 1 or 2.",
+        "Senior police officers said that Sunita, the accused’s wife, and Roopavathi, his mother-in-law, were the first to be murdered. Sunita and Indushekhar had been married for 20 years, and an officer said they had been having regular arguments throughout their marriage. Sunita worked as a typist for an advocate, while Indushekhar was a cab driver. Their respective jobs were often a point of contention between them.",
+        "“Indushekhar claimed that he was verbally abused and harassed by his wife and her family, while her brothers also encouraged her to fight with him,” a senior officer said.",
+        "Prima facie , the police have found that Indushekhar had been planning the murders for over a year. The growing friction and pent-up anger allegedly came to a head following a recent meeting.",
+        "“The accused claimed that Roopavathi had visited his house on October 14, when she and Sunita reportedly verbally abused him. This became a trigger point, and he wanted to eliminate them,” the officer said.",
+        "According to the police, Sunita and Roopavathi were murdered first. Subsequently, the accused invited Sunita’s younger brother Shivakumar and his wife Divya to his house on the pretext of hosting a dinner party. The couple were then killed along with their seven-year-old son Puneeth. On October 30, the accused allegedly invited Shankar, another brother of Sunita, and his wife Nalini, and allegedly murdered them.",
+        "On November 3, Tungamma, Nalini’s mother, approached the police, stating that her daughter’s phone was switched off and that their house in Srirampura was also locked. Tungamma subsequently went to Indushekar’s house to check on him but found that his house was locked as well.",
+        "Sensing that something was amiss, she contacted Divya’s mother Kalavathi, who also said that her daughter and son-in-law were missing. Tungamma then lodged a missing person complaint with the Srirampura police.",
+        "Karthik, a shopkeeper near Indushekhar’s house, said a police team visited the house on November 3 and made inquiries about Indushekhar among the neighbourhood residents. “They also came the next day and questioned people because Indushekhar’s house was locked,” he said.",
+        "A senior officer told The Hindu that the police grew suspicious and began tracking Indushekhar. Several technical inputs indicated that he was on the move. “Finally, when he was in the city, we tracked him and intercepted his car,” he said.",
+        "High drama unfolded near the Rajajinagar police station on Friday as Nalini’s family accused the police of delaying action on their complaint. “We approached the police on November 1 itself, but they did not register our complaint. Only after two days did they take it up,” a family member alleged.",
+        "Bengaluru City Police Commissioner Seemant Kumar Singh refuted the allegations and said that action would be taken against the officers if any lapses were found."
+      ],
+      "deepExplanation": "<strong>1. Core Context & Background:</strong> It was not until the mother of Nalini, one of the seven allegedly killed by cab driver-turned-YouTuber Indushekhar, lodged a missing person complaint that the police found the first clue to the murders.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> While the murders allegedly took place between October 16 and October 31, the last two bodies were disposed of on November 1 or 2. Senior police officers said that Sunita, the accused’s wife, and Roopavathi, his mother-in-law, were the first to be murdered.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Bengaluru City Police Commissioner Seemant Kumar Singh refuted the allegations and said that action would be taken against the officers if any lapses were found.",
+      "vocabList": [
+        "Allegedly",
+        "Youtuber",
+        "Indushekhar",
+        "Complaint",
+        "Disposed",
+        "November"
+      ],
+      "summary": "It was not until the mother of Nalini, one of the seven allegedly killed by cab driver-turned-YouTuber Indushekhar, lodged a missing person complaint that the police found the first clue to the murders. While the murders allegedly took place between October 16 and October 31, the last two bodies were disposed of on November 1 or 2.",
+      "keyPoints": "• It was not until the mother of Nalini, one of the seven allegedly killed by cab driver-turned-YouTuber Indushekhar, lodged a missing person complaint that the police found the first clue to the murders. While the murders allegedly took place between October 16 and October 31, the last two bodies were disposed of on November 1 or 2.<br>• Senior police officers said that Sunita, the accused’s wife, and Roopavathi, his mother-in-law, were the first to be murdered. Sunita and Indushekhar had been married for 20 years, and an officer said they had been having regular arguments throughout their marriage. Sunita worked as a typist for an advocate, while Indushekhar was a cab driver. Their respective jobs were often a point of contention between them.<br>• “Indushekhar claimed that he was verbally abused and harassed by his wife and her family, while her brothers also encouraged her to fight with him,” a senior officer said."
+    },
+    {
+      "category": "national",
+      "categoryLabel": "🏛️ National & Polity",
       "title": "Did all the murders happen in the small house on the terrace?",
       "link": "https://www.thehindu.com/news/national/karnataka/did-all-the-murders-happen-in-the-small-house-on-the-terrace/article71675859.ece",
       "pubDate": "Sat, 07 Nov 2026 01:04:40 +0530",
@@ -90,134 +225,6 @@
       ],
       "summary": "Indushekhar lived with his wife Sunita and daughter in a small house, barely 500 sq. ft, on the terrace of a two-storey building, nestled among several commercial establishments, 50 metres from the famous Bhashyam Circle, Rajajinagar.",
       "keyPoints": "• Indushekhar lived with his wife Sunita and daughter in a small house, barely 500 sq. ft, on the terrace of a two-storey building, nestled among several commercial establishments, 50 metres from the famous Bhashyam Circle, Rajajinagar.<br>• The building has commercial establishments on the ground floor, including a watch repair shop, a tea stall and a small condiments shop. The entire first floor was occupied by a small political party. Indushekar’s house is on the second floor, which also serves as the terrace.<br>• Household appliances were crammed into the space, with several other household items scattered around. A board on the wall read, “Police Voice”."
-    },
-    {
-      "category": "national",
-      "categoryLabel": "🏛️ National & Polity",
-      "title": "Bamboo shelters, cool roofs to climate-proof Telangana cities",
-      "link": "https://www.thehindu.com/news/national/telangana/bamboo-shelters-cool-roofs-to-climate-proof-telangana-cities/article71671169.ece",
-      "pubDate": "Sat, 07 Nov 2026 01:01:21 +0530",
-      "dateIso": "2026-11-07",
-      "dateDisplay": "07 Nov 2026",
-      "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
-      "imageUrl": "https://th-i.thgim.com/public/incoming/5g1sz0/article71676068.ece/alternates/LANDSCAPE_1200/hy06bamboo_bus_shelter.jpg",
-      "fullParagraphs": [
-        "From bamboo bus shelters that offer shade and cooling to commuters, to the reclamation of waste dumps and the plugging of water supply leaks, Telangana is drawing up a broad plan to make its cities more resilient to climate change. The measures, backed by new urban policies and a project pipeline worth about ₹20,000 crore, are part of the State’s long-term Telangana Rising 2047 vision.",
-        "The roadmap seeks to integrate climate concerns into urban planning, infrastructure development and municipal services across urban local bodies (ULBs), said Municipal Administration and Urban Development secretary T.K. Sreedevi. The policy framework is being strengthened through a mandatory Urban Road Code, a Cool Roof Policy, a Heatwave Action Plan and a Treated Water Reuse Policy. Of the 43 projects proposed under the Urban Challenge Fund (UCF), three have secured approval.",
-        "The roadmap seeks to integrate climate concerns into urban planning, infrastructure development and municipal services across urban local bodies (ULBs), Municipal Administration and Urban Development secretary T.K. Sreedevi said. The policy framework is being strengthened through a mandatory Urban Road Code, a Cool Roof Policy, a Heatwave Action Plan and a Treated Water Reuse Policy. Of the 43 projects proposed under the Urban Challenge Fund (UCF), three have secured approval.",
-        "Heatwaves and erratic rainfall are becoming increasingly evident across Telangana, though their impact varies by region. The government says this calls for location-specific interventions based on climate data. The challenge is significant: the State’s cities account for net emissions of about 66.56 million tonnes of carbon dioxide equivalent, with buildings, transport, wastewater, waste management and urban expansion among the major contributors.",
-        "Some interventions are already under way. Bamboo misting bus shelters in Khammam use a low-carbon building material while providing relief to commuters. Bio-mining of legacy waste dumps is aimed at reducing methane emissions and reclaiming land. The government is also working to reduce non-revenue water through leak detection, pipeline renewal and digital monitoring, besides expanding underground sewerage networks and reusing treated wastewater.",
-        "The bio-mining programme has helped avoid an estimated 5.6 lakh tonnes of carbon dioxide equivalent emissions and reclaimed about 418 acres for productive urban use, Ms. Sreedevi said.",
-        "To coordinate these efforts, a State Climate Centre for Cities has been established at the office of the Commissioner and Director of Municipal Administration. It will coordinate city-level climate action plans, maintain a climate data repository and provide technical support to municipalities.",
-        "Dedicated Climate Change Cells, city-specific action plans and nine Climate Action Officers are also planned for municipal corporations outside Hyderabad: Greater Warangal, Karimnagar, Khammam, Nizamabad, Ramagundam, Nalgonda, Mancherial, Mahabubnagar and Kothagudem.",
-        "The Telangana Urban Climate Atlas, a climate intelligence platform, has been set up to help municipalities identify vulnerable zones, prioritise investments and track climate indicators. Capacity-building programmes have been conducted for representatives of 113 ULBs to strengthen preparedness and project planning.",
-        "A key intervention is the Cool Roof Policy, effective from April 1, 2023, to March 31, 2028. It targets 300 sq km of cool roofs, including 200 sq km in the Hyderabad metropolitan region and 100 sq km in other urban local bodies. Cool roofs reflect about 80% of incoming sunlight, against 20% for conventional roofs. They can lower indoor temperatures by 2.1°C to 4.3°C and reduce air-conditioning costs by up to 20%. Full implementation is expected to save nearly 600 million units of electricity annually and generate a one-time carbon offset of about 30 million tonnes of carbon dioxide.",
-        "The policy covers government and commercial buildings and residential properties on plots of 600 square yards and above. Compliance has been integrated into the ‘Build Now’ building approval system and linked to occupancy certification. The government has also set a three-year target for retrofitting all non-residential buildings.",
-        "Urban heat mitigation proposals for Ramagundam and Adilabad are being prepared under UCF financing. Both cities are among the 29 ULBs covered by the World Bank-supported Telangana Urban Transformation and Jobs Programme, which includes urban greening, shaded public spaces and cool-roof measures."
-      ],
-      "deepExplanation": "<strong>1. Core Context & Background:</strong> From bamboo bus shelters that offer shade and cooling to commuters, to the reclamation of waste dumps and the plugging of water supply leaks, Telangana is drawing up a broad plan to make its cities more resilient to climate change.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> The measures, backed by new urban policies and a project pipeline worth about ₹20,000 crore, are part of the State’s long-term Telangana Rising 2047 vision. The roadmap seeks to integrate climate concerns into urban planning, infrastructure development and municipal services across urban local bodies (ULBs), said Municipal Administration and Urban Development secretary T.K.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Both cities are among the 29 ULBs covered by the World Bank-supported Telangana Urban Transformation and Jobs Programme, which includes urban greening, shaded public spaces and cool-roof measures.",
-      "vocabList": [
-        "Shelters",
-        "Commuters",
-        "Reclamation",
-        "Plugging",
-        "Telangana",
-        "Resilient"
-      ],
-      "summary": "From bamboo bus shelters that offer shade and cooling to commuters, to the reclamation of waste dumps and the plugging of water supply leaks, Telangana is drawing up a broad plan to make its cities more resilient to climate change. The measures, backed by new urban policies and a project pipeline worth about ₹20,000 crore, are part of the State’s long-term Telangana Rising 2047 vision.",
-      "keyPoints": "• From bamboo bus shelters that offer shade and cooling to commuters, to the reclamation of waste dumps and the plugging of water supply leaks, Telangana is drawing up a broad plan to make its cities more resilient to climate change. The measures, backed by new urban policies and a project pipeline worth about ₹20,000 crore, are part of the State’s long-term Telangana Rising 2047 vision.<br>• The roadmap seeks to integrate climate concerns into urban planning, infrastructure development and municipal services across urban local bodies (ULBs), said Municipal Administration and Urban Development secretary T.K. Sreedevi. The policy framework is being strengthened through a mandatory Urban Road Code, a Cool Roof Policy, a Heatwave Action Plan and a Treated Water Reuse Policy. Of the 43 projects proposed under the Urban Challenge Fund (UCF), three have secured approval.<br>• The roadmap seeks to integrate climate concerns into urban planning, infrastructure development and municipal services across urban local bodies (ULBs), Municipal Administration and Urban Development secretary T.K. Sreedevi said. The policy framework is being strengthened through a mandatory Urban Road Code, a Cool Roof Policy, a Heatwave Action Plan and a Treated Water Reuse Policy. Of the 43 projects proposed under the Urban Challenge Fund (UCF), three have secured approval."
-    },
-    {
-      "category": "national",
-      "categoryLabel": "🏛️ National & Polity",
-      "title": "Karnataka CM ridicules BJP leaders for trying to take credit for PM’s visit",
-      "link": "https://www.thehindu.com/news/national/karnataka/karnataka-cm-ridicules-bjp-leaders-for-trying-to-take-credit-for-pms-visit/article71675717.ece",
-      "pubDate": "Sat, 07 Nov 2026 00:55:50 +0530",
-      "dateIso": "2026-11-07",
-      "dateDisplay": "07 Nov 2026",
-      "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
-      "imageUrl": "https://th-i.thgim.com/public/incoming/y70je0/article71676061.ece/alternates/LANDSCAPE_1200/ALL_9104A.JPG",
-      "fullParagraphs": [
-        "Chief Minister D.K. Shivakumar on Friday alleged that some BJP leaders were trying to take credit for Prime Minister Narendra Modi’s visit to Bengaluru on November 13 to inaugurate the metro Pink Line, even though he was arriving on the official invitation of the State government.",
-        "Without taking the name of BJP MP Tejasvi Surya, the Chief Minister alleged that some BJP leaders were trying to take publicity by claiming that they were responsible for the Prime Minsiter’s proposed visit.",
-        "Speaking to media persons in Kanakapura, he wondered why the BJP leaders were tying to take publicity for this event though they had nothing to do with it.",
-        "“We are developing metro network by borrowing money. I will present some of these issues before the Prime Minister on November 13,” he said."
-      ],
-      "deepExplanation": "<strong>1. Core Context & Background:</strong> Shivakumar on Friday alleged that some BJP leaders were trying to take credit for Prime Minister Narendra Modi’s visit to Bengaluru on November 13 to inaugurate the metro Pink Line, even though he was arriving on the official invitation of the State government.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Without taking the name of BJP MP Tejasvi Surya, the Chief Minister alleged that some BJP leaders were trying to take publicity by claiming that they were responsible for the Prime Minsiter’s proposed visit. Speaking to media persons in Kanakapura, he wondered why the BJP leaders were tying to take publicity for this event though they had nothing to do with it.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> I will present some of these issues before the Prime Minister on November 13,” he said.",
-      "vocabList": [
-        "Shivakumar",
-        "Narendra",
-        "Bengaluru",
-        "November",
-        "Inaugurate",
-        "Arriving"
-      ],
-      "summary": "Chief Minister D.K. Shivakumar on Friday alleged that some BJP leaders were trying to take credit for Prime Minister Narendra Modi’s visit to Bengaluru on November 13 to inaugurate the metro Pink Line, even though he was arriving on the official invitation of the State government.",
-      "keyPoints": "• Chief Minister D.K. Shivakumar on Friday alleged that some BJP leaders were trying to take credit for Prime Minister Narendra Modi’s visit to Bengaluru on November 13 to inaugurate the metro Pink Line, even though he was arriving on the official invitation of the State government.<br>• Without taking the name of BJP MP Tejasvi Surya, the Chief Minister alleged that some BJP leaders were trying to take publicity by claiming that they were responsible for the Prime Minsiter’s proposed visit.<br>• Speaking to media persons in Kanakapura, he wondered why the BJP leaders were tying to take publicity for this event though they had nothing to do with it."
-    },
-    {
-      "category": "national",
-      "categoryLabel": "🏛️ National & Polity",
-      "title": "Governor asks for status report on all public universities in Karnataka",
-      "link": "https://www.thehindu.com/news/national/karnataka/governor-asks-for-status-report-on-all-public-universities-in-karnataka/article71675530.ece",
-      "pubDate": "Sat, 07 Nov 2026 00:55:44 +0530",
-      "dateIso": "2026-11-07",
-      "dateDisplay": "07 Nov 2026",
-      "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
-      "imageUrl": "https://th-i.thgim.com/public/incoming/uzvukr/article71676065.ece/alternates/LANDSCAPE_1200/Karnataka-gets-GBDGLGBGO.3.jpg.jpg",
-      "fullParagraphs": [
-        "Sudha Yadav, Governor of Karnataka and Chancellor of universities in the State, directed all public universities in the State to conduct a comprehensive review of their current operations and identify areas requiring improvement. The Governor instructed all Vice-Chancellors to prepare and submit a detailed report on the same. “This report should cover the current status of their respective universities, key achievements, challenges, shortcomings, and specific measures proposed for improvement,” she stated.",
-        "Addressing the Vice-Chancellors of various universities and officials from the Karnataka State Higher Education Council at Lok Bhavan, the Governor emphasised the need to strengthen the quality, transparency, accountability and overall performance of universities across the State.",
-        "“Emphasis must be placed on the effective implementation of the National Education Policy and the State Education Policy, strong coordination between industries and universities, as well as skill development, research, innovation and employability,” she said.",
-        "The Governor called upon all Vice-Chancellors and the Karnataka State Higher Education Council to work in coordination and collaboration to strengthen the higher education system in Karnataka."
-      ],
-      "deepExplanation": "<strong>1. Core Context & Background:</strong> Sudha Yadav, Governor of Karnataka and Chancellor of universities in the State, directed all public universities in the State to conduct a comprehensive review of their current operations and identify areas requiring improvement.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> The Governor instructed all Vice-Chancellors to prepare and submit a detailed report on the same. “This report should cover the current status of their respective universities, key achievements, challenges, shortcomings, and specific measures proposed for improvement,” she stated.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> The Governor called upon all Vice-Chancellors and the Karnataka State Higher Education Council to work in coordination and collaboration to strengthen the higher education system in Karnataka.",
-      "vocabList": [
-        "Governor",
-        "Karnataka",
-        "Chancellor",
-        "Universities",
-        "Directed",
-        "Comprehensive"
-      ],
-      "summary": "Sudha Yadav, Governor of Karnataka and Chancellor of universities in the State, directed all public universities in the State to conduct a comprehensive review of their current operations and identify areas requiring improvement. The Governor instructed all Vice-Chancellors to prepare and submit a detailed report on the same. “This report should cover the current status of their respective universities, key achievements, challenges, shortcomings, and specific measures proposed for improvement,” she stated.",
-      "keyPoints": "• Sudha Yadav, Governor of Karnataka and Chancellor of universities in the State, directed all public universities in the State to conduct a comprehensive review of their current operations and identify areas requiring improvement. The Governor instructed all Vice-Chancellors to prepare and submit a detailed report on the same. “This report should cover the current status of their respective universities, key achievements, challenges, shortcomings, and specific measures proposed for improvement,” she stated.<br>• Addressing the Vice-Chancellors of various universities and officials from the Karnataka State Higher Education Council at Lok Bhavan, the Governor emphasised the need to strengthen the quality, transparency, accountability and overall performance of universities across the State.<br>• “Emphasis must be placed on the effective implementation of the National Education Policy and the State Education Policy, strong coordination between industries and universities, as well as skill development, research, innovation and employability,” she said."
-    },
-    {
-      "category": "national",
-      "categoryLabel": "🏛️ National & Polity",
-      "title": "Periyar Arivulagam books row: political leaders raise concern over allegations, call for action",
-      "link": "https://www.thehindu.com/news/national/tamil-nadu/periyar-arivulagam-books-row-political-leaders-raise-concern-over-allegations-call-for-action/article71674446.ece",
-      "pubDate": "Sat, 07 Nov 2026 00:53:54 +0530",
-      "dateIso": "2026-11-07",
-      "dateDisplay": "07 Nov 2026",
-      "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
-      "imageUrl": "https://th-i.thgim.com/public/incoming/ueb65i/article71676047.ece/alternates/LANDSCAPE_1200/DSC_1396.JPG",
-      "fullParagraphs": [
-        "After writer Perumal Murugan wrote about alleged irregularities in the procurement of books for Periyar Arivulagam, a newly inaugurated public library in Coimbatore, Makkal Needhi Maiam (MNM) founder and Rajya Sabha Member Kamal Haasan said on Friday that “there can be no greater disgrace to the Tamil language than this”.",
-        "He pointed out that books containing fabricated information could cause immense damage in the long run. In a statement, he said the reputation of Tamil language would be irreparably damaged if people read, took notes, and incorporated the contents of (fabricated books) into speeches, written works, and research.",
-        "“Whoever is responsible for this has betrayed the Tamil language. I urge the Government of Tamil Nadu to immediately withdraw these fake books from all libraries and have them dumped on the streets and burnt. The publishing houses responsible for this must be sealed. We owe a debt of gratitude to writer Mr. Murugan for exposing this fraud,” Mr. Haasan said.",
-        "Manithaneya Makkal Katchi president and MLA M.H. Jawahirullah said allegations raised by Mr. Murugan had caused considerable shock and concern.",
-        "Manithaneya Makkal Katchi president M.H. Jawahirullah. | Photo Credit: B. VELANKANNI RAJ",
-        "He said: “It has come to light that 1,800 books published under the name of a publishing house called Akalvilakku Publications have been procured and placed on the library’s fourth floor. This publishing house, which is unfamiliar to serious readers, has raised suspicions that it may have been established specifically to supply books to the library. Furthermore, Mr. Murugan has alleged that books were produced with the assistance of artificial intelligence, without the proper application of technical expertise; that the authors’ names are either pseudonyms or fictitious; that the International Standard Book Numbers (ISBNs) mentioned in the books cannot be found when checked online; and that the publisher’s address also appears to be unreliable,” he said.",
-        "Mr. Jawahirullah said, “An independent committee must be constituted to examine all books procured for the Periyar Arivulagam to date, including their publishers, authors, ISBNs, and pricing details, and a thorough inquiry must be conducted into the registration, addresses, owners, and activities of the suspicious publishing houses, including Agal Vilakku Publications.”",
-        "Tamil Nadu Congress Committee (TNCC) president and Virudhunagar MP B. Manickam Tagore alleged: “Everyone knows that the DMK government was replete with enormous corruption. No scheme was devoid of corruption. If there has been this level of corruption in the procurement of books, it is scary to think how much corruption would have been there in the construction of the building. The Tamil Nadu government should order an investigation.”",
-        "TNCC president B. Manickam Tagore. | Photo Credit: B. JOTHI RAMALINGAM",
-        "He added that all the books kept in Periyar Arivulagam should be audited and fabricated books should be removed.",
-        "PMK president Anbumani Ramadoss urged the State government to investigate the allegations of corruption that have surfaced in the procurement of book for the public library, which was established by the DMK government.",
-        "PMK president Anbumani Ramadoss. | Photo Credit: S. SIVA SARAVANAN"
-      ],
-      "deepExplanation": "<strong>1. Core Context & Background:</strong> After writer Perumal Murugan wrote about alleged irregularities in the procurement of books for Periyar Arivulagam, a newly inaugurated public library in Coimbatore, Makkal Needhi Maiam (MNM) founder and Rajya Sabha Member Kamal Haasan said on Friday that “there can be no greater disgrace to the Tamil language than this”.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> He pointed out that books containing fabricated information could cause immense damage in the long run. In a statement, he said the reputation of Tamil language would be irreparably damaged if people read, took notes, and incorporated the contents of (fabricated books) into speeches, written works, and research.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> PMK president Anbumani Ramadoss urged the State government to investigate the allegations of corruption that have surfaced in the procurement of book for the public library, which was established by the DMK government.",
-      "vocabList": [
-        "Irregularities",
-        "Procurement",
-        "Arivulagam",
-        "Inaugurated",
-        "Coimbatore",
-        "Disgrace"
-      ],
-      "summary": "After writer Perumal Murugan wrote about alleged irregularities in the procurement of books for Periyar Arivulagam, a newly inaugurated public library in Coimbatore, Makkal Needhi Maiam (MNM) founder and Rajya Sabha Member Kamal Haasan said on Friday that “there can be no greater disgrace to the Tamil language than this”.",
-      "keyPoints": "• After writer Perumal Murugan wrote about alleged irregularities in the procurement of books for Periyar Arivulagam, a newly inaugurated public library in Coimbatore, Makkal Needhi Maiam (MNM) founder and Rajya Sabha Member Kamal Haasan said on Friday that “there can be no greater disgrace to the Tamil language than this”.<br>• He pointed out that books containing fabricated information could cause immense damage in the long run. In a statement, he said the reputation of Tamil language would be irreparably damaged if people read, took notes, and incorporated the contents of (fabricated books) into speeches, written works, and research.<br>• “Whoever is responsible for this has betrayed the Tamil language. I urge the Government of Tamil Nadu to immediately withdraw these fake books from all libraries and have them dumped on the streets and burnt. The publishing houses responsible for this must be sealed. We owe a debt of gratitude to writer Mr. Murugan for exposing this fraud,” Mr. Haasan said."
     },
     {
       "category": "economy",
@@ -956,14 +963,46 @@
     "2026-11-07": {
       "dateIso": "2026-11-07",
       "dateDisplay": "07 Nov 2026",
-      "updatedAt": "07 Nov 2026, 01:26 AM IST",
+      "updatedAt": "07 Nov 2026, 02:34 AM IST",
       "articles": [
+        {
+          "category": "national",
+          "categoryLabel": "🏛️ National & Polity",
+          "title": "West Bengal election is not legally valid: Former CEC S.Y. Quraishi",
+          "link": "https://www.thehindu.com/news/national/west-bengal/west-bengal-election-is-not-legally-validformer-cec-sy-quraishi/article71674557.ece",
+          "pubDate": "Sat, 07 Nov 2026 01:57:48 +0530",
+          "dateIso": "2026-11-07",
+          "dateDisplay": "07 Nov 2026",
+          "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/nbyo7g/article71676078.ece/alternates/LANDSCAPE_1200/In-India-votinG4TG7AQV3.3.jpg.jpg",
+          "fullParagraphs": [
+            "Former Chief Election Commissioner S.Y. Quraishi alleged that the West Bengal elections were not legally valid. He reinstated that the decisions at the Election Commission of India should be based on a majority.",
+            "“Were the West Bengal elections legally valid? In my opinion, it was not. I have said this several times; I will say it again. Now it is in front of the Supreme Court; I am hoping they will take the right decision,” Mr. Quraishi said. He further added that some parts of it may have been valid but also said that in places where there was suspicious of majority Muslim voters being removed must be rechecked and go for re-polls if needed.",
+            "“This government has been in power for 6-7 months. People are happy. But some people are raising questions, maybe because they did not get the outcome that they desired,” Minister Dilip Ghosh said on Friday (November 6, 2026), reacting to Mr. Quraishi’s allegations. He also warned that accepting the people’s verdict and choice of government is the right decision; otherwise the people opposing it have a “tough” road ahead.",
+            "This comes after the former CEC raised allegations against the SIR process and discrepancies at the West Bengal elections while delivering the keynote address at the Hashim Abdul Halim Memorial Lecture on Thursday (November 5, 2026) in Kolkata.",
+            "“The CEC is not the Election Commission. The rules first call for unanimous decisions. If that is not possible, there must be a majority-based decision among the three members of the ECI,” Mr. Quraishi said. He added that the CEC is not the ECI on their own, and their decision alone cannot be final.",
+            "The former CEC said this in reference to The Indian Express report, which had claimed that election commissioners Sukhbir Singh Sandhu and Vivek Joshi had raised at least 14 objections to the various decisions allegedly taken unilaterally by CEC Gyanesh Kumar.",
+            "Meanwhile, Mr. Quraishi also said that the voter is not supposed to beg for their voting rights; rather, tradition in the past ensured that voter cards were delivered to the homes of each voter, and they did not have to negotiate to be included in the voter lists. He accused the special intensive revision (SIR) was used as a process to do backdoor checks for citizenships.",
+            "“It was neither smooth nor transparent. So many questions were raised that are currently being heard in the Supreme Court. Now, things will come out clearly once their judgment arrives, regarding what went wrong and what was correct,” Mr. Quraishi added."
+          ],
+          "deepExplanation": "<strong>1. Core Context & Background:</strong> Former Chief Election Commissioner S.Y.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Quraishi alleged that the West Bengal elections were not legally valid. He reinstated that the decisions at the Election Commission of India should be based on a majority.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Now, things will come out clearly once their judgment arrives, regarding what went wrong and what was correct,” Mr.",
+          "vocabList": [
+            "Election",
+            "Commissioner",
+            "Quraishi",
+            "Elections",
+            "Reinstated",
+            "Decisions"
+          ],
+          "summary": "Former Chief Election Commissioner S.Y. Quraishi alleged that the West Bengal elections were not legally valid. He reinstated that the decisions at the Election Commission of India should be based on a majority.",
+          "keyPoints": "• Former Chief Election Commissioner S.Y. Quraishi alleged that the West Bengal elections were not legally valid. He reinstated that the decisions at the Election Commission of India should be based on a majority.<br>• “Were the West Bengal elections legally valid? In my opinion, it was not. I have said this several times; I will say it again. Now it is in front of the Supreme Court; I am hoping they will take the right decision,” Mr. Quraishi said. He further added that some parts of it may have been valid but also said that in places where there was suspicious of majority Muslim voters being removed must be rechecked and go for re-polls if needed.<br>• “This government has been in power for 6-7 months. People are happy. But some people are raising questions, maybe because they did not get the outcome that they desired,” Minister Dilip Ghosh said on Friday (November 6, 2026), reacting to Mr. Quraishi’s allegations. He also warned that accepting the people’s verdict and choice of government is the right decision; otherwise the people opposing it have a “tough” road ahead."
+        },
         {
           "category": "national",
           "categoryLabel": "🏛️ National & Polity",
           "title": "Agasthyamalai conservation case: SC directs temporary and non-resident silk cotton cultivators not eligible for protection under FRA Act",
           "link": "https://www.thehindu.com/news/national/agasthyamalai-conservation-case-sc-directs-temporary-and-non-resident-silk-cotton-cultivators-not-eligible-for-protection-under-fra-act/article71675811.ece",
-          "pubDate": "Sat, 07 Nov 2026 01:07:17 +0530",
+          "pubDate": "Sat, 07 Nov 2026 01:47:51 +0530",
           "dateIso": "2026-11-07",
           "dateDisplay": "07 Nov 2026",
           "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
@@ -996,6 +1035,109 @@
         {
           "category": "national",
           "categoryLabel": "🏛️ National & Polity",
+          "title": "Pakistan says willing to issue visa to Punjab CM Bhagwant Mann for visit",
+          "link": "https://www.thehindu.com/news/national/punjab/pakistan-says-willing-to-issue-visa-to-punjab-cm-bhagwant-mann-for-visit/article71676075.ece",
+          "pubDate": "Sat, 07 Nov 2026 01:40:09 +0530",
+          "dateIso": "2026-11-07",
+          "dateDisplay": "07 Nov 2026",
+          "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/6dftmh/article71676076.ece/alternates/LANDSCAPE_1200/20261104137L.jpg",
+          "fullParagraphs": [
+            "Pakistan on Friday (November 6, 2026) said it would consider issuing a visa to Punjab Chief Minister Bhagwant Mann if the Indian politician wished to visit the country.",
+            "Pakistan Foreign Office Spokesperson Sajjad Haider Khan made the remarks during his weekly media briefing in response to a question about the possible visit of the Aam Aadmi Party (AAP) leader.",
+            "The Pakistani government would “consider issuing him a visa if he wished to visit the country”, Mr. Khan said, clarifying that whether the Indian government permits Mr. Mann to travel to Pakistan was an entirely separate matter.",
+            "On October 23, Mr. Mann had said that he had been invited to attend the World Punjabi Conference in Lahore on November 27.",
+            "However, he questioned whether he would be allowed to travel to Pakistan. “Our culture is the same. Many poets from here will go there,” he had said.",
+            "Mr. Mann had also expressed his desire that all legislators of the Punjab Legislative Assembly visit Kartarpur Sahib in Pakistan if the Kartarpur Corridor reopened.",
+            "The corridor, which connects Dera Baba Nanak in India's Punjab with the historic Gurdwara Darbar Sahib in Kartarpur, Pakistan, was established to facilitate Sikh pilgrims travelling to the shrine associated with Guru Nanak Dev, the founder of Sikhism.",
+            "It allows Indian pilgrims to visit the gurdwara without requiring a visa for Pakistan, subject to the applicable arrangements.",
+            "The corridor has remained closed to pilgrim movement from the Indian side since May 7, 2025, when India launched pre-dawn missile strikes on nine terror targets in Pakistan and Pakistan-occupied Kashmir following the Pahalgam terror attack.",
+            "Pakistan said it remained ready to facilitate pilgrims once the restrictions were lifted.",
+            "The foreign office spokesperson said Pakistan welcomes pilgrims of all faiths and remains committed to facilitating visits to religious sites.",
+            "He said the country issued more than 9,000 visas to Indian religious pilgrims in 2025, including Sikh and Hindu pilgrims, and issued over 4,000 additional visas to Sikh pilgrims during the first half of this year."
+          ],
+          "deepExplanation": "<strong>1. Core Context & Background:</strong> Pakistan on Friday (November 6, 2026) said it would consider issuing a visa to Punjab Chief Minister Bhagwant Mann if the Indian politician wished to visit the country.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Pakistan Foreign Office Spokesperson Sajjad Haider Khan made the remarks during his weekly media briefing in response to a question about the possible visit of the Aam Aadmi Party (AAP) leader. The Pakistani government would “consider issuing him a visa if he wished to visit the country”, Mr.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> He said the country issued more than 9,000 visas to Indian religious pilgrims in 2025, including Sikh and Hindu pilgrims, and issued over 4,000 additional visas to Sikh pilgrims during the first half of this year.",
+          "vocabList": [
+            "Pakistan",
+            "November",
+            "Consider",
+            "Bhagwant",
+            "Politician",
+            "Spokesperson"
+          ],
+          "summary": "Pakistan on Friday (November 6, 2026) said it would consider issuing a visa to Punjab Chief Minister Bhagwant Mann if the Indian politician wished to visit the country.",
+          "keyPoints": "• Pakistan on Friday (November 6, 2026) said it would consider issuing a visa to Punjab Chief Minister Bhagwant Mann if the Indian politician wished to visit the country.<br>• Pakistan Foreign Office Spokesperson Sajjad Haider Khan made the remarks during his weekly media briefing in response to a question about the possible visit of the Aam Aadmi Party (AAP) leader.<br>• The Pakistani government would “consider issuing him a visa if he wished to visit the country”, Mr. Khan said, clarifying that whether the Indian government permits Mr. Mann to travel to Pakistan was an entirely separate matter."
+        },
+        {
+          "category": "national",
+          "categoryLabel": "🏛️ National & Polity",
+          "title": "Supreme Court decision on BBMB arrears a victory for Himachal, says CM Sukhu",
+          "link": "https://www.thehindu.com/news/national/himachal-pradesh/supreme-court-decision-on-bbmb-arrears-a-victory-for-himachal-says-cm-sukhu/article71675039.ece",
+          "pubDate": "Sat, 07 Nov 2026 01:30:58 +0530",
+          "dateIso": "2026-11-07",
+          "dateDisplay": "07 Nov 2026",
+          "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/fuxivu/article71676074.ece/alternates/LANDSCAPE_1200/20261023191L.jpg",
+          "fullParagraphs": [
+            "Himachal Pradesh Chief Minister Sukhvinder Singh Sukhu on Friday (November 6, 2026) termed the Supreme Court’s decision directing Punjab and Haryana to supply 11,973 million units of electricity to the State over 20 years towards its outstanding dues from the Bhakra-Nangal and Beas hydroelectric projects a historic victory for its people.",
+            "The order settles a decades-old dispute over Himachal Pradesh’s 7.19% share in the power generated from the projects. The State will receive nearly 60 crore units annually during the lean season, generating an estimated revenue of ₹10,000 crore to ₹20,000 crore over the 20-year period, depending on electricity prices, Mr. Sukhu said in a statement.",
+            "He said the decision could fetch the State additional revenue of up to ₹1,000 crore annually. Even at ₹6 per unit, Himachal Pradesh would earn at least ₹500 crore a year, while a rate of ₹13-14 per unit would significantly increase the returns.",
+            "Mr. Sukhu attributed the outcome to the State government’s sustained legal battle and determination to secure its financial rights. He described it as the fourth major success in protecting Himachal Pradesh’s interests, citing earlier victories in matters relating to Wildflower Hall, the Kishau Dam among others.",
+            "The Chief Minister said the government was also pursuing its claims over the Shanan Power Project and the water cess.",
+            "The additional revenue, he said, would be used to strengthen education and healthcare, improve road infrastructure, generate employment and ensure timely payment of financial benefits to government employees.",
+            "Congratulating the State’s nearly 75 lakh residents, Mr. Sukhu said protecting its resources and making Himachal Pradesh self-reliant remained a top priority for his government."
+          ],
+          "deepExplanation": "<strong>1. Core Context & Background:</strong> Himachal Pradesh Chief Minister Sukhvinder Singh Sukhu on Friday (November 6, 2026) termed the Supreme Court’s decision directing Punjab and Haryana to supply 11,973 million units of electricity to the State over 20 years towards its outstanding dues from the Bhakra-Nangal and Beas hydroelectric projects a historic victory for its people.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> The order settles a decades-old dispute over Himachal Pradesh’s 7.19% share in the power generated from the projects. The State will receive nearly 60 crore units annually during the lean season, generating an estimated revenue of ₹10,000 crore to ₹20,000 crore over the 20-year period, depending on electricity prices, Mr.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Sukhu said protecting its resources and making Himachal Pradesh self-reliant remained a top priority for his government.",
+          "vocabList": [
+            "Himachal",
+            "Sukhvinder",
+            "November",
+            "Decision",
+            "Directing",
+            "Electricity"
+          ],
+          "summary": "Himachal Pradesh Chief Minister Sukhvinder Singh Sukhu on Friday (November 6, 2026) termed the Supreme Court’s decision directing Punjab and Haryana to supply 11,973 million units of electricity to the State over 20 years towards its outstanding dues from the Bhakra-Nangal and Beas hydroelectric projects a historic victory for its people.",
+          "keyPoints": "• Himachal Pradesh Chief Minister Sukhvinder Singh Sukhu on Friday (November 6, 2026) termed the Supreme Court’s decision directing Punjab and Haryana to supply 11,973 million units of electricity to the State over 20 years towards its outstanding dues from the Bhakra-Nangal and Beas hydroelectric projects a historic victory for its people.<br>• The order settles a decades-old dispute over Himachal Pradesh’s 7.19% share in the power generated from the projects. The State will receive nearly 60 crore units annually during the lean season, generating an estimated revenue of ₹10,000 crore to ₹20,000 crore over the 20-year period, depending on electricity prices, Mr. Sukhu said in a statement.<br>• He said the decision could fetch the State additional revenue of up to ₹1,000 crore annually. Even at ₹6 per unit, Himachal Pradesh would earn at least ₹500 crore a year, while a rate of ₹13-14 per unit would significantly increase the returns."
+        },
+        {
+          "category": "national",
+          "categoryLabel": "🏛️ National & Polity",
+          "title": "A missing persons complaint that unravelled Bengaluru’s seven murders",
+          "link": "https://www.thehindu.com/news/cities/bangalore/a-missing-persons-complaint-that-unravelled-bengalurus-seven-murders/article71675640.ece",
+          "pubDate": "Sat, 07 Nov 2026 01:11:07 +0530",
+          "dateIso": "2026-11-07",
+          "dateDisplay": "07 Nov 2026",
+          "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/galcuk/article71675839.ece/alternates/LANDSCAPE_1200/PTI11_06_2026_000134A.jpg",
+          "fullParagraphs": [
+            "It was not until the mother of Nalini, one of the seven allegedly killed by cab driver-turned-YouTuber Indushekhar, lodged a missing person complaint that the police found the first clue to the murders. While the murders allegedly took place between October 16 and October 31, the last two bodies were disposed of on November 1 or 2.",
+            "Senior police officers said that Sunita, the accused’s wife, and Roopavathi, his mother-in-law, were the first to be murdered. Sunita and Indushekhar had been married for 20 years, and an officer said they had been having regular arguments throughout their marriage. Sunita worked as a typist for an advocate, while Indushekhar was a cab driver. Their respective jobs were often a point of contention between them.",
+            "“Indushekhar claimed that he was verbally abused and harassed by his wife and her family, while her brothers also encouraged her to fight with him,” a senior officer said.",
+            "Prima facie , the police have found that Indushekhar had been planning the murders for over a year. The growing friction and pent-up anger allegedly came to a head following a recent meeting.",
+            "“The accused claimed that Roopavathi had visited his house on October 14, when she and Sunita reportedly verbally abused him. This became a trigger point, and he wanted to eliminate them,” the officer said.",
+            "According to the police, Sunita and Roopavathi were murdered first. Subsequently, the accused invited Sunita’s younger brother Shivakumar and his wife Divya to his house on the pretext of hosting a dinner party. The couple were then killed along with their seven-year-old son Puneeth. On October 30, the accused allegedly invited Shankar, another brother of Sunita, and his wife Nalini, and allegedly murdered them.",
+            "On November 3, Tungamma, Nalini’s mother, approached the police, stating that her daughter’s phone was switched off and that their house in Srirampura was also locked. Tungamma subsequently went to Indushekar’s house to check on him but found that his house was locked as well.",
+            "Sensing that something was amiss, she contacted Divya’s mother Kalavathi, who also said that her daughter and son-in-law were missing. Tungamma then lodged a missing person complaint with the Srirampura police.",
+            "Karthik, a shopkeeper near Indushekhar’s house, said a police team visited the house on November 3 and made inquiries about Indushekhar among the neighbourhood residents. “They also came the next day and questioned people because Indushekhar’s house was locked,” he said.",
+            "A senior officer told The Hindu that the police grew suspicious and began tracking Indushekhar. Several technical inputs indicated that he was on the move. “Finally, when he was in the city, we tracked him and intercepted his car,” he said.",
+            "High drama unfolded near the Rajajinagar police station on Friday as Nalini’s family accused the police of delaying action on their complaint. “We approached the police on November 1 itself, but they did not register our complaint. Only after two days did they take it up,” a family member alleged.",
+            "Bengaluru City Police Commissioner Seemant Kumar Singh refuted the allegations and said that action would be taken against the officers if any lapses were found."
+          ],
+          "deepExplanation": "<strong>1. Core Context & Background:</strong> It was not until the mother of Nalini, one of the seven allegedly killed by cab driver-turned-YouTuber Indushekhar, lodged a missing person complaint that the police found the first clue to the murders.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> While the murders allegedly took place between October 16 and October 31, the last two bodies were disposed of on November 1 or 2. Senior police officers said that Sunita, the accused’s wife, and Roopavathi, his mother-in-law, were the first to be murdered.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Bengaluru City Police Commissioner Seemant Kumar Singh refuted the allegations and said that action would be taken against the officers if any lapses were found.",
+          "vocabList": [
+            "Allegedly",
+            "Youtuber",
+            "Indushekhar",
+            "Complaint",
+            "Disposed",
+            "November"
+          ],
+          "summary": "It was not until the mother of Nalini, one of the seven allegedly killed by cab driver-turned-YouTuber Indushekhar, lodged a missing person complaint that the police found the first clue to the murders. While the murders allegedly took place between October 16 and October 31, the last two bodies were disposed of on November 1 or 2.",
+          "keyPoints": "• It was not until the mother of Nalini, one of the seven allegedly killed by cab driver-turned-YouTuber Indushekhar, lodged a missing person complaint that the police found the first clue to the murders. While the murders allegedly took place between October 16 and October 31, the last two bodies were disposed of on November 1 or 2.<br>• Senior police officers said that Sunita, the accused’s wife, and Roopavathi, his mother-in-law, were the first to be murdered. Sunita and Indushekhar had been married for 20 years, and an officer said they had been having regular arguments throughout their marriage. Sunita worked as a typist for an advocate, while Indushekhar was a cab driver. Their respective jobs were often a point of contention between them.<br>• “Indushekhar claimed that he was verbally abused and harassed by his wife and her family, while her brothers also encouraged her to fight with him,” a senior officer said."
+        },
+        {
+          "category": "national",
+          "categoryLabel": "🏛️ National & Polity",
           "title": "Did all the murders happen in the small house on the terrace?",
           "link": "https://www.thehindu.com/news/national/karnataka/did-all-the-murders-happen-in-the-small-house-on-the-terrace/article71675859.ece",
           "pubDate": "Sat, 07 Nov 2026 01:04:40 +0530",
@@ -1022,134 +1164,6 @@
           ],
           "summary": "Indushekhar lived with his wife Sunita and daughter in a small house, barely 500 sq. ft, on the terrace of a two-storey building, nestled among several commercial establishments, 50 metres from the famous Bhashyam Circle, Rajajinagar.",
           "keyPoints": "• Indushekhar lived with his wife Sunita and daughter in a small house, barely 500 sq. ft, on the terrace of a two-storey building, nestled among several commercial establishments, 50 metres from the famous Bhashyam Circle, Rajajinagar.<br>• The building has commercial establishments on the ground floor, including a watch repair shop, a tea stall and a small condiments shop. The entire first floor was occupied by a small political party. Indushekar’s house is on the second floor, which also serves as the terrace.<br>• Household appliances were crammed into the space, with several other household items scattered around. A board on the wall read, “Police Voice”."
-        },
-        {
-          "category": "national",
-          "categoryLabel": "🏛️ National & Polity",
-          "title": "Bamboo shelters, cool roofs to climate-proof Telangana cities",
-          "link": "https://www.thehindu.com/news/national/telangana/bamboo-shelters-cool-roofs-to-climate-proof-telangana-cities/article71671169.ece",
-          "pubDate": "Sat, 07 Nov 2026 01:01:21 +0530",
-          "dateIso": "2026-11-07",
-          "dateDisplay": "07 Nov 2026",
-          "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
-          "imageUrl": "https://th-i.thgim.com/public/incoming/5g1sz0/article71676068.ece/alternates/LANDSCAPE_1200/hy06bamboo_bus_shelter.jpg",
-          "fullParagraphs": [
-            "From bamboo bus shelters that offer shade and cooling to commuters, to the reclamation of waste dumps and the plugging of water supply leaks, Telangana is drawing up a broad plan to make its cities more resilient to climate change. The measures, backed by new urban policies and a project pipeline worth about ₹20,000 crore, are part of the State’s long-term Telangana Rising 2047 vision.",
-            "The roadmap seeks to integrate climate concerns into urban planning, infrastructure development and municipal services across urban local bodies (ULBs), said Municipal Administration and Urban Development secretary T.K. Sreedevi. The policy framework is being strengthened through a mandatory Urban Road Code, a Cool Roof Policy, a Heatwave Action Plan and a Treated Water Reuse Policy. Of the 43 projects proposed under the Urban Challenge Fund (UCF), three have secured approval.",
-            "The roadmap seeks to integrate climate concerns into urban planning, infrastructure development and municipal services across urban local bodies (ULBs), Municipal Administration and Urban Development secretary T.K. Sreedevi said. The policy framework is being strengthened through a mandatory Urban Road Code, a Cool Roof Policy, a Heatwave Action Plan and a Treated Water Reuse Policy. Of the 43 projects proposed under the Urban Challenge Fund (UCF), three have secured approval.",
-            "Heatwaves and erratic rainfall are becoming increasingly evident across Telangana, though their impact varies by region. The government says this calls for location-specific interventions based on climate data. The challenge is significant: the State’s cities account for net emissions of about 66.56 million tonnes of carbon dioxide equivalent, with buildings, transport, wastewater, waste management and urban expansion among the major contributors.",
-            "Some interventions are already under way. Bamboo misting bus shelters in Khammam use a low-carbon building material while providing relief to commuters. Bio-mining of legacy waste dumps is aimed at reducing methane emissions and reclaiming land. The government is also working to reduce non-revenue water through leak detection, pipeline renewal and digital monitoring, besides expanding underground sewerage networks and reusing treated wastewater.",
-            "The bio-mining programme has helped avoid an estimated 5.6 lakh tonnes of carbon dioxide equivalent emissions and reclaimed about 418 acres for productive urban use, Ms. Sreedevi said.",
-            "To coordinate these efforts, a State Climate Centre for Cities has been established at the office of the Commissioner and Director of Municipal Administration. It will coordinate city-level climate action plans, maintain a climate data repository and provide technical support to municipalities.",
-            "Dedicated Climate Change Cells, city-specific action plans and nine Climate Action Officers are also planned for municipal corporations outside Hyderabad: Greater Warangal, Karimnagar, Khammam, Nizamabad, Ramagundam, Nalgonda, Mancherial, Mahabubnagar and Kothagudem.",
-            "The Telangana Urban Climate Atlas, a climate intelligence platform, has been set up to help municipalities identify vulnerable zones, prioritise investments and track climate indicators. Capacity-building programmes have been conducted for representatives of 113 ULBs to strengthen preparedness and project planning.",
-            "A key intervention is the Cool Roof Policy, effective from April 1, 2023, to March 31, 2028. It targets 300 sq km of cool roofs, including 200 sq km in the Hyderabad metropolitan region and 100 sq km in other urban local bodies. Cool roofs reflect about 80% of incoming sunlight, against 20% for conventional roofs. They can lower indoor temperatures by 2.1°C to 4.3°C and reduce air-conditioning costs by up to 20%. Full implementation is expected to save nearly 600 million units of electricity annually and generate a one-time carbon offset of about 30 million tonnes of carbon dioxide.",
-            "The policy covers government and commercial buildings and residential properties on plots of 600 square yards and above. Compliance has been integrated into the ‘Build Now’ building approval system and linked to occupancy certification. The government has also set a three-year target for retrofitting all non-residential buildings.",
-            "Urban heat mitigation proposals for Ramagundam and Adilabad are being prepared under UCF financing. Both cities are among the 29 ULBs covered by the World Bank-supported Telangana Urban Transformation and Jobs Programme, which includes urban greening, shaded public spaces and cool-roof measures."
-          ],
-          "deepExplanation": "<strong>1. Core Context & Background:</strong> From bamboo bus shelters that offer shade and cooling to commuters, to the reclamation of waste dumps and the plugging of water supply leaks, Telangana is drawing up a broad plan to make its cities more resilient to climate change.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> The measures, backed by new urban policies and a project pipeline worth about ₹20,000 crore, are part of the State’s long-term Telangana Rising 2047 vision. The roadmap seeks to integrate climate concerns into urban planning, infrastructure development and municipal services across urban local bodies (ULBs), said Municipal Administration and Urban Development secretary T.K.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Both cities are among the 29 ULBs covered by the World Bank-supported Telangana Urban Transformation and Jobs Programme, which includes urban greening, shaded public spaces and cool-roof measures.",
-          "vocabList": [
-            "Shelters",
-            "Commuters",
-            "Reclamation",
-            "Plugging",
-            "Telangana",
-            "Resilient"
-          ],
-          "summary": "From bamboo bus shelters that offer shade and cooling to commuters, to the reclamation of waste dumps and the plugging of water supply leaks, Telangana is drawing up a broad plan to make its cities more resilient to climate change. The measures, backed by new urban policies and a project pipeline worth about ₹20,000 crore, are part of the State’s long-term Telangana Rising 2047 vision.",
-          "keyPoints": "• From bamboo bus shelters that offer shade and cooling to commuters, to the reclamation of waste dumps and the plugging of water supply leaks, Telangana is drawing up a broad plan to make its cities more resilient to climate change. The measures, backed by new urban policies and a project pipeline worth about ₹20,000 crore, are part of the State’s long-term Telangana Rising 2047 vision.<br>• The roadmap seeks to integrate climate concerns into urban planning, infrastructure development and municipal services across urban local bodies (ULBs), said Municipal Administration and Urban Development secretary T.K. Sreedevi. The policy framework is being strengthened through a mandatory Urban Road Code, a Cool Roof Policy, a Heatwave Action Plan and a Treated Water Reuse Policy. Of the 43 projects proposed under the Urban Challenge Fund (UCF), three have secured approval.<br>• The roadmap seeks to integrate climate concerns into urban planning, infrastructure development and municipal services across urban local bodies (ULBs), Municipal Administration and Urban Development secretary T.K. Sreedevi said. The policy framework is being strengthened through a mandatory Urban Road Code, a Cool Roof Policy, a Heatwave Action Plan and a Treated Water Reuse Policy. Of the 43 projects proposed under the Urban Challenge Fund (UCF), three have secured approval."
-        },
-        {
-          "category": "national",
-          "categoryLabel": "🏛️ National & Polity",
-          "title": "Karnataka CM ridicules BJP leaders for trying to take credit for PM’s visit",
-          "link": "https://www.thehindu.com/news/national/karnataka/karnataka-cm-ridicules-bjp-leaders-for-trying-to-take-credit-for-pms-visit/article71675717.ece",
-          "pubDate": "Sat, 07 Nov 2026 00:55:50 +0530",
-          "dateIso": "2026-11-07",
-          "dateDisplay": "07 Nov 2026",
-          "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
-          "imageUrl": "https://th-i.thgim.com/public/incoming/y70je0/article71676061.ece/alternates/LANDSCAPE_1200/ALL_9104A.JPG",
-          "fullParagraphs": [
-            "Chief Minister D.K. Shivakumar on Friday alleged that some BJP leaders were trying to take credit for Prime Minister Narendra Modi’s visit to Bengaluru on November 13 to inaugurate the metro Pink Line, even though he was arriving on the official invitation of the State government.",
-            "Without taking the name of BJP MP Tejasvi Surya, the Chief Minister alleged that some BJP leaders were trying to take publicity by claiming that they were responsible for the Prime Minsiter’s proposed visit.",
-            "Speaking to media persons in Kanakapura, he wondered why the BJP leaders were tying to take publicity for this event though they had nothing to do with it.",
-            "“We are developing metro network by borrowing money. I will present some of these issues before the Prime Minister on November 13,” he said."
-          ],
-          "deepExplanation": "<strong>1. Core Context & Background:</strong> Shivakumar on Friday alleged that some BJP leaders were trying to take credit for Prime Minister Narendra Modi’s visit to Bengaluru on November 13 to inaugurate the metro Pink Line, even though he was arriving on the official invitation of the State government.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Without taking the name of BJP MP Tejasvi Surya, the Chief Minister alleged that some BJP leaders were trying to take publicity by claiming that they were responsible for the Prime Minsiter’s proposed visit. Speaking to media persons in Kanakapura, he wondered why the BJP leaders were tying to take publicity for this event though they had nothing to do with it.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> I will present some of these issues before the Prime Minister on November 13,” he said.",
-          "vocabList": [
-            "Shivakumar",
-            "Narendra",
-            "Bengaluru",
-            "November",
-            "Inaugurate",
-            "Arriving"
-          ],
-          "summary": "Chief Minister D.K. Shivakumar on Friday alleged that some BJP leaders were trying to take credit for Prime Minister Narendra Modi’s visit to Bengaluru on November 13 to inaugurate the metro Pink Line, even though he was arriving on the official invitation of the State government.",
-          "keyPoints": "• Chief Minister D.K. Shivakumar on Friday alleged that some BJP leaders were trying to take credit for Prime Minister Narendra Modi’s visit to Bengaluru on November 13 to inaugurate the metro Pink Line, even though he was arriving on the official invitation of the State government.<br>• Without taking the name of BJP MP Tejasvi Surya, the Chief Minister alleged that some BJP leaders were trying to take publicity by claiming that they were responsible for the Prime Minsiter’s proposed visit.<br>• Speaking to media persons in Kanakapura, he wondered why the BJP leaders were tying to take publicity for this event though they had nothing to do with it."
-        },
-        {
-          "category": "national",
-          "categoryLabel": "🏛️ National & Polity",
-          "title": "Governor asks for status report on all public universities in Karnataka",
-          "link": "https://www.thehindu.com/news/national/karnataka/governor-asks-for-status-report-on-all-public-universities-in-karnataka/article71675530.ece",
-          "pubDate": "Sat, 07 Nov 2026 00:55:44 +0530",
-          "dateIso": "2026-11-07",
-          "dateDisplay": "07 Nov 2026",
-          "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
-          "imageUrl": "https://th-i.thgim.com/public/incoming/uzvukr/article71676065.ece/alternates/LANDSCAPE_1200/Karnataka-gets-GBDGLGBGO.3.jpg.jpg",
-          "fullParagraphs": [
-            "Sudha Yadav, Governor of Karnataka and Chancellor of universities in the State, directed all public universities in the State to conduct a comprehensive review of their current operations and identify areas requiring improvement. The Governor instructed all Vice-Chancellors to prepare and submit a detailed report on the same. “This report should cover the current status of their respective universities, key achievements, challenges, shortcomings, and specific measures proposed for improvement,” she stated.",
-            "Addressing the Vice-Chancellors of various universities and officials from the Karnataka State Higher Education Council at Lok Bhavan, the Governor emphasised the need to strengthen the quality, transparency, accountability and overall performance of universities across the State.",
-            "“Emphasis must be placed on the effective implementation of the National Education Policy and the State Education Policy, strong coordination between industries and universities, as well as skill development, research, innovation and employability,” she said.",
-            "The Governor called upon all Vice-Chancellors and the Karnataka State Higher Education Council to work in coordination and collaboration to strengthen the higher education system in Karnataka."
-          ],
-          "deepExplanation": "<strong>1. Core Context & Background:</strong> Sudha Yadav, Governor of Karnataka and Chancellor of universities in the State, directed all public universities in the State to conduct a comprehensive review of their current operations and identify areas requiring improvement.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> The Governor instructed all Vice-Chancellors to prepare and submit a detailed report on the same. “This report should cover the current status of their respective universities, key achievements, challenges, shortcomings, and specific measures proposed for improvement,” she stated.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> The Governor called upon all Vice-Chancellors and the Karnataka State Higher Education Council to work in coordination and collaboration to strengthen the higher education system in Karnataka.",
-          "vocabList": [
-            "Governor",
-            "Karnataka",
-            "Chancellor",
-            "Universities",
-            "Directed",
-            "Comprehensive"
-          ],
-          "summary": "Sudha Yadav, Governor of Karnataka and Chancellor of universities in the State, directed all public universities in the State to conduct a comprehensive review of their current operations and identify areas requiring improvement. The Governor instructed all Vice-Chancellors to prepare and submit a detailed report on the same. “This report should cover the current status of their respective universities, key achievements, challenges, shortcomings, and specific measures proposed for improvement,” she stated.",
-          "keyPoints": "• Sudha Yadav, Governor of Karnataka and Chancellor of universities in the State, directed all public universities in the State to conduct a comprehensive review of their current operations and identify areas requiring improvement. The Governor instructed all Vice-Chancellors to prepare and submit a detailed report on the same. “This report should cover the current status of their respective universities, key achievements, challenges, shortcomings, and specific measures proposed for improvement,” she stated.<br>• Addressing the Vice-Chancellors of various universities and officials from the Karnataka State Higher Education Council at Lok Bhavan, the Governor emphasised the need to strengthen the quality, transparency, accountability and overall performance of universities across the State.<br>• “Emphasis must be placed on the effective implementation of the National Education Policy and the State Education Policy, strong coordination between industries and universities, as well as skill development, research, innovation and employability,” she said."
-        },
-        {
-          "category": "national",
-          "categoryLabel": "🏛️ National & Polity",
-          "title": "Periyar Arivulagam books row: political leaders raise concern over allegations, call for action",
-          "link": "https://www.thehindu.com/news/national/tamil-nadu/periyar-arivulagam-books-row-political-leaders-raise-concern-over-allegations-call-for-action/article71674446.ece",
-          "pubDate": "Sat, 07 Nov 2026 00:53:54 +0530",
-          "dateIso": "2026-11-07",
-          "dateDisplay": "07 Nov 2026",
-          "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
-          "imageUrl": "https://th-i.thgim.com/public/incoming/ueb65i/article71676047.ece/alternates/LANDSCAPE_1200/DSC_1396.JPG",
-          "fullParagraphs": [
-            "After writer Perumal Murugan wrote about alleged irregularities in the procurement of books for Periyar Arivulagam, a newly inaugurated public library in Coimbatore, Makkal Needhi Maiam (MNM) founder and Rajya Sabha Member Kamal Haasan said on Friday that “there can be no greater disgrace to the Tamil language than this”.",
-            "He pointed out that books containing fabricated information could cause immense damage in the long run. In a statement, he said the reputation of Tamil language would be irreparably damaged if people read, took notes, and incorporated the contents of (fabricated books) into speeches, written works, and research.",
-            "“Whoever is responsible for this has betrayed the Tamil language. I urge the Government of Tamil Nadu to immediately withdraw these fake books from all libraries and have them dumped on the streets and burnt. The publishing houses responsible for this must be sealed. We owe a debt of gratitude to writer Mr. Murugan for exposing this fraud,” Mr. Haasan said.",
-            "Manithaneya Makkal Katchi president and MLA M.H. Jawahirullah said allegations raised by Mr. Murugan had caused considerable shock and concern.",
-            "Manithaneya Makkal Katchi president M.H. Jawahirullah. | Photo Credit: B. VELANKANNI RAJ",
-            "He said: “It has come to light that 1,800 books published under the name of a publishing house called Akalvilakku Publications have been procured and placed on the library’s fourth floor. This publishing house, which is unfamiliar to serious readers, has raised suspicions that it may have been established specifically to supply books to the library. Furthermore, Mr. Murugan has alleged that books were produced with the assistance of artificial intelligence, without the proper application of technical expertise; that the authors’ names are either pseudonyms or fictitious; that the International Standard Book Numbers (ISBNs) mentioned in the books cannot be found when checked online; and that the publisher’s address also appears to be unreliable,” he said.",
-            "Mr. Jawahirullah said, “An independent committee must be constituted to examine all books procured for the Periyar Arivulagam to date, including their publishers, authors, ISBNs, and pricing details, and a thorough inquiry must be conducted into the registration, addresses, owners, and activities of the suspicious publishing houses, including Agal Vilakku Publications.”",
-            "Tamil Nadu Congress Committee (TNCC) president and Virudhunagar MP B. Manickam Tagore alleged: “Everyone knows that the DMK government was replete with enormous corruption. No scheme was devoid of corruption. If there has been this level of corruption in the procurement of books, it is scary to think how much corruption would have been there in the construction of the building. The Tamil Nadu government should order an investigation.”",
-            "TNCC president B. Manickam Tagore. | Photo Credit: B. JOTHI RAMALINGAM",
-            "He added that all the books kept in Periyar Arivulagam should be audited and fabricated books should be removed.",
-            "PMK president Anbumani Ramadoss urged the State government to investigate the allegations of corruption that have surfaced in the procurement of book for the public library, which was established by the DMK government.",
-            "PMK president Anbumani Ramadoss. | Photo Credit: S. SIVA SARAVANAN"
-          ],
-          "deepExplanation": "<strong>1. Core Context & Background:</strong> After writer Perumal Murugan wrote about alleged irregularities in the procurement of books for Periyar Arivulagam, a newly inaugurated public library in Coimbatore, Makkal Needhi Maiam (MNM) founder and Rajya Sabha Member Kamal Haasan said on Friday that “there can be no greater disgrace to the Tamil language than this”.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> He pointed out that books containing fabricated information could cause immense damage in the long run. In a statement, he said the reputation of Tamil language would be irreparably damaged if people read, took notes, and incorporated the contents of (fabricated books) into speeches, written works, and research.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> PMK president Anbumani Ramadoss urged the State government to investigate the allegations of corruption that have surfaced in the procurement of book for the public library, which was established by the DMK government.",
-          "vocabList": [
-            "Irregularities",
-            "Procurement",
-            "Arivulagam",
-            "Inaugurated",
-            "Coimbatore",
-            "Disgrace"
-          ],
-          "summary": "After writer Perumal Murugan wrote about alleged irregularities in the procurement of books for Periyar Arivulagam, a newly inaugurated public library in Coimbatore, Makkal Needhi Maiam (MNM) founder and Rajya Sabha Member Kamal Haasan said on Friday that “there can be no greater disgrace to the Tamil language than this”.",
-          "keyPoints": "• After writer Perumal Murugan wrote about alleged irregularities in the procurement of books for Periyar Arivulagam, a newly inaugurated public library in Coimbatore, Makkal Needhi Maiam (MNM) founder and Rajya Sabha Member Kamal Haasan said on Friday that “there can be no greater disgrace to the Tamil language than this”.<br>• He pointed out that books containing fabricated information could cause immense damage in the long run. In a statement, he said the reputation of Tamil language would be irreparably damaged if people read, took notes, and incorporated the contents of (fabricated books) into speeches, written works, and research.<br>• “Whoever is responsible for this has betrayed the Tamil language. I urge the Government of Tamil Nadu to immediately withdraw these fake books from all libraries and have them dumped on the streets and burnt. The publishing houses responsible for this must be sealed. We owe a debt of gratitude to writer Mr. Murugan for exposing this fraud,” Mr. Haasan said."
         },
         {
           "category": "economy",
@@ -3738,32 +3752,144 @@
       "id": "gk_07 Nov 2026_1",
       "cat": "🏛️ National & Polity",
       "date": "07 Nov 2026",
+      "qEn": "[07 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"Former Chief Election Commissioner S.Y. Quraishi alleged that the West Bengal elections were not legally valid. He reinstated that...\"?",
+      "qHi": "[07 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"Former Chief Election Commissioner S.Y. Quraishi alleged that the West Bengal elections were not legally valid. He reinstated that...\"?",
+      "qMr": "[07 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"Former Chief Election Commissioner S.Y. Quraishi alleged that the West Bengal elections were not legally valid. He reinstated that...\"?",
+      "optsEn": [
+        "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "15th Finance Commission Special State Grant",
+        "Inter-State Council Constitutional Review Panel",
+        "West Bengal election is not legally valid: Former CEC S.Y. Quraishi"
+      ],
+      "optsHi": [
+        "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "15th Finance Commission Special State Grant",
+        "Inter-State Council Constitutional Review Panel",
+        "West Bengal election is not legally valid: Former CEC S.Y. Quraishi"
+      ],
+      "optsMr": [
+        "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "15th Finance Commission Special State Grant",
+        "Inter-State Council Constitutional Review Panel",
+        "West Bengal election is not legally valid: Former CEC S.Y. Quraishi"
+      ],
+      "ans": 3,
+      "explanation": "<strong>1. Core Context & Background:</strong> Former Chief Election Commissioner S.Y.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Quraishi alleged that the West Bengal elections were not legally valid. He reinstated that the decisions at the Election Commission of India should be based on a majority.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Now, things will come out clearly once their judgment arrives, regarding what went wrong and what was correct,” Mr."
+    },
+    {
+      "id": "gk_07 Nov 2026_2",
+      "cat": "🏛️ National & Polity",
+      "date": "07 Nov 2026",
       "qEn": "[07 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"The Supreme Court directed on Friday that individuals with temporary residence in the Agasthyamalai biosphere or those living enti...\"?",
       "qHi": "[07 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"The Supreme Court directed on Friday that individuals with temporary residence in the Agasthyamalai biosphere or those living enti...\"?",
       "qMr": "[07 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"The Supreme Court directed on Friday that individuals with temporary residence in the Agasthyamalai biosphere or those living enti...\"?",
       "optsEn": [
-        "Agasthyamalai conservation case: SC directs temporary and non-resident silk cotton...",
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "Agasthyamalai conservation case: SC directs temporary and non-resident silk cotton...",
         "15th Finance Commission Special State Grant",
         "Inter-State Council Constitutional Review Panel"
       ],
       "optsHi": [
-        "Agasthyamalai conservation case: SC directs temporary and non-resident silk cotton...",
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "Agasthyamalai conservation case: SC directs temporary and non-resident silk cotton...",
         "15th Finance Commission Special State Grant",
         "Inter-State Council Constitutional Review Panel"
       ],
       "optsMr": [
-        "Agasthyamalai conservation case: SC directs temporary and non-resident silk cotton...",
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "Agasthyamalai conservation case: SC directs temporary and non-resident silk cotton...",
         "15th Finance Commission Special State Grant",
         "Inter-State Council Constitutional Review Panel"
       ],
-      "ans": 0,
+      "ans": 1,
       "explanation": "<strong>1. Core Context & Background:</strong> The Supreme Court directed on Friday that individuals with temporary residence in the Agasthyamalai biosphere or those living entirely outside the forest boundaries cannot be classified as traditional forest dwellers merely for cultivating silk cotton within the forest.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> “Persons falling in Category II and Category III, as classified in the additional affidavit of September 6 filed by Department of Revenue, State of Tamil Nadu, shall be excluded from consideration as forest-dwelling Scheduled Tribes and Other Traditional Forest Dwellers for the purposes of the Scheduled Tribes and Other Traditional Forest Dwellers (Recognition of Forest Rights) Act, 2006 or FRA Act,” a Bench of Justices Vikram Nath and Sandeep Mehta directed. According to Tamil Nadu’s own affidavit, 232 persons are cultivating the forest area with temporary residence while 2,767 persons who occupy 2,867.70 hectares land are residing outside the forest boundary and are managing silk cotton cultivation.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Separately, the court directed the CEC to examine the National Highway Authority of India’s proposal relating to NH-744, including the proposed Puliara–Edamon tunnel section, which requires permission for diversion of a limited extent of reserved forest land in the biosphere."
     },
     {
-      "id": "gk_07 Nov 2026_2",
+      "id": "gk_07 Nov 2026_3",
+      "cat": "🏛️ National & Polity",
+      "date": "07 Nov 2026",
+      "qEn": "[07 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"Pakistan on Friday (November 6, 2026) said it would consider issuing a visa to Punjab Chief Minister Bhagwant Mann if the Indian p...\"?",
+      "qHi": "[07 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"Pakistan on Friday (November 6, 2026) said it would consider issuing a visa to Punjab Chief Minister Bhagwant Mann if the Indian p...\"?",
+      "qMr": "[07 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"Pakistan on Friday (November 6, 2026) said it would consider issuing a visa to Punjab Chief Minister Bhagwant Mann if the Indian p...\"?",
+      "optsEn": [
+        "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "15th Finance Commission Special State Grant",
+        "Pakistan says willing to issue visa to Punjab CM Bhagwant Mann for visit",
+        "Inter-State Council Constitutional Review Panel"
+      ],
+      "optsHi": [
+        "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "15th Finance Commission Special State Grant",
+        "Pakistan says willing to issue visa to Punjab CM Bhagwant Mann for visit",
+        "Inter-State Council Constitutional Review Panel"
+      ],
+      "optsMr": [
+        "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "15th Finance Commission Special State Grant",
+        "Pakistan says willing to issue visa to Punjab CM Bhagwant Mann for visit",
+        "Inter-State Council Constitutional Review Panel"
+      ],
+      "ans": 2,
+      "explanation": "<strong>1. Core Context & Background:</strong> Pakistan on Friday (November 6, 2026) said it would consider issuing a visa to Punjab Chief Minister Bhagwant Mann if the Indian politician wished to visit the country.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Pakistan Foreign Office Spokesperson Sajjad Haider Khan made the remarks during his weekly media briefing in response to a question about the possible visit of the Aam Aadmi Party (AAP) leader. The Pakistani government would “consider issuing him a visa if he wished to visit the country”, Mr.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> He said the country issued more than 9,000 visas to Indian religious pilgrims in 2025, including Sikh and Hindu pilgrims, and issued over 4,000 additional visas to Sikh pilgrims during the first half of this year."
+    },
+    {
+      "id": "gk_07 Nov 2026_4",
+      "cat": "🏛️ National & Polity",
+      "date": "07 Nov 2026",
+      "qEn": "[07 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"Himachal Pradesh Chief Minister Sukhvinder Singh Sukhu on Friday (November 6, 2026) termed the Supreme Court’s decision directing ...\"?",
+      "qHi": "[07 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"Himachal Pradesh Chief Minister Sukhvinder Singh Sukhu on Friday (November 6, 2026) termed the Supreme Court’s decision directing ...\"?",
+      "qMr": "[07 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"Himachal Pradesh Chief Minister Sukhvinder Singh Sukhu on Friday (November 6, 2026) termed the Supreme Court’s decision directing ...\"?",
+      "optsEn": [
+        "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "15th Finance Commission Special State Grant",
+        "Inter-State Council Constitutional Review Panel",
+        "Supreme Court decision on BBMB arrears a victory for Himachal, says CM Sukhu"
+      ],
+      "optsHi": [
+        "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "15th Finance Commission Special State Grant",
+        "Inter-State Council Constitutional Review Panel",
+        "Supreme Court decision on BBMB arrears a victory for Himachal, says CM Sukhu"
+      ],
+      "optsMr": [
+        "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "15th Finance Commission Special State Grant",
+        "Inter-State Council Constitutional Review Panel",
+        "Supreme Court decision on BBMB arrears a victory for Himachal, says CM Sukhu"
+      ],
+      "ans": 3,
+      "explanation": "<strong>1. Core Context & Background:</strong> Himachal Pradesh Chief Minister Sukhvinder Singh Sukhu on Friday (November 6, 2026) termed the Supreme Court’s decision directing Punjab and Haryana to supply 11,973 million units of electricity to the State over 20 years towards its outstanding dues from the Bhakra-Nangal and Beas hydroelectric projects a historic victory for its people.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> The order settles a decades-old dispute over Himachal Pradesh’s 7.19% share in the power generated from the projects. The State will receive nearly 60 crore units annually during the lean season, generating an estimated revenue of ₹10,000 crore to ₹20,000 crore over the 20-year period, depending on electricity prices, Mr.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Sukhu said protecting its resources and making Himachal Pradesh self-reliant remained a top priority for his government."
+    },
+    {
+      "id": "gk_07 Nov 2026_5",
+      "cat": "🏛️ National & Polity",
+      "date": "07 Nov 2026",
+      "qEn": "[07 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"It was not until the mother of Nalini, one of the seven allegedly killed by cab driver-turned-YouTuber Indushekhar, lodged a missi...\"?",
+      "qHi": "[07 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"It was not until the mother of Nalini, one of the seven allegedly killed by cab driver-turned-YouTuber Indushekhar, lodged a missi...\"?",
+      "qMr": "[07 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"It was not until the mother of Nalini, one of the seven allegedly killed by cab driver-turned-YouTuber Indushekhar, lodged a missi...\"?",
+      "optsEn": [
+        "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "A missing persons complaint that unravelled Bengaluru’s seven murders",
+        "15th Finance Commission Special State Grant",
+        "Inter-State Council Constitutional Review Panel"
+      ],
+      "optsHi": [
+        "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "A missing persons complaint that unravelled Bengaluru’s seven murders",
+        "15th Finance Commission Special State Grant",
+        "Inter-State Council Constitutional Review Panel"
+      ],
+      "optsMr": [
+        "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "A missing persons complaint that unravelled Bengaluru’s seven murders",
+        "15th Finance Commission Special State Grant",
+        "Inter-State Council Constitutional Review Panel"
+      ],
+      "ans": 1,
+      "explanation": "<strong>1. Core Context & Background:</strong> It was not until the mother of Nalini, one of the seven allegedly killed by cab driver-turned-YouTuber Indushekhar, lodged a missing person complaint that the police found the first clue to the murders.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> While the murders allegedly took place between October 16 and October 31, the last two bodies were disposed of on November 1 or 2. Senior police officers said that Sunita, the accused’s wife, and Roopavathi, his mother-in-law, were the first to be murdered.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Bengaluru City Police Commissioner Seemant Kumar Singh refuted the allegations and said that action would be taken against the officers if any lapses were found."
+    },
+    {
+      "id": "gk_07 Nov 2026_6",
       "cat": "🏛️ National & Polity",
       "date": "07 Nov 2026",
       "qEn": "[07 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"Indushekhar lived with his wife Sunita and daughter in a small house, barely 500 sq. ft, on the terrace of a two-storey building, ...\"?",
@@ -3789,118 +3915,6 @@
       ],
       "ans": 2,
       "explanation": "<strong>1. Core Context & Background:</strong> Indushekhar lived with his wife Sunita and daughter in a small house, barely 500 sq.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> ft, on the terrace of a two-storey building, nestled among several commercial establishments, 50 metres from the famous Bhashyam Circle, Rajajinagar. The building has commercial establishments on the ground floor, including a watch repair shop, a tea stall and a small condiments shop.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Given the lane mostly has commercial establishments, the police suspect that he could have shifted the bodies only during night time."
-    },
-    {
-      "id": "gk_07 Nov 2026_3",
-      "cat": "🏛️ National & Polity",
-      "date": "07 Nov 2026",
-      "qEn": "[07 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"From bamboo bus shelters that offer shade and cooling to commuters, to the reclamation of waste dumps and the plugging of water su...\"?",
-      "qHi": "[07 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"From bamboo bus shelters that offer shade and cooling to commuters, to the reclamation of waste dumps and the plugging of water su...\"?",
-      "qMr": "[07 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"From bamboo bus shelters that offer shade and cooling to commuters, to the reclamation of waste dumps and the plugging of water su...\"?",
-      "optsEn": [
-        "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel",
-        "Bamboo shelters, cool roofs to climate-proof Telangana cities"
-      ],
-      "optsHi": [
-        "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel",
-        "Bamboo shelters, cool roofs to climate-proof Telangana cities"
-      ],
-      "optsMr": [
-        "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel",
-        "Bamboo shelters, cool roofs to climate-proof Telangana cities"
-      ],
-      "ans": 3,
-      "explanation": "<strong>1. Core Context & Background:</strong> From bamboo bus shelters that offer shade and cooling to commuters, to the reclamation of waste dumps and the plugging of water supply leaks, Telangana is drawing up a broad plan to make its cities more resilient to climate change.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> The measures, backed by new urban policies and a project pipeline worth about ₹20,000 crore, are part of the State’s long-term Telangana Rising 2047 vision. The roadmap seeks to integrate climate concerns into urban planning, infrastructure development and municipal services across urban local bodies (ULBs), said Municipal Administration and Urban Development secretary T.K.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Both cities are among the 29 ULBs covered by the World Bank-supported Telangana Urban Transformation and Jobs Programme, which includes urban greening, shaded public spaces and cool-roof measures."
-    },
-    {
-      "id": "gk_07 Nov 2026_4",
-      "cat": "🏛️ National & Polity",
-      "date": "07 Nov 2026",
-      "qEn": "[07 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"Chief Minister D.K. Shivakumar on Friday alleged that some BJP leaders were trying to take credit for Prime Minister Narendra Modi...\"?",
-      "qHi": "[07 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"Chief Minister D.K. Shivakumar on Friday alleged that some BJP leaders were trying to take credit for Prime Minister Narendra Modi...\"?",
-      "qMr": "[07 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"Chief Minister D.K. Shivakumar on Friday alleged that some BJP leaders were trying to take credit for Prime Minister Narendra Modi...\"?",
-      "optsEn": [
-        "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "15th Finance Commission Special State Grant",
-        "Karnataka CM ridicules BJP leaders for trying to take credit for PM’s visit",
-        "Inter-State Council Constitutional Review Panel"
-      ],
-      "optsHi": [
-        "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "15th Finance Commission Special State Grant",
-        "Karnataka CM ridicules BJP leaders for trying to take credit for PM’s visit",
-        "Inter-State Council Constitutional Review Panel"
-      ],
-      "optsMr": [
-        "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "15th Finance Commission Special State Grant",
-        "Karnataka CM ridicules BJP leaders for trying to take credit for PM’s visit",
-        "Inter-State Council Constitutional Review Panel"
-      ],
-      "ans": 2,
-      "explanation": "<strong>1. Core Context & Background:</strong> Shivakumar on Friday alleged that some BJP leaders were trying to take credit for Prime Minister Narendra Modi’s visit to Bengaluru on November 13 to inaugurate the metro Pink Line, even though he was arriving on the official invitation of the State government.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Without taking the name of BJP MP Tejasvi Surya, the Chief Minister alleged that some BJP leaders were trying to take publicity by claiming that they were responsible for the Prime Minsiter’s proposed visit. Speaking to media persons in Kanakapura, he wondered why the BJP leaders were tying to take publicity for this event though they had nothing to do with it.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> I will present some of these issues before the Prime Minister on November 13,” he said."
-    },
-    {
-      "id": "gk_07 Nov 2026_5",
-      "cat": "🏛️ National & Polity",
-      "date": "07 Nov 2026",
-      "qEn": "[07 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"Sudha Yadav, Governor of Karnataka and Chancellor of universities in the State, directed all public universities in the State to c...\"?",
-      "qHi": "[07 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"Sudha Yadav, Governor of Karnataka and Chancellor of universities in the State, directed all public universities in the State to c...\"?",
-      "qMr": "[07 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"Sudha Yadav, Governor of Karnataka and Chancellor of universities in the State, directed all public universities in the State to c...\"?",
-      "optsEn": [
-        "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel",
-        "Governor asks for status report on all public universities in Karnataka"
-      ],
-      "optsHi": [
-        "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel",
-        "Governor asks for status report on all public universities in Karnataka"
-      ],
-      "optsMr": [
-        "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel",
-        "Governor asks for status report on all public universities in Karnataka"
-      ],
-      "ans": 3,
-      "explanation": "<strong>1. Core Context & Background:</strong> Sudha Yadav, Governor of Karnataka and Chancellor of universities in the State, directed all public universities in the State to conduct a comprehensive review of their current operations and identify areas requiring improvement.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> The Governor instructed all Vice-Chancellors to prepare and submit a detailed report on the same. “This report should cover the current status of their respective universities, key achievements, challenges, shortcomings, and specific measures proposed for improvement,” she stated.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> The Governor called upon all Vice-Chancellors and the Karnataka State Higher Education Council to work in coordination and collaboration to strengthen the higher education system in Karnataka."
-    },
-    {
-      "id": "gk_07 Nov 2026_6",
-      "cat": "🏛️ National & Polity",
-      "date": "07 Nov 2026",
-      "qEn": "[07 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"After writer Perumal Murugan wrote about alleged irregularities in the procurement of books for Periyar Arivulagam, a newly inaugu...\"?",
-      "qHi": "[07 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"After writer Perumal Murugan wrote about alleged irregularities in the procurement of books for Periyar Arivulagam, a newly inaugu...\"?",
-      "qMr": "[07 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"After writer Perumal Murugan wrote about alleged irregularities in the procurement of books for Periyar Arivulagam, a newly inaugu...\"?",
-      "optsEn": [
-        "Periyar Arivulagam books row: political leaders raise concern over allegations, ca...",
-        "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel"
-      ],
-      "optsHi": [
-        "Periyar Arivulagam books row: political leaders raise concern over allegations, ca...",
-        "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel"
-      ],
-      "optsMr": [
-        "Periyar Arivulagam books row: political leaders raise concern over allegations, ca...",
-        "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel"
-      ],
-      "ans": 0,
-      "explanation": "<strong>1. Core Context & Background:</strong> After writer Perumal Murugan wrote about alleged irregularities in the procurement of books for Periyar Arivulagam, a newly inaugurated public library in Coimbatore, Makkal Needhi Maiam (MNM) founder and Rajya Sabha Member Kamal Haasan said on Friday that “there can be no greater disgrace to the Tamil language than this”.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> He pointed out that books containing fabricated information could cause immense damage in the long run. In a statement, he said the reputation of Tamil language would be irreparably damaged if people read, took notes, and incorporated the contents of (fabricated books) into speeches, written works, and research.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> PMK president Anbumani Ramadoss urged the State government to investigate the allegations of corruption that have surfaced in the procurement of book for the public library, which was established by the DMK government."
     },
     {
       "id": "gk_07 Nov 2026_7",
