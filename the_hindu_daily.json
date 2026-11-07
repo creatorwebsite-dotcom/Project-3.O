@@ -1,12 +1,12 @@
 {
-  "updatedAt": "07 Nov 2026, 11:13 PM IST",
+  "updatedAt": "07 Nov 2026, 11:30 PM IST",
   "currentDateIso": "2026-11-07",
   "currentDateDisplay": "07 Nov 2026",
   "availableDates": [
     {
       "dateIso": "2026-11-07",
       "dateDisplay": "07 Nov 2026",
-      "updatedAt": "07 Nov 2026, 11:13 PM IST",
+      "updatedAt": "07 Nov 2026, 11:30 PM IST",
       "articleCount": 30
     },
     {
@@ -23,9 +23,140 @@
     }
   ],
   "hookLine1": "The Hindu Printed Broadsheet & Editorial Digest (07 Nov 2026)",
-  "hookLine2": "100% In-App Full Newspaper Pages & Deep Editorial Analysis • Updated: 07 Nov 2026, 11:13 PM IST",
+  "hookLine2": "100% In-App Full Newspaper Pages & Deep Editorial Analysis • Updated: 07 Nov 2026, 11:30 PM IST",
   "totalArticles": 30,
   "articles": [
+    {
+      "category": "national",
+      "categoryLabel": "🏛️ National & Polity",
+      "title": "Rajajingar murders: How did the accused transport bodies across locations without being caught?",
+      "link": "https://www.thehindu.com/news/cities/bangalore/rajajingar-murders-how-did-the-accused-transport-bodies-across-locations-without-being-intercepted/article71679003.ece",
+      "pubDate": "Sat, 07 Nov 2026 23:17:21 +0530",
+      "dateIso": "2026-11-07",
+      "dateDisplay": "07 Nov 2026",
+      "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
+      "imageUrl": "https://th-i.thgim.com/public/incoming/ciamg2/article71679345.ece/alternates/LANDSCAPE_1200/_JAI7256.JPG",
+      "fullParagraphs": [
+        "At least three trips with seven bodies in the car to four different locations, and one of them an inter-State journey. Yet, the accused in the alleged Rajajinagar murders, Indushekhar, was never detected. This has raised questions about the effectiveness of the nakabandi (checkpoints) and night patrolling system in the city.",
+        "Indushekar, prime accused in the case where he killed his wife and six others from her family , resided in a building near (barely 100 metres) the famous Bhashyam Circle in Rajajinagar. The junction is barely 3 km from Majestic, the city’s transport hub. It connects to Chord Road, one of the major roads in the city. The junction also provides connectivity between the central, western and southern parts of Bengaluru.",
+        "The accused allegedly brought the bodies down from the second floor and transported them to Mysuru, deep into the Western Ghats (Shiradi Ghat), to the Tamil Nadu border and to Chickballapur.",
+        "The alleged incidents unfolded over 15 days. Neither a patrolling vehicle nor a checkpoint detected the accused, even as he crossed State borders. The development comes amid frequent police checks at night across the city. In several instances, there have also been allegations of harassment during such checks.",
+        "A senior police officer told The Hindu that the accused’s movement with bodies in the car was among the questions on their investigation list, though it was not their immediate focus.",
+        "“A team has already been deployed to recreate all the movements of the accused and gather footage of his movements after October 16. We will verify whether he passed any checkpoints in the city and whether there was any negligence on the part of officers,” he said.",
+        "The officer stressed that the immediate focus was on recovering the bodies, as they were the prime evidence in the case. Any dereliction of duty could be investigated at a later stage.",
+        "The officer further said that they suspect the accused deliberately avoided stretches where checkpoints were set up. “We must also consider that all vehicles are checked at checkpoints. He may have passed through one,” the officer added.",
+        "“We also suspect that he avoided toll plazas. For a person who meticulously planned how to clean the crime scene thoroughly, he must have planned the routes in advance and executed the disposals accordingly,” the officer said.",
+        "The officer also pointed to a murder cover-up in a case reported in C.K. Acchukattu in 2025. The body was found dumped in a garbage pile. However, the accused had transported it from Madiwala to C.K. Acchukattu. What was even more surprising was that the accused had carried the body alone on a scooter.",
+        "“Only when we interrogated the accused did we get to know that he had deliberately avoided routes with police checkpoints,” the officer said, adding that there had been several such instances in the past.",
+        "Similarly, the family of Nalini, one of the victims in the present case, alleged that the Srirampura police initially refused to register a missing-person complaint on November 1. It was registered only on November 3."
+      ],
+      "deepExplanation": "<strong>1. Core Context & Background:</strong> At least three trips with seven bodies in the car to four different locations, and one of them an inter-State journey.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Yet, the accused in the alleged Rajajinagar murders, Indushekhar, was never detected. This has raised questions about the effectiveness of the nakabandi (checkpoints) and night patrolling system in the city.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> It was registered only on November 3.",
+      "vocabList": [
+        "Locations",
+        "Rajajinagar",
+        "Indushekhar",
+        "Detected",
+        "Questions",
+        "Effectiveness"
+      ],
+      "summary": "At least three trips with seven bodies in the car to four different locations, and one of them an inter-State journey. Yet, the accused in the alleged Rajajinagar murders, Indushekhar, was never detected. This has raised questions about the effectiveness of the nakabandi (checkpoints) and night patrolling system in the city.",
+      "keyPoints": "• At least three trips with seven bodies in the car to four different locations, and one of them an inter-State journey. Yet, the accused in the alleged Rajajinagar murders, Indushekhar, was never detected. This has raised questions about the effectiveness of the nakabandi (checkpoints) and night patrolling system in the city.<br>• Indushekar, prime accused in the case where he killed his wife and six others from her family , resided in a building near (barely 100 metres) the famous Bhashyam Circle in Rajajinagar. The junction is barely 3 km from Majestic, the city’s transport hub. It connects to Chord Road, one of the major roads in the city. The junction also provides connectivity between the central, western and southern parts of Bengaluru.<br>• The accused allegedly brought the bodies down from the second floor and transported them to Mysuru, deep into the Western Ghats (Shiradi Ghat), to the Tamil Nadu border and to Chickballapur."
+    },
+    {
+      "category": "national",
+      "categoryLabel": "🏛️ National & Polity",
+      "title": "Students urged to dream big, prepare for a self-reliant India",
+      "link": "https://www.thehindu.com/news/national/andhra-pradesh/students-urged-to-dream-big-prepare-for-a-self-reliant-india/article71679044.ece",
+      "pubDate": "Sat, 07 Nov 2026 23:17:05 +0530",
+      "dateIso": "2026-11-07",
+      "dateDisplay": "07 Nov 2026",
+      "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
+      "imageUrl": "https://www.thehindu.com/theme/images/og-image.png",
+      "fullParagraphs": [
+        "Students should dare to dream big, think independently and pursue ambitious goals to drive innovation and contribute to the vision of a self-reliant India, said Prof. Ramesh Srikonda, Director of the School of Planning and Architecture, Vijayawada.",
+        "Addressing the Freshers’ Day celebrations at Dr. RVR NRI Institute of Technology (Deemed to be University), he emphasised that bold aspirations lead to new ideas and innovative outcomes. He urged students to focus on holistic development rather than limiting their ambitions to obtaining academic degrees.",
+        "The celebrations, organised to welcome newly admitted first-year students, witnessed the participation of over 2,000 students, who showcased their talents through colourful singing and dancing performances.",
+        "Prof. M.L.N. Rao, Chancellor and Vice-Chancellor of Rajiv Gandhi University of Knowledge Technologies (RGUKT-AP), said emerging technologies such as Artificial Intelligence, Machine Learning and Quantum Technologies would drive major transformations over the next five to 10 years. He encouraged students to prepare themselves to contribute to the visions of Swarna Andhra Pradesh 2047 and Viksit Bharat 2047.",
+        "NRI University Chairman and Chancellor Dr. Ravi Venkata Rao said the institution’s four-year academic programme aimed at shaping students into responsible, capable individuals equipped to overcome challenges and contribute meaningfully to society.",
+        "Vice-Chancellor Dr. K.R.S. Sambasiva Rao urged students to make effective use of the university’s teaching and learning facilities and continuously upgrade their skills to become industry-ready professionals.",
+        "Organising convener and Dean D. Suneetha, CEO, Pro-Vice-Chancellors, Registrar, Deans, Heads of Departments, faculty members and other dignitaries attended the celebrations."
+      ],
+      "deepExplanation": "<strong>1. Core Context & Background:</strong> Students should dare to dream big, think independently and pursue ambitious goals to drive innovation and contribute to the vision of a self-reliant India, said Prof.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Ramesh Srikonda, Director of the School of Planning and Architecture, Vijayawada. Addressing the Freshers’ Day celebrations at Dr.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Suneetha, CEO, Pro-Vice-Chancellors, Registrar, Deans, Heads of Departments, faculty members and other dignitaries attended the celebrations.",
+      "vocabList": [
+        "Students",
+        "Independently",
+        "Ambitious",
+        "Innovation",
+        "Contribute",
+        "Srikonda"
+      ],
+      "summary": "Students should dare to dream big, think independently and pursue ambitious goals to drive innovation and contribute to the vision of a self-reliant India, said Prof. Ramesh Srikonda, Director of the School of Planning and Architecture, Vijayawada.",
+      "keyPoints": "• Students should dare to dream big, think independently and pursue ambitious goals to drive innovation and contribute to the vision of a self-reliant India, said Prof. Ramesh Srikonda, Director of the School of Planning and Architecture, Vijayawada.<br>• Addressing the Freshers’ Day celebrations at Dr. RVR NRI Institute of Technology (Deemed to be University), he emphasised that bold aspirations lead to new ideas and innovative outcomes. He urged students to focus on holistic development rather than limiting their ambitions to obtaining academic degrees.<br>• The celebrations, organised to welcome newly admitted first-year students, witnessed the participation of over 2,000 students, who showcased their talents through colourful singing and dancing performances."
+    },
+    {
+      "category": "national",
+      "categoryLabel": "🏛️ National & Polity",
+      "title": "Bengaluru’s GBA launches phase 2 of ‘Ward One’",
+      "link": "https://www.thehindu.com/news/cities/bangalore/bengalurus-gba-launches-phase-2-of-ward-one/article71679329.ece",
+      "pubDate": "Sat, 07 Nov 2026 23:16:28 +0530",
+      "dateIso": "2026-11-07",
+      "dateDisplay": "07 Nov 2026",
+      "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
+      "imageUrl": "https://th-i.thgim.com/public/incoming/692j5v/article71679403.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-11-07%20at%2014.33.58.JPEG",
+      "fullParagraphs": [
+        "Greater Bengaluru Development Minister Krishna Byre Gowda on Saturday directed officials to prepare a comprehensive plan for the redevelopment of the K.R. Puram-Tin Factory Junction. The plan should focus on pedestrian safety, public transport integration and smoother traffic movement, he said.",
+        "The directions came during the launch of the second phase of the ‘Ward One’ campaign. The second phase has been launched across around 40 wards. The first phase covered 43 wards, with nearly 90% of the identified works completed, Mr. Gowda said.",
+        "On Saturday, the Minister inspected the K.R. Puram-Tin Factory Junction and reviewed the problems from ongoing metro and K-RIDE works and the pedestrian infrastructure, following which directions were issued.",
+        "The plan would be prepared jointly by the Greater Bengaluru Authority (GBA), Namma Metro officials, and Janaagraha, he said. The plan would cover road design, footpaths, bus bays, bus stops and traffic management. The Minister also called for scientifically redesigning the junction, improving road curves, and providing free left turns wherever necessary.",
+        "He directed metro officials to restore roads affected by the construction without delay. “Potholes on connecting roads must be repaired within a week. Roads at lower levels, which are prone to flooding, also need to be improved,” he told officials.",
+        "The campaign brings together various civic agencies to address potholes, damaged footpaths, garbage accumulation, construction waste, streetlights and drain desilting."
+      ],
+      "deepExplanation": "<strong>1. Core Context & Background:</strong> Greater Bengaluru Development Minister Krishna Byre Gowda on Saturday directed officials to prepare a comprehensive plan for the redevelopment of the K.R.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> The plan should focus on pedestrian safety, public transport integration and smoother traffic movement, he said. The directions came during the launch of the second phase of the ‘Ward One’ campaign.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> The campaign brings together various civic agencies to address potholes, damaged footpaths, garbage accumulation, construction waste, streetlights and drain desilting.",
+      "vocabList": [
+        "Bengaluru",
+        "Saturday",
+        "Directed",
+        "Officials",
+        "Comprehensive",
+        "Redevelopment"
+      ],
+      "summary": "Greater Bengaluru Development Minister Krishna Byre Gowda on Saturday directed officials to prepare a comprehensive plan for the redevelopment of the K.R. Puram-Tin Factory Junction. The plan should focus on pedestrian safety, public transport integration and smoother traffic movement, he said.",
+      "keyPoints": "• Greater Bengaluru Development Minister Krishna Byre Gowda on Saturday directed officials to prepare a comprehensive plan for the redevelopment of the K.R. Puram-Tin Factory Junction. The plan should focus on pedestrian safety, public transport integration and smoother traffic movement, he said.<br>• The directions came during the launch of the second phase of the ‘Ward One’ campaign. The second phase has been launched across around 40 wards. The first phase covered 43 wards, with nearly 90% of the identified works completed, Mr. Gowda said.<br>• On Saturday, the Minister inspected the K.R. Puram-Tin Factory Junction and reviewed the problems from ongoing metro and K-RIDE works and the pedestrian infrastructure, following which directions were issued."
+    },
+    {
+      "category": "national",
+      "categoryLabel": "🏛️ National & Polity",
+      "title": "Habitual offender arrested for murdering 65-year-old woman in Bengaluru",
+      "link": "https://www.thehindu.com/news/national/karnataka/habitual-offender-arrested-for-murdering-65-year-old-woman-in-bengaluru/article71678977.ece",
+      "pubDate": "Sat, 07 Nov 2026 23:12:25 +0530",
+      "dateIso": "2026-11-07",
+      "dateDisplay": "07 Nov 2026",
+      "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
+      "imageUrl": "https://www.thehindu.com/theme/images/og-image.png",
+      "fullParagraphs": [
+        "The Kengeri police have arrested a habitual offender for allegedly murdering a 65-year-old woman who was sleeping outside a temple and robbing her of cash and a gold ring in Vrushabhavathi Nagar Layout.",
+        "The deceased, Narayanamma, was found dead in front of the Pataladamma Temple at Vrushabhavathi Nagar Layout, Konasandra, within Kengeri police station limits, on November 3.",
+        "According to the police, Narayanamma had left her house due to family problems and had been sleeping outside the temple for the past few days.",
+        "A local resident who noticed her body informed her son, who arrived at the spot and identified her. The Kengeri police initially registered an unnatural death report based on his complaint.",
+        "However, following the post-mortem examination and information gathered during the investigation, police suspected that she had been murdered and robbed. A murder case was subsequently registered on Thursday.",
+        "During the investigation, police apprehended a suspicious person moving around Vrushabhavathi Nagar Layout on Friday. During interrogation, he allegedly confessed to the crime.",
+        "The accused reportedly told investigators that he had noticed Narayanamma sleeping alone and decided to rob her to arrange money to fund his vices.",
+        "In the early hours of November 3, he allegedly went to the spot, covered her mouth, assaulted her and robbed her of the cash she was carrying and a gold ring before fleeing, leaving her dead.",
+        "Police said the accused has a criminal history and was previously involved in cases registered under the Narcotic Drugs and Psychotropic Substances (NDPS) Act and robbery cases at Girinagar and Cottonpet police stations.",
+        "Further investigation and interrogation are under way, police said."
+      ],
+      "deepExplanation": "<strong>1. Core Context & Background:</strong> The Kengeri police have arrested a habitual offender for allegedly murdering a 65-year-old woman who was sleeping outside a temple and robbing her of cash and a gold ring in Vrushabhavathi Nagar Layout.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> The deceased, Narayanamma, was found dead in front of the Pataladamma Temple at Vrushabhavathi Nagar Layout, Konasandra, within Kengeri police station limits, on November 3. According to the police, Narayanamma had left her house due to family problems and had been sleeping outside the temple for the past few days.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Further investigation and interrogation are under way, police said.",
+      "vocabList": [
+        "Arrested",
+        "Habitual",
+        "Offender",
+        "Allegedly",
+        "Murdering",
+        "Sleeping"
+      ],
+      "summary": "The Kengeri police have arrested a habitual offender for allegedly murdering a 65-year-old woman who was sleeping outside a temple and robbing her of cash and a gold ring in Vrushabhavathi Nagar Layout.",
+      "keyPoints": "• The Kengeri police have arrested a habitual offender for allegedly murdering a 65-year-old woman who was sleeping outside a temple and robbing her of cash and a gold ring in Vrushabhavathi Nagar Layout.<br>• The deceased, Narayanamma, was found dead in front of the Pataladamma Temple at Vrushabhavathi Nagar Layout, Konasandra, within Kengeri police station limits, on November 3.<br>• According to the police, Narayanamma had left her house due to family problems and had been sleeping outside the temple for the past few days."
+    },
     {
       "category": "national",
       "categoryLabel": "🏛️ National & Polity",
@@ -84,143 +215,6 @@
       ],
       "summary": "The Hebbal Flyover and Ballari Road corridor will not be completely closed for 18 months to facilitate the construction of the elevated corridor, the Bangalore Development Authority (BDA) clarified on Saturday (November 7). Meanwhile, the Bengaluru Traffic Police (BTP) said vehicular movement would continue with limited lane restrictions and phased traffic diversions.",
       "keyPoints": "• The Hebbal Flyover and Ballari Road corridor will not be completely closed for 18 months to facilitate the construction of the elevated corridor, the Bangalore Development Authority (BDA) clarified on Saturday (November 7). Meanwhile, the Bengaluru Traffic Police (BTP) said vehicular movement would continue with limited lane restrictions and phased traffic diversions.<br>• The clarification comes amid concerns over the traffic disruption expected during the construction period. The elevated corridor is part of the BDA’s larger Integrated Tunnel and Elevated Corridor Project, aimed at easing congestion along the city’s crucial northern corridor connecting Bengaluru with Kempegowda International Airport. However, the project has also drawn considerable public criticism since it was announced.<br>• The BTP sources said restrictions would apply only to the movement of heavy vehicles between 6 a.m. and 8 p.m., while other motorists would merely be “advised” to take alternative routes. Public transport vehicles and school buses would also be allowed to use the stretch."
-    },
-    {
-      "category": "national",
-      "categoryLabel": "🏛️ National & Polity",
-      "title": "'Tough' stance on Kishau Dam project laid ground for victory in BBMB dues case: Himachal CM",
-      "link": "https://www.thehindu.com/news/national/himachal-pradesh/tough-stance-on-kishau-dam-project-laid-ground-for-victory-in-bbmb-dues-case-himachal-cm/article71679262.ece",
-      "pubDate": "Sat, 07 Nov 2026 22:56:12 +0530",
-      "dateIso": "2026-11-07",
-      "dateDisplay": "07 Nov 2026",
-      "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
-      "imageUrl": "https://th-i.thgim.com/public/incoming/dm4sdd/article71679375.ece/alternates/LANDSCAPE_1200/PTI10_16_2026_000341B.jpg",
-      "fullParagraphs": [
-        "Hailing the Supreme Court verdict in the Bhakra Beas Management Board (BBMB) arrears case, Himachal Pradesh Chief Minister Sukhvinder Singh Sukhu on Saturday (November 7, 2026) said that the decision came in the State's favour on account of the \"tough\" stance his government took during discussions on the Kishau Dam project.",
-        "Mr. Sukhu said that during meetings with the Union Power Minister and officials, he had consistently raised the issue of dues arising from BBMB projects and made it clear that the rights of Himachal Pradesh in the matter must be resolved before any further progress was made on the Kishau Dam project.",
-        "He said the State asserted that it would not share the cost of the 440-MW Kishau Dam project, and the Haryana government assured that it would file an affidavit in the Supreme Court in favour of Himachal Pradesh for the release of arrears of its power share from BBMB projects.",
-        "Ruling in favour of Himachal Pradesh, the Supreme Court on Friday (November 6, 2026) said the hill State would get 11,973 MU of electricity from Punjab and Haryana over 20 years. The arrangement will be as per a 2011 Supreme Court verdict settling power dues arising out of Bhakra Nangal and Beas hydro projects since 1966 at the rate of 7.19%.",
-        "Talking to media persons here, Mr. Sukhu claimed that the case of arrears, pending for the past 15 years, would have taken many more years to decide if the government had not pursued it vigorously in the top court.",
-        "He said that the State government is exploring a better price to sell the electricity received from the BBMB. If the electricity is sold at the rate of ₹6 per unit, the State could earn around ₹500 crore, but the government is working towards securing a better power agreement that could increase the revenue to approximately ₹1,000 crore.",
-        "The Chief Minister said that the State government was moving ahead with the aim of making Himachal Pradesh self-reliant and expressed confidence that it would become the most prosperous State in the country by 2032."
-      ],
-      "deepExplanation": "<strong>1. Core Context & Background:</strong> Hailing the Supreme Court verdict in the Bhakra Beas Management Board (BBMB) arrears case, Himachal Pradesh Chief Minister Sukhvinder Singh Sukhu on Saturday (November 7, 2026) said that the decision came in the State's favour on account of the \"tough\" stance his government took during discussions on the Kishau Dam project.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Sukhu said that during meetings with the Union Power Minister and officials, he had consistently raised the issue of dues arising from BBMB projects and made it clear that the rights of Himachal Pradesh in the matter must be resolved before any further progress was made on the Kishau Dam project. He said the State asserted that it would not share the cost of the 440-MW Kishau Dam project, and the Haryana government assured that it would file an affidavit in the Supreme Court in favour of Himachal Pradesh for the release of arrears of its power share from BBMB projects.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> The Chief Minister said that the State government was moving ahead with the aim of making Himachal Pradesh self-reliant and expressed confidence that it would become the most prosperous State in the country by 2032.",
-      "vocabList": [
-        "Management",
-        "Himachal",
-        "Sukhvinder",
-        "Saturday",
-        "November",
-        "Decision"
-      ],
-      "summary": "Hailing the Supreme Court verdict in the Bhakra Beas Management Board (BBMB) arrears case, Himachal Pradesh Chief Minister Sukhvinder Singh Sukhu on Saturday (November 7, 2026) said that the decision came in the State's favour on account of the \"tough\" stance his government took during discussions on the Kishau Dam project.",
-      "keyPoints": "• Hailing the Supreme Court verdict in the Bhakra Beas Management Board (BBMB) arrears case, Himachal Pradesh Chief Minister Sukhvinder Singh Sukhu on Saturday (November 7, 2026) said that the decision came in the State's favour on account of the \"tough\" stance his government took during discussions on the Kishau Dam project.<br>• Mr. Sukhu said that during meetings with the Union Power Minister and officials, he had consistently raised the issue of dues arising from BBMB projects and made it clear that the rights of Himachal Pradesh in the matter must be resolved before any further progress was made on the Kishau Dam project.<br>• He said the State asserted that it would not share the cost of the 440-MW Kishau Dam project, and the Haryana government assured that it would file an affidavit in the Supreme Court in favour of Himachal Pradesh for the release of arrears of its power share from BBMB projects."
-    },
-    {
-      "category": "national",
-      "categoryLabel": "🏛️ National & Polity",
-      "title": "A woman stitches her way into the male-dominated ritual tradition of Theyyam",
-      "link": "https://www.thehindu.com/news/national/kerala/a-woman-stitches-her-way-into-the-male-dominated-ritual-tradition-of-theyyam/article71670573.ece",
-      "pubDate": "Sat, 07 Nov 2026 22:51:49 +0530",
-      "dateIso": "2026-11-07",
-      "dateDisplay": "07 Nov 2026",
-      "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
-      "imageUrl": "https://th-i.thgim.com/public/incoming/bhawg3/article71679370.ece/alternates/LANDSCAPE_1200/11435_6_11_2026_21_22_21_1_MPRIYATHEYYAM.JPG",
-      "fullParagraphs": [
-        "In the ritual world of Theyyam, where women rarely find a place in the traditional roles, 41-year-old M. Priya of Kannayi Mukkottu near Payyannur has carved out a distinctive space for herself. Rather than performing rituals, she stitches costumes and decorative garments that transforms male performers into divine figures in the Malabar’s sacred groves and temples.",
-        "For Priya, the Theyyam season is also the busiest time of the year. Beginning in November and continuing until March or May, depending on the festival calendar, it keeps her sewing machine busy.",
-        "Unlike conventional tailoring, Ms. Priya specialises exclusively in the traditional attire worn by Theyyam performers. She makes costumes and decorative accessories for almost all the Theyyam forms, following individual performances measurements and requirements.",
-        "“It takes nearly two days to stitch the complete costume for a Theyyam character. Each form has its own distinctive style of attire, requiring patience, precision, and an understanding of the traditional designs,” she said.",
-        "Ms. Priya’s learned the craft from her father, who stitched Theyyam costumes by hand before sewing machines became common. “I learned this by watching my father stitch the costumes at home. I developed an interest in this particular kind of stitching and gradually began doing it myself,” she said.",
-        "Although she has been involved in the work for over 15 years, Ms. Priya has never ventured into conventional tailoring. Performers from across Kannur and Kasargod districts approach her with their measurements and requirements.",
-        "Among the items she makes are kaani, kachunkaraa, Valinjery, kuttithaya and Velimban, Kayipodip, Thalachut besides several other components of Theyyam attire. Designs and stitching patterns vary according to the character, making each order a specialised assignment.",
-        "Orders pour in as the season approaches. Ms. Priya spends her evenings from 4 p.m. to 9 p.m. at the sewing machine. Her work has earned the appreciation of performers who depend on the precision and quality of their costumes.",
-        "Prashanth Panicker, who has been performing Theyyam since very young age, has been getting his costumes stitched by Ms. Priya.",
-        "“Stitching Theyyam costumes requires a great deal of patience. Once we get the costumes stitched by her, there is hardly any need to look elsewhere. The stitching is precise. I perform in several places in Kannur and Kasaragod, and her workmanship has become a familiar signature in the costumes I wear,” he says.",
-        "For Priya, the craft is not merely an occupation. Theyyam runs deep in her family. Her father was associated with the tradition, while her brothers children too have performed theyyam.",
-        "Her husband M Sashi has been a constant source of encouragement. An auto-rickshaw driver, he supports her work, helps her find customers and pursue her interest. He drives more more actively when the Theyyam season winds down."
-      ],
-      "deepExplanation": "<strong>1. Core Context & Background:</strong> In the ritual world of Theyyam, where women rarely find a place in the traditional roles, 41-year-old M.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Priya of Kannayi Mukkottu near Payyannur has carved out a distinctive space for herself. Rather than performing rituals, she stitches costumes and decorative garments that transforms male performers into divine figures in the Malabar’s sacred groves and temples.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> He drives more more actively when the Theyyam season winds down.",
-      "vocabList": [
-        "Traditional",
-        "Mukkottu",
-        "Payyannur",
-        "Distinctive",
-        "Performing",
-        "Stitches"
-      ],
-      "summary": "In the ritual world of Theyyam, where women rarely find a place in the traditional roles, 41-year-old M. Priya of Kannayi Mukkottu near Payyannur has carved out a distinctive space for herself. Rather than performing rituals, she stitches costumes and decorative garments that transforms male performers into divine figures in the Malabar’s sacred groves and temples.",
-      "keyPoints": "• In the ritual world of Theyyam, where women rarely find a place in the traditional roles, 41-year-old M. Priya of Kannayi Mukkottu near Payyannur has carved out a distinctive space for herself. Rather than performing rituals, she stitches costumes and decorative garments that transforms male performers into divine figures in the Malabar’s sacred groves and temples.<br>• For Priya, the Theyyam season is also the busiest time of the year. Beginning in November and continuing until March or May, depending on the festival calendar, it keeps her sewing machine busy.<br>• Unlike conventional tailoring, Ms. Priya specialises exclusively in the traditional attire worn by Theyyam performers. She makes costumes and decorative accessories for almost all the Theyyam forms, following individual performances measurements and requirements."
-    },
-    {
-      "category": "national",
-      "categoryLabel": "🏛️ National & Polity",
-      "title": "Enforcement Directorate is not a ‘super cop’, says Karnataka High Court",
-      "link": "https://www.thehindu.com/news/national/karnataka/enforcement-directorate-is-not-a-super-cop-says-karnataka-high-court/article71677912.ece",
-      "pubDate": "Sat, 07 Nov 2026 22:49:56 +0530",
-      "dateIso": "2026-11-07",
-      "dateDisplay": "07 Nov 2026",
-      "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
-      "imageUrl": "https://th-i.thgim.com/public/incoming/b9wbac/article71678038.ece/alternates/LANDSCAPE_1200/IMG_BG_HIGH_COURT_2020_2_1_U0GN4CU9.jpg",
-      "fullParagraphs": [
-        "In a setback to the Directorate of Enforcement (ED) , the High Court of Karnataka has held that the ED is “not a super cop” and cannot file a private complaint to initiate a money-laundering probe when the competent agencies decline to prosecute a scheduled offence based on the information filed by the ED.",
-        "The Court ruled that the ED’s power under the Prevention of Money-Laundering Act (PMLA) is “derivative and not original”, and that filing a private complaint under Section 200 Code of Criminal Procedure (Cr.P.C.) / Section 223 Bharatiya Nagarik Surakasha Sanhita is not contemplated under the PMLA Act.",
-        "“... one institution in the country does not become supreme so that it is in a position to abuse the powers conferred on it. Law recognises the requirements of checks and balances. The ED is not a super cop to investigate anything and everything which comes into its notice,” the Court observed, adding that the ED must exercise only those powers expressly conferred on it by the PMLA.",
-        "Justice M.I. Arun passed the order while allowing a batch of writ petitions filed by Congress Party MLA from Malur constituency K.Y. Nanjegowda, who is also Chairman of the Kolar and Chikkaballapur Milk Union Ltd. (KOMUL), Y.B. Ashwathanarayana then Director of KOMUL, K.N. Gopala Murthy, Nagesh N. and Raju Krishna C.",
-        "The petitioners had challenged the ED’s ECIR registered in November 2023, the Adjudicating Authority’s order confirming seizure of articles, summons issued to them, and the private complaint filed by the ED before a special court.",
-        "The case stemmed from the criminal proceedings initiated based on a private complaint on “land scam” lodged by one K.C. Rajanna before a trial court in Kolar alleging irregularities in the grant of about 80 acres of land to 38 persons by the Malur Land Grant Committee, of which Mr. Nanjegowda was chairman.",
-        "Treating this case it as a predicate offence, the ED had registered ECIR in 2023. During searches conducted based in this ECIR, the ED agency claimed to have stumbled upon material indicating irregularities in recruitments to the KOMUL, which it termed a separate “job scam.” Further, the ED had shared with the Karnataka Lokayukta police the information on alleged “job scam” that it had discovered during the searches.",
-        "However, the “land scam” case ended in a closure report by the jurisdictional police, and the trial court dismissed it for want of sanction to prosecute a public servant even though complainant Mr. Rajanna protested against closure report.",
-        "As the Lokayukta police did not act on the information shared by it under Section 66(2) of the PMLA), the ED itself had filed a private complaint before a special court in Bengaluru on KOMUL “job scam.”",
-        "It was argued on behalf of the petitioners that once the predicate offence collapses, even on technical grounds, the ED cannot continue PMLA proceedings, and that when ED uncovers a different scheduled offence, its only permissible course is to share information with the competent agency and not filing a separate private complaint and probe it.",
-        "Accepting petitioners’ contentions, the Court held that Section 66(2) casts a duty on the ED to intimate the concerned agency, not to take up the investigation itself.",
-        "“In law, where an act is to be done in a particular way, it must be done in that way and in no other way,” the Court said, invoking the constitutional separation of powers and the need for checks and balances."
-      ],
-      "deepExplanation": "<strong>1. Core Context & Background:</strong> In a setback to the Directorate of Enforcement (ED) , the High Court of Karnataka has held that the ED is “not a super cop” and cannot file a private complaint to initiate a money-laundering probe when the competent agencies decline to prosecute a scheduled offence based on the information filed by the ED.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> The Court ruled that the ED’s power under the Prevention of Money-Laundering Act (PMLA) is “derivative and not original”, and that filing a private complaint under Section 200 Code of Criminal Procedure (Cr.P.C.) / Section 223 Bharatiya Nagarik Surakasha Sanhita is not contemplated under the PMLA Act. one institution in the country does not become supreme so that it is in a position to abuse the powers conferred on it.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> “In law, where an act is to be done in a particular way, it must be done in that way and in no other way,” the Court said, invoking the constitutional separation of powers and the need for checks and balances.",
-      "vocabList": [
-        "Directorate",
-        "Enforcement",
-        "Karnataka",
-        "Complaint",
-        "Initiate",
-        "Laundering"
-      ],
-      "summary": "In a setback to the Directorate of Enforcement (ED) , the High Court of Karnataka has held that the ED is “not a super cop” and cannot file a private complaint to initiate a money-laundering probe when the competent agencies decline to prosecute a scheduled offence based on the information filed by the ED.",
-      "keyPoints": "• In a setback to the Directorate of Enforcement (ED) , the High Court of Karnataka has held that the ED is “not a super cop” and cannot file a private complaint to initiate a money-laundering probe when the competent agencies decline to prosecute a scheduled offence based on the information filed by the ED.<br>• The Court ruled that the ED’s power under the Prevention of Money-Laundering Act (PMLA) is “derivative and not original”, and that filing a private complaint under Section 200 Code of Criminal Procedure (Cr.P.C.) / Section 223 Bharatiya Nagarik Surakasha Sanhita is not contemplated under the PMLA Act.<br>• “... one institution in the country does not become supreme so that it is in a position to abuse the powers conferred on it. Law recognises the requirements of checks and balances. The ED is not a super cop to investigate anything and everything which comes into its notice,” the Court observed, adding that the ED must exercise only those powers expressly conferred on it by the PMLA."
-    },
-    {
-      "category": "national",
-      "categoryLabel": "🏛️ National & Polity",
-      "title": "Manipur gets Northeast’s first AI-enabled career intelligence hub",
-      "link": "https://www.thehindu.com/news/national/manipur/manipur-gets-northeasts-first-ai-enabled-career-intelligence-hub/article71678274.ece",
-      "pubDate": "Sat, 07 Nov 2026 22:48:58 +0530",
-      "dateIso": "2026-11-07",
-      "dateDisplay": "07 Nov 2026",
-      "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
-      "imageUrl": "https://th-i.thgim.com/public/news/national/sv5it5/article71678424.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-11-07%20at%2012.56.28%20PM.jpeg",
-      "fullParagraphs": [
-        "Conflict-scarred Manipur has become the first State in the northeastern region to get an artificial intelligence (AI)-enabled facility that aims to mould careers.",
-        "Chief Minister Yumnam Khemchand Singh on Saturday (November 7, 2026) inaugurated the AI-enabled Career Intelligence Hub at the Tamphasana Girls’ Higher Secondary School in Imphal, the State’s capital.",
-        "Established under the Members of Parliament Local Area Development Scheme as the region’s first-of-its-kind facility, the initiative marked a “significant step towards integrating AI into the education and career guidance ecosystem in the State”.",
-        "The Chief Minister said the government undertook the initiative to provide students with technology-driven career guidance, personalised counselling, and information on emerging career opportunities.",
-        "He commended students who focused on their education and future instead of participating in agitations over the past few months, advising others to pursue dialogue as the preferred means of resolving any differences and addressing critical issues.",
-        "“AI has advanced significantly and is increasingly transforming various fields and professions,” he said, underscoring the need for students to upgrade for the career challenges ahead.",
-        "Earlier, the Chief Minister lauded two districts—Imphal West and Pherzawl—for achieving ‘ surakshit (safe)’ status in October under the National AIDS Control Organisation’s (NACO) Mobilisation for AIDS Suraksha initiative.",
-        "“This achievement means that 95% of the estimated number of people living with Human Immunodeficiency Virus (HIV) in a district are aware of their status, 95% of those aware of their status are receiving antiretroviral therapy (ART), and 95% of those undergoing ART have achieved viral suppression,” he said.",
-        "Manipur is among the States most heavily impacted by HIV/AIDS in India, driven largely by its geographical proximity to the Golden Triangle, a notorious drug-trafficking route comprising Laos, Myanmar, and Thailand.",
-        "Manipur has consistently ranked among the top States in India for adult HIV prevalence. NACO records say the State’s adult HIV prevalence is around 1.05% to 1.18%, significantly higher than the national average of roughly 0.2%."
-      ],
-      "deepExplanation": "<strong>1. Core Context & Background:</strong> Conflict-scarred Manipur has become the first State in the northeastern region to get an artificial intelligence (AI)-enabled facility that aims to mould careers.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Chief Minister Yumnam Khemchand Singh on Saturday (November 7, 2026) inaugurated the AI-enabled Career Intelligence Hub at the Tamphasana Girls’ Higher Secondary School in Imphal, the State’s capital. Established under the Members of Parliament Local Area Development Scheme as the region’s first-of-its-kind facility, the initiative marked a “significant step towards integrating AI into the education and career guidance ecosystem in the State”.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> NACO records say the State’s adult HIV prevalence is around 1.05% to 1.18%, significantly higher than the national average of roughly 0.2%.",
-      "vocabList": [
-        "Conflict",
-        "Northeastern",
-        "Artificial",
-        "Intelligence",
-        "Facility",
-        "Khemchand"
-      ],
-      "summary": "Conflict-scarred Manipur has become the first State in the northeastern region to get an artificial intelligence (AI)-enabled facility that aims to mould careers.",
-      "keyPoints": "• Conflict-scarred Manipur has become the first State in the northeastern region to get an artificial intelligence (AI)-enabled facility that aims to mould careers.<br>• Chief Minister Yumnam Khemchand Singh on Saturday (November 7, 2026) inaugurated the AI-enabled Career Intelligence Hub at the Tamphasana Girls’ Higher Secondary School in Imphal, the State’s capital.<br>• Established under the Members of Parliament Local Area Development Scheme as the region’s first-of-its-kind facility, the initiative marked a “significant step towards integrating AI into the education and career guidance ecosystem in the State”."
     },
     {
       "category": "economy",
@@ -950,8 +944,139 @@
     "2026-11-07": {
       "dateIso": "2026-11-07",
       "dateDisplay": "07 Nov 2026",
-      "updatedAt": "07 Nov 2026, 11:13 PM IST",
+      "updatedAt": "07 Nov 2026, 11:30 PM IST",
       "articles": [
+        {
+          "category": "national",
+          "categoryLabel": "🏛️ National & Polity",
+          "title": "Rajajingar murders: How did the accused transport bodies across locations without being caught?",
+          "link": "https://www.thehindu.com/news/cities/bangalore/rajajingar-murders-how-did-the-accused-transport-bodies-across-locations-without-being-intercepted/article71679003.ece",
+          "pubDate": "Sat, 07 Nov 2026 23:17:21 +0530",
+          "dateIso": "2026-11-07",
+          "dateDisplay": "07 Nov 2026",
+          "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/ciamg2/article71679345.ece/alternates/LANDSCAPE_1200/_JAI7256.JPG",
+          "fullParagraphs": [
+            "At least three trips with seven bodies in the car to four different locations, and one of them an inter-State journey. Yet, the accused in the alleged Rajajinagar murders, Indushekhar, was never detected. This has raised questions about the effectiveness of the nakabandi (checkpoints) and night patrolling system in the city.",
+            "Indushekar, prime accused in the case where he killed his wife and six others from her family , resided in a building near (barely 100 metres) the famous Bhashyam Circle in Rajajinagar. The junction is barely 3 km from Majestic, the city’s transport hub. It connects to Chord Road, one of the major roads in the city. The junction also provides connectivity between the central, western and southern parts of Bengaluru.",
+            "The accused allegedly brought the bodies down from the second floor and transported them to Mysuru, deep into the Western Ghats (Shiradi Ghat), to the Tamil Nadu border and to Chickballapur.",
+            "The alleged incidents unfolded over 15 days. Neither a patrolling vehicle nor a checkpoint detected the accused, even as he crossed State borders. The development comes amid frequent police checks at night across the city. In several instances, there have also been allegations of harassment during such checks.",
+            "A senior police officer told The Hindu that the accused’s movement with bodies in the car was among the questions on their investigation list, though it was not their immediate focus.",
+            "“A team has already been deployed to recreate all the movements of the accused and gather footage of his movements after October 16. We will verify whether he passed any checkpoints in the city and whether there was any negligence on the part of officers,” he said.",
+            "The officer stressed that the immediate focus was on recovering the bodies, as they were the prime evidence in the case. Any dereliction of duty could be investigated at a later stage.",
+            "The officer further said that they suspect the accused deliberately avoided stretches where checkpoints were set up. “We must also consider that all vehicles are checked at checkpoints. He may have passed through one,” the officer added.",
+            "“We also suspect that he avoided toll plazas. For a person who meticulously planned how to clean the crime scene thoroughly, he must have planned the routes in advance and executed the disposals accordingly,” the officer said.",
+            "The officer also pointed to a murder cover-up in a case reported in C.K. Acchukattu in 2025. The body was found dumped in a garbage pile. However, the accused had transported it from Madiwala to C.K. Acchukattu. What was even more surprising was that the accused had carried the body alone on a scooter.",
+            "“Only when we interrogated the accused did we get to know that he had deliberately avoided routes with police checkpoints,” the officer said, adding that there had been several such instances in the past.",
+            "Similarly, the family of Nalini, one of the victims in the present case, alleged that the Srirampura police initially refused to register a missing-person complaint on November 1. It was registered only on November 3."
+          ],
+          "deepExplanation": "<strong>1. Core Context & Background:</strong> At least three trips with seven bodies in the car to four different locations, and one of them an inter-State journey.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Yet, the accused in the alleged Rajajinagar murders, Indushekhar, was never detected. This has raised questions about the effectiveness of the nakabandi (checkpoints) and night patrolling system in the city.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> It was registered only on November 3.",
+          "vocabList": [
+            "Locations",
+            "Rajajinagar",
+            "Indushekhar",
+            "Detected",
+            "Questions",
+            "Effectiveness"
+          ],
+          "summary": "At least three trips with seven bodies in the car to four different locations, and one of them an inter-State journey. Yet, the accused in the alleged Rajajinagar murders, Indushekhar, was never detected. This has raised questions about the effectiveness of the nakabandi (checkpoints) and night patrolling system in the city.",
+          "keyPoints": "• At least three trips with seven bodies in the car to four different locations, and one of them an inter-State journey. Yet, the accused in the alleged Rajajinagar murders, Indushekhar, was never detected. This has raised questions about the effectiveness of the nakabandi (checkpoints) and night patrolling system in the city.<br>• Indushekar, prime accused in the case where he killed his wife and six others from her family , resided in a building near (barely 100 metres) the famous Bhashyam Circle in Rajajinagar. The junction is barely 3 km from Majestic, the city’s transport hub. It connects to Chord Road, one of the major roads in the city. The junction also provides connectivity between the central, western and southern parts of Bengaluru.<br>• The accused allegedly brought the bodies down from the second floor and transported them to Mysuru, deep into the Western Ghats (Shiradi Ghat), to the Tamil Nadu border and to Chickballapur."
+        },
+        {
+          "category": "national",
+          "categoryLabel": "🏛️ National & Polity",
+          "title": "Students urged to dream big, prepare for a self-reliant India",
+          "link": "https://www.thehindu.com/news/national/andhra-pradesh/students-urged-to-dream-big-prepare-for-a-self-reliant-india/article71679044.ece",
+          "pubDate": "Sat, 07 Nov 2026 23:17:05 +0530",
+          "dateIso": "2026-11-07",
+          "dateDisplay": "07 Nov 2026",
+          "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
+          "imageUrl": "https://www.thehindu.com/theme/images/og-image.png",
+          "fullParagraphs": [
+            "Students should dare to dream big, think independently and pursue ambitious goals to drive innovation and contribute to the vision of a self-reliant India, said Prof. Ramesh Srikonda, Director of the School of Planning and Architecture, Vijayawada.",
+            "Addressing the Freshers’ Day celebrations at Dr. RVR NRI Institute of Technology (Deemed to be University), he emphasised that bold aspirations lead to new ideas and innovative outcomes. He urged students to focus on holistic development rather than limiting their ambitions to obtaining academic degrees.",
+            "The celebrations, organised to welcome newly admitted first-year students, witnessed the participation of over 2,000 students, who showcased their talents through colourful singing and dancing performances.",
+            "Prof. M.L.N. Rao, Chancellor and Vice-Chancellor of Rajiv Gandhi University of Knowledge Technologies (RGUKT-AP), said emerging technologies such as Artificial Intelligence, Machine Learning and Quantum Technologies would drive major transformations over the next five to 10 years. He encouraged students to prepare themselves to contribute to the visions of Swarna Andhra Pradesh 2047 and Viksit Bharat 2047.",
+            "NRI University Chairman and Chancellor Dr. Ravi Venkata Rao said the institution’s four-year academic programme aimed at shaping students into responsible, capable individuals equipped to overcome challenges and contribute meaningfully to society.",
+            "Vice-Chancellor Dr. K.R.S. Sambasiva Rao urged students to make effective use of the university’s teaching and learning facilities and continuously upgrade their skills to become industry-ready professionals.",
+            "Organising convener and Dean D. Suneetha, CEO, Pro-Vice-Chancellors, Registrar, Deans, Heads of Departments, faculty members and other dignitaries attended the celebrations."
+          ],
+          "deepExplanation": "<strong>1. Core Context & Background:</strong> Students should dare to dream big, think independently and pursue ambitious goals to drive innovation and contribute to the vision of a self-reliant India, said Prof.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Ramesh Srikonda, Director of the School of Planning and Architecture, Vijayawada. Addressing the Freshers’ Day celebrations at Dr.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Suneetha, CEO, Pro-Vice-Chancellors, Registrar, Deans, Heads of Departments, faculty members and other dignitaries attended the celebrations.",
+          "vocabList": [
+            "Students",
+            "Independently",
+            "Ambitious",
+            "Innovation",
+            "Contribute",
+            "Srikonda"
+          ],
+          "summary": "Students should dare to dream big, think independently and pursue ambitious goals to drive innovation and contribute to the vision of a self-reliant India, said Prof. Ramesh Srikonda, Director of the School of Planning and Architecture, Vijayawada.",
+          "keyPoints": "• Students should dare to dream big, think independently and pursue ambitious goals to drive innovation and contribute to the vision of a self-reliant India, said Prof. Ramesh Srikonda, Director of the School of Planning and Architecture, Vijayawada.<br>• Addressing the Freshers’ Day celebrations at Dr. RVR NRI Institute of Technology (Deemed to be University), he emphasised that bold aspirations lead to new ideas and innovative outcomes. He urged students to focus on holistic development rather than limiting their ambitions to obtaining academic degrees.<br>• The celebrations, organised to welcome newly admitted first-year students, witnessed the participation of over 2,000 students, who showcased their talents through colourful singing and dancing performances."
+        },
+        {
+          "category": "national",
+          "categoryLabel": "🏛️ National & Polity",
+          "title": "Bengaluru’s GBA launches phase 2 of ‘Ward One’",
+          "link": "https://www.thehindu.com/news/cities/bangalore/bengalurus-gba-launches-phase-2-of-ward-one/article71679329.ece",
+          "pubDate": "Sat, 07 Nov 2026 23:16:28 +0530",
+          "dateIso": "2026-11-07",
+          "dateDisplay": "07 Nov 2026",
+          "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/692j5v/article71679403.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-11-07%20at%2014.33.58.JPEG",
+          "fullParagraphs": [
+            "Greater Bengaluru Development Minister Krishna Byre Gowda on Saturday directed officials to prepare a comprehensive plan for the redevelopment of the K.R. Puram-Tin Factory Junction. The plan should focus on pedestrian safety, public transport integration and smoother traffic movement, he said.",
+            "The directions came during the launch of the second phase of the ‘Ward One’ campaign. The second phase has been launched across around 40 wards. The first phase covered 43 wards, with nearly 90% of the identified works completed, Mr. Gowda said.",
+            "On Saturday, the Minister inspected the K.R. Puram-Tin Factory Junction and reviewed the problems from ongoing metro and K-RIDE works and the pedestrian infrastructure, following which directions were issued.",
+            "The plan would be prepared jointly by the Greater Bengaluru Authority (GBA), Namma Metro officials, and Janaagraha, he said. The plan would cover road design, footpaths, bus bays, bus stops and traffic management. The Minister also called for scientifically redesigning the junction, improving road curves, and providing free left turns wherever necessary.",
+            "He directed metro officials to restore roads affected by the construction without delay. “Potholes on connecting roads must be repaired within a week. Roads at lower levels, which are prone to flooding, also need to be improved,” he told officials.",
+            "The campaign brings together various civic agencies to address potholes, damaged footpaths, garbage accumulation, construction waste, streetlights and drain desilting."
+          ],
+          "deepExplanation": "<strong>1. Core Context & Background:</strong> Greater Bengaluru Development Minister Krishna Byre Gowda on Saturday directed officials to prepare a comprehensive plan for the redevelopment of the K.R.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> The plan should focus on pedestrian safety, public transport integration and smoother traffic movement, he said. The directions came during the launch of the second phase of the ‘Ward One’ campaign.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> The campaign brings together various civic agencies to address potholes, damaged footpaths, garbage accumulation, construction waste, streetlights and drain desilting.",
+          "vocabList": [
+            "Bengaluru",
+            "Saturday",
+            "Directed",
+            "Officials",
+            "Comprehensive",
+            "Redevelopment"
+          ],
+          "summary": "Greater Bengaluru Development Minister Krishna Byre Gowda on Saturday directed officials to prepare a comprehensive plan for the redevelopment of the K.R. Puram-Tin Factory Junction. The plan should focus on pedestrian safety, public transport integration and smoother traffic movement, he said.",
+          "keyPoints": "• Greater Bengaluru Development Minister Krishna Byre Gowda on Saturday directed officials to prepare a comprehensive plan for the redevelopment of the K.R. Puram-Tin Factory Junction. The plan should focus on pedestrian safety, public transport integration and smoother traffic movement, he said.<br>• The directions came during the launch of the second phase of the ‘Ward One’ campaign. The second phase has been launched across around 40 wards. The first phase covered 43 wards, with nearly 90% of the identified works completed, Mr. Gowda said.<br>• On Saturday, the Minister inspected the K.R. Puram-Tin Factory Junction and reviewed the problems from ongoing metro and K-RIDE works and the pedestrian infrastructure, following which directions were issued."
+        },
+        {
+          "category": "national",
+          "categoryLabel": "🏛️ National & Polity",
+          "title": "Habitual offender arrested for murdering 65-year-old woman in Bengaluru",
+          "link": "https://www.thehindu.com/news/national/karnataka/habitual-offender-arrested-for-murdering-65-year-old-woman-in-bengaluru/article71678977.ece",
+          "pubDate": "Sat, 07 Nov 2026 23:12:25 +0530",
+          "dateIso": "2026-11-07",
+          "dateDisplay": "07 Nov 2026",
+          "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
+          "imageUrl": "https://www.thehindu.com/theme/images/og-image.png",
+          "fullParagraphs": [
+            "The Kengeri police have arrested a habitual offender for allegedly murdering a 65-year-old woman who was sleeping outside a temple and robbing her of cash and a gold ring in Vrushabhavathi Nagar Layout.",
+            "The deceased, Narayanamma, was found dead in front of the Pataladamma Temple at Vrushabhavathi Nagar Layout, Konasandra, within Kengeri police station limits, on November 3.",
+            "According to the police, Narayanamma had left her house due to family problems and had been sleeping outside the temple for the past few days.",
+            "A local resident who noticed her body informed her son, who arrived at the spot and identified her. The Kengeri police initially registered an unnatural death report based on his complaint.",
+            "However, following the post-mortem examination and information gathered during the investigation, police suspected that she had been murdered and robbed. A murder case was subsequently registered on Thursday.",
+            "During the investigation, police apprehended a suspicious person moving around Vrushabhavathi Nagar Layout on Friday. During interrogation, he allegedly confessed to the crime.",
+            "The accused reportedly told investigators that he had noticed Narayanamma sleeping alone and decided to rob her to arrange money to fund his vices.",
+            "In the early hours of November 3, he allegedly went to the spot, covered her mouth, assaulted her and robbed her of the cash she was carrying and a gold ring before fleeing, leaving her dead.",
+            "Police said the accused has a criminal history and was previously involved in cases registered under the Narcotic Drugs and Psychotropic Substances (NDPS) Act and robbery cases at Girinagar and Cottonpet police stations.",
+            "Further investigation and interrogation are under way, police said."
+          ],
+          "deepExplanation": "<strong>1. Core Context & Background:</strong> The Kengeri police have arrested a habitual offender for allegedly murdering a 65-year-old woman who was sleeping outside a temple and robbing her of cash and a gold ring in Vrushabhavathi Nagar Layout.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> The deceased, Narayanamma, was found dead in front of the Pataladamma Temple at Vrushabhavathi Nagar Layout, Konasandra, within Kengeri police station limits, on November 3. According to the police, Narayanamma had left her house due to family problems and had been sleeping outside the temple for the past few days.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Further investigation and interrogation are under way, police said.",
+          "vocabList": [
+            "Arrested",
+            "Habitual",
+            "Offender",
+            "Allegedly",
+            "Murdering",
+            "Sleeping"
+          ],
+          "summary": "The Kengeri police have arrested a habitual offender for allegedly murdering a 65-year-old woman who was sleeping outside a temple and robbing her of cash and a gold ring in Vrushabhavathi Nagar Layout.",
+          "keyPoints": "• The Kengeri police have arrested a habitual offender for allegedly murdering a 65-year-old woman who was sleeping outside a temple and robbing her of cash and a gold ring in Vrushabhavathi Nagar Layout.<br>• The deceased, Narayanamma, was found dead in front of the Pataladamma Temple at Vrushabhavathi Nagar Layout, Konasandra, within Kengeri police station limits, on November 3.<br>• According to the police, Narayanamma had left her house due to family problems and had been sleeping outside the temple for the past few days."
+        },
         {
           "category": "national",
           "categoryLabel": "🏛️ National & Polity",
@@ -1010,143 +1135,6 @@
           ],
           "summary": "The Hebbal Flyover and Ballari Road corridor will not be completely closed for 18 months to facilitate the construction of the elevated corridor, the Bangalore Development Authority (BDA) clarified on Saturday (November 7). Meanwhile, the Bengaluru Traffic Police (BTP) said vehicular movement would continue with limited lane restrictions and phased traffic diversions.",
           "keyPoints": "• The Hebbal Flyover and Ballari Road corridor will not be completely closed for 18 months to facilitate the construction of the elevated corridor, the Bangalore Development Authority (BDA) clarified on Saturday (November 7). Meanwhile, the Bengaluru Traffic Police (BTP) said vehicular movement would continue with limited lane restrictions and phased traffic diversions.<br>• The clarification comes amid concerns over the traffic disruption expected during the construction period. The elevated corridor is part of the BDA’s larger Integrated Tunnel and Elevated Corridor Project, aimed at easing congestion along the city’s crucial northern corridor connecting Bengaluru with Kempegowda International Airport. However, the project has also drawn considerable public criticism since it was announced.<br>• The BTP sources said restrictions would apply only to the movement of heavy vehicles between 6 a.m. and 8 p.m., while other motorists would merely be “advised” to take alternative routes. Public transport vehicles and school buses would also be allowed to use the stretch."
-        },
-        {
-          "category": "national",
-          "categoryLabel": "🏛️ National & Polity",
-          "title": "'Tough' stance on Kishau Dam project laid ground for victory in BBMB dues case: Himachal CM",
-          "link": "https://www.thehindu.com/news/national/himachal-pradesh/tough-stance-on-kishau-dam-project-laid-ground-for-victory-in-bbmb-dues-case-himachal-cm/article71679262.ece",
-          "pubDate": "Sat, 07 Nov 2026 22:56:12 +0530",
-          "dateIso": "2026-11-07",
-          "dateDisplay": "07 Nov 2026",
-          "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
-          "imageUrl": "https://th-i.thgim.com/public/incoming/dm4sdd/article71679375.ece/alternates/LANDSCAPE_1200/PTI10_16_2026_000341B.jpg",
-          "fullParagraphs": [
-            "Hailing the Supreme Court verdict in the Bhakra Beas Management Board (BBMB) arrears case, Himachal Pradesh Chief Minister Sukhvinder Singh Sukhu on Saturday (November 7, 2026) said that the decision came in the State's favour on account of the \"tough\" stance his government took during discussions on the Kishau Dam project.",
-            "Mr. Sukhu said that during meetings with the Union Power Minister and officials, he had consistently raised the issue of dues arising from BBMB projects and made it clear that the rights of Himachal Pradesh in the matter must be resolved before any further progress was made on the Kishau Dam project.",
-            "He said the State asserted that it would not share the cost of the 440-MW Kishau Dam project, and the Haryana government assured that it would file an affidavit in the Supreme Court in favour of Himachal Pradesh for the release of arrears of its power share from BBMB projects.",
-            "Ruling in favour of Himachal Pradesh, the Supreme Court on Friday (November 6, 2026) said the hill State would get 11,973 MU of electricity from Punjab and Haryana over 20 years. The arrangement will be as per a 2011 Supreme Court verdict settling power dues arising out of Bhakra Nangal and Beas hydro projects since 1966 at the rate of 7.19%.",
-            "Talking to media persons here, Mr. Sukhu claimed that the case of arrears, pending for the past 15 years, would have taken many more years to decide if the government had not pursued it vigorously in the top court.",
-            "He said that the State government is exploring a better price to sell the electricity received from the BBMB. If the electricity is sold at the rate of ₹6 per unit, the State could earn around ₹500 crore, but the government is working towards securing a better power agreement that could increase the revenue to approximately ₹1,000 crore.",
-            "The Chief Minister said that the State government was moving ahead with the aim of making Himachal Pradesh self-reliant and expressed confidence that it would become the most prosperous State in the country by 2032."
-          ],
-          "deepExplanation": "<strong>1. Core Context & Background:</strong> Hailing the Supreme Court verdict in the Bhakra Beas Management Board (BBMB) arrears case, Himachal Pradesh Chief Minister Sukhvinder Singh Sukhu on Saturday (November 7, 2026) said that the decision came in the State's favour on account of the \"tough\" stance his government took during discussions on the Kishau Dam project.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Sukhu said that during meetings with the Union Power Minister and officials, he had consistently raised the issue of dues arising from BBMB projects and made it clear that the rights of Himachal Pradesh in the matter must be resolved before any further progress was made on the Kishau Dam project. He said the State asserted that it would not share the cost of the 440-MW Kishau Dam project, and the Haryana government assured that it would file an affidavit in the Supreme Court in favour of Himachal Pradesh for the release of arrears of its power share from BBMB projects.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> The Chief Minister said that the State government was moving ahead with the aim of making Himachal Pradesh self-reliant and expressed confidence that it would become the most prosperous State in the country by 2032.",
-          "vocabList": [
-            "Management",
-            "Himachal",
-            "Sukhvinder",
-            "Saturday",
-            "November",
-            "Decision"
-          ],
-          "summary": "Hailing the Supreme Court verdict in the Bhakra Beas Management Board (BBMB) arrears case, Himachal Pradesh Chief Minister Sukhvinder Singh Sukhu on Saturday (November 7, 2026) said that the decision came in the State's favour on account of the \"tough\" stance his government took during discussions on the Kishau Dam project.",
-          "keyPoints": "• Hailing the Supreme Court verdict in the Bhakra Beas Management Board (BBMB) arrears case, Himachal Pradesh Chief Minister Sukhvinder Singh Sukhu on Saturday (November 7, 2026) said that the decision came in the State's favour on account of the \"tough\" stance his government took during discussions on the Kishau Dam project.<br>• Mr. Sukhu said that during meetings with the Union Power Minister and officials, he had consistently raised the issue of dues arising from BBMB projects and made it clear that the rights of Himachal Pradesh in the matter must be resolved before any further progress was made on the Kishau Dam project.<br>• He said the State asserted that it would not share the cost of the 440-MW Kishau Dam project, and the Haryana government assured that it would file an affidavit in the Supreme Court in favour of Himachal Pradesh for the release of arrears of its power share from BBMB projects."
-        },
-        {
-          "category": "national",
-          "categoryLabel": "🏛️ National & Polity",
-          "title": "A woman stitches her way into the male-dominated ritual tradition of Theyyam",
-          "link": "https://www.thehindu.com/news/national/kerala/a-woman-stitches-her-way-into-the-male-dominated-ritual-tradition-of-theyyam/article71670573.ece",
-          "pubDate": "Sat, 07 Nov 2026 22:51:49 +0530",
-          "dateIso": "2026-11-07",
-          "dateDisplay": "07 Nov 2026",
-          "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
-          "imageUrl": "https://th-i.thgim.com/public/incoming/bhawg3/article71679370.ece/alternates/LANDSCAPE_1200/11435_6_11_2026_21_22_21_1_MPRIYATHEYYAM.JPG",
-          "fullParagraphs": [
-            "In the ritual world of Theyyam, where women rarely find a place in the traditional roles, 41-year-old M. Priya of Kannayi Mukkottu near Payyannur has carved out a distinctive space for herself. Rather than performing rituals, she stitches costumes and decorative garments that transforms male performers into divine figures in the Malabar’s sacred groves and temples.",
-            "For Priya, the Theyyam season is also the busiest time of the year. Beginning in November and continuing until March or May, depending on the festival calendar, it keeps her sewing machine busy.",
-            "Unlike conventional tailoring, Ms. Priya specialises exclusively in the traditional attire worn by Theyyam performers. She makes costumes and decorative accessories for almost all the Theyyam forms, following individual performances measurements and requirements.",
-            "“It takes nearly two days to stitch the complete costume for a Theyyam character. Each form has its own distinctive style of attire, requiring patience, precision, and an understanding of the traditional designs,” she said.",
-            "Ms. Priya’s learned the craft from her father, who stitched Theyyam costumes by hand before sewing machines became common. “I learned this by watching my father stitch the costumes at home. I developed an interest in this particular kind of stitching and gradually began doing it myself,” she said.",
-            "Although she has been involved in the work for over 15 years, Ms. Priya has never ventured into conventional tailoring. Performers from across Kannur and Kasargod districts approach her with their measurements and requirements.",
-            "Among the items she makes are kaani, kachunkaraa, Valinjery, kuttithaya and Velimban, Kayipodip, Thalachut besides several other components of Theyyam attire. Designs and stitching patterns vary according to the character, making each order a specialised assignment.",
-            "Orders pour in as the season approaches. Ms. Priya spends her evenings from 4 p.m. to 9 p.m. at the sewing machine. Her work has earned the appreciation of performers who depend on the precision and quality of their costumes.",
-            "Prashanth Panicker, who has been performing Theyyam since very young age, has been getting his costumes stitched by Ms. Priya.",
-            "“Stitching Theyyam costumes requires a great deal of patience. Once we get the costumes stitched by her, there is hardly any need to look elsewhere. The stitching is precise. I perform in several places in Kannur and Kasaragod, and her workmanship has become a familiar signature in the costumes I wear,” he says.",
-            "For Priya, the craft is not merely an occupation. Theyyam runs deep in her family. Her father was associated with the tradition, while her brothers children too have performed theyyam.",
-            "Her husband M Sashi has been a constant source of encouragement. An auto-rickshaw driver, he supports her work, helps her find customers and pursue her interest. He drives more more actively when the Theyyam season winds down."
-          ],
-          "deepExplanation": "<strong>1. Core Context & Background:</strong> In the ritual world of Theyyam, where women rarely find a place in the traditional roles, 41-year-old M.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Priya of Kannayi Mukkottu near Payyannur has carved out a distinctive space for herself. Rather than performing rituals, she stitches costumes and decorative garments that transforms male performers into divine figures in the Malabar’s sacred groves and temples.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> He drives more more actively when the Theyyam season winds down.",
-          "vocabList": [
-            "Traditional",
-            "Mukkottu",
-            "Payyannur",
-            "Distinctive",
-            "Performing",
-            "Stitches"
-          ],
-          "summary": "In the ritual world of Theyyam, where women rarely find a place in the traditional roles, 41-year-old M. Priya of Kannayi Mukkottu near Payyannur has carved out a distinctive space for herself. Rather than performing rituals, she stitches costumes and decorative garments that transforms male performers into divine figures in the Malabar’s sacred groves and temples.",
-          "keyPoints": "• In the ritual world of Theyyam, where women rarely find a place in the traditional roles, 41-year-old M. Priya of Kannayi Mukkottu near Payyannur has carved out a distinctive space for herself. Rather than performing rituals, she stitches costumes and decorative garments that transforms male performers into divine figures in the Malabar’s sacred groves and temples.<br>• For Priya, the Theyyam season is also the busiest time of the year. Beginning in November and continuing until March or May, depending on the festival calendar, it keeps her sewing machine busy.<br>• Unlike conventional tailoring, Ms. Priya specialises exclusively in the traditional attire worn by Theyyam performers. She makes costumes and decorative accessories for almost all the Theyyam forms, following individual performances measurements and requirements."
-        },
-        {
-          "category": "national",
-          "categoryLabel": "🏛️ National & Polity",
-          "title": "Enforcement Directorate is not a ‘super cop’, says Karnataka High Court",
-          "link": "https://www.thehindu.com/news/national/karnataka/enforcement-directorate-is-not-a-super-cop-says-karnataka-high-court/article71677912.ece",
-          "pubDate": "Sat, 07 Nov 2026 22:49:56 +0530",
-          "dateIso": "2026-11-07",
-          "dateDisplay": "07 Nov 2026",
-          "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
-          "imageUrl": "https://th-i.thgim.com/public/incoming/b9wbac/article71678038.ece/alternates/LANDSCAPE_1200/IMG_BG_HIGH_COURT_2020_2_1_U0GN4CU9.jpg",
-          "fullParagraphs": [
-            "In a setback to the Directorate of Enforcement (ED) , the High Court of Karnataka has held that the ED is “not a super cop” and cannot file a private complaint to initiate a money-laundering probe when the competent agencies decline to prosecute a scheduled offence based on the information filed by the ED.",
-            "The Court ruled that the ED’s power under the Prevention of Money-Laundering Act (PMLA) is “derivative and not original”, and that filing a private complaint under Section 200 Code of Criminal Procedure (Cr.P.C.) / Section 223 Bharatiya Nagarik Surakasha Sanhita is not contemplated under the PMLA Act.",
-            "“... one institution in the country does not become supreme so that it is in a position to abuse the powers conferred on it. Law recognises the requirements of checks and balances. The ED is not a super cop to investigate anything and everything which comes into its notice,” the Court observed, adding that the ED must exercise only those powers expressly conferred on it by the PMLA.",
-            "Justice M.I. Arun passed the order while allowing a batch of writ petitions filed by Congress Party MLA from Malur constituency K.Y. Nanjegowda, who is also Chairman of the Kolar and Chikkaballapur Milk Union Ltd. (KOMUL), Y.B. Ashwathanarayana then Director of KOMUL, K.N. Gopala Murthy, Nagesh N. and Raju Krishna C.",
-            "The petitioners had challenged the ED’s ECIR registered in November 2023, the Adjudicating Authority’s order confirming seizure of articles, summons issued to them, and the private complaint filed by the ED before a special court.",
-            "The case stemmed from the criminal proceedings initiated based on a private complaint on “land scam” lodged by one K.C. Rajanna before a trial court in Kolar alleging irregularities in the grant of about 80 acres of land to 38 persons by the Malur Land Grant Committee, of which Mr. Nanjegowda was chairman.",
-            "Treating this case it as a predicate offence, the ED had registered ECIR in 2023. During searches conducted based in this ECIR, the ED agency claimed to have stumbled upon material indicating irregularities in recruitments to the KOMUL, which it termed a separate “job scam.” Further, the ED had shared with the Karnataka Lokayukta police the information on alleged “job scam” that it had discovered during the searches.",
-            "However, the “land scam” case ended in a closure report by the jurisdictional police, and the trial court dismissed it for want of sanction to prosecute a public servant even though complainant Mr. Rajanna protested against closure report.",
-            "As the Lokayukta police did not act on the information shared by it under Section 66(2) of the PMLA), the ED itself had filed a private complaint before a special court in Bengaluru on KOMUL “job scam.”",
-            "It was argued on behalf of the petitioners that once the predicate offence collapses, even on technical grounds, the ED cannot continue PMLA proceedings, and that when ED uncovers a different scheduled offence, its only permissible course is to share information with the competent agency and not filing a separate private complaint and probe it.",
-            "Accepting petitioners’ contentions, the Court held that Section 66(2) casts a duty on the ED to intimate the concerned agency, not to take up the investigation itself.",
-            "“In law, where an act is to be done in a particular way, it must be done in that way and in no other way,” the Court said, invoking the constitutional separation of powers and the need for checks and balances."
-          ],
-          "deepExplanation": "<strong>1. Core Context & Background:</strong> In a setback to the Directorate of Enforcement (ED) , the High Court of Karnataka has held that the ED is “not a super cop” and cannot file a private complaint to initiate a money-laundering probe when the competent agencies decline to prosecute a scheduled offence based on the information filed by the ED.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> The Court ruled that the ED’s power under the Prevention of Money-Laundering Act (PMLA) is “derivative and not original”, and that filing a private complaint under Section 200 Code of Criminal Procedure (Cr.P.C.) / Section 223 Bharatiya Nagarik Surakasha Sanhita is not contemplated under the PMLA Act. one institution in the country does not become supreme so that it is in a position to abuse the powers conferred on it.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> “In law, where an act is to be done in a particular way, it must be done in that way and in no other way,” the Court said, invoking the constitutional separation of powers and the need for checks and balances.",
-          "vocabList": [
-            "Directorate",
-            "Enforcement",
-            "Karnataka",
-            "Complaint",
-            "Initiate",
-            "Laundering"
-          ],
-          "summary": "In a setback to the Directorate of Enforcement (ED) , the High Court of Karnataka has held that the ED is “not a super cop” and cannot file a private complaint to initiate a money-laundering probe when the competent agencies decline to prosecute a scheduled offence based on the information filed by the ED.",
-          "keyPoints": "• In a setback to the Directorate of Enforcement (ED) , the High Court of Karnataka has held that the ED is “not a super cop” and cannot file a private complaint to initiate a money-laundering probe when the competent agencies decline to prosecute a scheduled offence based on the information filed by the ED.<br>• The Court ruled that the ED’s power under the Prevention of Money-Laundering Act (PMLA) is “derivative and not original”, and that filing a private complaint under Section 200 Code of Criminal Procedure (Cr.P.C.) / Section 223 Bharatiya Nagarik Surakasha Sanhita is not contemplated under the PMLA Act.<br>• “... one institution in the country does not become supreme so that it is in a position to abuse the powers conferred on it. Law recognises the requirements of checks and balances. The ED is not a super cop to investigate anything and everything which comes into its notice,” the Court observed, adding that the ED must exercise only those powers expressly conferred on it by the PMLA."
-        },
-        {
-          "category": "national",
-          "categoryLabel": "🏛️ National & Polity",
-          "title": "Manipur gets Northeast’s first AI-enabled career intelligence hub",
-          "link": "https://www.thehindu.com/news/national/manipur/manipur-gets-northeasts-first-ai-enabled-career-intelligence-hub/article71678274.ece",
-          "pubDate": "Sat, 07 Nov 2026 22:48:58 +0530",
-          "dateIso": "2026-11-07",
-          "dateDisplay": "07 Nov 2026",
-          "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
-          "imageUrl": "https://th-i.thgim.com/public/news/national/sv5it5/article71678424.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-11-07%20at%2012.56.28%20PM.jpeg",
-          "fullParagraphs": [
-            "Conflict-scarred Manipur has become the first State in the northeastern region to get an artificial intelligence (AI)-enabled facility that aims to mould careers.",
-            "Chief Minister Yumnam Khemchand Singh on Saturday (November 7, 2026) inaugurated the AI-enabled Career Intelligence Hub at the Tamphasana Girls’ Higher Secondary School in Imphal, the State’s capital.",
-            "Established under the Members of Parliament Local Area Development Scheme as the region’s first-of-its-kind facility, the initiative marked a “significant step towards integrating AI into the education and career guidance ecosystem in the State”.",
-            "The Chief Minister said the government undertook the initiative to provide students with technology-driven career guidance, personalised counselling, and information on emerging career opportunities.",
-            "He commended students who focused on their education and future instead of participating in agitations over the past few months, advising others to pursue dialogue as the preferred means of resolving any differences and addressing critical issues.",
-            "“AI has advanced significantly and is increasingly transforming various fields and professions,” he said, underscoring the need for students to upgrade for the career challenges ahead.",
-            "Earlier, the Chief Minister lauded two districts—Imphal West and Pherzawl—for achieving ‘ surakshit (safe)’ status in October under the National AIDS Control Organisation’s (NACO) Mobilisation for AIDS Suraksha initiative.",
-            "“This achievement means that 95% of the estimated number of people living with Human Immunodeficiency Virus (HIV) in a district are aware of their status, 95% of those aware of their status are receiving antiretroviral therapy (ART), and 95% of those undergoing ART have achieved viral suppression,” he said.",
-            "Manipur is among the States most heavily impacted by HIV/AIDS in India, driven largely by its geographical proximity to the Golden Triangle, a notorious drug-trafficking route comprising Laos, Myanmar, and Thailand.",
-            "Manipur has consistently ranked among the top States in India for adult HIV prevalence. NACO records say the State’s adult HIV prevalence is around 1.05% to 1.18%, significantly higher than the national average of roughly 0.2%."
-          ],
-          "deepExplanation": "<strong>1. Core Context & Background:</strong> Conflict-scarred Manipur has become the first State in the northeastern region to get an artificial intelligence (AI)-enabled facility that aims to mould careers.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Chief Minister Yumnam Khemchand Singh on Saturday (November 7, 2026) inaugurated the AI-enabled Career Intelligence Hub at the Tamphasana Girls’ Higher Secondary School in Imphal, the State’s capital. Established under the Members of Parliament Local Area Development Scheme as the region’s first-of-its-kind facility, the initiative marked a “significant step towards integrating AI into the education and career guidance ecosystem in the State”.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> NACO records say the State’s adult HIV prevalence is around 1.05% to 1.18%, significantly higher than the national average of roughly 0.2%.",
-          "vocabList": [
-            "Conflict",
-            "Northeastern",
-            "Artificial",
-            "Intelligence",
-            "Facility",
-            "Khemchand"
-          ],
-          "summary": "Conflict-scarred Manipur has become the first State in the northeastern region to get an artificial intelligence (AI)-enabled facility that aims to mould careers.",
-          "keyPoints": "• Conflict-scarred Manipur has become the first State in the northeastern region to get an artificial intelligence (AI)-enabled facility that aims to mould careers.<br>• Chief Minister Yumnam Khemchand Singh on Saturday (November 7, 2026) inaugurated the AI-enabled Career Intelligence Hub at the Tamphasana Girls’ Higher Secondary School in Imphal, the State’s capital.<br>• Established under the Members of Parliament Local Area Development Scheme as the region’s first-of-its-kind facility, the initiative marked a “significant step towards integrating AI into the education and career guidance ecosystem in the State”."
         },
         {
           "category": "economy",
@@ -3726,6 +3714,118 @@
       "id": "gk_07 Nov 2026_1",
       "cat": "🏛️ National & Polity",
       "date": "07 Nov 2026",
+      "qEn": "[07 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"At least three trips with seven bodies in the car to four different locations, and one of them an inter-State journey. Yet, the ac...\"?",
+      "qHi": "[07 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"At least three trips with seven bodies in the car to four different locations, and one of them an inter-State journey. Yet, the ac...\"?",
+      "qMr": "[07 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"At least three trips with seven bodies in the car to four different locations, and one of them an inter-State journey. Yet, the ac...\"?",
+      "optsEn": [
+        "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "15th Finance Commission Special State Grant",
+        "Inter-State Council Constitutional Review Panel",
+        "Rajajingar murders: How did the accused transport bodies across locations without ..."
+      ],
+      "optsHi": [
+        "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "15th Finance Commission Special State Grant",
+        "Inter-State Council Constitutional Review Panel",
+        "Rajajingar murders: How did the accused transport bodies across locations without ..."
+      ],
+      "optsMr": [
+        "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "15th Finance Commission Special State Grant",
+        "Inter-State Council Constitutional Review Panel",
+        "Rajajingar murders: How did the accused transport bodies across locations without ..."
+      ],
+      "ans": 3,
+      "explanation": "<strong>1. Core Context & Background:</strong> At least three trips with seven bodies in the car to four different locations, and one of them an inter-State journey.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Yet, the accused in the alleged Rajajinagar murders, Indushekhar, was never detected. This has raised questions about the effectiveness of the nakabandi (checkpoints) and night patrolling system in the city.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> It was registered only on November 3."
+    },
+    {
+      "id": "gk_07 Nov 2026_2",
+      "cat": "🏛️ National & Polity",
+      "date": "07 Nov 2026",
+      "qEn": "[07 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"Students should dare to dream big, think independently and pursue ambitious goals to drive innovation and contribute to the vision...\"?",
+      "qHi": "[07 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"Students should dare to dream big, think independently and pursue ambitious goals to drive innovation and contribute to the vision...\"?",
+      "qMr": "[07 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"Students should dare to dream big, think independently and pursue ambitious goals to drive innovation and contribute to the vision...\"?",
+      "optsEn": [
+        "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "15th Finance Commission Special State Grant",
+        "Students urged to dream big, prepare for a self-reliant India",
+        "Inter-State Council Constitutional Review Panel"
+      ],
+      "optsHi": [
+        "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "15th Finance Commission Special State Grant",
+        "Students urged to dream big, prepare for a self-reliant India",
+        "Inter-State Council Constitutional Review Panel"
+      ],
+      "optsMr": [
+        "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "15th Finance Commission Special State Grant",
+        "Students urged to dream big, prepare for a self-reliant India",
+        "Inter-State Council Constitutional Review Panel"
+      ],
+      "ans": 2,
+      "explanation": "<strong>1. Core Context & Background:</strong> Students should dare to dream big, think independently and pursue ambitious goals to drive innovation and contribute to the vision of a self-reliant India, said Prof.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Ramesh Srikonda, Director of the School of Planning and Architecture, Vijayawada. Addressing the Freshers’ Day celebrations at Dr.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Suneetha, CEO, Pro-Vice-Chancellors, Registrar, Deans, Heads of Departments, faculty members and other dignitaries attended the celebrations."
+    },
+    {
+      "id": "gk_07 Nov 2026_3",
+      "cat": "🏛️ National & Polity",
+      "date": "07 Nov 2026",
+      "qEn": "[07 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"Greater Bengaluru Development Minister Krishna Byre Gowda on Saturday directed officials to prepare a comprehensive plan for the r...\"?",
+      "qHi": "[07 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"Greater Bengaluru Development Minister Krishna Byre Gowda on Saturday directed officials to prepare a comprehensive plan for the r...\"?",
+      "qMr": "[07 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"Greater Bengaluru Development Minister Krishna Byre Gowda on Saturday directed officials to prepare a comprehensive plan for the r...\"?",
+      "optsEn": [
+        "Bengaluru’s GBA launches phase 2 of ‘Ward One’",
+        "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "15th Finance Commission Special State Grant",
+        "Inter-State Council Constitutional Review Panel"
+      ],
+      "optsHi": [
+        "Bengaluru’s GBA launches phase 2 of ‘Ward One’",
+        "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "15th Finance Commission Special State Grant",
+        "Inter-State Council Constitutional Review Panel"
+      ],
+      "optsMr": [
+        "Bengaluru’s GBA launches phase 2 of ‘Ward One’",
+        "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "15th Finance Commission Special State Grant",
+        "Inter-State Council Constitutional Review Panel"
+      ],
+      "ans": 0,
+      "explanation": "<strong>1. Core Context & Background:</strong> Greater Bengaluru Development Minister Krishna Byre Gowda on Saturday directed officials to prepare a comprehensive plan for the redevelopment of the K.R.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> The plan should focus on pedestrian safety, public transport integration and smoother traffic movement, he said. The directions came during the launch of the second phase of the ‘Ward One’ campaign.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> The campaign brings together various civic agencies to address potholes, damaged footpaths, garbage accumulation, construction waste, streetlights and drain desilting."
+    },
+    {
+      "id": "gk_07 Nov 2026_4",
+      "cat": "🏛️ National & Polity",
+      "date": "07 Nov 2026",
+      "qEn": "[07 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"The Kengeri police have arrested a habitual offender for allegedly murdering a 65-year-old woman who was sleeping outside a temple...\"?",
+      "qHi": "[07 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"The Kengeri police have arrested a habitual offender for allegedly murdering a 65-year-old woman who was sleeping outside a temple...\"?",
+      "qMr": "[07 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"The Kengeri police have arrested a habitual offender for allegedly murdering a 65-year-old woman who was sleeping outside a temple...\"?",
+      "optsEn": [
+        "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "15th Finance Commission Special State Grant",
+        "Habitual offender arrested for murdering 65-year-old woman in Bengaluru",
+        "Inter-State Council Constitutional Review Panel"
+      ],
+      "optsHi": [
+        "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "15th Finance Commission Special State Grant",
+        "Habitual offender arrested for murdering 65-year-old woman in Bengaluru",
+        "Inter-State Council Constitutional Review Panel"
+      ],
+      "optsMr": [
+        "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "15th Finance Commission Special State Grant",
+        "Habitual offender arrested for murdering 65-year-old woman in Bengaluru",
+        "Inter-State Council Constitutional Review Panel"
+      ],
+      "ans": 2,
+      "explanation": "<strong>1. Core Context & Background:</strong> The Kengeri police have arrested a habitual offender for allegedly murdering a 65-year-old woman who was sleeping outside a temple and robbing her of cash and a gold ring in Vrushabhavathi Nagar Layout.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> The deceased, Narayanamma, was found dead in front of the Pataladamma Temple at Vrushabhavathi Nagar Layout, Konasandra, within Kengeri police station limits, on November 3. According to the police, Narayanamma had left her house due to family problems and had been sleeping outside the temple for the past few days.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Further investigation and interrogation are under way, police said."
+    },
+    {
+      "id": "gk_07 Nov 2026_5",
+      "cat": "🏛️ National & Polity",
+      "date": "07 Nov 2026",
       "qEn": "[07 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"Jana Sena Party (JSP) president and Deputy Chief Minister K. Pawan Kalyan attributed the decisive mandate for the ruling coalition...\"?",
       "qHi": "[07 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"Jana Sena Party (JSP) president and Deputy Chief Minister K. Pawan Kalyan attributed the decisive mandate for the ruling coalition...\"?",
       "qMr": "[07 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"Jana Sena Party (JSP) president and Deputy Chief Minister K. Pawan Kalyan attributed the decisive mandate for the ruling coalition...\"?",
@@ -3751,7 +3851,7 @@
       "explanation": "<strong>1. Core Context & Background:</strong> Jana Sena Party (JSP) president and Deputy Chief Minister K.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Pawan Kalyan attributed the decisive mandate for the ruling coalition in the rural local body elections to the development and welfare measures undertaken by the government in villages. From counting trends, the trust people have in TDP-JSP-BJP alliance was evident, he said, thanking the voters for giving what he termed as a decisive mandate in the making.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Pawan Kalyan noted that the government focused on building infrastructure in the rural areas, supplying drinking water through the Jal Jeevan Mission, and mobilising funds from the Centre under the Special Assistance to States for Capital Investment (SASCI) scheme."
     },
     {
-      "id": "gk_07 Nov 2026_2",
+      "id": "gk_07 Nov 2026_6",
       "cat": "🏛️ National & Polity",
       "date": "07 Nov 2026",
       "qEn": "[07 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"The Hebbal Flyover and Ballari Road corridor will not be completely closed for 18 months to facilitate the construction of the ele...\"?",
@@ -3777,118 +3877,6 @@
       ],
       "ans": 2,
       "explanation": "<strong>1. Core Context & Background:</strong> The Hebbal Flyover and Ballari Road corridor will not be completely closed for 18 months to facilitate the construction of the elevated corridor, the Bangalore Development Authority (BDA) clarified on Saturday (November 7).<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Meanwhile, the Bengaluru Traffic Police (BTP) said vehicular movement would continue with limited lane restrictions and phased traffic diversions. The clarification comes amid concerns over the traffic disruption expected during the construction period.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Officials have also been asked to identify bottlenecks, improve road surfaces, and install adequate signage and road markings,” the BDA said."
-    },
-    {
-      "id": "gk_07 Nov 2026_3",
-      "cat": "🏛️ National & Polity",
-      "date": "07 Nov 2026",
-      "qEn": "[07 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"Hailing the Supreme Court verdict in the Bhakra Beas Management Board (BBMB) arrears case, Himachal Pradesh Chief Minister Sukhvin...\"?",
-      "qHi": "[07 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"Hailing the Supreme Court verdict in the Bhakra Beas Management Board (BBMB) arrears case, Himachal Pradesh Chief Minister Sukhvin...\"?",
-      "qMr": "[07 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"Hailing the Supreme Court verdict in the Bhakra Beas Management Board (BBMB) arrears case, Himachal Pradesh Chief Minister Sukhvin...\"?",
-      "optsEn": [
-        "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "'Tough' stance on Kishau Dam project laid ground for victory in BBMB dues case: Hi...",
-        "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel"
-      ],
-      "optsHi": [
-        "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "'Tough' stance on Kishau Dam project laid ground for victory in BBMB dues case: Hi...",
-        "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel"
-      ],
-      "optsMr": [
-        "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "'Tough' stance on Kishau Dam project laid ground for victory in BBMB dues case: Hi...",
-        "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel"
-      ],
-      "ans": 1,
-      "explanation": "<strong>1. Core Context & Background:</strong> Hailing the Supreme Court verdict in the Bhakra Beas Management Board (BBMB) arrears case, Himachal Pradesh Chief Minister Sukhvinder Singh Sukhu on Saturday (November 7, 2026) said that the decision came in the State's favour on account of the \"tough\" stance his government took during discussions on the Kishau Dam project.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Sukhu said that during meetings with the Union Power Minister and officials, he had consistently raised the issue of dues arising from BBMB projects and made it clear that the rights of Himachal Pradesh in the matter must be resolved before any further progress was made on the Kishau Dam project. He said the State asserted that it would not share the cost of the 440-MW Kishau Dam project, and the Haryana government assured that it would file an affidavit in the Supreme Court in favour of Himachal Pradesh for the release of arrears of its power share from BBMB projects.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> The Chief Minister said that the State government was moving ahead with the aim of making Himachal Pradesh self-reliant and expressed confidence that it would become the most prosperous State in the country by 2032."
-    },
-    {
-      "id": "gk_07 Nov 2026_4",
-      "cat": "🏛️ National & Polity",
-      "date": "07 Nov 2026",
-      "qEn": "[07 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"In the ritual world of Theyyam, where women rarely find a place in the traditional roles, 41-year-old M. Priya of Kannayi Mukkottu...\"?",
-      "qHi": "[07 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"In the ritual world of Theyyam, where women rarely find a place in the traditional roles, 41-year-old M. Priya of Kannayi Mukkottu...\"?",
-      "qMr": "[07 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"In the ritual world of Theyyam, where women rarely find a place in the traditional roles, 41-year-old M. Priya of Kannayi Mukkottu...\"?",
-      "optsEn": [
-        "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel",
-        "A woman stitches her way into the male-dominated ritual tradition of Theyyam"
-      ],
-      "optsHi": [
-        "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel",
-        "A woman stitches her way into the male-dominated ritual tradition of Theyyam"
-      ],
-      "optsMr": [
-        "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel",
-        "A woman stitches her way into the male-dominated ritual tradition of Theyyam"
-      ],
-      "ans": 3,
-      "explanation": "<strong>1. Core Context & Background:</strong> In the ritual world of Theyyam, where women rarely find a place in the traditional roles, 41-year-old M.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Priya of Kannayi Mukkottu near Payyannur has carved out a distinctive space for herself. Rather than performing rituals, she stitches costumes and decorative garments that transforms male performers into divine figures in the Malabar’s sacred groves and temples.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> He drives more more actively when the Theyyam season winds down."
-    },
-    {
-      "id": "gk_07 Nov 2026_5",
-      "cat": "🏛️ National & Polity",
-      "date": "07 Nov 2026",
-      "qEn": "[07 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"In a setback to the Directorate of Enforcement (ED) , the High Court of Karnataka has held that the ED is “not a super cop” and ca...\"?",
-      "qHi": "[07 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"In a setback to the Directorate of Enforcement (ED) , the High Court of Karnataka has held that the ED is “not a super cop” and ca...\"?",
-      "qMr": "[07 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"In a setback to the Directorate of Enforcement (ED) , the High Court of Karnataka has held that the ED is “not a super cop” and ca...\"?",
-      "optsEn": [
-        "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel",
-        "Enforcement Directorate is not a ‘super cop’, says Karnataka High Court"
-      ],
-      "optsHi": [
-        "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel",
-        "Enforcement Directorate is not a ‘super cop’, says Karnataka High Court"
-      ],
-      "optsMr": [
-        "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel",
-        "Enforcement Directorate is not a ‘super cop’, says Karnataka High Court"
-      ],
-      "ans": 3,
-      "explanation": "<strong>1. Core Context & Background:</strong> In a setback to the Directorate of Enforcement (ED) , the High Court of Karnataka has held that the ED is “not a super cop” and cannot file a private complaint to initiate a money-laundering probe when the competent agencies decline to prosecute a scheduled offence based on the information filed by the ED.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> The Court ruled that the ED’s power under the Prevention of Money-Laundering Act (PMLA) is “derivative and not original”, and that filing a private complaint under Section 200 Code of Criminal Procedure (Cr.P.C.) / Section 223 Bharatiya Nagarik Surakasha Sanhita is not contemplated under the PMLA Act. one institution in the country does not become supreme so that it is in a position to abuse the powers conferred on it.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> “In law, where an act is to be done in a particular way, it must be done in that way and in no other way,” the Court said, invoking the constitutional separation of powers and the need for checks and balances."
-    },
-    {
-      "id": "gk_07 Nov 2026_6",
-      "cat": "🏛️ National & Polity",
-      "date": "07 Nov 2026",
-      "qEn": "[07 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"Conflict-scarred Manipur has become the first State in the northeastern region to get an artificial intelligence (AI)-enabled faci...\"?",
-      "qHi": "[07 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"Conflict-scarred Manipur has become the first State in the northeastern region to get an artificial intelligence (AI)-enabled faci...\"?",
-      "qMr": "[07 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"Conflict-scarred Manipur has become the first State in the northeastern region to get an artificial intelligence (AI)-enabled faci...\"?",
-      "optsEn": [
-        "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "15th Finance Commission Special State Grant",
-        "Manipur gets Northeast’s first AI-enabled career intelligence hub",
-        "Inter-State Council Constitutional Review Panel"
-      ],
-      "optsHi": [
-        "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "15th Finance Commission Special State Grant",
-        "Manipur gets Northeast’s first AI-enabled career intelligence hub",
-        "Inter-State Council Constitutional Review Panel"
-      ],
-      "optsMr": [
-        "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "15th Finance Commission Special State Grant",
-        "Manipur gets Northeast’s first AI-enabled career intelligence hub",
-        "Inter-State Council Constitutional Review Panel"
-      ],
-      "ans": 2,
-      "explanation": "<strong>1. Core Context & Background:</strong> Conflict-scarred Manipur has become the first State in the northeastern region to get an artificial intelligence (AI)-enabled facility that aims to mould careers.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Chief Minister Yumnam Khemchand Singh on Saturday (November 7, 2026) inaugurated the AI-enabled Career Intelligence Hub at the Tamphasana Girls’ Higher Secondary School in Imphal, the State’s capital. Established under the Members of Parliament Local Area Development Scheme as the region’s first-of-its-kind facility, the initiative marked a “significant step towards integrating AI into the education and career guidance ecosystem in the State”.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> NACO records say the State’s adult HIV prevalence is around 1.05% to 1.18%, significantly higher than the national average of roughly 0.2%."
     },
     {
       "id": "gk_07 Nov 2026_7",
