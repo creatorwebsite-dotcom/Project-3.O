@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-06 21:05:00",
+  "updated_at": "2026-11-07 07:02:11",
   "window_days": 15,
   "category_counts": {
-    "latest_jobs": 174,
-    "results": 36,
+    "latest_jobs": 160,
+    "results": 34,
     "admit_cards": 23,
-    "answer_keys": 23,
+    "answer_keys": 22,
     "syllabus": 3,
     "admissions": 1
   },
@@ -38,15 +38,6 @@
       "active": true
     },
     {
-      "id": "24abaf3c6180",
-      "title": "SSC GD Constable Revised Result 2026",
-      "sub": "Result",
-      "url": "https://ssc.gov.in/api/attachment/uploads/masterData/Results/LIST1_23102026.pdf",
-      "details": "SSC has released updated detailed lists for female and male candidates provisionally shortlisted for PET/PST. The revised documents provide additional category information following representations received from candidates.",
-      "rushScore": 125,
-      "active": true
-    },
-    {
       "id": "4d110a11cdc3",
       "title": "SSC GD Constable 2026 Marks / Score Card",
       "sub": "Result",
@@ -62,6 +53,15 @@
       "url": "https://img2.freejobalert.com/news/2026/11/526418-6aec0fa8d0cce52238702.pdf",
       "details": "The West Bengal Central School Service Commission (WBSSC) has released the WBSSC Group C and D Result 2026 on 5 November 2026 for the 1st State Level Selection Test (Non-Teaching Staff), 2025. Separate preliminary interview lists have been published for Group C (Clerk) and Group D posts. Candidates who appeared in the written examinations held on 1 March 2026 for Group C and 8 March 2026 for Group D can check their names, roll numbers, marks and preliminary interview-list positions through the published result documents.",
       "rushScore": 118,
+      "active": true
+    },
+    {
+      "id": "3919c89162dd",
+      "title": "UPESSC TGT Online Form (17,735 Posts)",
+      "sub": "Latest Jobs",
+      "url": "https://apply.upessc.org/",
+      "details": "Uttar Pradesh Education Service Selection Commission UPESSC , has released a notification on its official website for the recruitment of Assistant Teacher (Trained Graduate Grade) Posts. This recruitment is for 17,735 positions. UPESSC Application Form has started on 24 October 2026 & the candidates can apply until the 23 November 2026 . Minimum age is 21 Years & The Maximum Age Is 62 Years as on 01 July 2026. Candidates must check the complete details for UPESSC UP TGT Recruitment 2026. Link are given below. ( Advt. No. 07/2026 )",
+      "rushScore": 115,
       "active": true
     }
   ],
