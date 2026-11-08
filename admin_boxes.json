@@ -1,42 +1,15 @@
 {
-  "updated_at": "2026-11-07 19:37:54",
+  "updated_at": "2026-11-08 07:13:06",
   "window_days": 15,
   "category_counts": {
-    "latest_jobs": 163,
-    "results": 34,
-    "admit_cards": 23,
+    "latest_jobs": 159,
+    "results": 33,
+    "admit_cards": 22,
     "answer_keys": 22,
     "syllabus": 3,
-    "admissions": 1
+    "admissions": 0
   },
   "trending_top_6": [
-    {
-      "id": "75eb3e7c4019",
-      "title": "UPESSC UP TGT Online Form 2026 (17,735 Posts)",
-      "sub": "Latest Jobs",
-      "url": "https://www.upessc.up.gov.in/Notice/5520-7034-4820-d1bb-554c.pdf",
-      "details": "Uttar Pradesh Education Service Selection Commission UPESSC , has released a notification on its official website for the recruitment of Assistant Teacher (Trained Graduate Grade) Posts. This recruitment is for 17,735 positions. UPESSC Application Form will start on 24 October 2026 & the candidates can apply until the 23 November 2026 . Minimum age is 21 Years & The Maximum Age Is 62 Years as on 01 July 2026. Candidates must check the complete details for UPESSC UP TGT Recruitment 2026. Link are given below. ( Advt. No. 07/2026 )",
-      "rushScore": 125,
-      "active": true
-    },
-    {
-      "id": "12061836307c",
-      "title": "UPESSC UP TGT Online Form 2026 (17,735 Posts) – Start",
-      "sub": "Latest Jobs",
-      "url": "https://apply.upessc.org/",
-      "details": "Uttar Pradesh Education Service Selection Commission UPESSC , has released a notification on its official website for the recruitment of Assistant Teacher (Trained Graduate Grade) Posts. This recruitment is for 17,735 positions. UPESSC Application Form has started on 24 October 2026 & the candidates can apply until the 23 November 2026 . Minimum age is 21 Years & The Maximum Age Is 62 Years as on 01 July 2026. Candidates must check the complete details for UPESSC UP TGT Recruitment 2026. Link are given below. ( Advt. No. 07/2026 )",
-      "rushScore": 125,
-      "active": true
-    },
-    {
-      "id": "2e8d379fabc1",
-      "title": "UPESSC 17735 Assistant Teacher Online Form 2026",
-      "sub": "Latest Jobs",
-      "url": "https://apply.upessc.org/",
-      "details": "Uttar Pradesh Education Service Selection Commission (UPESSC) has published the Recruitment 2026 notification for 17,735 Assistant Teacher (Graduate Pay Scale) posts. The online application process will be conducted from 24 October 2026 to 23 November 2026. Eligible candidates can apply through the official website, upessc.up.gov.in.",
-      "rushScore": 125,
-      "active": true
-    },
     {
       "id": "4d110a11cdc3",
       "title": "SSC GD Constable 2026 Marks / Score Card",
@@ -56,12 +29,39 @@
       "active": true
     },
     {
-      "id": "3919c89162dd",
-      "title": "UPESSC TGT Online Form (17,735 Posts)",
+      "id": "1ade9f27b6fe",
+      "title": "Railway RRC CR Apprentice Online Form 2026 (2861 Posts)",
       "sub": "Latest Jobs",
-      "url": "https://apply.upessc.org/",
-      "details": "Uttar Pradesh Education Service Selection Commission UPESSC , has released a notification on its official website for the recruitment of Assistant Teacher (Trained Graduate Grade) Posts. This recruitment is for 17,735 positions. UPESSC Application Form has started on 24 October 2026 & the candidates can apply until the 23 November 2026 . Minimum age is 21 Years & The Maximum Age Is 62 Years as on 01 July 2026. Candidates must check the complete details for UPESSC UP TGT Recruitment 2026. Link are given below. ( Advt. No. 07/2026 )",
-      "rushScore": 115,
+      "url": "https://rrccr.com/TradeApp/login/Index",
+      "details": "Railway Recruitment Cell (RRC-CR) , has released a notification on the official website for the recruitment of RRC CR Apprentice Posts. This recruitment is for 2861 positions. RRC Application Form has started on 03 November 2026 & the candidates can apply until 02 December 2026 . Candidates must check the complete details for RRC CR Apprentice Recruitment 2026. which has given below.",
+      "rushScore": 114,
+      "active": true
+    },
+    {
+      "id": "c550445d4ade",
+      "title": "UPSSSC Junior Assistant Admit Card 2026 Advt. No. 12-Exam/2024",
+      "sub": "Admit Card",
+      "url": "https://upsssc.gov.in/AllNotifications.aspx",
+      "details": "Name Of Post : UPSSSC Junior Assistant Recruitment 2024 Admit Card 2026 Post Date / Update : 03 November 2026 | 04:33 PM Short Information Uttar Pradesh Subordinate Service Selection Commission (UPSSSC) Uttar Pradesh Advertisement No.12-Exam/2024, Advertisement of Junior Assistant Main Examination Recruitment Notification. Those candidates who are Enrolled in this UPSSSC 10+2 Junior Assistant Vacancy 2024 can Download Typing Test Date. Read the notification for recruitment eligibility, post information, selection procedure, Department Wise Vacancy, pay scale and all other information.",
+      "rushScore": 114,
+      "active": true
+    },
+    {
+      "id": "dde6e78d15a8",
+      "title": "Railway RRB ALP CEN 01/2026 Admit Card",
+      "sub": "Admit Card",
+      "url": "https://www.rrbapply.gov.in/#/auth/home",
+      "details": "Name Of Post : Railway RRB Assistant Loco Pilot ALP Recruitment 2026 ( CEN 01/2026) : Admit Card for 11127 Post Post Date / Update : 30 October 2026 | 07:05 PM Short Information Indian Railway Railway Recruitment Board RRB Assistant Loco Pilot ALP CEN 01/2026 Exam Date Released. Those candidates who are Enrolled in this Railway RRB CEN 01/2026 can Check Application Status. Read the notification for RRB Assistant Loco Pilot ALP CEN 01/2026 eligibility, post information, selection procedure, Details, age limit, pay scale and all other information.",
+      "rushScore": 113,
+      "active": true
+    },
+    {
+      "id": "81a96ee570e3",
+      "title": "SSC CPO SI 2025 PET Result 2026",
+      "sub": "Result",
+      "url": "https://ssc.gov.in/api/attachment/uploads/masterData/Results/LIST_1_29102026.pdf",
+      "details": "Name Of Post : SSC Sub Inspector SI in Delhi Police, Central Armed Police Forces Recruitment 2025 Paper II Exam Date 2026 for 3073 Post Post Date / Update : 02 November 2026 | 08:21 PM Short Information Staff Selection Commission SSC has released the notification for Sub Inspector SI in Delhi Police, Central Armed Police Forces Examination 2025. Those Candidate Are Enrolled with SSC CPO SI Vacancy Can Check the Answer Key. Before applying, candidates must read the complete advertisement in which selection procedure, exam syllabus, pattern, exam date and other information will be available.",
+      "rushScore": 112,
       "active": true
     }
   ],
