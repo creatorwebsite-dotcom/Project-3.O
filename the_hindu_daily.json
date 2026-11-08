@@ -1,12 +1,12 @@
 {
-  "updatedAt": "08 Nov 2026, 11:23 PM IST",
+  "updatedAt": "08 Nov 2026, 11:49 PM IST",
   "currentDateIso": "2026-11-08",
   "currentDateDisplay": "08 Nov 2026",
   "availableDates": [
     {
       "dateIso": "2026-11-08",
       "dateDisplay": "08 Nov 2026",
-      "updatedAt": "08 Nov 2026, 11:23 PM IST",
+      "updatedAt": "08 Nov 2026, 11:49 PM IST",
       "articleCount": 30
     },
     {
@@ -23,7 +23,7 @@
     }
   ],
   "hookLine1": "The Hindu Printed Broadsheet & Editorial Digest (08 Nov 2026)",
-  "hookLine2": "100% In-App Full Newspaper Pages & Deep Editorial Analysis • Updated: 08 Nov 2026, 11:23 PM IST",
+  "hookLine2": "100% In-App Full Newspaper Pages & Deep Editorial Analysis • Updated: 08 Nov 2026, 11:49 PM IST",
   "totalArticles": 30,
   "articles": [
     {
@@ -415,6 +415,40 @@
     {
       "category": "ir",
       "categoryLabel": "🌐 International Relations",
+      "title": "Tens of thousands march in Amsterdam, pressing Dutch government on Gaza, Israel",
+      "link": "https://www.thehindu.com/news/international/tens-of-thousands-march-in-amsterdam-pressing-dutch-government-on-gaza-israel/article71681124.ece",
+      "pubDate": "Sun, 08 Nov 2026 23:19:19 +0530",
+      "dateIso": "2026-11-08",
+      "dateDisplay": "08 Nov 2026",
+      "examRelevance": "GS Paper-II & Current Affairs: Bilateral Agreements, Foreign Visits & UN/G20/BRICS",
+      "imageUrl": "https://th-i.thgim.com/public/incoming/5l38ab/article71681172.ece/alternates/LANDSCAPE_1200/Netherlands_Red_Line_Protest_35126.jpg",
+      "fullParagraphs": [
+        "Tens of thousands of people, many of them dressed in red, marched through Amsterdam on Sunday (November 8, 2026) in a mass demonstration aimed at pressing the Dutch government to take more decisive action against Israel over Gaza.",
+        "The organisers of the “Red Line” demonstrations in the Netherlands called for measures including stricter trade sanctions on Israel, officially declaring that Israel’s actions in Gaza amount to genocide, and halting all arms sales to Israel. The Dutch branch of Amnesty International, one of the organisers, said in an online post that more than 200,000 people joined the march.",
+        "“What is happening there is inhumane,” said Mike van Dongen, as he walked in the huge throng. He was critical of the Dutch government’s actions. “As far as I’m concerned, they are doing nothing,” he said. “They don’t dare take any serious steps.”",
+        "As the protesters marched along a normally busy Amsterdam street that was closed to traffic on Sunday, a man stood on a bus stop with a loudspeaker shouting “Free, free Palestine!” Many of the marchers echoed his cry as they passed.",
+        "Israel strongly rejects suggestions it is committing genocide in Gaza in its military campaign, which followed the attacks by Hamas-led militants in southern Israel on October 7, 2023. Militants killed about 1,200 people and took 251 hostages.",
+        "Israel’s retaliatory offensive has killed tens of thousands of Palestinians and destroyed much of Gaza. More than 1,550 Palestinians in Gaza have been killed by the Israeli military since a ceasefire between Israel and Hamas began in October 2025, according to the territory’s Health Ministry.",
+        "The ministry, part of the Hamas-run government, does not distinguish between civilians and militants, though it says women and children make up roughly half of the dead.",
+        "The campaign in Gaza has strained relations between the Netherlands and Israel. The Dutch Foreign Minister resigned last year after failing to secure new sanctions against Israel. Since then, a new minority coalition government has taken power and introduced an import ban on products from Israeli settlements, which the Dutch government and most of the international community consider illegal, a move that provoked a diplomatic spat with Israel.",
+        "Prime Minister Rob Jetten, who took part in a march last year but was not present on Sunday, defended his government’s actions at his weekly press conference on Friday (November 6, 2026). “Every single day and every single week, we do what we can to alleviate the terrible situation there,” he said.",
+        "He added that his administration was “exerting greater political and diplomatic pressure” on Israel to abide by its agreements on Gaza. At the same time, he said, the government was applying more pressure on Hamas and other organisations that continue to carry out “various operations that endanger the safety of ordinary Israelis.”"
+      ],
+      "deepExplanation": "<strong>1. Core Context & Background:</strong> Tens of thousands of people, many of them dressed in red, marched through Amsterdam on Sunday (November 8, 2026) in a mass demonstration aimed at pressing the Dutch government to take more decisive action against Israel over Gaza.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> The organisers of the “Red Line” demonstrations in the Netherlands called for measures including stricter trade sanctions on Israel, officially declaring that Israel’s actions in Gaza amount to genocide, and halting all arms sales to Israel. The Dutch branch of Amnesty International, one of the organisers, said in an online post that more than 200,000 people joined the march.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> At the same time, he said, the government was applying more pressure on Hamas and other organisations that continue to carry out “various operations that endanger the safety of ordinary Israelis.”",
+      "vocabList": [
+        "Thousands",
+        "Amsterdam",
+        "November",
+        "Demonstration",
+        "Pressing",
+        "Decisive"
+      ],
+      "summary": "Tens of thousands of people, many of them dressed in red, marched through Amsterdam on Sunday (November 8, 2026) in a mass demonstration aimed at pressing the Dutch government to take more decisive action against Israel over Gaza.",
+      "keyPoints": "• Tens of thousands of people, many of them dressed in red, marched through Amsterdam on Sunday (November 8, 2026) in a mass demonstration aimed at pressing the Dutch government to take more decisive action against Israel over Gaza.<br>• The organisers of the “Red Line” demonstrations in the Netherlands called for measures including stricter trade sanctions on Israel, officially declaring that Israel’s actions in Gaza amount to genocide, and halting all arms sales to Israel. The Dutch branch of Amnesty International, one of the organisers, said in an online post that more than 200,000 people joined the march.<br>• “What is happening there is inhumane,” said Mike van Dongen, as he walked in the huge throng. He was critical of the Dutch government’s actions. “As far as I’m concerned, they are doing nothing,” he said. “They don’t dare take any serious steps.”"
+    },
+    {
+      "category": "ir",
+      "categoryLabel": "🌐 International Relations",
       "title": "Democrats eye Musk, Miller probes after midterm rout",
       "link": "https://www.thehindu.com/news/international/democrats-eye-musk-miller-probes-after-midterm-rout/article71681171.ece",
       "pubDate": "Sun, 08 Nov 2026 23:12:01 +0530",
@@ -585,42 +619,6 @@
       ],
       "summary": "Gadi Eisenkot, tasked on Sunday (November 8, 2026) with forming a new government, said he was open to Prime Minister Benjamin Netanyahu and one of his far-right allies joining but under him as the new leader.",
       "keyPoints": "• Gadi Eisenkot, tasked on Sunday (November 8, 2026) with forming a new government, said he was open to Prime Minister Benjamin Netanyahu and one of his far-right allies joining but under him as the new leader.<br>• \"f members of Likud and the Religious Zionist Party truly believe this is a time for unity, as they told the president, I cannot conceive of any reason why they would not support a government under my leadership and the principles I have presented,\" Mr. Eisenkot said, referring to Mr. Netanyahu's party and that of the far-right finance minister Bezalel Smotrich.<br>• Israeli President Isaac Herzog has officially given opposition leader Gadi Eisenkot the first chance to form the next government."
-    },
-    {
-      "category": "ir",
-      "categoryLabel": "🌐 International Relations",
-      "title": "UK Hindu family takes legal action after school objects to boy wearing tilak",
-      "link": "https://www.thehindu.com/news/international/uk-hindu-family-takes-legal-action-after-school-objects-to-boy-wearing-tilak/article71681073.ece",
-      "pubDate": "Sun, 08 Nov 2026 21:01:46 +0530",
-      "dateIso": "2026-11-08",
-      "dateDisplay": "08 Nov 2026",
-      "examRelevance": "GS Paper-II & Current Affairs: Bilateral Agreements, Foreign Visits & UN/G20/BRICS",
-      "imageUrl": "https://www.thehindu.com/theme/images/og-image.png",
-      "fullParagraphs": [
-        "The parents of a nine-year-old British Hindu boy, who was withdrawn from his primary school in London after it objected to him wearing a tilak on his forehead, have initiated legal proceedings in the UK High Court.",
-        "The boy, who belongs to the Swaminarayan faith tradition, had attended Vicar’s Green Primary School in west London since 2021 and worn his religious marking, known as the Tilak-Chandlo, without difficulty.",
-        "However, the school objected to the practice in late 2025, triggering a dispute that eventually led his parents to withdraw him from the school and pursue legal action.",
-        "“As parents, it has been heartbreaking to see our son go through this simply because he wanted to practise his faith,” the parents said in a statement released by their legal team this weekend.",
-        "“He had worn his Tilak-Chandlo to school for years without difficulty, and we never imagined that something so sacred to our family would become a source of distress,” they said.",
-        "“Our son was just an ordinary little boy who enjoyed learning and spending time with his friends. His religious marking did not hurt anyone or prevent him from being a good pupil.",
-        "“We have always taught our children to respect every religion, and we simply ask that the same respect be shown to ours. We hope that no other child will have to choose between their education and their faith,” they added.",
-        "The family is represented by Ashray Law, which has filed proceedings alleging religious discrimination under the UK’s Equality Act 2010 and breaches of rights protected by the Human Rights Act 1998.",
-        "The case, filed in the High Court of England and Wales, seeks £25,000 in damages. The proceedings are ongoing, and the allegations remain in dispute.",
-        "“This case goes beyond one child or one school. It raises important questions about religious freedom and equality in British education,” said Ambrish Limbachia, director of Ashray Law.",
-        "“No child should feel compelled to choose between their faith and their education. We hope these proceedings will help clarify the rights of children from all religious backgrounds,” he said.",
-        "The Tilak-Chandlo is a U-shaped marking, usually made with sandalwood paste and a small red circle of kumkum powder in the centre. It symbolises devotion to God and humility among followers of the Swaminarayan faith."
-      ],
-      "deepExplanation": "<strong>1. Core Context & Background:</strong> The parents of a nine-year-old British Hindu boy, who was withdrawn from his primary school in London after it objected to him wearing a tilak on his forehead, have initiated legal proceedings in the UK High Court.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> The boy, who belongs to the Swaminarayan faith tradition, had attended Vicar’s Green Primary School in west London since 2021 and worn his religious marking, known as the Tilak-Chandlo, without difficulty. However, the school objected to the practice in late 2025, triggering a dispute that eventually led his parents to withdraw him from the school and pursue legal action.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> It symbolises devotion to God and humility among followers of the Swaminarayan faith.",
-      "vocabList": [
-        "Withdrawn",
-        "Objected",
-        "Forehead",
-        "Initiated",
-        "Proceedings",
-        "Swaminarayan"
-      ],
-      "summary": "The parents of a nine-year-old British Hindu boy, who was withdrawn from his primary school in London after it objected to him wearing a tilak on his forehead, have initiated legal proceedings in the UK High Court.",
-      "keyPoints": "• The parents of a nine-year-old British Hindu boy, who was withdrawn from his primary school in London after it objected to him wearing a tilak on his forehead, have initiated legal proceedings in the UK High Court.<br>• The boy, who belongs to the Swaminarayan faith tradition, had attended Vicar’s Green Primary School in west London since 2021 and worn his religious marking, known as the Tilak-Chandlo, without difficulty.<br>• However, the school objected to the practice in late 2025, triggering a dispute that eventually led his parents to withdraw him from the school and pursue legal action."
     },
     {
       "category": "scitech",
@@ -959,7 +957,7 @@
     "2026-11-08": {
       "dateIso": "2026-11-08",
       "dateDisplay": "08 Nov 2026",
-      "updatedAt": "08 Nov 2026, 11:23 PM IST",
+      "updatedAt": "08 Nov 2026, 11:49 PM IST",
       "articles": [
         {
           "category": "national",
@@ -1350,6 +1348,40 @@
         {
           "category": "ir",
           "categoryLabel": "🌐 International Relations",
+          "title": "Tens of thousands march in Amsterdam, pressing Dutch government on Gaza, Israel",
+          "link": "https://www.thehindu.com/news/international/tens-of-thousands-march-in-amsterdam-pressing-dutch-government-on-gaza-israel/article71681124.ece",
+          "pubDate": "Sun, 08 Nov 2026 23:19:19 +0530",
+          "dateIso": "2026-11-08",
+          "dateDisplay": "08 Nov 2026",
+          "examRelevance": "GS Paper-II & Current Affairs: Bilateral Agreements, Foreign Visits & UN/G20/BRICS",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/5l38ab/article71681172.ece/alternates/LANDSCAPE_1200/Netherlands_Red_Line_Protest_35126.jpg",
+          "fullParagraphs": [
+            "Tens of thousands of people, many of them dressed in red, marched through Amsterdam on Sunday (November 8, 2026) in a mass demonstration aimed at pressing the Dutch government to take more decisive action against Israel over Gaza.",
+            "The organisers of the “Red Line” demonstrations in the Netherlands called for measures including stricter trade sanctions on Israel, officially declaring that Israel’s actions in Gaza amount to genocide, and halting all arms sales to Israel. The Dutch branch of Amnesty International, one of the organisers, said in an online post that more than 200,000 people joined the march.",
+            "“What is happening there is inhumane,” said Mike van Dongen, as he walked in the huge throng. He was critical of the Dutch government’s actions. “As far as I’m concerned, they are doing nothing,” he said. “They don’t dare take any serious steps.”",
+            "As the protesters marched along a normally busy Amsterdam street that was closed to traffic on Sunday, a man stood on a bus stop with a loudspeaker shouting “Free, free Palestine!” Many of the marchers echoed his cry as they passed.",
+            "Israel strongly rejects suggestions it is committing genocide in Gaza in its military campaign, which followed the attacks by Hamas-led militants in southern Israel on October 7, 2023. Militants killed about 1,200 people and took 251 hostages.",
+            "Israel’s retaliatory offensive has killed tens of thousands of Palestinians and destroyed much of Gaza. More than 1,550 Palestinians in Gaza have been killed by the Israeli military since a ceasefire between Israel and Hamas began in October 2025, according to the territory’s Health Ministry.",
+            "The ministry, part of the Hamas-run government, does not distinguish between civilians and militants, though it says women and children make up roughly half of the dead.",
+            "The campaign in Gaza has strained relations between the Netherlands and Israel. The Dutch Foreign Minister resigned last year after failing to secure new sanctions against Israel. Since then, a new minority coalition government has taken power and introduced an import ban on products from Israeli settlements, which the Dutch government and most of the international community consider illegal, a move that provoked a diplomatic spat with Israel.",
+            "Prime Minister Rob Jetten, who took part in a march last year but was not present on Sunday, defended his government’s actions at his weekly press conference on Friday (November 6, 2026). “Every single day and every single week, we do what we can to alleviate the terrible situation there,” he said.",
+            "He added that his administration was “exerting greater political and diplomatic pressure” on Israel to abide by its agreements on Gaza. At the same time, he said, the government was applying more pressure on Hamas and other organisations that continue to carry out “various operations that endanger the safety of ordinary Israelis.”"
+          ],
+          "deepExplanation": "<strong>1. Core Context & Background:</strong> Tens of thousands of people, many of them dressed in red, marched through Amsterdam on Sunday (November 8, 2026) in a mass demonstration aimed at pressing the Dutch government to take more decisive action against Israel over Gaza.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> The organisers of the “Red Line” demonstrations in the Netherlands called for measures including stricter trade sanctions on Israel, officially declaring that Israel’s actions in Gaza amount to genocide, and halting all arms sales to Israel. The Dutch branch of Amnesty International, one of the organisers, said in an online post that more than 200,000 people joined the march.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> At the same time, he said, the government was applying more pressure on Hamas and other organisations that continue to carry out “various operations that endanger the safety of ordinary Israelis.”",
+          "vocabList": [
+            "Thousands",
+            "Amsterdam",
+            "November",
+            "Demonstration",
+            "Pressing",
+            "Decisive"
+          ],
+          "summary": "Tens of thousands of people, many of them dressed in red, marched through Amsterdam on Sunday (November 8, 2026) in a mass demonstration aimed at pressing the Dutch government to take more decisive action against Israel over Gaza.",
+          "keyPoints": "• Tens of thousands of people, many of them dressed in red, marched through Amsterdam on Sunday (November 8, 2026) in a mass demonstration aimed at pressing the Dutch government to take more decisive action against Israel over Gaza.<br>• The organisers of the “Red Line” demonstrations in the Netherlands called for measures including stricter trade sanctions on Israel, officially declaring that Israel’s actions in Gaza amount to genocide, and halting all arms sales to Israel. The Dutch branch of Amnesty International, one of the organisers, said in an online post that more than 200,000 people joined the march.<br>• “What is happening there is inhumane,” said Mike van Dongen, as he walked in the huge throng. He was critical of the Dutch government’s actions. “As far as I’m concerned, they are doing nothing,” he said. “They don’t dare take any serious steps.”"
+        },
+        {
+          "category": "ir",
+          "categoryLabel": "🌐 International Relations",
           "title": "Democrats eye Musk, Miller probes after midterm rout",
           "link": "https://www.thehindu.com/news/international/democrats-eye-musk-miller-probes-after-midterm-rout/article71681171.ece",
           "pubDate": "Sun, 08 Nov 2026 23:12:01 +0530",
@@ -1520,42 +1552,6 @@
           ],
           "summary": "Gadi Eisenkot, tasked on Sunday (November 8, 2026) with forming a new government, said he was open to Prime Minister Benjamin Netanyahu and one of his far-right allies joining but under him as the new leader.",
           "keyPoints": "• Gadi Eisenkot, tasked on Sunday (November 8, 2026) with forming a new government, said he was open to Prime Minister Benjamin Netanyahu and one of his far-right allies joining but under him as the new leader.<br>• \"f members of Likud and the Religious Zionist Party truly believe this is a time for unity, as they told the president, I cannot conceive of any reason why they would not support a government under my leadership and the principles I have presented,\" Mr. Eisenkot said, referring to Mr. Netanyahu's party and that of the far-right finance minister Bezalel Smotrich.<br>• Israeli President Isaac Herzog has officially given opposition leader Gadi Eisenkot the first chance to form the next government."
-        },
-        {
-          "category": "ir",
-          "categoryLabel": "🌐 International Relations",
-          "title": "UK Hindu family takes legal action after school objects to boy wearing tilak",
-          "link": "https://www.thehindu.com/news/international/uk-hindu-family-takes-legal-action-after-school-objects-to-boy-wearing-tilak/article71681073.ece",
-          "pubDate": "Sun, 08 Nov 2026 21:01:46 +0530",
-          "dateIso": "2026-11-08",
-          "dateDisplay": "08 Nov 2026",
-          "examRelevance": "GS Paper-II & Current Affairs: Bilateral Agreements, Foreign Visits & UN/G20/BRICS",
-          "imageUrl": "https://www.thehindu.com/theme/images/og-image.png",
-          "fullParagraphs": [
-            "The parents of a nine-year-old British Hindu boy, who was withdrawn from his primary school in London after it objected to him wearing a tilak on his forehead, have initiated legal proceedings in the UK High Court.",
-            "The boy, who belongs to the Swaminarayan faith tradition, had attended Vicar’s Green Primary School in west London since 2021 and worn his religious marking, known as the Tilak-Chandlo, without difficulty.",
-            "However, the school objected to the practice in late 2025, triggering a dispute that eventually led his parents to withdraw him from the school and pursue legal action.",
-            "“As parents, it has been heartbreaking to see our son go through this simply because he wanted to practise his faith,” the parents said in a statement released by their legal team this weekend.",
-            "“He had worn his Tilak-Chandlo to school for years without difficulty, and we never imagined that something so sacred to our family would become a source of distress,” they said.",
-            "“Our son was just an ordinary little boy who enjoyed learning and spending time with his friends. His religious marking did not hurt anyone or prevent him from being a good pupil.",
-            "“We have always taught our children to respect every religion, and we simply ask that the same respect be shown to ours. We hope that no other child will have to choose between their education and their faith,” they added.",
-            "The family is represented by Ashray Law, which has filed proceedings alleging religious discrimination under the UK’s Equality Act 2010 and breaches of rights protected by the Human Rights Act 1998.",
-            "The case, filed in the High Court of England and Wales, seeks £25,000 in damages. The proceedings are ongoing, and the allegations remain in dispute.",
-            "“This case goes beyond one child or one school. It raises important questions about religious freedom and equality in British education,” said Ambrish Limbachia, director of Ashray Law.",
-            "“No child should feel compelled to choose between their faith and their education. We hope these proceedings will help clarify the rights of children from all religious backgrounds,” he said.",
-            "The Tilak-Chandlo is a U-shaped marking, usually made with sandalwood paste and a small red circle of kumkum powder in the centre. It symbolises devotion to God and humility among followers of the Swaminarayan faith."
-          ],
-          "deepExplanation": "<strong>1. Core Context & Background:</strong> The parents of a nine-year-old British Hindu boy, who was withdrawn from his primary school in London after it objected to him wearing a tilak on his forehead, have initiated legal proceedings in the UK High Court.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> The boy, who belongs to the Swaminarayan faith tradition, had attended Vicar’s Green Primary School in west London since 2021 and worn his religious marking, known as the Tilak-Chandlo, without difficulty. However, the school objected to the practice in late 2025, triggering a dispute that eventually led his parents to withdraw him from the school and pursue legal action.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> It symbolises devotion to God and humility among followers of the Swaminarayan faith.",
-          "vocabList": [
-            "Withdrawn",
-            "Objected",
-            "Forehead",
-            "Initiated",
-            "Proceedings",
-            "Swaminarayan"
-          ],
-          "summary": "The parents of a nine-year-old British Hindu boy, who was withdrawn from his primary school in London after it objected to him wearing a tilak on his forehead, have initiated legal proceedings in the UK High Court.",
-          "keyPoints": "• The parents of a nine-year-old British Hindu boy, who was withdrawn from his primary school in London after it objected to him wearing a tilak on his forehead, have initiated legal proceedings in the UK High Court.<br>• The boy, who belongs to the Swaminarayan faith tradition, had attended Vicar’s Green Primary School in west London since 2021 and worn his religious marking, known as the Tilak-Chandlo, without difficulty.<br>• However, the school objected to the practice in late 2025, triggering a dispute that eventually led his parents to withdraw him from the school and pursue legal action."
         },
         {
           "category": "scitech",
