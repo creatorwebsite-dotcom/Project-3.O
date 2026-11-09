@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-08 19:58:06",
+  "updated_at": "2026-11-09 07:53:11",
   "window_days": 15,
   "category_counts": {
     "latest_jobs": 159,
     "results": 33,
     "admit_cards": 22,
-    "answer_keys": 22,
+    "answer_keys": 21,
     "syllabus": 3,
     "admissions": 0
   },
@@ -17,6 +17,15 @@
       "url": "https://ssc.gov.in/",
       "details": "Staff Selection Commission SSC has released the notification for Constable (GD) in Central Armed Police Forces (CAPFs) and SSF, and Rifleman (GD) in Assam Rifles Examination, 2026. Those Candidate Are Enrolled with Vacancy Can Check the Exam Exam Admit Card. Before applying, candidates must read the complete advertisement in which selection procedure, exam syllabus, pattern, exam date and other information will be available.",
       "rushScore": 121,
+      "active": true
+    },
+    {
+      "id": "c25ef3a4852b",
+      "title": "Railway RRC NR Apprentice Online Form 2026 (4651 Posts)",
+      "sub": "Latest Jobs",
+      "url": "https://rrcnr.org/downloads/Notification_Act_Appretice_2026.pdf",
+      "details": "Railway Recruitment Cell (RRC-NR) , has released a Notification on its official website for the recruitment of RRC NR Apprentice Posts. This recruitment is for 4651 positions. RRC Application Form will start on 11 November 2026 & the candidates can apply until 11 December 2026 . Candidates must check the complete details for RRC NR Apprentice Recruitment 2026. which has given below.",
+      "rushScore": 118,
       "active": true
     },
     {
@@ -53,15 +62,6 @@
       "url": "https://www.rrbapply.gov.in/#/auth/home",
       "details": "Name Of Post : Railway RRB Assistant Loco Pilot ALP Recruitment 2026 ( CEN 01/2026) : Admit Card for 11127 Post Post Date / Update : 30 October 2026 | 07:05 PM Short Information Indian Railway Railway Recruitment Board RRB Assistant Loco Pilot ALP CEN 01/2026 Exam Date Released. Those candidates who are Enrolled in this Railway RRB CEN 01/2026 can Check Application Status. Read the notification for RRB Assistant Loco Pilot ALP CEN 01/2026 eligibility, post information, selection procedure, Details, age limit, pay scale and all other information.",
       "rushScore": 113,
-      "active": true
-    },
-    {
-      "id": "81a96ee570e3",
-      "title": "SSC CPO SI 2025 PET Result 2026",
-      "sub": "Result",
-      "url": "https://ssc.gov.in/api/attachment/uploads/masterData/Results/LIST_1_29102026.pdf",
-      "details": "Name Of Post : SSC Sub Inspector SI in Delhi Police, Central Armed Police Forces Recruitment 2025 Paper II Exam Date 2026 for 3073 Post Post Date / Update : 02 November 2026 | 08:21 PM Short Information Staff Selection Commission SSC has released the notification for Sub Inspector SI in Delhi Police, Central Armed Police Forces Examination 2025. Those Candidate Are Enrolled with SSC CPO SI Vacancy Can Check the Answer Key. Before applying, candidates must read the complete advertisement in which selection procedure, exam syllabus, pattern, exam date and other information will be available.",
-      "rushScore": 112,
       "active": true
     }
   ],
