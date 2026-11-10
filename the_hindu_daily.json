@@ -1,12 +1,12 @@
 {
-  "updatedAt": "11 Nov 2026, 01:56 AM IST",
+  "updatedAt": "11 Nov 2026, 02:55 AM IST",
   "currentDateIso": "2026-11-11",
   "currentDateDisplay": "11 Nov 2026",
   "availableDates": [
     {
       "dateIso": "2026-11-11",
       "dateDisplay": "11 Nov 2026",
-      "updatedAt": "11 Nov 2026, 01:56 AM IST",
+      "updatedAt": "11 Nov 2026, 02:55 AM IST",
       "articleCount": 30
     },
     {
@@ -23,9 +23,40 @@
     }
   ],
   "hookLine1": "The Hindu Printed Broadsheet & Editorial Digest (11 Nov 2026)",
-  "hookLine2": "100% In-App Full Newspaper Pages & Deep Editorial Analysis • Updated: 11 Nov 2026, 01:56 AM IST",
+  "hookLine2": "100% In-App Full Newspaper Pages & Deep Editorial Analysis • Updated: 11 Nov 2026, 02:55 AM IST",
   "totalArticles": 30,
   "articles": [
+    {
+      "category": "national",
+      "categoryLabel": "🏛️ National & Polity",
+      "title": "Karnataka-registered doctors may be allowed to practise in Kasaragod: Keralam Health Minister",
+      "link": "https://www.thehindu.com/news/national/kerala/karnataka-registered-doctors-may-be-allowed-to-practise-in-kasaragod-keralam-health-minister/article71686180.ece",
+      "pubDate": "Wed, 11 Nov 2026 02:04:46 +0530",
+      "dateIso": "2026-11-11",
+      "dateDisplay": "11 Nov 2026",
+      "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
+      "imageUrl": "https://th-i.thgim.com/public/incoming/qeboio/article71687429.ece/alternates/LANDSCAPE_1200/Expired-drugs-pG3TGNRL4S.3.jpg.jpg",
+      "fullParagraphs": [
+        "The Keralam government has recommended to the State Medical Council that doctors registered with the Karnataka Medical Council be allowed to practise in Kasaragod, considering the district’s special circumstances, Health Minister K. Muraleedharan has said.",
+        "The medical council is expected to take a favourable decision on the recommendation soon, the Minister said while inaugurating ‘Kayakalpam’, a public outreach programme of the Health Minister.",
+        "Government hospitals should have adequate number of doctors, nurses, pharmacists, and laboratory technicians, the Minister said, adding that additional posts had been sought. Their early sanction would considerably ease staff shortage in the district.",
+        "The extension of the tenure of National Health Mission employees in Kasaragod till March 31 was also an indication of the government’s commitment to the district, he said.",
+        "The Minister said that he would direct the authorities to convene a meeting of the Endosulfan cell soon. Periye in Kasaragod was among the four locations proposed by the government to the Centre for setting up an All India Institute of Medical Sciences, he said.",
+        "Instructions had been issued to make hostel facilities available at the Kasaragod Medical College within two months. The construction of a hostel for nursing students would begin within three months, he added.",
+        "The government would ensure the services of a forensic surgeon at the Kanhangad district hospital. A new building for the District Medical Office would be constructed at a cost of ₹4.8 crore."
+      ],
+      "deepExplanation": "<strong>1. Core Context & Background:</strong> The Keralam government has recommended to the State Medical Council that doctors registered with the Karnataka Medical Council be allowed to practise in Kasaragod, considering the district’s special circumstances, Health Minister K.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> The medical council is expected to take a favourable decision on the recommendation soon, the Minister said while inaugurating ‘Kayakalpam’, a public outreach programme of the Health Minister. Government hospitals should have adequate number of doctors, nurses, pharmacists, and laboratory technicians, the Minister said, adding that additional posts had been sought.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> A new building for the District Medical Office would be constructed at a cost of ₹4.8 crore.",
+      "vocabList": [
+        "Recommended",
+        "Registered",
+        "Karnataka",
+        "Practise",
+        "Kasaragod",
+        "Considering"
+      ],
+      "summary": "The Keralam government has recommended to the State Medical Council that doctors registered with the Karnataka Medical Council be allowed to practise in Kasaragod, considering the district’s special circumstances, Health Minister K. Muraleedharan has said.",
+      "keyPoints": "• The Keralam government has recommended to the State Medical Council that doctors registered with the Karnataka Medical Council be allowed to practise in Kasaragod, considering the district’s special circumstances, Health Minister K. Muraleedharan has said.<br>• The medical council is expected to take a favourable decision on the recommendation soon, the Minister said while inaugurating ‘Kayakalpam’, a public outreach programme of the Health Minister.<br>• Government hospitals should have adequate number of doctors, nurses, pharmacists, and laboratory technicians, the Minister said, adding that additional posts had been sought. Their early sanction would considerably ease staff shortage in the district."
+    },
     {
       "category": "national",
       "categoryLabel": "🏛️ National & Polity",
@@ -173,36 +204,6 @@
       ],
       "summary": "A civil police officer (CPO) attached to the Ernakulam North police station was injured after a man who had been detained on charge of creating public nuisance near the North overbridge bit on his hands when he was being taken in a police vehicle for medical examination, on Tuesday (November 10, 2026).",
       "keyPoints": "• A civil police officer (CPO) attached to the Ernakulam North police station was injured after a man who had been detained on charge of creating public nuisance near the North overbridge bit on his hands when he was being taken in a police vehicle for medical examination, on Tuesday (November 10, 2026).<br>• This comes two days after another CPO who was on traffic duty at the High Court bus stand was injured after a recklessly driven private bus rammed him. The incident occurred after the officer stopped a row of vehicles for an ambulance to pass through.<br>• The Ernakulam Central police have registered a case against Muhammed Iqbal, 25, of Sashthamkotta in Kollam who, while being reportedly under the influence of intoxicants, bit on the hands of the police officer named Ajith Paul. He was seated on the last row of the police vehicle, from where he jumped into the middle row seat and reportedly tried to force open the door as the vehicle reached the Ernakulam General Hospital."
-    },
-    {
-      "category": "national",
-      "categoryLabel": "🏛️ National & Polity",
-      "title": "Gem Granites Veeramani’s daughter Archana moves Madras High Court alleging human rights violations by SIT",
-      "link": "https://www.thehindu.com/news/national/tamil-nadu/gem-granites-veeramanis-daughter-archana-moves-madras-high-court-alleging-human-rights-violations-by-sit/article71686923.ece",
-      "pubDate": "Wed, 11 Nov 2026 00:42:33 +0530",
-      "dateIso": "2026-11-11",
-      "dateDisplay": "11 Nov 2026",
-      "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
-      "imageUrl": "https://th-i.thgim.com/public/incoming/t8ayx2/article71687386.ece/alternates/LANDSCAPE_1200/Man-who-claimedGDSGJARC1.4.jpg.jpg",
-      "fullParagraphs": [
-        "Archana Veeramani, 49, the daughter of R. Veeramani, being investigated as the main accused in a series of child sexual abuse cases, approached the Madras High Court with a plea to order an investigation into the human rights violations allegedly perpetrated against her by the State police and also to quash the summons issued after forcibly making her deboard a Singapore-bound airplane on October 23, 2026.",
-        "Justice V. Lakshminarayanan is expected to hear her plea on Wednesday (November 11, 2026). The High Court Registry had numbered her writ petition (criminal) subject to maintainability. In her affidavit, Ms. Veeramani said, her father had been arrayed as the prime accused in a case booked by the police under the Protection of Children from Sexual Offences (POCSO) Act of 2012 and other laws.",
-        "She was not an accused in that case at least as on October 23, 2026 and no court had restrained her from undertaking foreign travel. Therefore, she had booked a flight from Chennai to Singapore on that day to visit her son and help him take medical treatment for his ailments. After she had boarded the plane at around 2 p.m. on October 23, the airline staff forcefully deboarded her without assigning any reason, the petitioner alleged.",
-        "Claiming that no summons, warrant, court order, Look Out Circular or any such document was provided to her, the petitioner said that she was picked up by the police personnel from the immigration area and taken to the office of a Special Investigation Team (SIT) probing the POCSO case against her father who was the founder of Gem Granites and a well-known businessman.",
-        "Since she was suffering from multiple sclerosis, a chronic autoimmune condition that affects the central nervous system, for about 20 years, the petitioner said that she collapsed on the floor of the SIT office at about 5 p.m. and lost control over her bladder. All these events were video recorded by the police despite objections and she was shifted to a hospital for treatment only on the advice of her doctor friend, the petitioner added.",
-        "It was only after deboarding her from the plane, picking her up forcibly from the airport and detaining her at the SIT office for hours together, the police chose to serve summons upon her at 9 p.m. on October 23, 2026 asking her to appear for an inquiry regarding the POCSO case on October 25, 2026, she said and urged the court to quash the summons besides ordering return of her seized laptop, mobile phone and luggage."
-      ],
-      "deepExplanation": "<strong>1. Core Context & Background:</strong> Archana Veeramani, 49, the daughter of R.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Veeramani, being investigated as the main accused in a series of child sexual abuse cases, approached the Madras High Court with a plea to order an investigation into the human rights violations allegedly perpetrated against her by the State police and also to quash the summons issued after forcibly making her deboard a Singapore-bound airplane on October 23, 2026. Lakshminarayanan is expected to hear her plea on Wednesday (November 11, 2026).<br><br><strong>3. Way Forward & Exam Conclusion:</strong> on October 23, 2026 asking her to appear for an inquiry regarding the POCSO case on October 25, 2026, she said and urged the court to quash the summons besides ordering return of her seized laptop, mobile phone and luggage.",
-      "vocabList": [
-        "Veeramani",
-        "Daughter",
-        "Investigated",
-        "Approached",
-        "Investigation",
-        "Violations"
-      ],
-      "summary": "Archana Veeramani, 49, the daughter of R. Veeramani, being investigated as the main accused in a series of child sexual abuse cases, approached the Madras High Court with a plea to order an investigation into the human rights violations allegedly perpetrated against her by the State police and also to quash the summons issued after forcibly making her deboard a Singapore-bound airplane on October 23, 2026.",
-      "keyPoints": "• Archana Veeramani, 49, the daughter of R. Veeramani, being investigated as the main accused in a series of child sexual abuse cases, approached the Madras High Court with a plea to order an investigation into the human rights violations allegedly perpetrated against her by the State police and also to quash the summons issued after forcibly making her deboard a Singapore-bound airplane on October 23, 2026.<br>• Justice V. Lakshminarayanan is expected to hear her plea on Wednesday (November 11, 2026). The High Court Registry had numbered her writ petition (criminal) subject to maintainability. In her affidavit, Ms. Veeramani said, her father had been arrayed as the prime accused in a case booked by the police under the Protection of Children from Sexual Offences (POCSO) Act of 2012 and other laws.<br>• She was not an accused in that case at least as on October 23, 2026 and no court had restrained her from undertaking foreign travel. Therefore, she had booked a flight from Chennai to Singapore on that day to visit her son and help him take medical treatment for his ailments. After she had boarded the plane at around 2 p.m. on October 23, the airline staff forcefully deboarded her without assigning any reason, the petitioner alleged."
     },
     {
       "category": "economy",
@@ -944,8 +945,39 @@
     "2026-11-11": {
       "dateIso": "2026-11-11",
       "dateDisplay": "11 Nov 2026",
-      "updatedAt": "11 Nov 2026, 01:56 AM IST",
+      "updatedAt": "11 Nov 2026, 02:55 AM IST",
       "articles": [
+        {
+          "category": "national",
+          "categoryLabel": "🏛️ National & Polity",
+          "title": "Karnataka-registered doctors may be allowed to practise in Kasaragod: Keralam Health Minister",
+          "link": "https://www.thehindu.com/news/national/kerala/karnataka-registered-doctors-may-be-allowed-to-practise-in-kasaragod-keralam-health-minister/article71686180.ece",
+          "pubDate": "Wed, 11 Nov 2026 02:04:46 +0530",
+          "dateIso": "2026-11-11",
+          "dateDisplay": "11 Nov 2026",
+          "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/qeboio/article71687429.ece/alternates/LANDSCAPE_1200/Expired-drugs-pG3TGNRL4S.3.jpg.jpg",
+          "fullParagraphs": [
+            "The Keralam government has recommended to the State Medical Council that doctors registered with the Karnataka Medical Council be allowed to practise in Kasaragod, considering the district’s special circumstances, Health Minister K. Muraleedharan has said.",
+            "The medical council is expected to take a favourable decision on the recommendation soon, the Minister said while inaugurating ‘Kayakalpam’, a public outreach programme of the Health Minister.",
+            "Government hospitals should have adequate number of doctors, nurses, pharmacists, and laboratory technicians, the Minister said, adding that additional posts had been sought. Their early sanction would considerably ease staff shortage in the district.",
+            "The extension of the tenure of National Health Mission employees in Kasaragod till March 31 was also an indication of the government’s commitment to the district, he said.",
+            "The Minister said that he would direct the authorities to convene a meeting of the Endosulfan cell soon. Periye in Kasaragod was among the four locations proposed by the government to the Centre for setting up an All India Institute of Medical Sciences, he said.",
+            "Instructions had been issued to make hostel facilities available at the Kasaragod Medical College within two months. The construction of a hostel for nursing students would begin within three months, he added.",
+            "The government would ensure the services of a forensic surgeon at the Kanhangad district hospital. A new building for the District Medical Office would be constructed at a cost of ₹4.8 crore."
+          ],
+          "deepExplanation": "<strong>1. Core Context & Background:</strong> The Keralam government has recommended to the State Medical Council that doctors registered with the Karnataka Medical Council be allowed to practise in Kasaragod, considering the district’s special circumstances, Health Minister K.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> The medical council is expected to take a favourable decision on the recommendation soon, the Minister said while inaugurating ‘Kayakalpam’, a public outreach programme of the Health Minister. Government hospitals should have adequate number of doctors, nurses, pharmacists, and laboratory technicians, the Minister said, adding that additional posts had been sought.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> A new building for the District Medical Office would be constructed at a cost of ₹4.8 crore.",
+          "vocabList": [
+            "Recommended",
+            "Registered",
+            "Karnataka",
+            "Practise",
+            "Kasaragod",
+            "Considering"
+          ],
+          "summary": "The Keralam government has recommended to the State Medical Council that doctors registered with the Karnataka Medical Council be allowed to practise in Kasaragod, considering the district’s special circumstances, Health Minister K. Muraleedharan has said.",
+          "keyPoints": "• The Keralam government has recommended to the State Medical Council that doctors registered with the Karnataka Medical Council be allowed to practise in Kasaragod, considering the district’s special circumstances, Health Minister K. Muraleedharan has said.<br>• The medical council is expected to take a favourable decision on the recommendation soon, the Minister said while inaugurating ‘Kayakalpam’, a public outreach programme of the Health Minister.<br>• Government hospitals should have adequate number of doctors, nurses, pharmacists, and laboratory technicians, the Minister said, adding that additional posts had been sought. Their early sanction would considerably ease staff shortage in the district."
+        },
         {
           "category": "national",
           "categoryLabel": "🏛️ National & Polity",
@@ -1093,36 +1125,6 @@
           ],
           "summary": "A civil police officer (CPO) attached to the Ernakulam North police station was injured after a man who had been detained on charge of creating public nuisance near the North overbridge bit on his hands when he was being taken in a police vehicle for medical examination, on Tuesday (November 10, 2026).",
           "keyPoints": "• A civil police officer (CPO) attached to the Ernakulam North police station was injured after a man who had been detained on charge of creating public nuisance near the North overbridge bit on his hands when he was being taken in a police vehicle for medical examination, on Tuesday (November 10, 2026).<br>• This comes two days after another CPO who was on traffic duty at the High Court bus stand was injured after a recklessly driven private bus rammed him. The incident occurred after the officer stopped a row of vehicles for an ambulance to pass through.<br>• The Ernakulam Central police have registered a case against Muhammed Iqbal, 25, of Sashthamkotta in Kollam who, while being reportedly under the influence of intoxicants, bit on the hands of the police officer named Ajith Paul. He was seated on the last row of the police vehicle, from where he jumped into the middle row seat and reportedly tried to force open the door as the vehicle reached the Ernakulam General Hospital."
-        },
-        {
-          "category": "national",
-          "categoryLabel": "🏛️ National & Polity",
-          "title": "Gem Granites Veeramani’s daughter Archana moves Madras High Court alleging human rights violations by SIT",
-          "link": "https://www.thehindu.com/news/national/tamil-nadu/gem-granites-veeramanis-daughter-archana-moves-madras-high-court-alleging-human-rights-violations-by-sit/article71686923.ece",
-          "pubDate": "Wed, 11 Nov 2026 00:42:33 +0530",
-          "dateIso": "2026-11-11",
-          "dateDisplay": "11 Nov 2026",
-          "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
-          "imageUrl": "https://th-i.thgim.com/public/incoming/t8ayx2/article71687386.ece/alternates/LANDSCAPE_1200/Man-who-claimedGDSGJARC1.4.jpg.jpg",
-          "fullParagraphs": [
-            "Archana Veeramani, 49, the daughter of R. Veeramani, being investigated as the main accused in a series of child sexual abuse cases, approached the Madras High Court with a plea to order an investigation into the human rights violations allegedly perpetrated against her by the State police and also to quash the summons issued after forcibly making her deboard a Singapore-bound airplane on October 23, 2026.",
-            "Justice V. Lakshminarayanan is expected to hear her plea on Wednesday (November 11, 2026). The High Court Registry had numbered her writ petition (criminal) subject to maintainability. In her affidavit, Ms. Veeramani said, her father had been arrayed as the prime accused in a case booked by the police under the Protection of Children from Sexual Offences (POCSO) Act of 2012 and other laws.",
-            "She was not an accused in that case at least as on October 23, 2026 and no court had restrained her from undertaking foreign travel. Therefore, she had booked a flight from Chennai to Singapore on that day to visit her son and help him take medical treatment for his ailments. After she had boarded the plane at around 2 p.m. on October 23, the airline staff forcefully deboarded her without assigning any reason, the petitioner alleged.",
-            "Claiming that no summons, warrant, court order, Look Out Circular or any such document was provided to her, the petitioner said that she was picked up by the police personnel from the immigration area and taken to the office of a Special Investigation Team (SIT) probing the POCSO case against her father who was the founder of Gem Granites and a well-known businessman.",
-            "Since she was suffering from multiple sclerosis, a chronic autoimmune condition that affects the central nervous system, for about 20 years, the petitioner said that she collapsed on the floor of the SIT office at about 5 p.m. and lost control over her bladder. All these events were video recorded by the police despite objections and she was shifted to a hospital for treatment only on the advice of her doctor friend, the petitioner added.",
-            "It was only after deboarding her from the plane, picking her up forcibly from the airport and detaining her at the SIT office for hours together, the police chose to serve summons upon her at 9 p.m. on October 23, 2026 asking her to appear for an inquiry regarding the POCSO case on October 25, 2026, she said and urged the court to quash the summons besides ordering return of her seized laptop, mobile phone and luggage."
-          ],
-          "deepExplanation": "<strong>1. Core Context & Background:</strong> Archana Veeramani, 49, the daughter of R.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Veeramani, being investigated as the main accused in a series of child sexual abuse cases, approached the Madras High Court with a plea to order an investigation into the human rights violations allegedly perpetrated against her by the State police and also to quash the summons issued after forcibly making her deboard a Singapore-bound airplane on October 23, 2026. Lakshminarayanan is expected to hear her plea on Wednesday (November 11, 2026).<br><br><strong>3. Way Forward & Exam Conclusion:</strong> on October 23, 2026 asking her to appear for an inquiry regarding the POCSO case on October 25, 2026, she said and urged the court to quash the summons besides ordering return of her seized laptop, mobile phone and luggage.",
-          "vocabList": [
-            "Veeramani",
-            "Daughter",
-            "Investigated",
-            "Approached",
-            "Investigation",
-            "Violations"
-          ],
-          "summary": "Archana Veeramani, 49, the daughter of R. Veeramani, being investigated as the main accused in a series of child sexual abuse cases, approached the Madras High Court with a plea to order an investigation into the human rights violations allegedly perpetrated against her by the State police and also to quash the summons issued after forcibly making her deboard a Singapore-bound airplane on October 23, 2026.",
-          "keyPoints": "• Archana Veeramani, 49, the daughter of R. Veeramani, being investigated as the main accused in a series of child sexual abuse cases, approached the Madras High Court with a plea to order an investigation into the human rights violations allegedly perpetrated against her by the State police and also to quash the summons issued after forcibly making her deboard a Singapore-bound airplane on October 23, 2026.<br>• Justice V. Lakshminarayanan is expected to hear her plea on Wednesday (November 11, 2026). The High Court Registry had numbered her writ petition (criminal) subject to maintainability. In her affidavit, Ms. Veeramani said, her father had been arrayed as the prime accused in a case booked by the police under the Protection of Children from Sexual Offences (POCSO) Act of 2012 and other laws.<br>• She was not an accused in that case at least as on October 23, 2026 and no court had restrained her from undertaking foreign travel. Therefore, she had booked a flight from Chennai to Singapore on that day to visit her son and help him take medical treatment for his ailments. After she had boarded the plane at around 2 p.m. on October 23, the airline staff forcefully deboarded her without assigning any reason, the petitioner alleged."
         },
         {
           "category": "economy",
@@ -3746,60 +3748,88 @@
       "id": "gk_11 Nov 2026_1",
       "cat": "🏛️ National & Polity",
       "date": "11 Nov 2026",
+      "qEn": "[11 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"The Keralam government has recommended to the State Medical Council that doctors registered with the Karnataka Medical Council be ...\"?",
+      "qHi": "[11 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"The Keralam government has recommended to the State Medical Council that doctors registered with the Karnataka Medical Council be ...\"?",
+      "qMr": "[11 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"The Keralam government has recommended to the State Medical Council that doctors registered with the Karnataka Medical Council be ...\"?",
+      "optsEn": [
+        "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "Karnataka-registered doctors may be allowed to practise in Kasaragod: Keralam Heal...",
+        "15th Finance Commission Special State Grant",
+        "Inter-State Council Constitutional Review Panel"
+      ],
+      "optsHi": [
+        "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "Karnataka-registered doctors may be allowed to practise in Kasaragod: Keralam Heal...",
+        "15th Finance Commission Special State Grant",
+        "Inter-State Council Constitutional Review Panel"
+      ],
+      "optsMr": [
+        "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "Karnataka-registered doctors may be allowed to practise in Kasaragod: Keralam Heal...",
+        "15th Finance Commission Special State Grant",
+        "Inter-State Council Constitutional Review Panel"
+      ],
+      "ans": 1,
+      "explanation": "<strong>1. Core Context & Background:</strong> The Keralam government has recommended to the State Medical Council that doctors registered with the Karnataka Medical Council be allowed to practise in Kasaragod, considering the district’s special circumstances, Health Minister K.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> The medical council is expected to take a favourable decision on the recommendation soon, the Minister said while inaugurating ‘Kayakalpam’, a public outreach programme of the Health Minister. Government hospitals should have adequate number of doctors, nurses, pharmacists, and laboratory technicians, the Minister said, adding that additional posts had been sought.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> A new building for the District Medical Office would be constructed at a cost of ₹4.8 crore."
+    },
+    {
+      "id": "gk_11 Nov 2026_2",
+      "cat": "🏛️ National & Polity",
+      "date": "11 Nov 2026",
       "qEn": "[11 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"Amid ongoing accusations by Opposition parties of increase in crime and deteriorating law and order in Tamil Nadu, MDMK general se...\"?",
       "qHi": "[11 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"Amid ongoing accusations by Opposition parties of increase in crime and deteriorating law and order in Tamil Nadu, MDMK general se...\"?",
       "qMr": "[11 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"Amid ongoing accusations by Opposition parties of increase in crime and deteriorating law and order in Tamil Nadu, MDMK general se...\"?",
       "optsEn": [
+        "Vaiko releases 34-year crime report; rebukes allies for criticising T.N. government",
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
         "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel",
-        "Vaiko releases 34-year crime report; rebukes allies for criticising T.N. government"
+        "Inter-State Council Constitutional Review Panel"
       ],
       "optsHi": [
+        "Vaiko releases 34-year crime report; rebukes allies for criticising T.N. government",
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
         "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel",
-        "Vaiko releases 34-year crime report; rebukes allies for criticising T.N. government"
+        "Inter-State Council Constitutional Review Panel"
       ],
       "optsMr": [
+        "Vaiko releases 34-year crime report; rebukes allies for criticising T.N. government",
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
         "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel",
-        "Vaiko releases 34-year crime report; rebukes allies for criticising T.N. government"
+        "Inter-State Council Constitutional Review Panel"
       ],
-      "ans": 3,
+      "ans": 0,
       "explanation": "<strong>1. Core Context & Background:</strong> Amid ongoing accusations by Opposition parties of increase in crime and deteriorating law and order in Tamil Nadu, MDMK general secretary Vaiko on Tuesday released a catalogue of crimes that occurred over the past 34 years.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> He also lamented that the TVK-led government was being criticised by two of its coalition partners. Addressing journalists in Chennai on Tuesday, he said except the IUML and the MDMK, the other parties within the ruling alliance have been criticising the administration.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Vaiko’s address, leaders from his party spoke in detail about his political contributions."
     },
     {
-      "id": "gk_11 Nov 2026_2",
+      "id": "gk_11 Nov 2026_3",
       "cat": "🏛️ National & Polity",
       "date": "11 Nov 2026",
       "qEn": "[11 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"As Cyberabad grapples with growing traffic congestion, an overwhelming 82% of commuter movement across its key IT hubs is accounte...\"?",
       "qHi": "[11 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"As Cyberabad grapples with growing traffic congestion, an overwhelming 82% of commuter movement across its key IT hubs is accounte...\"?",
       "qMr": "[11 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"As Cyberabad grapples with growing traffic congestion, an overwhelming 82% of commuter movement across its key IT hubs is accounte...\"?",
       "optsEn": [
+        "IT hubs see 82% commute by personal vehicles, just 2% use public transport",
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
         "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel",
-        "IT hubs see 82% commute by personal vehicles, just 2% use public transport"
+        "Inter-State Council Constitutional Review Panel"
       ],
       "optsHi": [
+        "IT hubs see 82% commute by personal vehicles, just 2% use public transport",
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
         "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel",
-        "IT hubs see 82% commute by personal vehicles, just 2% use public transport"
+        "Inter-State Council Constitutional Review Panel"
       ],
       "optsMr": [
+        "IT hubs see 82% commute by personal vehicles, just 2% use public transport",
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
         "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel",
-        "IT hubs see 82% commute by personal vehicles, just 2% use public transport"
+        "Inter-State Council Constitutional Review Panel"
       ],
-      "ans": 3,
+      "ans": 0,
       "explanation": "<strong>1. Core Context & Background:</strong> As Cyberabad grapples with growing traffic congestion, an overwhelming 82% of commuter movement across its key IT hubs is accounted for by personal vehicles, while public transport contributes just around 2%, highlighting the region’s dependence on private modes of transport.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> According to data presented by Cyberabad Police and the Society for Cyberabad Security Council (SCSC), traffic across 15 key IT-sector locations exceeds 2.5 million vehicles and people every day. The figures underline the scale of the mobility challenge in one of Hyderabad’s fastest-growing employment hubs, which has a resident population of around 3.5 million spread across approximately 637 sq.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> The event will bring together government departments, startups, civil society organisations, school students, corporate leaders and citizens to explore practical and technology-driven solutions to urban mobility challenges."
     },
     {
-      "id": "gk_11 Nov 2026_3",
+      "id": "gk_11 Nov 2026_4",
       "cat": "🏛️ National & Polity",
       "date": "11 Nov 2026",
       "qEn": "[11 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"By abruptly disbanding the Justice Kurian Joseph Committee on Union-State Relations and handing over its task to the Tamil Nadu St...\"?",
@@ -3807,55 +3837,55 @@
       "qMr": "[11 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"By abruptly disbanding the Justice Kurian Joseph Committee on Union-State Relations and handing over its task to the Tamil Nadu St...\"?",
       "optsEn": [
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "Without any rationale: On the disbanding of the Justice Kurian Joseph Committee",
         "15th Finance Commission Special State Grant",
+        "Without any rationale: On the disbanding of the Justice Kurian Joseph Committee",
         "Inter-State Council Constitutional Review Panel"
       ],
       "optsHi": [
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "Without any rationale: On the disbanding of the Justice Kurian Joseph Committee",
         "15th Finance Commission Special State Grant",
+        "Without any rationale: On the disbanding of the Justice Kurian Joseph Committee",
         "Inter-State Council Constitutional Review Panel"
       ],
       "optsMr": [
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "Without any rationale: On the disbanding of the Justice Kurian Joseph Committee",
         "15th Finance Commission Special State Grant",
+        "Without any rationale: On the disbanding of the Justice Kurian Joseph Committee",
         "Inter-State Council Constitutional Review Panel"
       ],
-      "ans": 1,
+      "ans": 2,
       "explanation": "<strong>1. Core Context & Background:</strong> By abruptly disbanding the Justice Kurian Joseph Committee on Union-State Relations and handing over its task to the Tamil Nadu State Law Commission, the C.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Joseph Vijay government appears to have succumbed to the political impulse to reverse earlier decisions rather than being guided by any compelling rationale or necessity. This gains credence from the very grounds cited.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Tamil Nadu / government / politics / language / Delimitation / education / Governor / taxes and duties / Tamilaga Vettri Kazhagam / Bharatiya Janata Party"
     },
     {
-      "id": "gk_11 Nov 2026_4",
+      "id": "gk_11 Nov 2026_5",
       "cat": "🏛️ National & Polity",
       "date": "11 Nov 2026",
       "qEn": "[11 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"On the 11th hour of the 11th day of the 11th month, most Commonwealth and other allied nations fall silent for two minutes to hono...\"?",
       "qHi": "[11 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"On the 11th hour of the 11th day of the 11th month, most Commonwealth and other allied nations fall silent for two minutes to hono...\"?",
       "qMr": "[11 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"On the 11th hour of the 11th day of the 11th month, most Commonwealth and other allied nations fall silent for two minutes to hono...\"?",
       "optsEn": [
+        "World Wars and India’s sacrifice",
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
         "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel",
-        "World Wars and India’s sacrifice"
+        "Inter-State Council Constitutional Review Panel"
       ],
       "optsHi": [
+        "World Wars and India’s sacrifice",
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
         "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel",
-        "World Wars and India’s sacrifice"
+        "Inter-State Council Constitutional Review Panel"
       ],
       "optsMr": [
+        "World Wars and India’s sacrifice",
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
         "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel",
-        "World Wars and India’s sacrifice"
+        "Inter-State Council Constitutional Review Panel"
       ],
-      "ans": 3,
+      "ans": 0,
       "explanation": "<strong>1. Core Context & Background:</strong> On the 11th hour of the 11th day of the 11th month, most Commonwealth and other allied nations fall silent for two minutes to honour the fallen of the two World Wars.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Not so much in India: wreaths are laid in cantonments, but for most, this is just another day. India has an uneasy relationship with Remembrance Day.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> The war came home to India when Japan invaded the country in March 1944."
     },
     {
-      "id": "gk_11 Nov 2026_5",
+      "id": "gk_11 Nov 2026_6",
       "cat": "🏛️ National & Polity",
       "date": "11 Nov 2026",
       "qEn": "[11 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"A civil police officer (CPO) attached to the Ernakulam North police station was injured after a man who had been detained on charg...\"?",
@@ -3863,52 +3893,24 @@
       "qMr": "[11 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"A civil police officer (CPO) attached to the Ernakulam North police station was injured after a man who had been detained on charg...\"?",
       "optsEn": [
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "15th Finance Commission Special State Grant",
         "Civil police officer injured in attack by detained man in Keralam’s Kochi",
-        "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel"
-      ],
-      "optsHi": [
-        "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "Civil police officer injured in attack by detained man in Keralam’s Kochi",
-        "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel"
-      ],
-      "optsMr": [
-        "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "Civil police officer injured in attack by detained man in Keralam’s Kochi",
-        "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel"
-      ],
-      "ans": 1,
-      "explanation": "<strong>1. Core Context & Background:</strong> A civil police officer (CPO) attached to the Ernakulam North police station was injured after a man who had been detained on charge of creating public nuisance near the North overbridge bit on his hands when he was being taken in a police vehicle for medical examination, on Tuesday (November 10, 2026).<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> This comes two days after another CPO who was on traffic duty at the High Court bus stand was injured after a recklessly driven private bus rammed him. The incident occurred after the officer stopped a row of vehicles for an ambulance to pass through.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Following these, he was remanded in judicial custody."
-    },
-    {
-      "id": "gk_11 Nov 2026_6",
-      "cat": "🏛️ National & Polity",
-      "date": "11 Nov 2026",
-      "qEn": "[11 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"Archana Veeramani, 49, the daughter of R. Veeramani, being investigated as the main accused in a series of child sexual abuse case...\"?",
-      "qHi": "[11 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"Archana Veeramani, 49, the daughter of R. Veeramani, being investigated as the main accused in a series of child sexual abuse case...\"?",
-      "qMr": "[11 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"Archana Veeramani, 49, the daughter of R. Veeramani, being investigated as the main accused in a series of child sexual abuse case...\"?",
-      "optsEn": [
-        "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "15th Finance Commission Special State Grant",
-        "Gem Granites Veeramani’s daughter Archana moves Madras High Court alleging human r...",
         "Inter-State Council Constitutional Review Panel"
       ],
       "optsHi": [
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
         "15th Finance Commission Special State Grant",
-        "Gem Granites Veeramani’s daughter Archana moves Madras High Court alleging human r...",
+        "Civil police officer injured in attack by detained man in Keralam’s Kochi",
         "Inter-State Council Constitutional Review Panel"
       ],
       "optsMr": [
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
         "15th Finance Commission Special State Grant",
-        "Gem Granites Veeramani’s daughter Archana moves Madras High Court alleging human r...",
+        "Civil police officer injured in attack by detained man in Keralam’s Kochi",
         "Inter-State Council Constitutional Review Panel"
       ],
       "ans": 2,
-      "explanation": "<strong>1. Core Context & Background:</strong> Archana Veeramani, 49, the daughter of R.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Veeramani, being investigated as the main accused in a series of child sexual abuse cases, approached the Madras High Court with a plea to order an investigation into the human rights violations allegedly perpetrated against her by the State police and also to quash the summons issued after forcibly making her deboard a Singapore-bound airplane on October 23, 2026. Lakshminarayanan is expected to hear her plea on Wednesday (November 11, 2026).<br><br><strong>3. Way Forward & Exam Conclusion:</strong> on October 23, 2026 asking her to appear for an inquiry regarding the POCSO case on October 25, 2026, she said and urged the court to quash the summons besides ordering return of her seized laptop, mobile phone and luggage."
+      "explanation": "<strong>1. Core Context & Background:</strong> A civil police officer (CPO) attached to the Ernakulam North police station was injured after a man who had been detained on charge of creating public nuisance near the North overbridge bit on his hands when he was being taken in a police vehicle for medical examination, on Tuesday (November 10, 2026).<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> This comes two days after another CPO who was on traffic duty at the High Court bus stand was injured after a recklessly driven private bus rammed him. The incident occurred after the officer stopped a row of vehicles for an ambulance to pass through.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Following these, he was remanded in judicial custody."
     },
     {
       "id": "gk_11 Nov 2026_7",
