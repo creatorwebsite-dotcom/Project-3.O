@@ -1,12 +1,12 @@
 {
-  "updatedAt": "11 Nov 2026, 01:09 AM IST",
+  "updatedAt": "11 Nov 2026, 01:56 AM IST",
   "currentDateIso": "2026-11-11",
   "currentDateDisplay": "11 Nov 2026",
   "availableDates": [
     {
       "dateIso": "2026-11-11",
       "dateDisplay": "11 Nov 2026",
-      "updatedAt": "11 Nov 2026, 01:09 AM IST",
+      "updatedAt": "11 Nov 2026, 01:56 AM IST",
       "articleCount": 30
     },
     {
@@ -23,9 +23,43 @@
     }
   ],
   "hookLine1": "The Hindu Printed Broadsheet & Editorial Digest (11 Nov 2026)",
-  "hookLine2": "100% In-App Full Newspaper Pages & Deep Editorial Analysis • Updated: 11 Nov 2026, 01:09 AM IST",
+  "hookLine2": "100% In-App Full Newspaper Pages & Deep Editorial Analysis • Updated: 11 Nov 2026, 01:56 AM IST",
   "totalArticles": 30,
   "articles": [
+    {
+      "category": "national",
+      "categoryLabel": "🏛️ National & Polity",
+      "title": "Vaiko releases 34-year crime report; rebukes allies for criticising T.N. government",
+      "link": "https://www.thehindu.com/news/national/tamil-nadu/vaiko-releases-34-year-crime-report-rebukes-allies-for-criticising-tn-government/article71686350.ece",
+      "pubDate": "Wed, 11 Nov 2026 01:26:07 +0530",
+      "dateIso": "2026-11-11",
+      "dateDisplay": "11 Nov 2026",
+      "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
+      "imageUrl": "https://th-i.thgim.com/public/incoming/6w1r4o/article71687417.ece/alternates/LANDSCAPE_1200/2501_10_11_2026_10_39_52_2_DSC_7626.JPEG",
+      "fullParagraphs": [
+        "Amid ongoing accusations by Opposition parties of increase in crime and deteriorating law and order in Tamil Nadu, MDMK general secretary Vaiko on Tuesday released a catalogue of crimes that occurred over the past 34 years. He also lamented that the TVK-led government was being criticised by two of its coalition partners.",
+        "Addressing journalists in Chennai on Tuesday, he said except the IUML and the MDMK, the other parties within the ruling alliance have been criticising the administration.",
+        "Mr. Vaiko released a list detailing crimes committed in the State between May 1991 and May 2026. Citing the list compiled by the Madurai-based human rights organisation People’s Watch, he highlighted several major criminal incidents.",
+        "Speaking on the subject for over an hour, Vaiko also recounted the backdrop of key moments from his own political journey during this period. In particular, he detailed the circumstances surrounding his arrest under the Prevention of Terrorism Act (POTA) in July 2002. He noted that upon learning of the Tamil Nadu government’s decision to detain him under POTA, he advanced his return from the United States — originally scheduled for July 15 — and arrived in Chennai on July 11 to court arrest. He added while he was meant to be lodged in the Vellore Central Prison, authorities attempted to detain him at the Madurai Central Prison en route, an effort that was abandoned only after his fierce resistance.",
+        "He also recalled that it was former Chief Minister M. Karunanidhi who first addressed him as “Vaiko” instead of his full name V. Gopalasamy. He recounted that during the inaugural meeting held in Delhi to form the National Front, M. Karunanidhi had sent him a note on a slip of paper addressed to ‘ Thambi Vaikovukku’ .",
+        "Mr. Vaiko alleged some time after he founded the MDMK, L. Ganesan and Gingee N. Ramachandran attempted to split the party and organise a rival general council meeting on the instructions of the DMK leadership, but those efforts ended in failure.",
+        "He further recalled that following his release from prison under POTA, he undertook a padayatra from Tirunelveli to Chennai alongside 1,200 people, demanding an end to caste and communal clashes and the complete eradication of narcotics. Although he was denied entry into Chennai as the march neared the city, he defied the restrictions, entered Chennai, and addressed a public meeting.",
+        "Mr. Vaiko also mentioned that when Prime Minister Narendra Modi invited Sri Lankan President Mahinda Rajapaksa as a special guest to his swearing-in ceremony, he vehemently opposed the move and was arrested after staging a demonstration at Jantar Mantar.",
+        "Stating he had opposed the Sterlite plant in Thoothukudi from the very beginning, Mr. Vaiko alleged fresh efforts were under way to reopen the facility under the pretext of producing “Green Copper.” He claimed Vedanta’s Anil Agarwal had sought an appointment with Chief Minister C. Joseph Vijay for this purpose; however, following his own appeal urging the Chief Minister not to meet him, the meeting did not take place, and Mr. Agarwal has now approached the court.",
+        "Prior to Mr. Vaiko’s address, leaders from his party spoke in detail about his political contributions."
+      ],
+      "deepExplanation": "<strong>1. Core Context & Background:</strong> Amid ongoing accusations by Opposition parties of increase in crime and deteriorating law and order in Tamil Nadu, MDMK general secretary Vaiko on Tuesday released a catalogue of crimes that occurred over the past 34 years.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> He also lamented that the TVK-led government was being criticised by two of its coalition partners. Addressing journalists in Chennai on Tuesday, he said except the IUML and the MDMK, the other parties within the ruling alliance have been criticising the administration.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Vaiko’s address, leaders from his party spoke in detail about his political contributions.",
+      "vocabList": [
+        "Accusations",
+        "Opposition",
+        "Increase",
+        "Deteriorating",
+        "Secretary",
+        "Released"
+      ],
+      "summary": "Amid ongoing accusations by Opposition parties of increase in crime and deteriorating law and order in Tamil Nadu, MDMK general secretary Vaiko on Tuesday released a catalogue of crimes that occurred over the past 34 years. He also lamented that the TVK-led government was being criticised by two of its coalition partners.",
+      "keyPoints": "• Amid ongoing accusations by Opposition parties of increase in crime and deteriorating law and order in Tamil Nadu, MDMK general secretary Vaiko on Tuesday released a catalogue of crimes that occurred over the past 34 years. He also lamented that the TVK-led government was being criticised by two of its coalition partners.<br>• Addressing journalists in Chennai on Tuesday, he said except the IUML and the MDMK, the other parties within the ruling alliance have been criticising the administration.<br>• Mr. Vaiko released a list detailing crimes committed in the State between May 1991 and May 2026. Citing the list compiled by the Madurai-based human rights organisation People’s Watch, he highlighted several major criminal incidents."
+    },
     {
       "category": "national",
       "categoryLabel": "🏛️ National & Polity",
@@ -169,34 +203,6 @@
       ],
       "summary": "Archana Veeramani, 49, the daughter of R. Veeramani, being investigated as the main accused in a series of child sexual abuse cases, approached the Madras High Court with a plea to order an investigation into the human rights violations allegedly perpetrated against her by the State police and also to quash the summons issued after forcibly making her deboard a Singapore-bound airplane on October 23, 2026.",
       "keyPoints": "• Archana Veeramani, 49, the daughter of R. Veeramani, being investigated as the main accused in a series of child sexual abuse cases, approached the Madras High Court with a plea to order an investigation into the human rights violations allegedly perpetrated against her by the State police and also to quash the summons issued after forcibly making her deboard a Singapore-bound airplane on October 23, 2026.<br>• Justice V. Lakshminarayanan is expected to hear her plea on Wednesday (November 11, 2026). The High Court Registry had numbered her writ petition (criminal) subject to maintainability. In her affidavit, Ms. Veeramani said, her father had been arrayed as the prime accused in a case booked by the police under the Protection of Children from Sexual Offences (POCSO) Act of 2012 and other laws.<br>• She was not an accused in that case at least as on October 23, 2026 and no court had restrained her from undertaking foreign travel. Therefore, she had booked a flight from Chennai to Singapore on that day to visit her son and help him take medical treatment for his ailments. After she had boarded the plane at around 2 p.m. on October 23, the airline staff forcefully deboarded her without assigning any reason, the petitioner alleged."
-    },
-    {
-      "category": "national",
-      "categoryLabel": "🏛️ National & Polity",
-      "title": "Focus on Tamil during Kandasashthi: Minister",
-      "link": "https://www.thehindu.com/news/cities/chennai/focus-on-tamil-during-kandasashthi-minister/article71686608.ece",
-      "pubDate": "Wed, 11 Nov 2026 00:33:54 +0530",
-      "dateIso": "2026-11-11",
-      "dateDisplay": "11 Nov 2026",
-      "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
-      "imageUrl": "https://www.thehindu.com/theme/images/og-image.png",
-      "fullParagraphs": [
-        "Minister for Hindu Religious and Charitable Endowments (HR&CE) S. Ramesh on Tuesday said that Tamil language and literature will be given priority during the Kandasashthi festival in all major Murugan temples.",
-        "He urged temples under the purview of the department to ensure that Odhuvars chant/sing the Thirupugazh, Thirumurai, and Kandasashthi kavacham. Priests should also give priority to Tamil in all pujas and proceedings during the festival. Discourses and concerts should be in Tamil as well, he added.",
-        "In a set of directions issued to executive officers of temples, the Minister said that special arrangements must be made for persons with disabilities, senior citizens, and mothers-to-be at temples for darshan. Volunteers should be made available to assist such devotees, said an official statement here.",
-        "Mr. Ramesh said that temple officials should coordinate with the police, fire and other departments to ensure proper arrangements such as drinking water, toilets and medical care for devotees for darshan, during Kandasashthi and Sura Samharam."
-      ],
-      "deepExplanation": "<strong>1. Core Context & Background:</strong> Minister for Hindu Religious and Charitable Endowments (HR&CE) S.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Ramesh on Tuesday said that Tamil language and literature will be given priority during the Kandasashthi festival in all major Murugan temples. He urged temples under the purview of the department to ensure that Odhuvars chant/sing the Thirupugazh, Thirumurai, and Kandasashthi kavacham.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Ramesh said that temple officials should coordinate with the police, fire and other departments to ensure proper arrangements such as drinking water, toilets and medical care for devotees for darshan, during Kandasashthi and Sura Samharam.",
-      "vocabList": [
-        "Religious",
-        "Charitable",
-        "Endowments",
-        "Language",
-        "Literature",
-        "Priority"
-      ],
-      "summary": "Minister for Hindu Religious and Charitable Endowments (HR&CE) S. Ramesh on Tuesday said that Tamil language and literature will be given priority during the Kandasashthi festival in all major Murugan temples.",
-      "keyPoints": "• Minister for Hindu Religious and Charitable Endowments (HR&CE) S. Ramesh on Tuesday said that Tamil language and literature will be given priority during the Kandasashthi festival in all major Murugan temples.<br>• He urged temples under the purview of the department to ensure that Odhuvars chant/sing the Thirupugazh, Thirumurai, and Kandasashthi kavacham. Priests should also give priority to Tamil in all pujas and proceedings during the festival. Discourses and concerts should be in Tamil as well, he added.<br>• In a set of directions issued to executive officers of temples, the Minister said that special arrangements must be made for persons with disabilities, senior citizens, and mothers-to-be at temples for darshan. Volunteers should be made available to assist such devotees, said an official statement here."
     },
     {
       "category": "economy",
@@ -600,6 +606,86 @@
     {
       "category": "scitech",
       "categoryLabel": "🚀 Science, Tech & Environment",
+      "title": "Strategic autonomy must guide India’s Starlink policy",
+      "link": "https://www.thehindu.com/opinion/op-ed/strategic-autonomy-must-guide-indias-starlink-policy/article71687057.ece",
+      "pubDate": "Wed, 11 Nov 2026 01:22:43 +0530",
+      "dateIso": "2026-11-11",
+      "dateDisplay": "11 Nov 2026",
+      "examRelevance": "GS Paper-III & Prelims: ISRO/NASA Missions, Defense Updates, Tech & Climate Reports",
+      "imageUrl": "https://th-i.thgim.com/public/incoming/1e1025/article71687060.ece/alternates/LANDSCAPE_1200/STARLINK%20ELON%20MUSK%20PROTEST%205.jpeg",
+      "fullParagraphs": [
+        "Recently, Elon Musk unleashed a volley of social media posts, accusing Indian “oligarchs” of impeding Starlink’s entry into India. The government rejected the accusation and clarified that all satellite operators must go through the same regulatory process. The ensuing public debate has centred on Mr. Musk, Mukesh Ambani, protectionism and telecom competition. All this obscures important questions of how much control India will have over Starlink once it operates here.",
+        "In its current form, Starlink is unlikely to replace fibre and mobile networks because they have almost opposite strengths. Fibre and mobile networks take time and money to set up, but can serve many people in one area. Starlink reaches remote places without towers or cables but is limited by how many users it can serve in one region. While fibre and mobile networks are optimised for density, Starlink is optimised for reach. Starlink has previously stopped taking new residential customers in areas where it ran out of capacity.",
+        "India / technology (general) / online / internet / telecommunication service / government / armed Forces / national security / satellite technology / software / Iran / Ukraine / Russia-Ukraine Crisis / USA / emergency planning / parliament / mountains"
+      ],
+      "deepExplanation": "<strong>1. Core Context & Background:</strong> Recently, Elon Musk unleashed a volley of social media posts, accusing Indian “oligarchs” of impeding Starlink’s entry into India.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> The government rejected the accusation and clarified that all satellite operators must go through the same regulatory process. The ensuing public debate has centred on Mr.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> India / technology (general) / online / internet / telecommunication service / government / armed Forces / national security / satellite technology / software / Iran / Ukraine / Russia-Ukraine Crisis / USA / emergency planning / parliament / mountains",
+      "vocabList": [
+        "Recently",
+        "Unleashed",
+        "Accusing",
+        "Oligarchs",
+        "Impeding",
+        "Starlink"
+      ],
+      "summary": "Recently, Elon Musk unleashed a volley of social media posts, accusing Indian “oligarchs” of impeding Starlink’s entry into India. The government rejected the accusation and clarified that all satellite operators must go through the same regulatory process. The ensuing public debate has centred on Mr. Musk, Mukesh Ambani, protectionism and telecom competition. All this obscures important questions of how much control India will have over Starlink once it operates here.",
+      "keyPoints": "• Recently, Elon Musk unleashed a volley of social media posts, accusing Indian “oligarchs” of impeding Starlink’s entry into India. The government rejected the accusation and clarified that all satellite operators must go through the same regulatory process. The ensuing public debate has centred on Mr. Musk, Mukesh Ambani, protectionism and telecom competition. All this obscures important questions of how much control India will have over Starlink once it operates here.<br>• In its current form, Starlink is unlikely to replace fibre and mobile networks because they have almost opposite strengths. Fibre and mobile networks take time and money to set up, but can serve many people in one area. Starlink reaches remote places without towers or cables but is limited by how many users it can serve in one region. While fibre and mobile networks are optimised for density, Starlink is optimised for reach. Starlink has previously stopped taking new residential customers in areas where it ran out of capacity.<br>• India / technology (general) / online / internet / telecommunication service / government / armed Forces / national security / satellite technology / software / Iran / Ukraine / Russia-Ukraine Crisis / USA / emergency planning / parliament / mountains"
+    },
+    {
+      "category": "scitech",
+      "categoryLabel": "🚀 Science, Tech & Environment",
+      "title": "The Siang dam and a threatened homeland",
+      "link": "https://www.thehindu.com/news/national/arunachal-pradesh/siang-dam-and-a-threatened-homeland-in-arunachal-pradesh/article71675266.ece",
+      "pubDate": "Tue, 10 Nov 2026 22:59:35 +0530",
+      "dateIso": "2026-11-11",
+      "dateDisplay": "11 Nov 2026",
+      "examRelevance": "GS Paper-III & Prelims: ISRO/NASA Missions, Defense Updates, Tech & Climate Reports",
+      "imageUrl": "https://th-i.thgim.com/public/incoming/73u02c/article71675466.ece/alternates/LANDSCAPE_1200/2150_5_11_2026_22_19_46_1_SIANG_01.JPG",
+      "fullParagraphs": [
+        "A few kilometres from the entrance to Arunachal Pradesh’s Parong village, an unpaved road winds all the way down to the Siang river. At dusk, all that is visible at the beginning of the dirt road is the glint of freshly painted yellow barricades of the State police and the shine from the silver of the concertina wires that connect the barricades. The Central security forces who guard the check post here have two purposes — to respond to “unrest” and to stop anyone without “clearance” from proceeding to Siang’s waters.",
+        "Parong, in Siang district, is one of the three proposed sites identified by the State government for a Pre-Feasibility Report (PFR) to begin work on the Siang Upper Multipurpose Project (SUMP), developed by the National Hydroelectric Power Corporation (NHPC).",
+        "water (natural resource) / Arunachal Pradesh / Ground Zero / environmental issues / land resources / demonstration"
+      ],
+      "deepExplanation": "<strong>1. Core Context & Background:</strong> A few kilometres from the entrance to Arunachal Pradesh’s Parong village, an unpaved road winds all the way down to the Siang river.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> At dusk, all that is visible at the beginning of the dirt road is the glint of freshly painted yellow barricades of the State police and the shine from the silver of the concertina wires that connect the barricades. The Central security forces who guard the check post here have two purposes — to respond to “unrest” and to stop anyone without “clearance” from proceeding to Siang’s waters.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> water (natural resource) / Arunachal Pradesh / Ground Zero / environmental issues / land resources / demonstration",
+      "vocabList": [
+        "Kilometres",
+        "Entrance",
+        "Arunachal",
+        "Beginning",
+        "Barricades",
+        "Concertina"
+      ],
+      "summary": "A few kilometres from the entrance to Arunachal Pradesh’s Parong village, an unpaved road winds all the way down to the Siang river. At dusk, all that is visible at the beginning of the dirt road is the glint of freshly painted yellow barricades of the State police and the shine from the silver of the concertina wires that connect the barricades. The Central security forces who guard the check post here have two purposes — to respond to “unrest” and to stop anyone without “clearance” from proceeding to Siang’s waters.",
+      "keyPoints": "• A few kilometres from the entrance to Arunachal Pradesh’s Parong village, an unpaved road winds all the way down to the Siang river. At dusk, all that is visible at the beginning of the dirt road is the glint of freshly painted yellow barricades of the State police and the shine from the silver of the concertina wires that connect the barricades. The Central security forces who guard the check post here have two purposes — to respond to “unrest” and to stop anyone without “clearance” from proceeding to Siang’s waters.<br>• Parong, in Siang district, is one of the three proposed sites identified by the State government for a Pre-Feasibility Report (PFR) to begin work on the Siang Upper Multipurpose Project (SUMP), developed by the National Hydroelectric Power Corporation (NHPC).<br>• water (natural resource) / Arunachal Pradesh / Ground Zero / environmental issues / land resources / demonstration"
+    },
+    {
+      "category": "scitech",
+      "categoryLabel": "🚀 Science, Tech & Environment",
+      "title": "A case for Nepal: suing major carbon emitters for floods",
+      "link": "https://www.thehindu.com/opinion/op-ed/a-case-for-nepal-suing-major-carbon-emitters-for-floods/article71683852.ece",
+      "pubDate": "Tue, 10 Nov 2026 21:19:52 +0530",
+      "dateIso": "2026-11-11",
+      "dateDisplay": "11 Nov 2026",
+      "examRelevance": "GS Paper-III & Prelims: ISRO/NASA Missions, Defense Updates, Tech & Climate Reports",
+      "imageUrl": "https://th-i.thgim.com/public/incoming/ioy4r6/article71683993.ece/alternates/LANDSCAPE_1200/Climate_COP31_Guterres_3_147.jpg",
+      "fullParagraphs": [
+        "The catastrophic floods in Nepal which resulted in the deaths of thousands of people in August 2026, is overwhelmingly attributed to climate change. This is yet another worst-case climate change scenario from South Asia, after the floods in Pakistan in 2022.",
+        "A debate that has not drawn much attention so far in this part of the world is that there is scope to explore and establish the flood victims as victims of climate wrongs. The case for the Nepalese people needs to be analysed from the prism of climate litigations used by plaintiffs in many jurisdictions of Europe and the U.S. in the last two decades."
+      ],
+      "deepExplanation": "<strong>1. Core Context & Background:</strong> The catastrophic floods in Nepal which resulted in the deaths of thousands of people in August 2026, is overwhelmingly attributed to climate change.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> This is yet another worst-case climate change scenario from South Asia, after the floods in Pakistan in 2022. A debate that has not drawn much attention so far in this part of the world is that there is scope to explore and establish the flood victims as victims of climate wrongs.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> The case for the Nepalese people needs to be analysed from the prism of climate litigations used by plaintiffs in many jurisdictions of Europe and the U.S.",
+      "vocabList": [
+        "Catastrophic",
+        "Resulted",
+        "Thousands",
+        "Overwhelmingly",
+        "Attributed",
+        "Scenario"
+      ],
+      "summary": "The catastrophic floods in Nepal which resulted in the deaths of thousands of people in August 2026, is overwhelmingly attributed to climate change. This is yet another worst-case climate change scenario from South Asia, after the floods in Pakistan in 2022.",
+      "keyPoints": "• The catastrophic floods in Nepal which resulted in the deaths of thousands of people in August 2026, is overwhelmingly attributed to climate change. This is yet another worst-case climate change scenario from South Asia, after the floods in Pakistan in 2022.<br>• A debate that has not drawn much attention so far in this part of the world is that there is scope to explore and establish the flood victims as victims of climate wrongs. The case for the Nepalese people needs to be analysed from the prism of climate litigations used by plaintiffs in many jurisdictions of Europe and the U.S. in the last two decades."
+    },
+    {
+      "category": "scitech",
+      "categoryLabel": "🚀 Science, Tech & Environment",
       "title": "Supreme Court goes beyond Deepavali AQI, flags vehicular emissions polluting Delhi air",
       "link": "https://www.thehindu.com/news/national/supreme-court-goes-beyond-deepavali-aqi-flags-vehicular-emissions-polluting-delhi-air/article71685844.ece",
       "pubDate": "Tue, 10 Nov 2026 19:09:42 +0530",
@@ -695,109 +781,38 @@
       "keyPoints": "• U.S. President Donald Trump said Monday (November 9, 2026) that the FBI is investigating Nvidia CEO Jensen Huang 's affair with an alleged Chinese government agent, but said he doesn't think the executive who has helped to develop artificial intelligence has a reason to worry.<br>• “I know the FBI is looking into it in terms of something else, and I think that he'll be in good shape,” Mr. Trump said at a White House briefing.<br>• The sudden emergence of Mr. Huang's infidelity has rocked the political class and America's tech sector, creating new concerns about whether China has been able to access the cutting-edge chips designed by Nvidia that are powering the development of artificial intelligence."
     },
     {
-      "category": "scitech",
-      "categoryLabel": "🚀 Science, Tech & Environment",
-      "title": "Kadambini Ganguly: breaking barriers in medicine",
-      "link": "https://www.thehindu.com/children/kadambini-ganguly-breaking-barriers-in-medicine/article71685840.ece",
-      "pubDate": "Tue, 10 Nov 2026 16:36:53 +0530",
+      "category": "editorial",
+      "categoryLabel": "✍️ Editorial Spark",
+      "title": "Caste and class: On OBC reservation",
+      "link": "https://www.thehindu.com/opinion/editorial/caste-and-class-on-obc-reservation/article71686599.ece",
+      "pubDate": "Wed, 11 Nov 2026 01:13:59 +0530",
       "dateIso": "2026-11-11",
       "dateDisplay": "11 Nov 2026",
-      "examRelevance": "GS Paper-III & Prelims: ISRO/NASA Missions, Defense Updates, Tech & Climate Reports",
-      "imageUrl": "https://th-i.thgim.com/public/incoming/v6keay/article71685843.ece/alternates/LANDSCAPE_1200/IMG_Statue_of_Kadambini__1_1_HVGPA2D8.jpg",
+      "examRelevance": "UPSC & State PSC Mains / Essay: Deep Analytical Core Summary & Vocabulary",
+      "imageUrl": "https://www.thehindu.com/static/content/images/20260921062859/editorialLeadImg.jpg",
       "fullParagraphs": [
-        "Have you heard of the names Kadambini Ganguly and Anandibai Joshi? Considered India’s first female doctors, these names have often been looked past in the pages of history and even medical textbooks. Today, let’s talk about the story of Kadambini Ganguly — India’s first practising lady doctor.",
-        "It was in 1861 that Brahmo reformer and headmaster Braja Kishore Basu had a daughter. She was named Kadambini Basu. Young Kadambini, despite hailing from a community that did not necessarily support women’s education like many others at the time did, received an education at the Brahmo Eden Female School and later at the Hindu Mahila Vidyalaya.",
-        "As the daughter of someone who organised and fought for women’s emancipation, Kadambini went on to study in college and became the first woman to pass the University of Calcutta entrance examination. In 1882, she passed the examination for the Bachelor of Arts (BA) degree along with Chandramukhi Basu from the University of Calcutta, making her and Chandramukhi the first female graduates in the country.",
-        "Wanting to study medicine, Kadambini decided to enrol at the Calcutta Medical College after graduation. She was, however, believed to have been unable to receive the BMC certificate due to a shortage of a couple of marks. She did receive the GBMC (Graduate of Bengal Medical College) degree, though, in 1886. Thus, she became the first Indian woman to be allowed to practice Western medicine.",
-        "Around 1888, Kadambini started working at the Lady Dufferin Hospital for a monthly salary of 300 rupees. She had even gone to Nepal to treat British royalty. Along with pursuing medicine, she was also politically quite vocal and active. Around 1899, Kadambini was one of the first women delegates elected to the Fifth Session of the Congress in Bombay and the next year, she won to become the first women speaker at the Congress.",
-        "She also served as the president of the Transvaal Indian Association, founded by Gandhiji’s colleague Henry Pollock. She was a member of the Women’s Conference held in Calcutta and even presided over the General Brahmo Samaj session in Calcutta.",
-        "Around 1883, Kadambini married Dwarakanath Ganguly (thus the change in name from Kadambini Bose to Kadambini Ganguly in many documents). Dwarakanath Ganguly was a Bengali Brahmo reformer, educator, journalist, and pioneer of women’s rights in British India.",
-        "She was a mother to eight children and is often said to have been deft in needlework. She became a practising doctor while equally devoting herself to family and household affairs, an action which was deemed impossible by many in the era.",
-        "Despite having being burdened with domestic chores, like most women of that time, Kadambini still managed to smash the glass ceilings and societal stereotypes in both her professional and personal life.",
-        "A name which should not be forgotten in the course of time, Dr Kadambini is a reason many of us are able to pursue our passion — in medicine and in life.",
-        "children / medicine / Western medicine / public health/community medicine / medicine (education) / science (general) / medical education / right to education / higher education / school / In School / history / history"
+        "If public resources are to dismantle both caste hierarchy and class inequality, OBC reservation should resist the notion that caste disadvantage makes economic differences among OBC families irrelevant. The ‘creamy layer’ rules are responsible for identifying those OBC members who have advanced sufficiently to no longer require affirmative action. However, the government has implemented them inconsistently. The Supreme Court in March corrected one inconsistency, that the government cannot hold the salary alone of an OBC candidate’s parent as evidence of social advancement. In Indra Sawhney (1992) , the Court upheld the government’s 27% reservation for OBC candidates in central government services if it also excluded economically advanced sections, i.e., the creamy layer, among OBCs. Following the equivalence requirement issued in 1993, the Department of Personnel & Training (DoPT) issued a “clarification” in 2004 that the government used, from around 2015, to deny dozens of OBC candidates who had cleared the Civil Services Examination their benefits because their parents’ salaries exceeded the official threshold due to pay revisions that did not always reflect changes in occupational status. The Cabinet also approved equivalence guidelines in 2017 but a parliamentary committee criticised it over a number of issues.",
+        "In Rohith Nathan (2026) , the Court rightly rejected the government’s use of the 2004 “clarification” to arbitrarily exclude OBC candidates based on their parents’ salaries alone. However, the government stalled service allocations following the 2025 examination and appealed that retrospectively applying the ruling would create administrative chaos. On November 6, the Court conceded that it had not asked the government to reopen completed selections, as it could set workers against one another while leaving government misapplication unaddressed. A proactive policy is essential now as the government must create supernumerary posts for legitimate claimants and apply the 1993 rules to pending allocations without vouchsafing these remedies for only those who can afford litigation. Access to public employment continues to be grossly unequal: per the 2024-25 DoPT Annual Report, OBC representation in central government employment was 26.3% but declined steadily towards higher positions. As the Justice G. Rohini Commission also indicated, the benefits of reservation are distributed unevenly among OBC communities. However, the report, submitted in 2023, is still not in the public domain. The coming Census includes caste enumeration but policymakers also need data on each caste’s education, occupations, assets, and landholdings. Defending redistribution among caste groups while ignoring major inequalities within them, and constraining OBC reservation assuming relatively more high-income families capture the benefits without first establishing the extent and the causes are equally difficult to justify.",
+        "Reservation / court / Caste / labour / government / Census 2027"
       ],
-      "deepExplanation": "<strong>1. Core Context & Background:</strong> Have you heard of the names Kadambini Ganguly and Anandibai Joshi?<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Considered India’s first female doctors, these names have often been looked past in the pages of history and even medical textbooks. Today, let’s talk about the story of Kadambini Ganguly — India’s first practising lady doctor.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> children / medicine / Western medicine / public health/community medicine / medicine (education) / science (general) / medical education / right to education / higher education / school / In School / history / history",
+      "deepExplanation": "<strong>1. Core Context & Background:</strong> If public resources are to dismantle both caste hierarchy and class inequality, OBC reservation should resist the notion that caste disadvantage makes economic differences among OBC families irrelevant.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> The ‘creamy layer’ rules are responsible for identifying those OBC members who have advanced sufficiently to no longer require affirmative action. However, the government has implemented them inconsistently.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Reservation / court / Caste / labour / government / Census 2027",
       "vocabList": [
-        "Kadambini",
-        "Anandibai",
-        "Considered",
-        "Textbooks",
-        "Practising",
-        "Reformer"
+        "Resources",
+        "Dismantle",
+        "Hierarchy",
+        "Inequality",
+        "Reservation",
+        "Disadvantage"
       ],
-      "summary": "Have you heard of the names Kadambini Ganguly and Anandibai Joshi? Considered India’s first female doctors, these names have often been looked past in the pages of history and even medical textbooks. Today, let’s talk about the story of Kadambini Ganguly — India’s first practising lady doctor.",
-      "keyPoints": "• Have you heard of the names Kadambini Ganguly and Anandibai Joshi? Considered India’s first female doctors, these names have often been looked past in the pages of history and even medical textbooks. Today, let’s talk about the story of Kadambini Ganguly — India’s first practising lady doctor.<br>• It was in 1861 that Brahmo reformer and headmaster Braja Kishore Basu had a daughter. She was named Kadambini Basu. Young Kadambini, despite hailing from a community that did not necessarily support women’s education like many others at the time did, received an education at the Brahmo Eden Female School and later at the Hindu Mahila Vidyalaya.<br>• As the daughter of someone who organised and fought for women’s emancipation, Kadambini went on to study in college and became the first woman to pass the University of Calcutta entrance examination. In 1882, she passed the examination for the Bachelor of Arts (BA) degree along with Chandramukhi Basu from the University of Calcutta, making her and Chandramukhi the first female graduates in the country."
-    },
-    {
-      "category": "scitech",
-      "categoryLabel": "🚀 Science, Tech & Environment",
-      "title": "At peak of air pollution on Deepavali, data goes missing at several government monitoring stations in Delhi",
-      "link": "https://www.thehindu.com/news/cities/Delhi/at-peak-of-air-pollution-on-deepavali-night-data-goes-missing-at-several-govt-monitoring-stations-in-delhi/article71682391.ece",
-      "pubDate": "Tue, 10 Nov 2026 16:11:38 +0530",
-      "dateIso": "2026-11-11",
-      "dateDisplay": "11 Nov 2026",
-      "examRelevance": "GS Paper-III & Prelims: ISRO/NASA Missions, Defense Updates, Tech & Climate Reports",
-      "imageUrl": "https://th-i.thgim.com/public/incoming/geztlp/article71682445.ece/alternates/LANDSCAPE_1200/POLLUTION%20AFTER%20DIWALI%20DELHI%204.JPG",
-      "fullParagraphs": [
-        "Air quality data from several government monitoring stations in Delhi went missing for hours during the pollution spike following Deepavali on Sunday (November 8, 2026), with experts warning that the gaps have led to understated pollution levels and resulted in a lower official air quality index (AQI).",
-        "According to Dr. D. Saha, former head of the Central Pollution Control Board (CPCB)’s air quality laboratory, AQI values are calculated using a moving or running average of hourly concentrations of eight parameters, including PM2.5 and PM10, over the previous 24 hours.",
-        "On Monday (November 9, 2026), PM2.5 data were missing for several hours at many stations in the city, including Anand Vihar, Patparganj and Bawana, on the CPCB website. PM2.5 (particulate matter measuring 2.5 micrometres or less in diameter) consists of fine inhalable particles that can penetrate the lungs and enter the bloodstream, causing respiratory and other diseases. Similar data gaps were reported at several monitoring stations during Deepavali last year as well.",
-        "Manoj Kumar, an analyst at the Centre for Research on Energy and Clean Air (CREA), a Finland-based non-profit research organisation, said the missing hourly PM2.5 data “raised concerns about the assessment of Delhi’s air quality”.",
-        "“From midnight on November 8 until 5 a.m. on November 9, 227 hourly PM2.5 observations were missing across 59 CPCB monitoring stations in Delhi. Only 14 stations reported complete data, while the remaining 45 had at least one missing hourly observation,” Mr. Kumar said, adding, “When the hourly PM2.5 data is missing, it will artificially lower the AQI, showing better air quality when the actual air quality is worse.”",
-        "When asked about the missing air quality data at several monitoring stations, Delhi Labour Minister Kapil Mishra told the media that the government would look into the issue. The Member Secretary of the CPCB, which releases AQI data, did not respond to calls and messages seeking comment.",
-        "Dr. Saha told The Hindu that there should not be gaps in the data, especially during crucial periods.",
-        "“If hourly PM2.5 or PM10 value is blank or missing, it will affect the AQI calculated and the final value of the AQI calculated will be less than the actual value of AQI and scientifically incorrect,” Mr. Saha said.",
-        "He also said the CPCB had set the measurement range of PM2.5 analysers at 0–1,000 micrograms per cubic metre, which meant they could not measure concentrations above that level. “So, if the value of PM2.5 is beyond 1,000, it should at least be shown as 1,000 instead of showing blank,” he said.",
-        "A former DPCC scientist, who did not wish to be identified, said the CPCB recorded PM2.5 values only up to 1,000 micrograms per cubic metre because there was a minor drop in accuracy at higher levels. “But at very high values, a small drop in accuracy will not matter a lot. Ideally, the CPCB should be measuring the higher values so that we are not missing the peak values,” the official said, adding that not measuring higher concentrations would artificially make air quality appear better.",
-        "Bhavreen Kandhari, an environmental activist, alleged that the government was clearly fudging the data to conceal the actual air pollution situation rather than solving the problem.",
-        "On the CPCB website, PM2.5 readings appeared to be capped at 1,000 micrograms per cubic metre across all stations, with data missing for several hours at multiple locations."
-      ],
-      "deepExplanation": "<strong>1. Core Context & Background:</strong> Air quality data from several government monitoring stations in Delhi went missing for hours during the pollution spike following Deepavali on Sunday (November 8, 2026), with experts warning that the gaps have led to understated pollution levels and resulted in a lower official air quality index (AQI).<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Saha, former head of the Central Pollution Control Board (CPCB)’s air quality laboratory, AQI values are calculated using a moving or running average of hourly concentrations of eight parameters, including PM2.5 and PM10, over the previous 24 hours. On Monday (November 9, 2026), PM2.5 data were missing for several hours at many stations in the city, including Anand Vihar, Patparganj and Bawana, on the CPCB website.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> On the CPCB website, PM2.5 readings appeared to be capped at 1,000 micrograms per cubic metre across all stations, with data missing for several hours at multiple locations.",
-      "vocabList": [
-        "Monitoring",
-        "Stations",
-        "Pollution",
-        "Following",
-        "Deepavali",
-        "November"
-      ],
-      "summary": "Air quality data from several government monitoring stations in Delhi went missing for hours during the pollution spike following Deepavali on Sunday (November 8, 2026), with experts warning that the gaps have led to understated pollution levels and resulted in a lower official air quality index (AQI).",
-      "keyPoints": "• Air quality data from several government monitoring stations in Delhi went missing for hours during the pollution spike following Deepavali on Sunday (November 8, 2026), with experts warning that the gaps have led to understated pollution levels and resulted in a lower official air quality index (AQI).<br>• According to Dr. D. Saha, former head of the Central Pollution Control Board (CPCB)’s air quality laboratory, AQI values are calculated using a moving or running average of hourly concentrations of eight parameters, including PM2.5 and PM10, over the previous 24 hours.<br>• On Monday (November 9, 2026), PM2.5 data were missing for several hours at many stations in the city, including Anand Vihar, Patparganj and Bawana, on the CPCB website. PM2.5 (particulate matter measuring 2.5 micrometres or less in diameter) consists of fine inhalable particles that can penetrate the lungs and enter the bloodstream, causing respiratory and other diseases. Similar data gaps were reported at several monitoring stations during Deepavali last year as well."
-    },
-    {
-      "category": "scitech",
-      "categoryLabel": "🚀 Science, Tech & Environment",
-      "title": "Does the Temple wearable reveal useful information about brain health?",
-      "link": "https://www.thehindu.com/sci-tech/health/does-the-temple-wearable-reveal-useful-information-about-brain-health/article71678659.ece",
-      "pubDate": "Tue, 10 Nov 2026 15:50:53 +0530",
-      "dateIso": "2026-11-11",
-      "dateDisplay": "11 Nov 2026",
-      "examRelevance": "GS Paper-III & Prelims: ISRO/NASA Missions, Defense Updates, Tech & Climate Reports",
-      "imageUrl": "https://th-i.thgim.com/public/incoming/d34tab/article71685783.ece/alternates/LANDSCAPE_1200/1500x500%201.jpg",
-      "fullParagraphs": [
-        "Billionaire entrepreneur Deepinder Goyal, co-founder of Zomato and Blinkit, has announced the commercial availability of Temple, a wearable monitoring device that he claims could become “Humanity’s last personal device”.",
-        "A graduate in Computer Science and Mathematics from the Indian Institute of Technology Delhi, Mr. Goyal has no academic background in medical sciences or biological research. His claims have drawn criticism from doctors, including social media influencer and physician Cyriac Abby Philips (LiverDoc), who has described the device as a “scam”.",
-        "health / economy, business and finance / technology (general) / emerging technologies / Analysis"
-      ],
-      "deepExplanation": "<strong>1. Core Context & Background:</strong> Billionaire entrepreneur Deepinder Goyal, co-founder of Zomato and Blinkit, has announced the commercial availability of Temple, a wearable monitoring device that he claims could become “Humanity’s last personal device”.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> A graduate in Computer Science and Mathematics from the Indian Institute of Technology Delhi, Mr. Goyal has no academic background in medical sciences or biological research.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> health / economy, business and finance / technology (general) / emerging technologies / Analysis",
-      "vocabList": [
-        "Billionaire",
-        "Entrepreneur",
-        "Deepinder",
-        "Announced",
-        "Commercial",
-        "Availability"
-      ],
-      "summary": "Billionaire entrepreneur Deepinder Goyal, co-founder of Zomato and Blinkit, has announced the commercial availability of Temple, a wearable monitoring device that he claims could become “Humanity’s last personal device”.",
-      "keyPoints": "• Billionaire entrepreneur Deepinder Goyal, co-founder of Zomato and Blinkit, has announced the commercial availability of Temple, a wearable monitoring device that he claims could become “Humanity’s last personal device”.<br>• A graduate in Computer Science and Mathematics from the Indian Institute of Technology Delhi, Mr. Goyal has no academic background in medical sciences or biological research. His claims have drawn criticism from doctors, including social media influencer and physician Cyriac Abby Philips (LiverDoc), who has described the device as a “scam”.<br>• health / economy, business and finance / technology (general) / emerging technologies / Analysis"
+      "summary": "If public resources are to dismantle both caste hierarchy and class inequality, OBC reservation should resist the notion that caste disadvantage makes economic differences among OBC families irrelevant. The ‘creamy layer’ rules are responsible for identifying those OBC members who have advanced sufficiently to no longer require affirmative action. However, the government has implemented them inconsistently. The Supreme Court in March corrected one inconsistency, that the government cannot hold the salary alone of an OBC candidate’s parent as evidence of social advancement. In Indra Sawhney (1992) , the Court upheld the government’s 27% reservation for OBC candidates in central government services if it also excluded economically advanced sections, i.e., the creamy layer, among OBCs. Following the equivalence requirement issued in 1993, the Department of Personnel & Training (DoPT) issued a “clarification” in 2004 that the government used, from around 2015, to deny dozens of OBC candidates who had cleared the Civil Services Examination their benefits because their parents’ salaries exceeded the official threshold due to pay revisions that did not always reflect changes in occupational status. The Cabinet also approved equivalence guidelines in 2017 but a parliamentary committee criticised it over a number of issues.",
+      "keyPoints": "• If public resources are to dismantle both caste hierarchy and class inequality, OBC reservation should resist the notion that caste disadvantage makes economic differences among OBC families irrelevant. The ‘creamy layer’ rules are responsible for identifying those OBC members who have advanced sufficiently to no longer require affirmative action. However, the government has implemented them inconsistently. The Supreme Court in March corrected one inconsistency, that the government cannot hold the salary alone of an OBC candidate’s parent as evidence of social advancement. In Indra Sawhney (1992) , the Court upheld the government’s 27% reservation for OBC candidates in central government services if it also excluded economically advanced sections, i.e., the creamy layer, among OBCs. Following the equivalence requirement issued in 1993, the Department of Personnel & Training (DoPT) issued a “clarification” in 2004 that the government used, from around 2015, to deny dozens of OBC candidates who had cleared the Civil Services Examination their benefits because their parents’ salaries exceeded the official threshold due to pay revisions that did not always reflect changes in occupational status. The Cabinet also approved equivalence guidelines in 2017 but a parliamentary committee criticised it over a number of issues.<br>• In Rohith Nathan (2026) , the Court rightly rejected the government’s use of the 2004 “clarification” to arbitrarily exclude OBC candidates based on their parents’ salaries alone. However, the government stalled service allocations following the 2025 examination and appealed that retrospectively applying the ruling would create administrative chaos. On November 6, the Court conceded that it had not asked the government to reopen completed selections, as it could set workers against one another while leaving government misapplication unaddressed. A proactive policy is essential now as the government must create supernumerary posts for legitimate claimants and apply the 1993 rules to pending allocations without vouchsafing these remedies for only those who can afford litigation. Access to public employment continues to be grossly unequal: per the 2024-25 DoPT Annual Report, OBC representation in central government employment was 26.3% but declined steadily towards higher positions. As the Justice G. Rohini Commission also indicated, the benefits of reservation are distributed unevenly among OBC communities. However, the report, submitted in 2023, is still not in the public domain. The coming Census includes caste enumeration but policymakers also need data on each caste’s education, occupations, assets, and landholdings. Defending redistribution among caste groups while ignoring major inequalities within them, and constraining OBC reservation assuming relatively more high-income families capture the benefits without first establishing the extent and the causes are equally difficult to justify.<br>• Reservation / court / Caste / labour / government / Census 2027"
     },
     {
       "category": "editorial",
       "categoryLabel": "✍️ Editorial Spark",
-      "title": "Without any rationale: on the disbanding of the Justice Kurian Joseph Committee",
+      "title": "Without any rationale: On the disbanding of the Justice Kurian Joseph Committee",
       "link": "https://www.thehindu.com/opinion/editorial/without-any-rationale-on-the-disbanding-of-the-justice-kurian-joseph-committee/article71686725.ece",
-      "pubDate": "Tue, 10 Nov 2026 22:46:43 +0530",
+      "pubDate": "Wed, 11 Nov 2026 01:02:37 +0530",
       "dateIso": "2026-11-11",
       "dateDisplay": "11 Nov 2026",
       "examRelevance": "UPSC & State PSC Mains / Essay: Deep Analytical Core Summary & Vocabulary",
@@ -818,33 +833,6 @@
       ],
       "summary": "By abruptly disbanding the Justice Kurian Joseph Committee on Union-State Relations and handing over its task to the Tamil Nadu State Law Commission, the C. Joseph Vijay government appears to have succumbed to the political impulse to reverse earlier decisions rather than being guided by any compelling rationale or necessity. This gains credence from the very grounds cited. The committee executed its mandate with scholarly rigour, seen in Part I of its report that was submitted to the then M.K. Stalin government in February. Citing the Committee’s basic character of being a “non-statutory body” is unconvincing, particularly when the Law Commission itself is established only through “executive order”. There is also no public evidence of State Law Commissions having examined or addressed issues concerning Union-State relations. The mandate “to suggest ways and means for the inter-State relations and Centre-State relations”, constitutes only one part of the broader terms of reference of the State Law Commission, reconstituted in August. Given the commission’s wider responsibilities, successive State governments had constituted high-level committees to examine conflicts involving Concurrent List subjects and recommend specific remedies. It is through such recommendations that Tamil Nadu enacted certain pieces of legislation to overcome limitations imposed by central laws, including the provision of horizontal reservation in professional course admissions for disadvantaged students. Therefore, the State’s other argument of “similarity or overlap” in the “nature and scope of the functions” entrusted to the Committee and the Commission, does not withstand close scrutiny.",
       "keyPoints": "• By abruptly disbanding the Justice Kurian Joseph Committee on Union-State Relations and handing over its task to the Tamil Nadu State Law Commission, the C. Joseph Vijay government appears to have succumbed to the political impulse to reverse earlier decisions rather than being guided by any compelling rationale or necessity. This gains credence from the very grounds cited. The committee executed its mandate with scholarly rigour, seen in Part I of its report that was submitted to the then M.K. Stalin government in February. Citing the Committee’s basic character of being a “non-statutory body” is unconvincing, particularly when the Law Commission itself is established only through “executive order”. There is also no public evidence of State Law Commissions having examined or addressed issues concerning Union-State relations. The mandate “to suggest ways and means for the inter-State relations and Centre-State relations”, constitutes only one part of the broader terms of reference of the State Law Commission, reconstituted in August. Given the commission’s wider responsibilities, successive State governments had constituted high-level committees to examine conflicts involving Concurrent List subjects and recommend specific remedies. It is through such recommendations that Tamil Nadu enacted certain pieces of legislation to overcome limitations imposed by central laws, including the provision of horizontal reservation in professional course admissions for disadvantaged students. Therefore, the State’s other argument of “similarity or overlap” in the “nature and scope of the functions” entrusted to the Committee and the Commission, does not withstand close scrutiny.<br>• In September, Leader of the Opposition Udhayanidhi Stalin, had flagged an attempt to “paralyse” the Committee’s functioning . A fair assessment of the Committee’s Part I Report reveals the breadth and depth of its dispassionate examination of issues, including State autonomy, delimitation, and the office of the Governor. Parties, barring the BJP, had largely welcomed the report. Interestingly, its contents are not even remotely at odds with the broad public ideological positioning of Mr. Vijay’s Tamilaga Vettri Kazhagam on State rights. Besides, Prof. M. Naganathan, the Committee’s only member with an overt political association, had already resigned. The government would do well to rethink and allow it to complete its work. This would strengthen the political endeavour towards evolving a more balanced federal governance structure, facilitating harmonious Centre-State relations.<br>• Tamil Nadu / government / politics / language / Delimitation / education / Governor / taxes and duties / Tamilaga Vettri Kazhagam / Bharatiya Janata Party"
-    },
-    {
-      "category": "editorial",
-      "categoryLabel": "✍️ Editorial Spark",
-      "title": "Caste and class: on OBC reservation",
-      "link": "https://www.thehindu.com/opinion/editorial/caste-and-class-on-obc-reservation/article71686599.ece",
-      "pubDate": "Tue, 10 Nov 2026 22:44:11 +0530",
-      "dateIso": "2026-11-11",
-      "dateDisplay": "11 Nov 2026",
-      "examRelevance": "UPSC & State PSC Mains / Essay: Deep Analytical Core Summary & Vocabulary",
-      "imageUrl": "https://www.thehindu.com/static/content/images/20260921062859/editorialLeadImg.jpg",
-      "fullParagraphs": [
-        "If public resources are to dismantle both caste hierarchy and class inequality, OBC reservation should resist the notion that caste disadvantage makes economic differences among OBC families irrelevant. The ‘creamy layer’ rules are responsible for identifying those OBC members who have advanced sufficiently to no longer require affirmative action. However, the government has implemented them inconsistently. The Supreme Court in March corrected one inconsistency, that the government cannot hold the salary alone of an OBC candidate’s parent as evidence of social advancement. In Indra Sawhney (1992), the Court upheld the government’s 27% reservation for OBC candidates in central government services if it also excluded economically advanced sections, i.e., the creamy layer, among OBCs. Following the equivalence requirement issued in 1993, the Department of Personnel & Training (DoPT) issued a “clarification” in 2004 that the government used, from around 2015, to deny dozens of OBC candidates who had cleared the Civil Services Examination their benefits because their parents’ salaries exceeded the official threshold due to pay revisions that did not always reflect changes in occupational status. The Cabinet also approved equivalence guidelines in 2017 but a parliamentary committee criticised it over a number of issues.",
-        "In Rohith Nathan (2026), the Court rightly rejected the government’s use of the 2004 “clarification” to arbitrarily exclude OBC candidates based on their parents’ salaries alone. However, the government stalled service allocations following the 2025 examination and appealed that retrospectively applying the ruling would create administrative chaos. On November 6, the Court conceded that it had not asked the government to reopen completed selections, as it could set workers against one another while leaving government misapplication unaddressed. A proactive policy is essential now as the government must create supernumerary posts for legitimate claimants and apply the 1993 rules to pending allocations without vouchsafing these remedies for only those who can afford litigation. Access to public employment continues to be grossly unequal: per the 2024-25 DoPT Annual Report, OBC representation in central government employment was 26.3% but declined steadily towards higher positions. As the Justice G. Rohini Commission also indicated, the benefits of reservation are distributed unevenly among OBC communities. However, the report, submitted in 2023, is still not in the public domain. The coming Census includes caste enumeration but policymakers also need data on each caste’s education, occupations, assets, and landholdings. Defending redistribution among caste groups while ignoring major inequalities within them, and constraining OBC reservation assuming relatively more high-income families capture the benefits without first establishing the extent and the causes are equally difficult to justify.",
-        "Reservation / court / Caste / labour / government / Census 2027"
-      ],
-      "deepExplanation": "<strong>1. Core Context & Background:</strong> If public resources are to dismantle both caste hierarchy and class inequality, OBC reservation should resist the notion that caste disadvantage makes economic differences among OBC families irrelevant.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> The ‘creamy layer’ rules are responsible for identifying those OBC members who have advanced sufficiently to no longer require affirmative action. However, the government has implemented them inconsistently.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Reservation / court / Caste / labour / government / Census 2027",
-      "vocabList": [
-        "Resources",
-        "Dismantle",
-        "Hierarchy",
-        "Inequality",
-        "Reservation",
-        "Disadvantage"
-      ],
-      "summary": "If public resources are to dismantle both caste hierarchy and class inequality, OBC reservation should resist the notion that caste disadvantage makes economic differences among OBC families irrelevant. The ‘creamy layer’ rules are responsible for identifying those OBC members who have advanced sufficiently to no longer require affirmative action. However, the government has implemented them inconsistently. The Supreme Court in March corrected one inconsistency, that the government cannot hold the salary alone of an OBC candidate’s parent as evidence of social advancement. In Indra Sawhney (1992), the Court upheld the government’s 27% reservation for OBC candidates in central government services if it also excluded economically advanced sections, i.e., the creamy layer, among OBCs. Following the equivalence requirement issued in 1993, the Department of Personnel & Training (DoPT) issued a “clarification” in 2004 that the government used, from around 2015, to deny dozens of OBC candidates who had cleared the Civil Services Examination their benefits because their parents’ salaries exceeded the official threshold due to pay revisions that did not always reflect changes in occupational status. The Cabinet also approved equivalence guidelines in 2017 but a parliamentary committee criticised it over a number of issues.",
-      "keyPoints": "• If public resources are to dismantle both caste hierarchy and class inequality, OBC reservation should resist the notion that caste disadvantage makes economic differences among OBC families irrelevant. The ‘creamy layer’ rules are responsible for identifying those OBC members who have advanced sufficiently to no longer require affirmative action. However, the government has implemented them inconsistently. The Supreme Court in March corrected one inconsistency, that the government cannot hold the salary alone of an OBC candidate’s parent as evidence of social advancement. In Indra Sawhney (1992), the Court upheld the government’s 27% reservation for OBC candidates in central government services if it also excluded economically advanced sections, i.e., the creamy layer, among OBCs. Following the equivalence requirement issued in 1993, the Department of Personnel & Training (DoPT) issued a “clarification” in 2004 that the government used, from around 2015, to deny dozens of OBC candidates who had cleared the Civil Services Examination their benefits because their parents’ salaries exceeded the official threshold due to pay revisions that did not always reflect changes in occupational status. The Cabinet also approved equivalence guidelines in 2017 but a parliamentary committee criticised it over a number of issues.<br>• In Rohith Nathan (2026), the Court rightly rejected the government’s use of the 2004 “clarification” to arbitrarily exclude OBC candidates based on their parents’ salaries alone. However, the government stalled service allocations following the 2025 examination and appealed that retrospectively applying the ruling would create administrative chaos. On November 6, the Court conceded that it had not asked the government to reopen completed selections, as it could set workers against one another while leaving government misapplication unaddressed. A proactive policy is essential now as the government must create supernumerary posts for legitimate claimants and apply the 1993 rules to pending allocations without vouchsafing these remedies for only those who can afford litigation. Access to public employment continues to be grossly unequal: per the 2024-25 DoPT Annual Report, OBC representation in central government employment was 26.3% but declined steadily towards higher positions. As the Justice G. Rohini Commission also indicated, the benefits of reservation are distributed unevenly among OBC communities. However, the report, submitted in 2023, is still not in the public domain. The coming Census includes caste enumeration but policymakers also need data on each caste’s education, occupations, assets, and landholdings. Defending redistribution among caste groups while ignoring major inequalities within them, and constraining OBC reservation assuming relatively more high-income families capture the benefits without first establishing the extent and the causes are equally difficult to justify.<br>• Reservation / court / Caste / labour / government / Census 2027"
     },
     {
       "category": "editorial",
@@ -956,8 +944,42 @@
     "2026-11-11": {
       "dateIso": "2026-11-11",
       "dateDisplay": "11 Nov 2026",
-      "updatedAt": "11 Nov 2026, 01:09 AM IST",
+      "updatedAt": "11 Nov 2026, 01:56 AM IST",
       "articles": [
+        {
+          "category": "national",
+          "categoryLabel": "🏛️ National & Polity",
+          "title": "Vaiko releases 34-year crime report; rebukes allies for criticising T.N. government",
+          "link": "https://www.thehindu.com/news/national/tamil-nadu/vaiko-releases-34-year-crime-report-rebukes-allies-for-criticising-tn-government/article71686350.ece",
+          "pubDate": "Wed, 11 Nov 2026 01:26:07 +0530",
+          "dateIso": "2026-11-11",
+          "dateDisplay": "11 Nov 2026",
+          "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/6w1r4o/article71687417.ece/alternates/LANDSCAPE_1200/2501_10_11_2026_10_39_52_2_DSC_7626.JPEG",
+          "fullParagraphs": [
+            "Amid ongoing accusations by Opposition parties of increase in crime and deteriorating law and order in Tamil Nadu, MDMK general secretary Vaiko on Tuesday released a catalogue of crimes that occurred over the past 34 years. He also lamented that the TVK-led government was being criticised by two of its coalition partners.",
+            "Addressing journalists in Chennai on Tuesday, he said except the IUML and the MDMK, the other parties within the ruling alliance have been criticising the administration.",
+            "Mr. Vaiko released a list detailing crimes committed in the State between May 1991 and May 2026. Citing the list compiled by the Madurai-based human rights organisation People’s Watch, he highlighted several major criminal incidents.",
+            "Speaking on the subject for over an hour, Vaiko also recounted the backdrop of key moments from his own political journey during this period. In particular, he detailed the circumstances surrounding his arrest under the Prevention of Terrorism Act (POTA) in July 2002. He noted that upon learning of the Tamil Nadu government’s decision to detain him under POTA, he advanced his return from the United States — originally scheduled for July 15 — and arrived in Chennai on July 11 to court arrest. He added while he was meant to be lodged in the Vellore Central Prison, authorities attempted to detain him at the Madurai Central Prison en route, an effort that was abandoned only after his fierce resistance.",
+            "He also recalled that it was former Chief Minister M. Karunanidhi who first addressed him as “Vaiko” instead of his full name V. Gopalasamy. He recounted that during the inaugural meeting held in Delhi to form the National Front, M. Karunanidhi had sent him a note on a slip of paper addressed to ‘ Thambi Vaikovukku’ .",
+            "Mr. Vaiko alleged some time after he founded the MDMK, L. Ganesan and Gingee N. Ramachandran attempted to split the party and organise a rival general council meeting on the instructions of the DMK leadership, but those efforts ended in failure.",
+            "He further recalled that following his release from prison under POTA, he undertook a padayatra from Tirunelveli to Chennai alongside 1,200 people, demanding an end to caste and communal clashes and the complete eradication of narcotics. Although he was denied entry into Chennai as the march neared the city, he defied the restrictions, entered Chennai, and addressed a public meeting.",
+            "Mr. Vaiko also mentioned that when Prime Minister Narendra Modi invited Sri Lankan President Mahinda Rajapaksa as a special guest to his swearing-in ceremony, he vehemently opposed the move and was arrested after staging a demonstration at Jantar Mantar.",
+            "Stating he had opposed the Sterlite plant in Thoothukudi from the very beginning, Mr. Vaiko alleged fresh efforts were under way to reopen the facility under the pretext of producing “Green Copper.” He claimed Vedanta’s Anil Agarwal had sought an appointment with Chief Minister C. Joseph Vijay for this purpose; however, following his own appeal urging the Chief Minister not to meet him, the meeting did not take place, and Mr. Agarwal has now approached the court.",
+            "Prior to Mr. Vaiko’s address, leaders from his party spoke in detail about his political contributions."
+          ],
+          "deepExplanation": "<strong>1. Core Context & Background:</strong> Amid ongoing accusations by Opposition parties of increase in crime and deteriorating law and order in Tamil Nadu, MDMK general secretary Vaiko on Tuesday released a catalogue of crimes that occurred over the past 34 years.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> He also lamented that the TVK-led government was being criticised by two of its coalition partners. Addressing journalists in Chennai on Tuesday, he said except the IUML and the MDMK, the other parties within the ruling alliance have been criticising the administration.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Vaiko’s address, leaders from his party spoke in detail about his political contributions.",
+          "vocabList": [
+            "Accusations",
+            "Opposition",
+            "Increase",
+            "Deteriorating",
+            "Secretary",
+            "Released"
+          ],
+          "summary": "Amid ongoing accusations by Opposition parties of increase in crime and deteriorating law and order in Tamil Nadu, MDMK general secretary Vaiko on Tuesday released a catalogue of crimes that occurred over the past 34 years. He also lamented that the TVK-led government was being criticised by two of its coalition partners.",
+          "keyPoints": "• Amid ongoing accusations by Opposition parties of increase in crime and deteriorating law and order in Tamil Nadu, MDMK general secretary Vaiko on Tuesday released a catalogue of crimes that occurred over the past 34 years. He also lamented that the TVK-led government was being criticised by two of its coalition partners.<br>• Addressing journalists in Chennai on Tuesday, he said except the IUML and the MDMK, the other parties within the ruling alliance have been criticising the administration.<br>• Mr. Vaiko released a list detailing crimes committed in the State between May 1991 and May 2026. Citing the list compiled by the Madurai-based human rights organisation People’s Watch, he highlighted several major criminal incidents."
+        },
         {
           "category": "national",
           "categoryLabel": "🏛️ National & Polity",
@@ -1101,34 +1123,6 @@
           ],
           "summary": "Archana Veeramani, 49, the daughter of R. Veeramani, being investigated as the main accused in a series of child sexual abuse cases, approached the Madras High Court with a plea to order an investigation into the human rights violations allegedly perpetrated against her by the State police and also to quash the summons issued after forcibly making her deboard a Singapore-bound airplane on October 23, 2026.",
           "keyPoints": "• Archana Veeramani, 49, the daughter of R. Veeramani, being investigated as the main accused in a series of child sexual abuse cases, approached the Madras High Court with a plea to order an investigation into the human rights violations allegedly perpetrated against her by the State police and also to quash the summons issued after forcibly making her deboard a Singapore-bound airplane on October 23, 2026.<br>• Justice V. Lakshminarayanan is expected to hear her plea on Wednesday (November 11, 2026). The High Court Registry had numbered her writ petition (criminal) subject to maintainability. In her affidavit, Ms. Veeramani said, her father had been arrayed as the prime accused in a case booked by the police under the Protection of Children from Sexual Offences (POCSO) Act of 2012 and other laws.<br>• She was not an accused in that case at least as on October 23, 2026 and no court had restrained her from undertaking foreign travel. Therefore, she had booked a flight from Chennai to Singapore on that day to visit her son and help him take medical treatment for his ailments. After she had boarded the plane at around 2 p.m. on October 23, the airline staff forcefully deboarded her without assigning any reason, the petitioner alleged."
-        },
-        {
-          "category": "national",
-          "categoryLabel": "🏛️ National & Polity",
-          "title": "Focus on Tamil during Kandasashthi: Minister",
-          "link": "https://www.thehindu.com/news/cities/chennai/focus-on-tamil-during-kandasashthi-minister/article71686608.ece",
-          "pubDate": "Wed, 11 Nov 2026 00:33:54 +0530",
-          "dateIso": "2026-11-11",
-          "dateDisplay": "11 Nov 2026",
-          "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
-          "imageUrl": "https://www.thehindu.com/theme/images/og-image.png",
-          "fullParagraphs": [
-            "Minister for Hindu Religious and Charitable Endowments (HR&CE) S. Ramesh on Tuesday said that Tamil language and literature will be given priority during the Kandasashthi festival in all major Murugan temples.",
-            "He urged temples under the purview of the department to ensure that Odhuvars chant/sing the Thirupugazh, Thirumurai, and Kandasashthi kavacham. Priests should also give priority to Tamil in all pujas and proceedings during the festival. Discourses and concerts should be in Tamil as well, he added.",
-            "In a set of directions issued to executive officers of temples, the Minister said that special arrangements must be made for persons with disabilities, senior citizens, and mothers-to-be at temples for darshan. Volunteers should be made available to assist such devotees, said an official statement here.",
-            "Mr. Ramesh said that temple officials should coordinate with the police, fire and other departments to ensure proper arrangements such as drinking water, toilets and medical care for devotees for darshan, during Kandasashthi and Sura Samharam."
-          ],
-          "deepExplanation": "<strong>1. Core Context & Background:</strong> Minister for Hindu Religious and Charitable Endowments (HR&CE) S.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Ramesh on Tuesday said that Tamil language and literature will be given priority during the Kandasashthi festival in all major Murugan temples. He urged temples under the purview of the department to ensure that Odhuvars chant/sing the Thirupugazh, Thirumurai, and Kandasashthi kavacham.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Ramesh said that temple officials should coordinate with the police, fire and other departments to ensure proper arrangements such as drinking water, toilets and medical care for devotees for darshan, during Kandasashthi and Sura Samharam.",
-          "vocabList": [
-            "Religious",
-            "Charitable",
-            "Endowments",
-            "Language",
-            "Literature",
-            "Priority"
-          ],
-          "summary": "Minister for Hindu Religious and Charitable Endowments (HR&CE) S. Ramesh on Tuesday said that Tamil language and literature will be given priority during the Kandasashthi festival in all major Murugan temples.",
-          "keyPoints": "• Minister for Hindu Religious and Charitable Endowments (HR&CE) S. Ramesh on Tuesday said that Tamil language and literature will be given priority during the Kandasashthi festival in all major Murugan temples.<br>• He urged temples under the purview of the department to ensure that Odhuvars chant/sing the Thirupugazh, Thirumurai, and Kandasashthi kavacham. Priests should also give priority to Tamil in all pujas and proceedings during the festival. Discourses and concerts should be in Tamil as well, he added.<br>• In a set of directions issued to executive officers of temples, the Minister said that special arrangements must be made for persons with disabilities, senior citizens, and mothers-to-be at temples for darshan. Volunteers should be made available to assist such devotees, said an official statement here."
         },
         {
           "category": "economy",
@@ -1532,6 +1526,86 @@
         {
           "category": "scitech",
           "categoryLabel": "🚀 Science, Tech & Environment",
+          "title": "Strategic autonomy must guide India’s Starlink policy",
+          "link": "https://www.thehindu.com/opinion/op-ed/strategic-autonomy-must-guide-indias-starlink-policy/article71687057.ece",
+          "pubDate": "Wed, 11 Nov 2026 01:22:43 +0530",
+          "dateIso": "2026-11-11",
+          "dateDisplay": "11 Nov 2026",
+          "examRelevance": "GS Paper-III & Prelims: ISRO/NASA Missions, Defense Updates, Tech & Climate Reports",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/1e1025/article71687060.ece/alternates/LANDSCAPE_1200/STARLINK%20ELON%20MUSK%20PROTEST%205.jpeg",
+          "fullParagraphs": [
+            "Recently, Elon Musk unleashed a volley of social media posts, accusing Indian “oligarchs” of impeding Starlink’s entry into India. The government rejected the accusation and clarified that all satellite operators must go through the same regulatory process. The ensuing public debate has centred on Mr. Musk, Mukesh Ambani, protectionism and telecom competition. All this obscures important questions of how much control India will have over Starlink once it operates here.",
+            "In its current form, Starlink is unlikely to replace fibre and mobile networks because they have almost opposite strengths. Fibre and mobile networks take time and money to set up, but can serve many people in one area. Starlink reaches remote places without towers or cables but is limited by how many users it can serve in one region. While fibre and mobile networks are optimised for density, Starlink is optimised for reach. Starlink has previously stopped taking new residential customers in areas where it ran out of capacity.",
+            "India / technology (general) / online / internet / telecommunication service / government / armed Forces / national security / satellite technology / software / Iran / Ukraine / Russia-Ukraine Crisis / USA / emergency planning / parliament / mountains"
+          ],
+          "deepExplanation": "<strong>1. Core Context & Background:</strong> Recently, Elon Musk unleashed a volley of social media posts, accusing Indian “oligarchs” of impeding Starlink’s entry into India.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> The government rejected the accusation and clarified that all satellite operators must go through the same regulatory process. The ensuing public debate has centred on Mr.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> India / technology (general) / online / internet / telecommunication service / government / armed Forces / national security / satellite technology / software / Iran / Ukraine / Russia-Ukraine Crisis / USA / emergency planning / parliament / mountains",
+          "vocabList": [
+            "Recently",
+            "Unleashed",
+            "Accusing",
+            "Oligarchs",
+            "Impeding",
+            "Starlink"
+          ],
+          "summary": "Recently, Elon Musk unleashed a volley of social media posts, accusing Indian “oligarchs” of impeding Starlink’s entry into India. The government rejected the accusation and clarified that all satellite operators must go through the same regulatory process. The ensuing public debate has centred on Mr. Musk, Mukesh Ambani, protectionism and telecom competition. All this obscures important questions of how much control India will have over Starlink once it operates here.",
+          "keyPoints": "• Recently, Elon Musk unleashed a volley of social media posts, accusing Indian “oligarchs” of impeding Starlink’s entry into India. The government rejected the accusation and clarified that all satellite operators must go through the same regulatory process. The ensuing public debate has centred on Mr. Musk, Mukesh Ambani, protectionism and telecom competition. All this obscures important questions of how much control India will have over Starlink once it operates here.<br>• In its current form, Starlink is unlikely to replace fibre and mobile networks because they have almost opposite strengths. Fibre and mobile networks take time and money to set up, but can serve many people in one area. Starlink reaches remote places without towers or cables but is limited by how many users it can serve in one region. While fibre and mobile networks are optimised for density, Starlink is optimised for reach. Starlink has previously stopped taking new residential customers in areas where it ran out of capacity.<br>• India / technology (general) / online / internet / telecommunication service / government / armed Forces / national security / satellite technology / software / Iran / Ukraine / Russia-Ukraine Crisis / USA / emergency planning / parliament / mountains"
+        },
+        {
+          "category": "scitech",
+          "categoryLabel": "🚀 Science, Tech & Environment",
+          "title": "The Siang dam and a threatened homeland",
+          "link": "https://www.thehindu.com/news/national/arunachal-pradesh/siang-dam-and-a-threatened-homeland-in-arunachal-pradesh/article71675266.ece",
+          "pubDate": "Tue, 10 Nov 2026 22:59:35 +0530",
+          "dateIso": "2026-11-11",
+          "dateDisplay": "11 Nov 2026",
+          "examRelevance": "GS Paper-III & Prelims: ISRO/NASA Missions, Defense Updates, Tech & Climate Reports",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/73u02c/article71675466.ece/alternates/LANDSCAPE_1200/2150_5_11_2026_22_19_46_1_SIANG_01.JPG",
+          "fullParagraphs": [
+            "A few kilometres from the entrance to Arunachal Pradesh’s Parong village, an unpaved road winds all the way down to the Siang river. At dusk, all that is visible at the beginning of the dirt road is the glint of freshly painted yellow barricades of the State police and the shine from the silver of the concertina wires that connect the barricades. The Central security forces who guard the check post here have two purposes — to respond to “unrest” and to stop anyone without “clearance” from proceeding to Siang’s waters.",
+            "Parong, in Siang district, is one of the three proposed sites identified by the State government for a Pre-Feasibility Report (PFR) to begin work on the Siang Upper Multipurpose Project (SUMP), developed by the National Hydroelectric Power Corporation (NHPC).",
+            "water (natural resource) / Arunachal Pradesh / Ground Zero / environmental issues / land resources / demonstration"
+          ],
+          "deepExplanation": "<strong>1. Core Context & Background:</strong> A few kilometres from the entrance to Arunachal Pradesh’s Parong village, an unpaved road winds all the way down to the Siang river.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> At dusk, all that is visible at the beginning of the dirt road is the glint of freshly painted yellow barricades of the State police and the shine from the silver of the concertina wires that connect the barricades. The Central security forces who guard the check post here have two purposes — to respond to “unrest” and to stop anyone without “clearance” from proceeding to Siang’s waters.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> water (natural resource) / Arunachal Pradesh / Ground Zero / environmental issues / land resources / demonstration",
+          "vocabList": [
+            "Kilometres",
+            "Entrance",
+            "Arunachal",
+            "Beginning",
+            "Barricades",
+            "Concertina"
+          ],
+          "summary": "A few kilometres from the entrance to Arunachal Pradesh’s Parong village, an unpaved road winds all the way down to the Siang river. At dusk, all that is visible at the beginning of the dirt road is the glint of freshly painted yellow barricades of the State police and the shine from the silver of the concertina wires that connect the barricades. The Central security forces who guard the check post here have two purposes — to respond to “unrest” and to stop anyone without “clearance” from proceeding to Siang’s waters.",
+          "keyPoints": "• A few kilometres from the entrance to Arunachal Pradesh’s Parong village, an unpaved road winds all the way down to the Siang river. At dusk, all that is visible at the beginning of the dirt road is the glint of freshly painted yellow barricades of the State police and the shine from the silver of the concertina wires that connect the barricades. The Central security forces who guard the check post here have two purposes — to respond to “unrest” and to stop anyone without “clearance” from proceeding to Siang’s waters.<br>• Parong, in Siang district, is one of the three proposed sites identified by the State government for a Pre-Feasibility Report (PFR) to begin work on the Siang Upper Multipurpose Project (SUMP), developed by the National Hydroelectric Power Corporation (NHPC).<br>• water (natural resource) / Arunachal Pradesh / Ground Zero / environmental issues / land resources / demonstration"
+        },
+        {
+          "category": "scitech",
+          "categoryLabel": "🚀 Science, Tech & Environment",
+          "title": "A case for Nepal: suing major carbon emitters for floods",
+          "link": "https://www.thehindu.com/opinion/op-ed/a-case-for-nepal-suing-major-carbon-emitters-for-floods/article71683852.ece",
+          "pubDate": "Tue, 10 Nov 2026 21:19:52 +0530",
+          "dateIso": "2026-11-11",
+          "dateDisplay": "11 Nov 2026",
+          "examRelevance": "GS Paper-III & Prelims: ISRO/NASA Missions, Defense Updates, Tech & Climate Reports",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/ioy4r6/article71683993.ece/alternates/LANDSCAPE_1200/Climate_COP31_Guterres_3_147.jpg",
+          "fullParagraphs": [
+            "The catastrophic floods in Nepal which resulted in the deaths of thousands of people in August 2026, is overwhelmingly attributed to climate change. This is yet another worst-case climate change scenario from South Asia, after the floods in Pakistan in 2022.",
+            "A debate that has not drawn much attention so far in this part of the world is that there is scope to explore and establish the flood victims as victims of climate wrongs. The case for the Nepalese people needs to be analysed from the prism of climate litigations used by plaintiffs in many jurisdictions of Europe and the U.S. in the last two decades."
+          ],
+          "deepExplanation": "<strong>1. Core Context & Background:</strong> The catastrophic floods in Nepal which resulted in the deaths of thousands of people in August 2026, is overwhelmingly attributed to climate change.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> This is yet another worst-case climate change scenario from South Asia, after the floods in Pakistan in 2022. A debate that has not drawn much attention so far in this part of the world is that there is scope to explore and establish the flood victims as victims of climate wrongs.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> The case for the Nepalese people needs to be analysed from the prism of climate litigations used by plaintiffs in many jurisdictions of Europe and the U.S.",
+          "vocabList": [
+            "Catastrophic",
+            "Resulted",
+            "Thousands",
+            "Overwhelmingly",
+            "Attributed",
+            "Scenario"
+          ],
+          "summary": "The catastrophic floods in Nepal which resulted in the deaths of thousands of people in August 2026, is overwhelmingly attributed to climate change. This is yet another worst-case climate change scenario from South Asia, after the floods in Pakistan in 2022.",
+          "keyPoints": "• The catastrophic floods in Nepal which resulted in the deaths of thousands of people in August 2026, is overwhelmingly attributed to climate change. This is yet another worst-case climate change scenario from South Asia, after the floods in Pakistan in 2022.<br>• A debate that has not drawn much attention so far in this part of the world is that there is scope to explore and establish the flood victims as victims of climate wrongs. The case for the Nepalese people needs to be analysed from the prism of climate litigations used by plaintiffs in many jurisdictions of Europe and the U.S. in the last two decades."
+        },
+        {
+          "category": "scitech",
+          "categoryLabel": "🚀 Science, Tech & Environment",
           "title": "Supreme Court goes beyond Deepavali AQI, flags vehicular emissions polluting Delhi air",
           "link": "https://www.thehindu.com/news/national/supreme-court-goes-beyond-deepavali-aqi-flags-vehicular-emissions-polluting-delhi-air/article71685844.ece",
           "pubDate": "Tue, 10 Nov 2026 19:09:42 +0530",
@@ -1627,109 +1701,38 @@
           "keyPoints": "• U.S. President Donald Trump said Monday (November 9, 2026) that the FBI is investigating Nvidia CEO Jensen Huang 's affair with an alleged Chinese government agent, but said he doesn't think the executive who has helped to develop artificial intelligence has a reason to worry.<br>• “I know the FBI is looking into it in terms of something else, and I think that he'll be in good shape,” Mr. Trump said at a White House briefing.<br>• The sudden emergence of Mr. Huang's infidelity has rocked the political class and America's tech sector, creating new concerns about whether China has been able to access the cutting-edge chips designed by Nvidia that are powering the development of artificial intelligence."
         },
         {
-          "category": "scitech",
-          "categoryLabel": "🚀 Science, Tech & Environment",
-          "title": "Kadambini Ganguly: breaking barriers in medicine",
-          "link": "https://www.thehindu.com/children/kadambini-ganguly-breaking-barriers-in-medicine/article71685840.ece",
-          "pubDate": "Tue, 10 Nov 2026 16:36:53 +0530",
+          "category": "editorial",
+          "categoryLabel": "✍️ Editorial Spark",
+          "title": "Caste and class: On OBC reservation",
+          "link": "https://www.thehindu.com/opinion/editorial/caste-and-class-on-obc-reservation/article71686599.ece",
+          "pubDate": "Wed, 11 Nov 2026 01:13:59 +0530",
           "dateIso": "2026-11-11",
           "dateDisplay": "11 Nov 2026",
-          "examRelevance": "GS Paper-III & Prelims: ISRO/NASA Missions, Defense Updates, Tech & Climate Reports",
-          "imageUrl": "https://th-i.thgim.com/public/incoming/v6keay/article71685843.ece/alternates/LANDSCAPE_1200/IMG_Statue_of_Kadambini__1_1_HVGPA2D8.jpg",
+          "examRelevance": "UPSC & State PSC Mains / Essay: Deep Analytical Core Summary & Vocabulary",
+          "imageUrl": "https://www.thehindu.com/static/content/images/20260921062859/editorialLeadImg.jpg",
           "fullParagraphs": [
-            "Have you heard of the names Kadambini Ganguly and Anandibai Joshi? Considered India’s first female doctors, these names have often been looked past in the pages of history and even medical textbooks. Today, let’s talk about the story of Kadambini Ganguly — India’s first practising lady doctor.",
-            "It was in 1861 that Brahmo reformer and headmaster Braja Kishore Basu had a daughter. She was named Kadambini Basu. Young Kadambini, despite hailing from a community that did not necessarily support women’s education like many others at the time did, received an education at the Brahmo Eden Female School and later at the Hindu Mahila Vidyalaya.",
-            "As the daughter of someone who organised and fought for women’s emancipation, Kadambini went on to study in college and became the first woman to pass the University of Calcutta entrance examination. In 1882, she passed the examination for the Bachelor of Arts (BA) degree along with Chandramukhi Basu from the University of Calcutta, making her and Chandramukhi the first female graduates in the country.",
-            "Wanting to study medicine, Kadambini decided to enrol at the Calcutta Medical College after graduation. She was, however, believed to have been unable to receive the BMC certificate due to a shortage of a couple of marks. She did receive the GBMC (Graduate of Bengal Medical College) degree, though, in 1886. Thus, she became the first Indian woman to be allowed to practice Western medicine.",
-            "Around 1888, Kadambini started working at the Lady Dufferin Hospital for a monthly salary of 300 rupees. She had even gone to Nepal to treat British royalty. Along with pursuing medicine, she was also politically quite vocal and active. Around 1899, Kadambini was one of the first women delegates elected to the Fifth Session of the Congress in Bombay and the next year, she won to become the first women speaker at the Congress.",
-            "She also served as the president of the Transvaal Indian Association, founded by Gandhiji’s colleague Henry Pollock. She was a member of the Women’s Conference held in Calcutta and even presided over the General Brahmo Samaj session in Calcutta.",
-            "Around 1883, Kadambini married Dwarakanath Ganguly (thus the change in name from Kadambini Bose to Kadambini Ganguly in many documents). Dwarakanath Ganguly was a Bengali Brahmo reformer, educator, journalist, and pioneer of women’s rights in British India.",
-            "She was a mother to eight children and is often said to have been deft in needlework. She became a practising doctor while equally devoting herself to family and household affairs, an action which was deemed impossible by many in the era.",
-            "Despite having being burdened with domestic chores, like most women of that time, Kadambini still managed to smash the glass ceilings and societal stereotypes in both her professional and personal life.",
-            "A name which should not be forgotten in the course of time, Dr Kadambini is a reason many of us are able to pursue our passion — in medicine and in life.",
-            "children / medicine / Western medicine / public health/community medicine / medicine (education) / science (general) / medical education / right to education / higher education / school / In School / history / history"
+            "If public resources are to dismantle both caste hierarchy and class inequality, OBC reservation should resist the notion that caste disadvantage makes economic differences among OBC families irrelevant. The ‘creamy layer’ rules are responsible for identifying those OBC members who have advanced sufficiently to no longer require affirmative action. However, the government has implemented them inconsistently. The Supreme Court in March corrected one inconsistency, that the government cannot hold the salary alone of an OBC candidate’s parent as evidence of social advancement. In Indra Sawhney (1992) , the Court upheld the government’s 27% reservation for OBC candidates in central government services if it also excluded economically advanced sections, i.e., the creamy layer, among OBCs. Following the equivalence requirement issued in 1993, the Department of Personnel & Training (DoPT) issued a “clarification” in 2004 that the government used, from around 2015, to deny dozens of OBC candidates who had cleared the Civil Services Examination their benefits because their parents’ salaries exceeded the official threshold due to pay revisions that did not always reflect changes in occupational status. The Cabinet also approved equivalence guidelines in 2017 but a parliamentary committee criticised it over a number of issues.",
+            "In Rohith Nathan (2026) , the Court rightly rejected the government’s use of the 2004 “clarification” to arbitrarily exclude OBC candidates based on their parents’ salaries alone. However, the government stalled service allocations following the 2025 examination and appealed that retrospectively applying the ruling would create administrative chaos. On November 6, the Court conceded that it had not asked the government to reopen completed selections, as it could set workers against one another while leaving government misapplication unaddressed. A proactive policy is essential now as the government must create supernumerary posts for legitimate claimants and apply the 1993 rules to pending allocations without vouchsafing these remedies for only those who can afford litigation. Access to public employment continues to be grossly unequal: per the 2024-25 DoPT Annual Report, OBC representation in central government employment was 26.3% but declined steadily towards higher positions. As the Justice G. Rohini Commission also indicated, the benefits of reservation are distributed unevenly among OBC communities. However, the report, submitted in 2023, is still not in the public domain. The coming Census includes caste enumeration but policymakers also need data on each caste’s education, occupations, assets, and landholdings. Defending redistribution among caste groups while ignoring major inequalities within them, and constraining OBC reservation assuming relatively more high-income families capture the benefits without first establishing the extent and the causes are equally difficult to justify.",
+            "Reservation / court / Caste / labour / government / Census 2027"
           ],
-          "deepExplanation": "<strong>1. Core Context & Background:</strong> Have you heard of the names Kadambini Ganguly and Anandibai Joshi?<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Considered India’s first female doctors, these names have often been looked past in the pages of history and even medical textbooks. Today, let’s talk about the story of Kadambini Ganguly — India’s first practising lady doctor.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> children / medicine / Western medicine / public health/community medicine / medicine (education) / science (general) / medical education / right to education / higher education / school / In School / history / history",
+          "deepExplanation": "<strong>1. Core Context & Background:</strong> If public resources are to dismantle both caste hierarchy and class inequality, OBC reservation should resist the notion that caste disadvantage makes economic differences among OBC families irrelevant.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> The ‘creamy layer’ rules are responsible for identifying those OBC members who have advanced sufficiently to no longer require affirmative action. However, the government has implemented them inconsistently.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Reservation / court / Caste / labour / government / Census 2027",
           "vocabList": [
-            "Kadambini",
-            "Anandibai",
-            "Considered",
-            "Textbooks",
-            "Practising",
-            "Reformer"
+            "Resources",
+            "Dismantle",
+            "Hierarchy",
+            "Inequality",
+            "Reservation",
+            "Disadvantage"
           ],
-          "summary": "Have you heard of the names Kadambini Ganguly and Anandibai Joshi? Considered India’s first female doctors, these names have often been looked past in the pages of history and even medical textbooks. Today, let’s talk about the story of Kadambini Ganguly — India’s first practising lady doctor.",
-          "keyPoints": "• Have you heard of the names Kadambini Ganguly and Anandibai Joshi? Considered India’s first female doctors, these names have often been looked past in the pages of history and even medical textbooks. Today, let’s talk about the story of Kadambini Ganguly — India’s first practising lady doctor.<br>• It was in 1861 that Brahmo reformer and headmaster Braja Kishore Basu had a daughter. She was named Kadambini Basu. Young Kadambini, despite hailing from a community that did not necessarily support women’s education like many others at the time did, received an education at the Brahmo Eden Female School and later at the Hindu Mahila Vidyalaya.<br>• As the daughter of someone who organised and fought for women’s emancipation, Kadambini went on to study in college and became the first woman to pass the University of Calcutta entrance examination. In 1882, she passed the examination for the Bachelor of Arts (BA) degree along with Chandramukhi Basu from the University of Calcutta, making her and Chandramukhi the first female graduates in the country."
-        },
-        {
-          "category": "scitech",
-          "categoryLabel": "🚀 Science, Tech & Environment",
-          "title": "At peak of air pollution on Deepavali, data goes missing at several government monitoring stations in Delhi",
-          "link": "https://www.thehindu.com/news/cities/Delhi/at-peak-of-air-pollution-on-deepavali-night-data-goes-missing-at-several-govt-monitoring-stations-in-delhi/article71682391.ece",
-          "pubDate": "Tue, 10 Nov 2026 16:11:38 +0530",
-          "dateIso": "2026-11-11",
-          "dateDisplay": "11 Nov 2026",
-          "examRelevance": "GS Paper-III & Prelims: ISRO/NASA Missions, Defense Updates, Tech & Climate Reports",
-          "imageUrl": "https://th-i.thgim.com/public/incoming/geztlp/article71682445.ece/alternates/LANDSCAPE_1200/POLLUTION%20AFTER%20DIWALI%20DELHI%204.JPG",
-          "fullParagraphs": [
-            "Air quality data from several government monitoring stations in Delhi went missing for hours during the pollution spike following Deepavali on Sunday (November 8, 2026), with experts warning that the gaps have led to understated pollution levels and resulted in a lower official air quality index (AQI).",
-            "According to Dr. D. Saha, former head of the Central Pollution Control Board (CPCB)’s air quality laboratory, AQI values are calculated using a moving or running average of hourly concentrations of eight parameters, including PM2.5 and PM10, over the previous 24 hours.",
-            "On Monday (November 9, 2026), PM2.5 data were missing for several hours at many stations in the city, including Anand Vihar, Patparganj and Bawana, on the CPCB website. PM2.5 (particulate matter measuring 2.5 micrometres or less in diameter) consists of fine inhalable particles that can penetrate the lungs and enter the bloodstream, causing respiratory and other diseases. Similar data gaps were reported at several monitoring stations during Deepavali last year as well.",
-            "Manoj Kumar, an analyst at the Centre for Research on Energy and Clean Air (CREA), a Finland-based non-profit research organisation, said the missing hourly PM2.5 data “raised concerns about the assessment of Delhi’s air quality”.",
-            "“From midnight on November 8 until 5 a.m. on November 9, 227 hourly PM2.5 observations were missing across 59 CPCB monitoring stations in Delhi. Only 14 stations reported complete data, while the remaining 45 had at least one missing hourly observation,” Mr. Kumar said, adding, “When the hourly PM2.5 data is missing, it will artificially lower the AQI, showing better air quality when the actual air quality is worse.”",
-            "When asked about the missing air quality data at several monitoring stations, Delhi Labour Minister Kapil Mishra told the media that the government would look into the issue. The Member Secretary of the CPCB, which releases AQI data, did not respond to calls and messages seeking comment.",
-            "Dr. Saha told The Hindu that there should not be gaps in the data, especially during crucial periods.",
-            "“If hourly PM2.5 or PM10 value is blank or missing, it will affect the AQI calculated and the final value of the AQI calculated will be less than the actual value of AQI and scientifically incorrect,” Mr. Saha said.",
-            "He also said the CPCB had set the measurement range of PM2.5 analysers at 0–1,000 micrograms per cubic metre, which meant they could not measure concentrations above that level. “So, if the value of PM2.5 is beyond 1,000, it should at least be shown as 1,000 instead of showing blank,” he said.",
-            "A former DPCC scientist, who did not wish to be identified, said the CPCB recorded PM2.5 values only up to 1,000 micrograms per cubic metre because there was a minor drop in accuracy at higher levels. “But at very high values, a small drop in accuracy will not matter a lot. Ideally, the CPCB should be measuring the higher values so that we are not missing the peak values,” the official said, adding that not measuring higher concentrations would artificially make air quality appear better.",
-            "Bhavreen Kandhari, an environmental activist, alleged that the government was clearly fudging the data to conceal the actual air pollution situation rather than solving the problem.",
-            "On the CPCB website, PM2.5 readings appeared to be capped at 1,000 micrograms per cubic metre across all stations, with data missing for several hours at multiple locations."
-          ],
-          "deepExplanation": "<strong>1. Core Context & Background:</strong> Air quality data from several government monitoring stations in Delhi went missing for hours during the pollution spike following Deepavali on Sunday (November 8, 2026), with experts warning that the gaps have led to understated pollution levels and resulted in a lower official air quality index (AQI).<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Saha, former head of the Central Pollution Control Board (CPCB)’s air quality laboratory, AQI values are calculated using a moving or running average of hourly concentrations of eight parameters, including PM2.5 and PM10, over the previous 24 hours. On Monday (November 9, 2026), PM2.5 data were missing for several hours at many stations in the city, including Anand Vihar, Patparganj and Bawana, on the CPCB website.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> On the CPCB website, PM2.5 readings appeared to be capped at 1,000 micrograms per cubic metre across all stations, with data missing for several hours at multiple locations.",
-          "vocabList": [
-            "Monitoring",
-            "Stations",
-            "Pollution",
-            "Following",
-            "Deepavali",
-            "November"
-          ],
-          "summary": "Air quality data from several government monitoring stations in Delhi went missing for hours during the pollution spike following Deepavali on Sunday (November 8, 2026), with experts warning that the gaps have led to understated pollution levels and resulted in a lower official air quality index (AQI).",
-          "keyPoints": "• Air quality data from several government monitoring stations in Delhi went missing for hours during the pollution spike following Deepavali on Sunday (November 8, 2026), with experts warning that the gaps have led to understated pollution levels and resulted in a lower official air quality index (AQI).<br>• According to Dr. D. Saha, former head of the Central Pollution Control Board (CPCB)’s air quality laboratory, AQI values are calculated using a moving or running average of hourly concentrations of eight parameters, including PM2.5 and PM10, over the previous 24 hours.<br>• On Monday (November 9, 2026), PM2.5 data were missing for several hours at many stations in the city, including Anand Vihar, Patparganj and Bawana, on the CPCB website. PM2.5 (particulate matter measuring 2.5 micrometres or less in diameter) consists of fine inhalable particles that can penetrate the lungs and enter the bloodstream, causing respiratory and other diseases. Similar data gaps were reported at several monitoring stations during Deepavali last year as well."
-        },
-        {
-          "category": "scitech",
-          "categoryLabel": "🚀 Science, Tech & Environment",
-          "title": "Does the Temple wearable reveal useful information about brain health?",
-          "link": "https://www.thehindu.com/sci-tech/health/does-the-temple-wearable-reveal-useful-information-about-brain-health/article71678659.ece",
-          "pubDate": "Tue, 10 Nov 2026 15:50:53 +0530",
-          "dateIso": "2026-11-11",
-          "dateDisplay": "11 Nov 2026",
-          "examRelevance": "GS Paper-III & Prelims: ISRO/NASA Missions, Defense Updates, Tech & Climate Reports",
-          "imageUrl": "https://th-i.thgim.com/public/incoming/d34tab/article71685783.ece/alternates/LANDSCAPE_1200/1500x500%201.jpg",
-          "fullParagraphs": [
-            "Billionaire entrepreneur Deepinder Goyal, co-founder of Zomato and Blinkit, has announced the commercial availability of Temple, a wearable monitoring device that he claims could become “Humanity’s last personal device”.",
-            "A graduate in Computer Science and Mathematics from the Indian Institute of Technology Delhi, Mr. Goyal has no academic background in medical sciences or biological research. His claims have drawn criticism from doctors, including social media influencer and physician Cyriac Abby Philips (LiverDoc), who has described the device as a “scam”.",
-            "health / economy, business and finance / technology (general) / emerging technologies / Analysis"
-          ],
-          "deepExplanation": "<strong>1. Core Context & Background:</strong> Billionaire entrepreneur Deepinder Goyal, co-founder of Zomato and Blinkit, has announced the commercial availability of Temple, a wearable monitoring device that he claims could become “Humanity’s last personal device”.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> A graduate in Computer Science and Mathematics from the Indian Institute of Technology Delhi, Mr. Goyal has no academic background in medical sciences or biological research.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> health / economy, business and finance / technology (general) / emerging technologies / Analysis",
-          "vocabList": [
-            "Billionaire",
-            "Entrepreneur",
-            "Deepinder",
-            "Announced",
-            "Commercial",
-            "Availability"
-          ],
-          "summary": "Billionaire entrepreneur Deepinder Goyal, co-founder of Zomato and Blinkit, has announced the commercial availability of Temple, a wearable monitoring device that he claims could become “Humanity’s last personal device”.",
-          "keyPoints": "• Billionaire entrepreneur Deepinder Goyal, co-founder of Zomato and Blinkit, has announced the commercial availability of Temple, a wearable monitoring device that he claims could become “Humanity’s last personal device”.<br>• A graduate in Computer Science and Mathematics from the Indian Institute of Technology Delhi, Mr. Goyal has no academic background in medical sciences or biological research. His claims have drawn criticism from doctors, including social media influencer and physician Cyriac Abby Philips (LiverDoc), who has described the device as a “scam”.<br>• health / economy, business and finance / technology (general) / emerging technologies / Analysis"
+          "summary": "If public resources are to dismantle both caste hierarchy and class inequality, OBC reservation should resist the notion that caste disadvantage makes economic differences among OBC families irrelevant. The ‘creamy layer’ rules are responsible for identifying those OBC members who have advanced sufficiently to no longer require affirmative action. However, the government has implemented them inconsistently. The Supreme Court in March corrected one inconsistency, that the government cannot hold the salary alone of an OBC candidate’s parent as evidence of social advancement. In Indra Sawhney (1992) , the Court upheld the government’s 27% reservation for OBC candidates in central government services if it also excluded economically advanced sections, i.e., the creamy layer, among OBCs. Following the equivalence requirement issued in 1993, the Department of Personnel & Training (DoPT) issued a “clarification” in 2004 that the government used, from around 2015, to deny dozens of OBC candidates who had cleared the Civil Services Examination their benefits because their parents’ salaries exceeded the official threshold due to pay revisions that did not always reflect changes in occupational status. The Cabinet also approved equivalence guidelines in 2017 but a parliamentary committee criticised it over a number of issues.",
+          "keyPoints": "• If public resources are to dismantle both caste hierarchy and class inequality, OBC reservation should resist the notion that caste disadvantage makes economic differences among OBC families irrelevant. The ‘creamy layer’ rules are responsible for identifying those OBC members who have advanced sufficiently to no longer require affirmative action. However, the government has implemented them inconsistently. The Supreme Court in March corrected one inconsistency, that the government cannot hold the salary alone of an OBC candidate’s parent as evidence of social advancement. In Indra Sawhney (1992) , the Court upheld the government’s 27% reservation for OBC candidates in central government services if it also excluded economically advanced sections, i.e., the creamy layer, among OBCs. Following the equivalence requirement issued in 1993, the Department of Personnel & Training (DoPT) issued a “clarification” in 2004 that the government used, from around 2015, to deny dozens of OBC candidates who had cleared the Civil Services Examination their benefits because their parents’ salaries exceeded the official threshold due to pay revisions that did not always reflect changes in occupational status. The Cabinet also approved equivalence guidelines in 2017 but a parliamentary committee criticised it over a number of issues.<br>• In Rohith Nathan (2026) , the Court rightly rejected the government’s use of the 2004 “clarification” to arbitrarily exclude OBC candidates based on their parents’ salaries alone. However, the government stalled service allocations following the 2025 examination and appealed that retrospectively applying the ruling would create administrative chaos. On November 6, the Court conceded that it had not asked the government to reopen completed selections, as it could set workers against one another while leaving government misapplication unaddressed. A proactive policy is essential now as the government must create supernumerary posts for legitimate claimants and apply the 1993 rules to pending allocations without vouchsafing these remedies for only those who can afford litigation. Access to public employment continues to be grossly unequal: per the 2024-25 DoPT Annual Report, OBC representation in central government employment was 26.3% but declined steadily towards higher positions. As the Justice G. Rohini Commission also indicated, the benefits of reservation are distributed unevenly among OBC communities. However, the report, submitted in 2023, is still not in the public domain. The coming Census includes caste enumeration but policymakers also need data on each caste’s education, occupations, assets, and landholdings. Defending redistribution among caste groups while ignoring major inequalities within them, and constraining OBC reservation assuming relatively more high-income families capture the benefits without first establishing the extent and the causes are equally difficult to justify.<br>• Reservation / court / Caste / labour / government / Census 2027"
         },
         {
           "category": "editorial",
           "categoryLabel": "✍️ Editorial Spark",
-          "title": "Without any rationale: on the disbanding of the Justice Kurian Joseph Committee",
+          "title": "Without any rationale: On the disbanding of the Justice Kurian Joseph Committee",
           "link": "https://www.thehindu.com/opinion/editorial/without-any-rationale-on-the-disbanding-of-the-justice-kurian-joseph-committee/article71686725.ece",
-          "pubDate": "Tue, 10 Nov 2026 22:46:43 +0530",
+          "pubDate": "Wed, 11 Nov 2026 01:02:37 +0530",
           "dateIso": "2026-11-11",
           "dateDisplay": "11 Nov 2026",
           "examRelevance": "UPSC & State PSC Mains / Essay: Deep Analytical Core Summary & Vocabulary",
@@ -1750,33 +1753,6 @@
           ],
           "summary": "By abruptly disbanding the Justice Kurian Joseph Committee on Union-State Relations and handing over its task to the Tamil Nadu State Law Commission, the C. Joseph Vijay government appears to have succumbed to the political impulse to reverse earlier decisions rather than being guided by any compelling rationale or necessity. This gains credence from the very grounds cited. The committee executed its mandate with scholarly rigour, seen in Part I of its report that was submitted to the then M.K. Stalin government in February. Citing the Committee’s basic character of being a “non-statutory body” is unconvincing, particularly when the Law Commission itself is established only through “executive order”. There is also no public evidence of State Law Commissions having examined or addressed issues concerning Union-State relations. The mandate “to suggest ways and means for the inter-State relations and Centre-State relations”, constitutes only one part of the broader terms of reference of the State Law Commission, reconstituted in August. Given the commission’s wider responsibilities, successive State governments had constituted high-level committees to examine conflicts involving Concurrent List subjects and recommend specific remedies. It is through such recommendations that Tamil Nadu enacted certain pieces of legislation to overcome limitations imposed by central laws, including the provision of horizontal reservation in professional course admissions for disadvantaged students. Therefore, the State’s other argument of “similarity or overlap” in the “nature and scope of the functions” entrusted to the Committee and the Commission, does not withstand close scrutiny.",
           "keyPoints": "• By abruptly disbanding the Justice Kurian Joseph Committee on Union-State Relations and handing over its task to the Tamil Nadu State Law Commission, the C. Joseph Vijay government appears to have succumbed to the political impulse to reverse earlier decisions rather than being guided by any compelling rationale or necessity. This gains credence from the very grounds cited. The committee executed its mandate with scholarly rigour, seen in Part I of its report that was submitted to the then M.K. Stalin government in February. Citing the Committee’s basic character of being a “non-statutory body” is unconvincing, particularly when the Law Commission itself is established only through “executive order”. There is also no public evidence of State Law Commissions having examined or addressed issues concerning Union-State relations. The mandate “to suggest ways and means for the inter-State relations and Centre-State relations”, constitutes only one part of the broader terms of reference of the State Law Commission, reconstituted in August. Given the commission’s wider responsibilities, successive State governments had constituted high-level committees to examine conflicts involving Concurrent List subjects and recommend specific remedies. It is through such recommendations that Tamil Nadu enacted certain pieces of legislation to overcome limitations imposed by central laws, including the provision of horizontal reservation in professional course admissions for disadvantaged students. Therefore, the State’s other argument of “similarity or overlap” in the “nature and scope of the functions” entrusted to the Committee and the Commission, does not withstand close scrutiny.<br>• In September, Leader of the Opposition Udhayanidhi Stalin, had flagged an attempt to “paralyse” the Committee’s functioning . A fair assessment of the Committee’s Part I Report reveals the breadth and depth of its dispassionate examination of issues, including State autonomy, delimitation, and the office of the Governor. Parties, barring the BJP, had largely welcomed the report. Interestingly, its contents are not even remotely at odds with the broad public ideological positioning of Mr. Vijay’s Tamilaga Vettri Kazhagam on State rights. Besides, Prof. M. Naganathan, the Committee’s only member with an overt political association, had already resigned. The government would do well to rethink and allow it to complete its work. This would strengthen the political endeavour towards evolving a more balanced federal governance structure, facilitating harmonious Centre-State relations.<br>• Tamil Nadu / government / politics / language / Delimitation / education / Governor / taxes and duties / Tamilaga Vettri Kazhagam / Bharatiya Janata Party"
-        },
-        {
-          "category": "editorial",
-          "categoryLabel": "✍️ Editorial Spark",
-          "title": "Caste and class: on OBC reservation",
-          "link": "https://www.thehindu.com/opinion/editorial/caste-and-class-on-obc-reservation/article71686599.ece",
-          "pubDate": "Tue, 10 Nov 2026 22:44:11 +0530",
-          "dateIso": "2026-11-11",
-          "dateDisplay": "11 Nov 2026",
-          "examRelevance": "UPSC & State PSC Mains / Essay: Deep Analytical Core Summary & Vocabulary",
-          "imageUrl": "https://www.thehindu.com/static/content/images/20260921062859/editorialLeadImg.jpg",
-          "fullParagraphs": [
-            "If public resources are to dismantle both caste hierarchy and class inequality, OBC reservation should resist the notion that caste disadvantage makes economic differences among OBC families irrelevant. The ‘creamy layer’ rules are responsible for identifying those OBC members who have advanced sufficiently to no longer require affirmative action. However, the government has implemented them inconsistently. The Supreme Court in March corrected one inconsistency, that the government cannot hold the salary alone of an OBC candidate’s parent as evidence of social advancement. In Indra Sawhney (1992), the Court upheld the government’s 27% reservation for OBC candidates in central government services if it also excluded economically advanced sections, i.e., the creamy layer, among OBCs. Following the equivalence requirement issued in 1993, the Department of Personnel & Training (DoPT) issued a “clarification” in 2004 that the government used, from around 2015, to deny dozens of OBC candidates who had cleared the Civil Services Examination their benefits because their parents’ salaries exceeded the official threshold due to pay revisions that did not always reflect changes in occupational status. The Cabinet also approved equivalence guidelines in 2017 but a parliamentary committee criticised it over a number of issues.",
-            "In Rohith Nathan (2026), the Court rightly rejected the government’s use of the 2004 “clarification” to arbitrarily exclude OBC candidates based on their parents’ salaries alone. However, the government stalled service allocations following the 2025 examination and appealed that retrospectively applying the ruling would create administrative chaos. On November 6, the Court conceded that it had not asked the government to reopen completed selections, as it could set workers against one another while leaving government misapplication unaddressed. A proactive policy is essential now as the government must create supernumerary posts for legitimate claimants and apply the 1993 rules to pending allocations without vouchsafing these remedies for only those who can afford litigation. Access to public employment continues to be grossly unequal: per the 2024-25 DoPT Annual Report, OBC representation in central government employment was 26.3% but declined steadily towards higher positions. As the Justice G. Rohini Commission also indicated, the benefits of reservation are distributed unevenly among OBC communities. However, the report, submitted in 2023, is still not in the public domain. The coming Census includes caste enumeration but policymakers also need data on each caste’s education, occupations, assets, and landholdings. Defending redistribution among caste groups while ignoring major inequalities within them, and constraining OBC reservation assuming relatively more high-income families capture the benefits without first establishing the extent and the causes are equally difficult to justify.",
-            "Reservation / court / Caste / labour / government / Census 2027"
-          ],
-          "deepExplanation": "<strong>1. Core Context & Background:</strong> If public resources are to dismantle both caste hierarchy and class inequality, OBC reservation should resist the notion that caste disadvantage makes economic differences among OBC families irrelevant.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> The ‘creamy layer’ rules are responsible for identifying those OBC members who have advanced sufficiently to no longer require affirmative action. However, the government has implemented them inconsistently.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Reservation / court / Caste / labour / government / Census 2027",
-          "vocabList": [
-            "Resources",
-            "Dismantle",
-            "Hierarchy",
-            "Inequality",
-            "Reservation",
-            "Disadvantage"
-          ],
-          "summary": "If public resources are to dismantle both caste hierarchy and class inequality, OBC reservation should resist the notion that caste disadvantage makes economic differences among OBC families irrelevant. The ‘creamy layer’ rules are responsible for identifying those OBC members who have advanced sufficiently to no longer require affirmative action. However, the government has implemented them inconsistently. The Supreme Court in March corrected one inconsistency, that the government cannot hold the salary alone of an OBC candidate’s parent as evidence of social advancement. In Indra Sawhney (1992), the Court upheld the government’s 27% reservation for OBC candidates in central government services if it also excluded economically advanced sections, i.e., the creamy layer, among OBCs. Following the equivalence requirement issued in 1993, the Department of Personnel & Training (DoPT) issued a “clarification” in 2004 that the government used, from around 2015, to deny dozens of OBC candidates who had cleared the Civil Services Examination their benefits because their parents’ salaries exceeded the official threshold due to pay revisions that did not always reflect changes in occupational status. The Cabinet also approved equivalence guidelines in 2017 but a parliamentary committee criticised it over a number of issues.",
-          "keyPoints": "• If public resources are to dismantle both caste hierarchy and class inequality, OBC reservation should resist the notion that caste disadvantage makes economic differences among OBC families irrelevant. The ‘creamy layer’ rules are responsible for identifying those OBC members who have advanced sufficiently to no longer require affirmative action. However, the government has implemented them inconsistently. The Supreme Court in March corrected one inconsistency, that the government cannot hold the salary alone of an OBC candidate’s parent as evidence of social advancement. In Indra Sawhney (1992), the Court upheld the government’s 27% reservation for OBC candidates in central government services if it also excluded economically advanced sections, i.e., the creamy layer, among OBCs. Following the equivalence requirement issued in 1993, the Department of Personnel & Training (DoPT) issued a “clarification” in 2004 that the government used, from around 2015, to deny dozens of OBC candidates who had cleared the Civil Services Examination their benefits because their parents’ salaries exceeded the official threshold due to pay revisions that did not always reflect changes in occupational status. The Cabinet also approved equivalence guidelines in 2017 but a parliamentary committee criticised it over a number of issues.<br>• In Rohith Nathan (2026), the Court rightly rejected the government’s use of the 2004 “clarification” to arbitrarily exclude OBC candidates based on their parents’ salaries alone. However, the government stalled service allocations following the 2025 examination and appealed that retrospectively applying the ruling would create administrative chaos. On November 6, the Court conceded that it had not asked the government to reopen completed selections, as it could set workers against one another while leaving government misapplication unaddressed. A proactive policy is essential now as the government must create supernumerary posts for legitimate claimants and apply the 1993 rules to pending allocations without vouchsafing these remedies for only those who can afford litigation. Access to public employment continues to be grossly unequal: per the 2024-25 DoPT Annual Report, OBC representation in central government employment was 26.3% but declined steadily towards higher positions. As the Justice G. Rohini Commission also indicated, the benefits of reservation are distributed unevenly among OBC communities. However, the report, submitted in 2023, is still not in the public domain. The coming Census includes caste enumeration but policymakers also need data on each caste’s education, occupations, assets, and landholdings. Defending redistribution among caste groups while ignoring major inequalities within them, and constraining OBC reservation assuming relatively more high-income families capture the benefits without first establishing the extent and the causes are equally difficult to justify.<br>• Reservation / court / Caste / labour / government / Census 2027"
         },
         {
           "category": "editorial",
@@ -3770,60 +3746,88 @@
       "id": "gk_11 Nov 2026_1",
       "cat": "🏛️ National & Polity",
       "date": "11 Nov 2026",
+      "qEn": "[11 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"Amid ongoing accusations by Opposition parties of increase in crime and deteriorating law and order in Tamil Nadu, MDMK general se...\"?",
+      "qHi": "[11 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"Amid ongoing accusations by Opposition parties of increase in crime and deteriorating law and order in Tamil Nadu, MDMK general se...\"?",
+      "qMr": "[11 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"Amid ongoing accusations by Opposition parties of increase in crime and deteriorating law and order in Tamil Nadu, MDMK general se...\"?",
+      "optsEn": [
+        "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "15th Finance Commission Special State Grant",
+        "Inter-State Council Constitutional Review Panel",
+        "Vaiko releases 34-year crime report; rebukes allies for criticising T.N. government"
+      ],
+      "optsHi": [
+        "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "15th Finance Commission Special State Grant",
+        "Inter-State Council Constitutional Review Panel",
+        "Vaiko releases 34-year crime report; rebukes allies for criticising T.N. government"
+      ],
+      "optsMr": [
+        "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "15th Finance Commission Special State Grant",
+        "Inter-State Council Constitutional Review Panel",
+        "Vaiko releases 34-year crime report; rebukes allies for criticising T.N. government"
+      ],
+      "ans": 3,
+      "explanation": "<strong>1. Core Context & Background:</strong> Amid ongoing accusations by Opposition parties of increase in crime and deteriorating law and order in Tamil Nadu, MDMK general secretary Vaiko on Tuesday released a catalogue of crimes that occurred over the past 34 years.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> He also lamented that the TVK-led government was being criticised by two of its coalition partners. Addressing journalists in Chennai on Tuesday, he said except the IUML and the MDMK, the other parties within the ruling alliance have been criticising the administration.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Vaiko’s address, leaders from his party spoke in detail about his political contributions."
+    },
+    {
+      "id": "gk_11 Nov 2026_2",
+      "cat": "🏛️ National & Polity",
+      "date": "11 Nov 2026",
       "qEn": "[11 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"As Cyberabad grapples with growing traffic congestion, an overwhelming 82% of commuter movement across its key IT hubs is accounte...\"?",
       "qHi": "[11 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"As Cyberabad grapples with growing traffic congestion, an overwhelming 82% of commuter movement across its key IT hubs is accounte...\"?",
       "qMr": "[11 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"As Cyberabad grapples with growing traffic congestion, an overwhelming 82% of commuter movement across its key IT hubs is accounte...\"?",
       "optsEn": [
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
         "15th Finance Commission Special State Grant",
-        "IT hubs see 82% commute by personal vehicles, just 2% use public transport",
-        "Inter-State Council Constitutional Review Panel"
+        "Inter-State Council Constitutional Review Panel",
+        "IT hubs see 82% commute by personal vehicles, just 2% use public transport"
       ],
       "optsHi": [
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
         "15th Finance Commission Special State Grant",
-        "IT hubs see 82% commute by personal vehicles, just 2% use public transport",
-        "Inter-State Council Constitutional Review Panel"
+        "Inter-State Council Constitutional Review Panel",
+        "IT hubs see 82% commute by personal vehicles, just 2% use public transport"
       ],
       "optsMr": [
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
         "15th Finance Commission Special State Grant",
-        "IT hubs see 82% commute by personal vehicles, just 2% use public transport",
-        "Inter-State Council Constitutional Review Panel"
+        "Inter-State Council Constitutional Review Panel",
+        "IT hubs see 82% commute by personal vehicles, just 2% use public transport"
       ],
-      "ans": 2,
+      "ans": 3,
       "explanation": "<strong>1. Core Context & Background:</strong> As Cyberabad grapples with growing traffic congestion, an overwhelming 82% of commuter movement across its key IT hubs is accounted for by personal vehicles, while public transport contributes just around 2%, highlighting the region’s dependence on private modes of transport.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> According to data presented by Cyberabad Police and the Society for Cyberabad Security Council (SCSC), traffic across 15 key IT-sector locations exceeds 2.5 million vehicles and people every day. The figures underline the scale of the mobility challenge in one of Hyderabad’s fastest-growing employment hubs, which has a resident population of around 3.5 million spread across approximately 637 sq.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> The event will bring together government departments, startups, civil society organisations, school students, corporate leaders and citizens to explore practical and technology-driven solutions to urban mobility challenges."
     },
     {
-      "id": "gk_11 Nov 2026_2",
+      "id": "gk_11 Nov 2026_3",
       "cat": "🏛️ National & Polity",
       "date": "11 Nov 2026",
       "qEn": "[11 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"By abruptly disbanding the Justice Kurian Joseph Committee on Union-State Relations and handing over its task to the Tamil Nadu St...\"?",
       "qHi": "[11 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"By abruptly disbanding the Justice Kurian Joseph Committee on Union-State Relations and handing over its task to the Tamil Nadu St...\"?",
       "qMr": "[11 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"By abruptly disbanding the Justice Kurian Joseph Committee on Union-State Relations and handing over its task to the Tamil Nadu St...\"?",
       "optsEn": [
-        "Without any rationale: On the disbanding of the Justice Kurian Joseph Committee",
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "Without any rationale: On the disbanding of the Justice Kurian Joseph Committee",
         "15th Finance Commission Special State Grant",
         "Inter-State Council Constitutional Review Panel"
       ],
       "optsHi": [
-        "Without any rationale: On the disbanding of the Justice Kurian Joseph Committee",
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "Without any rationale: On the disbanding of the Justice Kurian Joseph Committee",
         "15th Finance Commission Special State Grant",
         "Inter-State Council Constitutional Review Panel"
       ],
       "optsMr": [
-        "Without any rationale: On the disbanding of the Justice Kurian Joseph Committee",
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "Without any rationale: On the disbanding of the Justice Kurian Joseph Committee",
         "15th Finance Commission Special State Grant",
         "Inter-State Council Constitutional Review Panel"
       ],
-      "ans": 0,
+      "ans": 1,
       "explanation": "<strong>1. Core Context & Background:</strong> By abruptly disbanding the Justice Kurian Joseph Committee on Union-State Relations and handing over its task to the Tamil Nadu State Law Commission, the C.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Joseph Vijay government appears to have succumbed to the political impulse to reverse earlier decisions rather than being guided by any compelling rationale or necessity. This gains credence from the very grounds cited.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Tamil Nadu / government / politics / language / Delimitation / education / Governor / taxes and duties / Tamilaga Vettri Kazhagam / Bharatiya Janata Party"
     },
     {
-      "id": "gk_11 Nov 2026_3",
+      "id": "gk_11 Nov 2026_4",
       "cat": "🏛️ National & Polity",
       "date": "11 Nov 2026",
       "qEn": "[11 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"On the 11th hour of the 11th day of the 11th month, most Commonwealth and other allied nations fall silent for two minutes to hono...\"?",
@@ -3832,54 +3836,54 @@
       "optsEn": [
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
         "15th Finance Commission Special State Grant",
-        "World Wars and India’s sacrifice",
-        "Inter-State Council Constitutional Review Panel"
+        "Inter-State Council Constitutional Review Panel",
+        "World Wars and India’s sacrifice"
       ],
       "optsHi": [
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
         "15th Finance Commission Special State Grant",
-        "World Wars and India’s sacrifice",
-        "Inter-State Council Constitutional Review Panel"
+        "Inter-State Council Constitutional Review Panel",
+        "World Wars and India’s sacrifice"
       ],
       "optsMr": [
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
         "15th Finance Commission Special State Grant",
-        "World Wars and India’s sacrifice",
-        "Inter-State Council Constitutional Review Panel"
+        "Inter-State Council Constitutional Review Panel",
+        "World Wars and India’s sacrifice"
       ],
-      "ans": 2,
+      "ans": 3,
       "explanation": "<strong>1. Core Context & Background:</strong> On the 11th hour of the 11th day of the 11th month, most Commonwealth and other allied nations fall silent for two minutes to honour the fallen of the two World Wars.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Not so much in India: wreaths are laid in cantonments, but for most, this is just another day. India has an uneasy relationship with Remembrance Day.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> The war came home to India when Japan invaded the country in March 1944."
     },
     {
-      "id": "gk_11 Nov 2026_4",
+      "id": "gk_11 Nov 2026_5",
       "cat": "🏛️ National & Polity",
       "date": "11 Nov 2026",
       "qEn": "[11 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"A civil police officer (CPO) attached to the Ernakulam North police station was injured after a man who had been detained on charg...\"?",
       "qHi": "[11 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"A civil police officer (CPO) attached to the Ernakulam North police station was injured after a man who had been detained on charg...\"?",
       "qMr": "[11 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"A civil police officer (CPO) attached to the Ernakulam North police station was injured after a man who had been detained on charg...\"?",
       "optsEn": [
-        "Civil police officer injured in attack by detained man in Keralam’s Kochi",
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "Civil police officer injured in attack by detained man in Keralam’s Kochi",
         "15th Finance Commission Special State Grant",
         "Inter-State Council Constitutional Review Panel"
       ],
       "optsHi": [
-        "Civil police officer injured in attack by detained man in Keralam’s Kochi",
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "Civil police officer injured in attack by detained man in Keralam’s Kochi",
         "15th Finance Commission Special State Grant",
         "Inter-State Council Constitutional Review Panel"
       ],
       "optsMr": [
-        "Civil police officer injured in attack by detained man in Keralam’s Kochi",
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "Civil police officer injured in attack by detained man in Keralam’s Kochi",
         "15th Finance Commission Special State Grant",
         "Inter-State Council Constitutional Review Panel"
       ],
-      "ans": 0,
+      "ans": 1,
       "explanation": "<strong>1. Core Context & Background:</strong> A civil police officer (CPO) attached to the Ernakulam North police station was injured after a man who had been detained on charge of creating public nuisance near the North overbridge bit on his hands when he was being taken in a police vehicle for medical examination, on Tuesday (November 10, 2026).<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> This comes two days after another CPO who was on traffic duty at the High Court bus stand was injured after a recklessly driven private bus rammed him. The incident occurred after the officer stopped a row of vehicles for an ambulance to pass through.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Following these, he was remanded in judicial custody."
     },
     {
-      "id": "gk_11 Nov 2026_5",
+      "id": "gk_11 Nov 2026_6",
       "cat": "🏛️ National & Polity",
       "date": "11 Nov 2026",
       "qEn": "[11 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"Archana Veeramani, 49, the daughter of R. Veeramani, being investigated as the main accused in a series of child sexual abuse case...\"?",
@@ -3887,52 +3891,24 @@
       "qMr": "[11 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"Archana Veeramani, 49, the daughter of R. Veeramani, being investigated as the main accused in a series of child sexual abuse case...\"?",
       "optsEn": [
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "Gem Granites Veeramani’s daughter Archana moves Madras High Court alleging human r...",
         "15th Finance Commission Special State Grant",
+        "Gem Granites Veeramani’s daughter Archana moves Madras High Court alleging human r...",
         "Inter-State Council Constitutional Review Panel"
       ],
       "optsHi": [
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "Gem Granites Veeramani’s daughter Archana moves Madras High Court alleging human r...",
         "15th Finance Commission Special State Grant",
+        "Gem Granites Veeramani’s daughter Archana moves Madras High Court alleging human r...",
         "Inter-State Council Constitutional Review Panel"
       ],
       "optsMr": [
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "Gem Granites Veeramani’s daughter Archana moves Madras High Court alleging human r...",
         "15th Finance Commission Special State Grant",
+        "Gem Granites Veeramani’s daughter Archana moves Madras High Court alleging human r...",
         "Inter-State Council Constitutional Review Panel"
       ],
-      "ans": 1,
+      "ans": 2,
       "explanation": "<strong>1. Core Context & Background:</strong> Archana Veeramani, 49, the daughter of R.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Veeramani, being investigated as the main accused in a series of child sexual abuse cases, approached the Madras High Court with a plea to order an investigation into the human rights violations allegedly perpetrated against her by the State police and also to quash the summons issued after forcibly making her deboard a Singapore-bound airplane on October 23, 2026. Lakshminarayanan is expected to hear her plea on Wednesday (November 11, 2026).<br><br><strong>3. Way Forward & Exam Conclusion:</strong> on October 23, 2026 asking her to appear for an inquiry regarding the POCSO case on October 25, 2026, she said and urged the court to quash the summons besides ordering return of her seized laptop, mobile phone and luggage."
-    },
-    {
-      "id": "gk_11 Nov 2026_6",
-      "cat": "🏛️ National & Polity",
-      "date": "11 Nov 2026",
-      "qEn": "[11 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"Minister for Hindu Religious and Charitable Endowments (HR&CE) S. Ramesh on Tuesday said that Tamil language and literature will b...\"?",
-      "qHi": "[11 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"Minister for Hindu Religious and Charitable Endowments (HR&CE) S. Ramesh on Tuesday said that Tamil language and literature will b...\"?",
-      "qMr": "[11 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"Minister for Hindu Religious and Charitable Endowments (HR&CE) S. Ramesh on Tuesday said that Tamil language and literature will b...\"?",
-      "optsEn": [
-        "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "Focus on Tamil during Kandasashthi: Minister",
-        "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel"
-      ],
-      "optsHi": [
-        "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "Focus on Tamil during Kandasashthi: Minister",
-        "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel"
-      ],
-      "optsMr": [
-        "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "Focus on Tamil during Kandasashthi: Minister",
-        "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel"
-      ],
-      "ans": 1,
-      "explanation": "<strong>1. Core Context & Background:</strong> Minister for Hindu Religious and Charitable Endowments (HR&CE) S.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Ramesh on Tuesday said that Tamil language and literature will be given priority during the Kandasashthi festival in all major Murugan temples. He urged temples under the purview of the department to ensure that Odhuvars chant/sing the Thirupugazh, Thirumurai, and Kandasashthi kavacham.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Ramesh said that temple officials should coordinate with the police, fire and other departments to ensure proper arrangements such as drinking water, toilets and medical care for devotees for darshan, during Kandasashthi and Sura Samharam."
     },
     {
       "id": "gk_11 Nov 2026_7",
