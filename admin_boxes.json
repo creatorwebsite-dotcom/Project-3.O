@@ -1,15 +1,24 @@
 {
-  "updated_at": "2026-11-11 12:57:23",
+  "updated_at": "2026-11-11 16:13:42",
   "window_days": 15,
   "category_counts": {
-    "latest_jobs": 157,
-    "results": 32,
+    "latest_jobs": 161,
+    "results": 33,
     "admit_cards": 22,
     "answer_keys": 21,
     "syllabus": 2,
     "admissions": 0
   },
   "trending_top_6": [
+    {
+      "id": "410f8522b383",
+      "title": "MPSC 16,797 Group C Online Form 2026",
+      "sub": "Latest Jobs",
+      "url": "https://mpsconline.gov.in/",
+      "details": "",
+      "rushScore": 125,
+      "active": true
+    },
     {
       "id": "4d110a11cdc3",
       "title": "SSC GD Constable 2026 Marks / Score Card",
@@ -53,15 +62,6 @@
       "url": "https://upsssc.gov.in/AllNotifications.aspx",
       "details": "Name Of Post : UPSSSC Junior Assistant Recruitment 2024 Admit Card 2026 Post Date / Update : 03 November 2026 | 04:33 PM Short Information Uttar Pradesh Subordinate Service Selection Commission (UPSSSC) Uttar Pradesh Advertisement No.12-Exam/2024, Advertisement of Junior Assistant Main Examination Recruitment Notification. Those candidates who are Enrolled in this UPSSSC 10+2 Junior Assistant Vacancy 2024 can Download Typing Test Date. Read the notification for recruitment eligibility, post information, selection procedure, Department Wise Vacancy, pay scale and all other information.",
       "rushScore": 114,
-      "active": true
-    },
-    {
-      "id": "dde6e78d15a8",
-      "title": "Railway RRB ALP CEN 01/2026 Admit Card",
-      "sub": "Admit Card",
-      "url": "https://www.rrbapply.gov.in/#/auth/home",
-      "details": "Name Of Post : Railway RRB Assistant Loco Pilot ALP Recruitment 2026 ( CEN 01/2026) : Admit Card for 11127 Post Post Date / Update : 30 October 2026 | 07:05 PM Short Information Indian Railway Railway Recruitment Board RRB Assistant Loco Pilot ALP CEN 01/2026 Exam Date Released. Those candidates who are Enrolled in this Railway RRB CEN 01/2026 can Check Application Status. Read the notification for RRB Assistant Loco Pilot ALP CEN 01/2026 eligibility, post information, selection procedure, Details, age limit, pay scale and all other information.",
-      "rushScore": 113,
       "active": true
     }
   ],
