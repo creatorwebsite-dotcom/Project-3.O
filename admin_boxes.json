@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-12 09:45:14",
+  "updated_at": "2026-11-12 12:35:44",
   "window_days": 15,
   "category_counts": {
-    "latest_jobs": 162,
+    "latest_jobs": 163,
     "results": 31,
     "admit_cards": 20,
-    "answer_keys": 19,
+    "answer_keys": 20,
     "syllabus": 2,
     "admissions": 0
   },
@@ -15,6 +15,15 @@
       "title": "MPSC 16,797 Group C Online Form 2026",
       "sub": "Latest Jobs",
       "url": "https://mpsconline.gov.in/",
+      "details": "",
+      "rushScore": 125,
+      "active": true
+    },
+    {
+      "id": "45222509181b",
+      "title": "RRB ALP CBT 1 Answer Key 2026",
+      "sub": "Answer Key",
+      "url": "https://rrb.digialm.com/EForms/configuredHtml/33244/102956/cOPXnjiLXCY5nEw5Vt/login.html",
       "details": "",
       "rushScore": 125,
       "active": true
@@ -52,15 +61,6 @@
       "sub": "Latest Jobs",
       "url": "https://rrccr.com/TradeApp/login/Index",
       "details": "Railway Recruitment Cell (RRC-CR) , has released a notification on the official website for the recruitment of RRC CR Apprentice Posts. This recruitment is for 2861 positions. RRC Application Form has started on 03 November 2026 & the candidates can apply until 02 December 2026 . Candidates must check the complete details for RRC CR Apprentice Recruitment 2026. which has given below.",
-      "rushScore": 114,
-      "active": true
-    },
-    {
-      "id": "c550445d4ade",
-      "title": "UPSSSC Junior Assistant Admit Card 2026 Advt. No. 12-Exam/2024",
-      "sub": "Admit Card",
-      "url": "https://upsssc.gov.in/AllNotifications.aspx",
-      "details": "Name Of Post : UPSSSC Junior Assistant Recruitment 2024 Admit Card 2026 Post Date / Update : 03 November 2026 | 04:33 PM Short Information Uttar Pradesh Subordinate Service Selection Commission (UPSSSC) Uttar Pradesh Advertisement No.12-Exam/2024, Advertisement of Junior Assistant Main Examination Recruitment Notification. Those candidates who are Enrolled in this UPSSSC 10+2 Junior Assistant Vacancy 2024 can Download Typing Test Date. Read the notification for recruitment eligibility, post information, selection procedure, Department Wise Vacancy, pay scale and all other information.",
       "rushScore": 114,
       "active": true
     }
