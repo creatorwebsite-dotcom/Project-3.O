@@ -1,12 +1,12 @@
 {
-  "updatedAt": "14 Nov 2026, 01:58 AM IST",
+  "updatedAt": "14 Nov 2026, 03:08 AM IST",
   "currentDateIso": "2026-11-14",
   "currentDateDisplay": "14 Nov 2026",
   "availableDates": [
     {
       "dateIso": "2026-11-14",
       "dateDisplay": "14 Nov 2026",
-      "updatedAt": "14 Nov 2026, 01:58 AM IST",
+      "updatedAt": "14 Nov 2026, 03:08 AM IST",
       "articleCount": 30
     },
     {
@@ -23,7 +23,7 @@
     }
   ],
   "hookLine1": "The Hindu Printed Broadsheet & Editorial Digest (14 Nov 2026)",
-  "hookLine2": "100% In-App Full Newspaper Pages & Deep Editorial Analysis • Updated: 14 Nov 2026, 01:58 AM IST",
+  "hookLine2": "100% In-App Full Newspaper Pages & Deep Editorial Analysis • Updated: 14 Nov 2026, 03:08 AM IST",
   "totalArticles": 30,
   "articles": [
     {
@@ -397,6 +397,113 @@
     {
       "category": "ir",
       "categoryLabel": "🌐 International Relations",
+      "title": "Urgent climate finance pleas at COP31 face a non-urgent response",
+      "link": "https://www.thehindu.com/sci-tech/energy-and-environment/urgent-climate-finance-pleas-at-cop31-face-a-non-urgent-response/article71699520.ece",
+      "pubDate": "Sat, 14 Nov 2026 02:46:45 +0530",
+      "dateIso": "2026-11-14",
+      "dateDisplay": "14 Nov 2026",
+      "examRelevance": "GS Paper-II & Current Affairs: Bilateral Agreements, Foreign Visits & UN/G20/BRICS",
+      "imageUrl": "https://th-i.thgim.com/public/incoming/g8he2w/article71699615.ece/alternates/LANDSCAPE_1200/Climate_COP31_Turkey_47865.jpg",
+      "fullParagraphs": [
+        "Urgent pleas for cash from poor ​nations most exposed to the kind of climate-related disasters that have marked this year risk meeting a sluggish response at Turkiye’s COP31 talks as Western governments put ‌national security and living costs first.",
+        "Two years ago, rich countries agreed at UN climate talks they would triple ​climate funding for poorer countries to $300 billion per year by 2035 versus a previous 2020 target. Also by 2035, financing ⁠from all public and private sources combined would be $1.3 trillion annually.",
+        "The rich countries met their 2020 target two years late.",
+        "Since then, climate action has slipped down the political agenda for Western governments as U.S. President Donald Trump has withdrawn international funding, while wars in Ukraine and West Asia have added to inflationary ‌pressures and the need to spend on security.",
+        "Vulnerable small island nations say the cash they need to repair damage and to guard against future climate-related crises is again arriving too slowly and their own budgets have shrunk.",
+        "“Like many small island ‌developing states, we remain in a perpetual climate disaster recovery mode,” Solomon Islands Prime Minister Matthew Wale told the conference. “We cannot build resilience ‌while ⁠our fiscal space erodes.”",
+        "Even when money is available, technical hurdles set by lenders can stretch the administrative capacity of ⁠small states.",
+        "For many developed nations, facing international and domestic unrest as citizens protest against the rising cost of living, their focus has narrowed.",
+        "Britain, which has sought to be a leader in addressing climate change, said in July savings made from switching some climate finance contributions from grants to loans would be used to help fund a cap on ​domestic bus fares.",
+        "The Stockholm ‌International Peace Research Institute (SIPRI) estimated in April that world military expenditure reached $2.89 trillion in 2025, up 2.9% in real terms from 2024.",
+        "Marshall Islands President Hilda Heine said military defence ultimately was the smaller concern.",
+        "“We are told there is no money, but as spending on war grows, the greatest security threat we face remains underfunded. I appeal to you: Find money for life, not death,” she said ‌in her speech to the conference in the Turkish Mediterranean city of Antalya on Wednesday (November 11, 2026)."
+      ],
+      "deepExplanation": "<strong>1. Core Context & Background:</strong> Urgent pleas for cash from poor ​nations most exposed to the kind of climate-related disasters that have marked this year risk meeting a sluggish response at Turkiye’s COP31 talks as Western governments put ‌national security and living costs first.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Two years ago, rich countries agreed at UN climate talks they would triple ​climate funding for poorer countries to $300 billion per year by 2035 versus a previous 2020 target. Also by 2035, financing ⁠from all public and private sources combined would be $1.3 trillion annually.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> I appeal to you: Find money for life, not death,” she said ‌in her speech to the conference in the Turkish Mediterranean city of Antalya on Wednesday (November 11, 2026).",
+      "vocabList": [
+        "Disasters",
+        "Sluggish",
+        "Response",
+        "Governments",
+        "Security",
+        "Previous"
+      ],
+      "summary": "Urgent pleas for cash from poor ​nations most exposed to the kind of climate-related disasters that have marked this year risk meeting a sluggish response at Turkiye’s COP31 talks as Western governments put ‌national security and living costs first.",
+      "keyPoints": "• Urgent pleas for cash from poor ​nations most exposed to the kind of climate-related disasters that have marked this year risk meeting a sluggish response at Turkiye’s COP31 talks as Western governments put ‌national security and living costs first.<br>• Two years ago, rich countries agreed at UN climate talks they would triple ​climate funding for poorer countries to $300 billion per year by 2035 versus a previous 2020 target. Also by 2035, financing ⁠from all public and private sources combined would be $1.3 trillion annually.<br>• The rich countries met their 2020 target two years late."
+    },
+    {
+      "category": "ir",
+      "categoryLabel": "🌐 International Relations",
+      "title": "Over 100 people aboard cruise ship hit by tanker in New Orleans; injuries unknown, rescue continues, officials say",
+      "link": "https://www.thehindu.com/news/international/new-orleans-usa-tanker-ship-river-cruise-crash-updates/article71699607.ece",
+      "pubDate": "Sat, 14 Nov 2026 02:43:54 +0530",
+      "dateIso": "2026-11-14",
+      "dateDisplay": "14 Nov 2026",
+      "examRelevance": "GS Paper-II & Current Affairs: Bilateral Agreements, Foreign Visits & UN/G20/BRICS",
+      "imageUrl": "https://th-i.thgim.com/public/incoming/409voc/article71699744.ece/alternates/LANDSCAPE_1200/New_Orleans_Cruise_Ship__7457.jpg",
+      "fullParagraphs": [
+        "A tanker struck the American Heritage river cruise paddleboat in New Orleans on Friday (November 13, 2026) with 129 passengers aboard, partially submerging the boat. Rescues were under way on the Mississippi River, officials said.",
+        "Authorities did not immediately release whether there were injuries or deaths.",
+        "Video from the scene showed the much larger Atlantic Asphalt tanker hit the paddlewheel cruise boat while it appeared to be docked as metal and glass crashed and crunched.",
+        "More than a dozen people in lifejackets were being dragged from the 19°C river onto nearby ships. Others were standing near the railing as the other side of the American Heritage listed further into the water.",
+        "“Surreal — that’s what that was,” witness Jamie Holford told WDSU-TV . “Fifteen minutes from impact to where it rolled over.”",
+        "The cruise ship was built in 2015 and operated by American Cruise Lines. It is five stories and can hold up to 150 passengers.",
+        "The American Heritage was finishing an eight-day cruise to several Mississippi River destinations in Louisiana and Mississippi.",
+        "The tanker involved in the crash specialises in carrying large quantities of asphalt and bitumen, a semi-solid substance that is often used for road construction and roofing, according to the live shipping tracker MarineTraffic.",
+        "Ships carrying asphalt and bitumen are often heated well above 120°C to prevent the asphalt from solidifying on the ship, according to the maritime periodical Marine Insights. It is not immediately clear whether the ship was carrying any materials when the crash occurred.",
+        "The 160-metre long vessel had a final destination in New Orleans, according to MarineTraffic, and was sailing under a flag for the Marshall Islands.",
+        "death / waterway and maritime transport / transport / USA"
+      ],
+      "deepExplanation": "<strong>1. Core Context & Background:</strong> A tanker struck the American Heritage river cruise paddleboat in New Orleans on Friday (November 13, 2026) with 129 passengers aboard, partially submerging the boat.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Rescues were under way on the Mississippi River, officials said. Authorities did not immediately release whether there were injuries or deaths.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> death / waterway and maritime transport / transport / USA",
+      "vocabList": [
+        "American",
+        "Heritage",
+        "Paddleboat",
+        "November",
+        "Passengers",
+        "Partially"
+      ],
+      "summary": "A tanker struck the American Heritage river cruise paddleboat in New Orleans on Friday (November 13, 2026) with 129 passengers aboard, partially submerging the boat. Rescues were under way on the Mississippi River, officials said.",
+      "keyPoints": "• A tanker struck the American Heritage river cruise paddleboat in New Orleans on Friday (November 13, 2026) with 129 passengers aboard, partially submerging the boat. Rescues were under way on the Mississippi River, officials said.<br>• Authorities did not immediately release whether there were injuries or deaths.<br>• Video from the scene showed the much larger Atlantic Asphalt tanker hit the paddlewheel cruise boat while it appeared to be docked as metal and glass crashed and crunched."
+    },
+    {
+      "category": "ir",
+      "categoryLabel": "🌐 International Relations",
+      "title": "Microsoft Outage LIVE: No ETA yet on full recovery, company says",
+      "link": "https://www.thehindu.com/sci-tech/technology/microsoft-outage-live-updates-november-13-2026-steps-to-fix-outlook-and-other-apps-ongoing/article71696624.ece",
+      "pubDate": "Sat, 14 Nov 2026 02:13:14 +0530",
+      "dateIso": "2026-11-14",
+      "dateDisplay": "14 Nov 2026",
+      "examRelevance": "GS Paper-II & Current Affairs: Bilateral Agreements, Foreign Visits & UN/G20/BRICS",
+      "imageUrl": "https://th-i.thgim.com/public/incoming/sbfb17/article71697757.ece/alternates/LANDSCAPE_1200/2026-11-13T091516Z_1939096387_RC2XMOA8DMWH_RTRMADP_3_MICROSOFT-OUTAGES.JPG",
+      "fullParagraphs": [
+        "The story so far: Software giant Microsoft is facing a widespread outage affecting users of its Outlook email service, as well as its other workplace products. Thousands of Microsoft users in India awakened on Friday (November 13, 2026) to find their inboxes inaccessible, losing hours of productivity. According to DownDetector, over 100,000 users had initially registered complaints about Microsoft Outlook.​ Microsoft Outage: Why did Microsoft Outlook and other products go offline globally? Microsoft shared on X on November 13 that a portion of infrastructure was experiencing elevated load across multiple regions, and this could likely be contributing to the connectivity errors. ​",
+        "Microsoft shared on X on November 13 that a portion of infrastructure was experiencing elevated load across multiple regions, and this could likely be contributing to the connectivity errors.",
+        "Microsoft says that the company does not have an ETA for a full recovery of Microsoft 365 services yet.",
+        "“Still draining queued messages and rebalancing traffic; customers may see improved ⁠sign-in/access,” the company said.",
+        "Microsoft, in a post on X, said it was “deeply sorry” for the disruption and was seeing “broad recovery and stability” across its services. It said the outage was a technical issue “not related to cyber or AI / agents”, introduced during an earlier network capacity upgrade and surfaced after a recent network change.",
+        "It said services were restored gradually, validating stability at each stage, and promised a full post-incident report once its review is complete.",
+        "IndiGo said its email support services have been impacted by the Microsoft service disruption. In a post on X, the country’s largest airline said all other support channels remain available.",
+        "“Due to a global Microsoft service disruption, our email support services are currently impacted, and we may not be able to receive your emails,” the carrier said.",
+        "Microsoft 365 has reported improving service availability and email delivery performance across affected infrastructure, adding that there is no indication that the outage was caused by malicious or cyber activity.",
+        "The company said its teams are reviewing the incident and working to prevent similar disruptions in the future.",
+        "Microsoft says service availability is improving, with email queues significantly reduced and approaching normal levels. However, some users may continue to face intermittent access issues and delayed email delivery as the company restores affected infrastructure and monitors recovery.",
+        "Microsoft said it was seeing continued recovery progress across affected regions, with broader improvements in North America and across much of Europe."
+      ],
+      "deepExplanation": "<strong>1. Core Context & Background:</strong> The story so far: Software giant Microsoft is facing a widespread outage affecting users of its Outlook email service, as well as its other workplace products.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Thousands of Microsoft users in India awakened on Friday (November 13, 2026) to find their inboxes inaccessible, losing hours of productivity. According to DownDetector, over 100,000 users had initially registered complaints about Microsoft Outlook.​ Microsoft Outage: Why did Microsoft Outlook and other products go offline globally?<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Microsoft said it was seeing continued recovery progress across affected regions, with broader improvements in North America and across much of Europe.",
+      "vocabList": [
+        "Software",
+        "Microsoft",
+        "Widespread",
+        "Affecting",
+        "Workplace",
+        "Products"
+      ],
+      "summary": "The story so far: Software giant Microsoft is facing a widespread outage affecting users of its Outlook email service, as well as its other workplace products. Thousands of Microsoft users in India awakened on Friday (November 13, 2026) to find their inboxes inaccessible, losing hours of productivity. According to DownDetector, over 100,000 users had initially registered complaints about Microsoft Outlook.​ Microsoft Outage: Why did Microsoft Outlook and other products go offline globally? Microsoft shared on X on November 13 that a portion of infrastructure was experiencing elevated load across multiple regions, and this could likely be contributing to the connectivity errors. ​",
+      "keyPoints": "• The story so far: Software giant Microsoft is facing a widespread outage affecting users of its Outlook email service, as well as its other workplace products. Thousands of Microsoft users in India awakened on Friday (November 13, 2026) to find their inboxes inaccessible, losing hours of productivity. According to DownDetector, over 100,000 users had initially registered complaints about Microsoft Outlook.​ Microsoft Outage: Why did Microsoft Outlook and other products go offline globally? Microsoft shared on X on November 13 that a portion of infrastructure was experiencing elevated load across multiple regions, and this could likely be contributing to the connectivity errors. ​<br>• Microsoft shared on X on November 13 that a portion of infrastructure was experiencing elevated load across multiple regions, and this could likely be contributing to the connectivity errors.<br>• Microsoft says that the company does not have an ETA for a full recovery of Microsoft 365 services yet."
+    },
+    {
+      "category": "ir",
+      "categoryLabel": "🌐 International Relations",
       "title": "The challenge of holding the Quad together",
       "link": "https://www.thehindu.com/opinion/op-ed/the-challenge-of-holding-the-quad-together/article71698092.ece",
       "pubDate": "Sat, 14 Nov 2026 01:27:29 +0530",
@@ -454,42 +561,6 @@
     {
       "category": "ir",
       "categoryLabel": "🌐 International Relations",
-      "title": "Urgent climate finance pleas at COP31 face a non-urgent response",
-      "link": "https://www.thehindu.com/sci-tech/energy-and-environment/urgent-climate-finance-pleas-at-cop31-face-a-non-urgent-response/article71699520.ece",
-      "pubDate": "Sat, 14 Nov 2026 00:16:29 +0530",
-      "dateIso": "2026-11-14",
-      "dateDisplay": "14 Nov 2026",
-      "examRelevance": "GS Paper-II & Current Affairs: Bilateral Agreements, Foreign Visits & UN/G20/BRICS",
-      "imageUrl": "https://www.thehindu.com/theme/images/og-image.png",
-      "fullParagraphs": [
-        "Urgent pleas for cash from poor ​nations most exposed to the kind of climate-related disasters that have marked this year risk meeting a sluggish response at Turkiye’s COP31 talks as Western governments put ‌national security and living costs first.",
-        "Two years ago, rich countries agreed at UN climate talks they would triple ​climate funding for poorer countries to $300 billion per year by 2035 versus a previous 2020 target. Also by 2035, financing ⁠from all public and private sources combined would be $1.3 trillion annually.",
-        "The rich countries met their 2020 target two years late.",
-        "Since then, climate action has slipped down the political agenda for Western governments as U.S. President Donald Trump has withdrawn international funding, while wars in Ukraine and West Asia have added to inflationary ‌pressures and the need to spend on security.",
-        "Vulnerable small island nations say the cash they need to repair damage and to guard against future climate-related crises is again arriving too slowly and their own budgets have shrunk.",
-        "“Like many small island ‌developing states, we remain in a perpetual climate disaster recovery mode,” Solomon Islands Prime Minister Matthew Wale told the conference. “We cannot build resilience ‌while ⁠our fiscal space erodes.”",
-        "Even when money is available, technical hurdles set by lenders can stretch the administrative capacity of ⁠small states.",
-        "For many developed nations, facing international and domestic unrest as citizens protest against the rising cost of living, their focus has narrowed.",
-        "Britain, which has sought to be a leader in addressing climate change, said in July savings made from switching some climate finance contributions from grants to loans would be used to help fund a cap on ​domestic bus fares.",
-        "The Stockholm ‌International Peace Research Institute (SIPRI) estimated in April that world military expenditure reached $2.89 trillion in 2025, up 2.9% in real terms from 2024.",
-        "Marshall Islands President Hilda Heine said military defence ultimately was the smaller concern.",
-        "“We are told there is no money, but as spending on war grows, the greatest security threat we face remains underfunded. I appeal to you: Find money for life, not death,” she said ‌in her speech to the conference in the Turkish Mediterranean city of Antalya on Wednesday (November 11, 2026)."
-      ],
-      "deepExplanation": "<strong>1. Core Context & Background:</strong> Urgent pleas for cash from poor ​nations most exposed to the kind of climate-related disasters that have marked this year risk meeting a sluggish response at Turkiye’s COP31 talks as Western governments put ‌national security and living costs first.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Two years ago, rich countries agreed at UN climate talks they would triple ​climate funding for poorer countries to $300 billion per year by 2035 versus a previous 2020 target. Also by 2035, financing ⁠from all public and private sources combined would be $1.3 trillion annually.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> I appeal to you: Find money for life, not death,” she said ‌in her speech to the conference in the Turkish Mediterranean city of Antalya on Wednesday (November 11, 2026).",
-      "vocabList": [
-        "Disasters",
-        "Sluggish",
-        "Response",
-        "Governments",
-        "Security",
-        "Previous"
-      ],
-      "summary": "Urgent pleas for cash from poor ​nations most exposed to the kind of climate-related disasters that have marked this year risk meeting a sluggish response at Turkiye’s COP31 talks as Western governments put ‌national security and living costs first.",
-      "keyPoints": "• Urgent pleas for cash from poor ​nations most exposed to the kind of climate-related disasters that have marked this year risk meeting a sluggish response at Turkiye’s COP31 talks as Western governments put ‌national security and living costs first.<br>• Two years ago, rich countries agreed at UN climate talks they would triple ​climate funding for poorer countries to $300 billion per year by 2035 versus a previous 2020 target. Also by 2035, financing ⁠from all public and private sources combined would be $1.3 trillion annually.<br>• The rich countries met their 2020 target two years late."
-    },
-    {
-      "category": "ir",
-      "categoryLabel": "🌐 International Relations",
       "title": "Ukraine fires nearly 1,200 drones at Russia as U.S.-led talks consider wider European security",
       "link": "https://www.thehindu.com/news/international/ukraine-fires-nearly-1200-drones-at-russia-as-us-led-talks-consider-wider-european-security/article71699290.ece",
       "pubDate": "Fri, 13 Nov 2026 23:02:00 +0530",
@@ -522,74 +593,6 @@
       ],
       "summary": "Ukraine fired almost 1,200 drones at Russian targets overnight in one of its biggest aerial attacks since Moscow's invasion nearly five years ago.",
       "keyPoints": "• Ukraine fired almost 1,200 drones at Russian targets overnight in one of its biggest aerial attacks since Moscow's invasion nearly five years ago.<br>• Meanwhile, negotiators raised the stakes in talks to stop the fighting by including for discussion wider European security arrangements that have been in place since the end of the Cold War. That has alarmed European leaders and placed a question mark over NATO's future role.<br>• After two days of talks with Russian and Ukrainian delegations in Abu Dhabi this week, U.S. envoys went in person to brief Russian President Vladimir Putin in the Kremlin and Ukrainian President Volodymyr Zelenskyy, who was meeting with European Union leaders in Dublin, Ireland."
-    },
-    {
-      "category": "ir",
-      "categoryLabel": "🌐 International Relations",
-      "title": "Syria removes visa restrictions on U.S. travellers after backlash",
-      "link": "https://www.thehindu.com/news/international/syria-removes-visa-restrictions-on-us-travellers-after-backlash/article71699285.ece",
-      "pubDate": "Fri, 13 Nov 2026 22:42:24 +0530",
-      "dateIso": "2026-11-14",
-      "dateDisplay": "14 Nov 2026",
-      "examRelevance": "GS Paper-II & Current Affairs: Bilateral Agreements, Foreign Visits & UN/G20/BRICS",
-      "imageUrl": "https://th-i.thgim.com/public/news/national/c8o2h7/article71699342.ece/alternates/LANDSCAPE_1200/iStock-1138601545.jpg",
-      "fullParagraphs": [
-        "Syria has lifted restrictions on the entry of U.S. citizens imposed several days ago, an official told AFP on Friday (November 13, 2026), after the limits sparked uproar online.",
-        "The current Syrian government, in place since Islamist-led fighters overthrew Bashar al-Assad in December 2024, has allowed Westerners to obtain entry visas at Damascus airport or border crossings.",
-        "However, this week, several U.S. citizens complained on social media that they had been turned away on the grounds they needed a visa in advance.",
-        "\"The entry procedures for U.S. citizens travelling to Syria have returned to their earlier state, after the cancellation of the obligation to obtain prior authorisation, which was imposed temporarily by the interior ministry,\" Mazen Allouch, an official with the ports and borders authority, told AFP .",
-        "He said there had been no change for citizens of other countries, including Europeans.",
-        "According to Syria's Tourism Ministry, 719,000 tourists, excluding travellers from Arab nations, visited the country in the first six months of 2026, despite its struggles to recover from more than a decade of civil war and the sectarian and ethnic tensions that followed its end.",
-        "That figure was a sharp increase on the number from 2025, which was just 131,000.",
-        "International flights have resumed to Syria, while Western nations including the United States have lifted sanctions imposed on Damascus during the Assad years in an effort to help it rebuild."
-      ],
-      "deepExplanation": "<strong>1. Core Context & Background:</strong> Syria has lifted restrictions on the entry of U.S.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> citizens imposed several days ago, an official told AFP on Friday (November 13, 2026), after the limits sparked uproar online. The current Syrian government, in place since Islamist-led fighters overthrew Bashar al-Assad in December 2024, has allowed Westerners to obtain entry visas at Damascus airport or border crossings.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> International flights have resumed to Syria, while Western nations including the United States have lifted sanctions imposed on Damascus during the Assad years in an effort to help it rebuild.",
-      "vocabList": [
-        "Restrictions",
-        "Citizens",
-        "November",
-        "Islamist",
-        "Fighters",
-        "Overthrew"
-      ],
-      "summary": "Syria has lifted restrictions on the entry of U.S. citizens imposed several days ago, an official told AFP on Friday (November 13, 2026), after the limits sparked uproar online.",
-      "keyPoints": "• Syria has lifted restrictions on the entry of U.S. citizens imposed several days ago, an official told AFP on Friday (November 13, 2026), after the limits sparked uproar online.<br>• The current Syrian government, in place since Islamist-led fighters overthrew Bashar al-Assad in December 2024, has allowed Westerners to obtain entry visas at Damascus airport or border crossings.<br>• However, this week, several U.S. citizens complained on social media that they had been turned away on the grounds they needed a visa in advance."
-    },
-    {
-      "category": "ir",
-      "categoryLabel": "🌐 International Relations",
-      "title": "Eisenkot urges respect for Israel's Arab minority after Netanyahu attacks",
-      "link": "https://www.thehindu.com/news/international/eisenkot-urges-respect-for-israels-arab-minority-after-netanyahu-attacks/article71699274.ece",
-      "pubDate": "Fri, 13 Nov 2026 22:39:51 +0530",
-      "dateIso": "2026-11-14",
-      "dateDisplay": "14 Nov 2026",
-      "examRelevance": "GS Paper-II & Current Affairs: Bilateral Agreements, Foreign Visits & UN/G20/BRICS",
-      "imageUrl": "https://th-i.thgim.com/public/incoming/drxsjd/article71699312.ece/alternates/LANDSCAPE_1200/2026-11-10T120617Z_1591088096_RC2ZKOAC6UQ6_RTRMADP_3_ISRAEL-POLITICS.JPG",
-      "fullParagraphs": [
-        "Israeli Prime Ministerial hopeful Gadi Eisenkot called on Friday (November 13, 2026) for respect for the country's Arab minority after caretaker Premier Benjamin Netanyahu and other right-wing figures sought to delegitimise the community's lawmakers by linking them to Hamas.",
-        "Two Arab-majority parties, Raam and the Joint List, secured a combined 19 seats in last month's election, winning nearly a sixth of the 120-seat parliament and potentially emerging as kingmakers in efforts by Mr. Eisenkot to form a government.",
-        "\"Arab citizens of Israel are an integral part of the Israeli story,\" Mr. Eisenkot wrote on X on Friday (November 13, 2026).",
-        "\"The attempt to marginalise them and vilify them collectively is a profound violation of the principles of civic responsibility. It dishonours Israel's Declaration of Independence and the values we take pride in as a Jewish and democratic state,\" he added.",
-        "Mr. Netanyahu and his allies have repeatedly criticised leaders of Arab parties for refusing to describe Hamas as a \"terror group\" following its unprecedented October 7, 2023 attack on Israel.",
-        "All leaders of Arab parties have condemned the attack, in which Arab Israelis — descendants of Palestinians who remained in what became Israel in 1948, and who now form more than 20% of the population — were also among those killed.",
-        "Mr. Netanyahu has also repeatedly alleged electoral fraud by Arab-majority parties, but electoral authorities have rejected the claims.",
-        "In a speech at the inauguration of the new parliament this week, Mr. Netanyahu lamented that the two Arab lists refuse to recognise Israel as a Jewish state, although Raam leader Mansour Abbas has done so in the past.",
-        "He further claimed that they sought to establish either an \"Islamic state\" or a \"nationalist Palestinian state\".",
-        "During the same ceremony, National Security Minister Itamar Ben Gvir heckled Joint List leader Youssef Jabareen during his oath of allegiance, accusing him of having \"pledged allegiance to Hamas\".",
-        "\"It is entirely legitimate to disagree with representatives of the Arab parties, even to strongly disapprove of some of them. But it is neither legitimate nor acceptable to malign an entire community, and I will not allow it,\" Mr. Eisenkot said.",
-        "President Isaac Herzog tasked Mr. Eisenkot with forming a new government on Sunday (November 8, 2026) after consultations in which a majority of political parties, including the two Arab lists, recommended him for the role."
-      ],
-      "deepExplanation": "<strong>1. Core Context & Background:</strong> Israeli Prime Ministerial hopeful Gadi Eisenkot called on Friday (November 13, 2026) for respect for the country's Arab minority after caretaker Premier Benjamin Netanyahu and other right-wing figures sought to delegitimise the community's lawmakers by linking them to Hamas.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Two Arab-majority parties, Raam and the Joint List, secured a combined 19 seats in last month's election, winning nearly a sixth of the 120-seat parliament and potentially emerging as kingmakers in efforts by Mr. \"Arab citizens of Israel are an integral part of the Israeli story,\" Mr.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Eisenkot with forming a new government on Sunday (November 8, 2026) after consultations in which a majority of political parties, including the two Arab lists, recommended him for the role.",
-      "vocabList": [
-        "Ministerial",
-        "Eisenkot",
-        "November",
-        "Minority",
-        "Caretaker",
-        "Benjamin"
-      ],
-      "summary": "Israeli Prime Ministerial hopeful Gadi Eisenkot called on Friday (November 13, 2026) for respect for the country's Arab minority after caretaker Premier Benjamin Netanyahu and other right-wing figures sought to delegitimise the community's lawmakers by linking them to Hamas.",
-      "keyPoints": "• Israeli Prime Ministerial hopeful Gadi Eisenkot called on Friday (November 13, 2026) for respect for the country's Arab minority after caretaker Premier Benjamin Netanyahu and other right-wing figures sought to delegitimise the community's lawmakers by linking them to Hamas.<br>• Two Arab-majority parties, Raam and the Joint List, secured a combined 19 seats in last month's election, winning nearly a sixth of the 120-seat parliament and potentially emerging as kingmakers in efforts by Mr. Eisenkot to form a government.<br>• \"Arab citizens of Israel are an integral part of the Israeli story,\" Mr. Eisenkot wrote on X on Friday (November 13, 2026)."
     },
     {
       "category": "scitech",
@@ -632,7 +635,7 @@
       "dateIso": "2026-11-14",
       "dateDisplay": "14 Nov 2026",
       "examRelevance": "GS Paper-III & Prelims: ISRO/NASA Missions, Defense Updates, Tech & Climate Reports",
-      "imageUrl": "https://www.thehindu.com/theme/images/og-image.png",
+      "imageUrl": "https://th-i.thgim.com/public/incoming/g8he2w/article71699615.ece/alternates/LANDSCAPE_1200/Climate_COP31_Turkey_47865.jpg",
       "fullParagraphs": [
         "Urgent pleas for cash from poor ​nations most exposed to the kind of climate-related disasters that have marked this year risk meeting a sluggish response at Turkiye’s COP31 talks as Western governments put ‌national security and living costs first.",
         "Two years ago, rich countries agreed at UN climate talks they would triple ​climate funding for poorer countries to $300 billion per year by 2035 versus a previous 2020 target. Also by 2035, financing ⁠from all public and private sources combined would be $1.3 trillion annually.",
@@ -708,6 +711,8 @@
       "fullParagraphs": [
         "The story so far: Software giant Microsoft is facing a widespread outage affecting users of its Outlook email service, as well as its other workplace products. Thousands of Microsoft users in India awakened on Friday (November 13, 2026) to find their inboxes inaccessible, losing hours of productivity. According to DownDetector, over 100,000 users had initially registered complaints about Microsoft Outlook.​ Microsoft Outage: Why did Microsoft Outlook and other products go offline globally? Microsoft shared on X on November 13 that a portion of infrastructure was experiencing elevated load across multiple regions, and this could likely be contributing to the connectivity errors. ​",
         "Microsoft shared on X on November 13 that a portion of infrastructure was experiencing elevated load across multiple regions, and this could likely be contributing to the connectivity errors.",
+        "Microsoft says that the company does not have an ETA for a full recovery of Microsoft 365 services yet.",
+        "“Still draining queued messages and rebalancing traffic; customers may see improved ⁠sign-in/access,” the company said.",
         "Microsoft, in a post on X, said it was “deeply sorry” for the disruption and was seeing “broad recovery and stability” across its services. It said the outage was a technical issue “not related to cyber or AI / agents”, introduced during an earlier network capacity upgrade and surfaced after a recent network change.",
         "It said services were restored gradually, validating stability at each stage, and promised a full post-incident report once its review is complete.",
         "IndiGo said its email support services have been impacted by the Microsoft service disruption. In a post on X, the country’s largest airline said all other support channels remain available.",
@@ -715,11 +720,9 @@
         "Microsoft 365 has reported improving service availability and email delivery performance across affected infrastructure, adding that there is no indication that the outage was caused by malicious or cyber activity.",
         "The company said its teams are reviewing the incident and working to prevent similar disruptions in the future.",
         "Microsoft says service availability is improving, with email queues significantly reduced and approaching normal levels. However, some users may continue to face intermittent access issues and delayed email delivery as the company restores affected infrastructure and monitors recovery.",
-        "Microsoft said it was seeing continued recovery progress across affected regions, with broader improvements in North America and across much of Europe.",
-        "Microsoft said service availability and email delivery were improving across a growing portion of the affected Microsoft 365 infrastructure, though some users may still face intermittent issues. It is prioritising reducing the email queue and backlog, and the extended 48-hour email timeout window stays in place to protect delayed messages.",
-        "An issue affecting Microsoft products worldwide was having a “serious impact” on Britain’s National Health Service (NHS), Rachel Harrison, public services head at the GMB union, said on Friday (November 13, 2026)."
+        "Microsoft said it was seeing continued recovery progress across affected regions, with broader improvements in North America and across much of Europe."
       ],
-      "deepExplanation": "<strong>1. Core Context & Background:</strong> The story so far: Software giant Microsoft is facing a widespread outage affecting users of its Outlook email service, as well as its other workplace products.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Thousands of Microsoft users in India awakened on Friday (November 13, 2026) to find their inboxes inaccessible, losing hours of productivity. According to DownDetector, over 100,000 users had initially registered complaints about Microsoft Outlook.​ Microsoft Outage: Why did Microsoft Outlook and other products go offline globally?<br><br><strong>3. Way Forward & Exam Conclusion:</strong> An issue affecting Microsoft products worldwide was having a “serious impact” on Britain’s National Health Service (NHS), Rachel Harrison, public services head at the GMB union, said on Friday (November 13, 2026).",
+      "deepExplanation": "<strong>1. Core Context & Background:</strong> The story so far: Software giant Microsoft is facing a widespread outage affecting users of its Outlook email service, as well as its other workplace products.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Thousands of Microsoft users in India awakened on Friday (November 13, 2026) to find their inboxes inaccessible, losing hours of productivity. According to DownDetector, over 100,000 users had initially registered complaints about Microsoft Outlook.​ Microsoft Outage: Why did Microsoft Outlook and other products go offline globally?<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Microsoft said it was seeing continued recovery progress across affected regions, with broader improvements in North America and across much of Europe.",
       "vocabList": [
         "Software",
         "Microsoft",
@@ -729,7 +732,7 @@
         "Products"
       ],
       "summary": "The story so far: Software giant Microsoft is facing a widespread outage affecting users of its Outlook email service, as well as its other workplace products. Thousands of Microsoft users in India awakened on Friday (November 13, 2026) to find their inboxes inaccessible, losing hours of productivity. According to DownDetector, over 100,000 users had initially registered complaints about Microsoft Outlook.​ Microsoft Outage: Why did Microsoft Outlook and other products go offline globally? Microsoft shared on X on November 13 that a portion of infrastructure was experiencing elevated load across multiple regions, and this could likely be contributing to the connectivity errors. ​",
-      "keyPoints": "• The story so far: Software giant Microsoft is facing a widespread outage affecting users of its Outlook email service, as well as its other workplace products. Thousands of Microsoft users in India awakened on Friday (November 13, 2026) to find their inboxes inaccessible, losing hours of productivity. According to DownDetector, over 100,000 users had initially registered complaints about Microsoft Outlook.​ Microsoft Outage: Why did Microsoft Outlook and other products go offline globally? Microsoft shared on X on November 13 that a portion of infrastructure was experiencing elevated load across multiple regions, and this could likely be contributing to the connectivity errors. ​<br>• Microsoft shared on X on November 13 that a portion of infrastructure was experiencing elevated load across multiple regions, and this could likely be contributing to the connectivity errors.<br>• Microsoft, in a post on X, said it was “deeply sorry” for the disruption and was seeing “broad recovery and stability” across its services. It said the outage was a technical issue “not related to cyber or AI / agents”, introduced during an earlier network capacity upgrade and surfaced after a recent network change."
+      "keyPoints": "• The story so far: Software giant Microsoft is facing a widespread outage affecting users of its Outlook email service, as well as its other workplace products. Thousands of Microsoft users in India awakened on Friday (November 13, 2026) to find their inboxes inaccessible, losing hours of productivity. According to DownDetector, over 100,000 users had initially registered complaints about Microsoft Outlook.​ Microsoft Outage: Why did Microsoft Outlook and other products go offline globally? Microsoft shared on X on November 13 that a portion of infrastructure was experiencing elevated load across multiple regions, and this could likely be contributing to the connectivity errors. ​<br>• Microsoft shared on X on November 13 that a portion of infrastructure was experiencing elevated load across multiple regions, and this could likely be contributing to the connectivity errors.<br>• Microsoft says that the company does not have an ETA for a full recovery of Microsoft 365 services yet."
     },
     {
       "category": "scitech",
@@ -961,7 +964,7 @@
     "2026-11-14": {
       "dateIso": "2026-11-14",
       "dateDisplay": "14 Nov 2026",
-      "updatedAt": "14 Nov 2026, 01:58 AM IST",
+      "updatedAt": "14 Nov 2026, 03:08 AM IST",
       "articles": [
         {
           "category": "national",
@@ -1334,6 +1337,113 @@
         {
           "category": "ir",
           "categoryLabel": "🌐 International Relations",
+          "title": "Urgent climate finance pleas at COP31 face a non-urgent response",
+          "link": "https://www.thehindu.com/sci-tech/energy-and-environment/urgent-climate-finance-pleas-at-cop31-face-a-non-urgent-response/article71699520.ece",
+          "pubDate": "Sat, 14 Nov 2026 02:46:45 +0530",
+          "dateIso": "2026-11-14",
+          "dateDisplay": "14 Nov 2026",
+          "examRelevance": "GS Paper-II & Current Affairs: Bilateral Agreements, Foreign Visits & UN/G20/BRICS",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/g8he2w/article71699615.ece/alternates/LANDSCAPE_1200/Climate_COP31_Turkey_47865.jpg",
+          "fullParagraphs": [
+            "Urgent pleas for cash from poor ​nations most exposed to the kind of climate-related disasters that have marked this year risk meeting a sluggish response at Turkiye’s COP31 talks as Western governments put ‌national security and living costs first.",
+            "Two years ago, rich countries agreed at UN climate talks they would triple ​climate funding for poorer countries to $300 billion per year by 2035 versus a previous 2020 target. Also by 2035, financing ⁠from all public and private sources combined would be $1.3 trillion annually.",
+            "The rich countries met their 2020 target two years late.",
+            "Since then, climate action has slipped down the political agenda for Western governments as U.S. President Donald Trump has withdrawn international funding, while wars in Ukraine and West Asia have added to inflationary ‌pressures and the need to spend on security.",
+            "Vulnerable small island nations say the cash they need to repair damage and to guard against future climate-related crises is again arriving too slowly and their own budgets have shrunk.",
+            "“Like many small island ‌developing states, we remain in a perpetual climate disaster recovery mode,” Solomon Islands Prime Minister Matthew Wale told the conference. “We cannot build resilience ‌while ⁠our fiscal space erodes.”",
+            "Even when money is available, technical hurdles set by lenders can stretch the administrative capacity of ⁠small states.",
+            "For many developed nations, facing international and domestic unrest as citizens protest against the rising cost of living, their focus has narrowed.",
+            "Britain, which has sought to be a leader in addressing climate change, said in July savings made from switching some climate finance contributions from grants to loans would be used to help fund a cap on ​domestic bus fares.",
+            "The Stockholm ‌International Peace Research Institute (SIPRI) estimated in April that world military expenditure reached $2.89 trillion in 2025, up 2.9% in real terms from 2024.",
+            "Marshall Islands President Hilda Heine said military defence ultimately was the smaller concern.",
+            "“We are told there is no money, but as spending on war grows, the greatest security threat we face remains underfunded. I appeal to you: Find money for life, not death,” she said ‌in her speech to the conference in the Turkish Mediterranean city of Antalya on Wednesday (November 11, 2026)."
+          ],
+          "deepExplanation": "<strong>1. Core Context & Background:</strong> Urgent pleas for cash from poor ​nations most exposed to the kind of climate-related disasters that have marked this year risk meeting a sluggish response at Turkiye’s COP31 talks as Western governments put ‌national security and living costs first.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Two years ago, rich countries agreed at UN climate talks they would triple ​climate funding for poorer countries to $300 billion per year by 2035 versus a previous 2020 target. Also by 2035, financing ⁠from all public and private sources combined would be $1.3 trillion annually.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> I appeal to you: Find money for life, not death,” she said ‌in her speech to the conference in the Turkish Mediterranean city of Antalya on Wednesday (November 11, 2026).",
+          "vocabList": [
+            "Disasters",
+            "Sluggish",
+            "Response",
+            "Governments",
+            "Security",
+            "Previous"
+          ],
+          "summary": "Urgent pleas for cash from poor ​nations most exposed to the kind of climate-related disasters that have marked this year risk meeting a sluggish response at Turkiye’s COP31 talks as Western governments put ‌national security and living costs first.",
+          "keyPoints": "• Urgent pleas for cash from poor ​nations most exposed to the kind of climate-related disasters that have marked this year risk meeting a sluggish response at Turkiye’s COP31 talks as Western governments put ‌national security and living costs first.<br>• Two years ago, rich countries agreed at UN climate talks they would triple ​climate funding for poorer countries to $300 billion per year by 2035 versus a previous 2020 target. Also by 2035, financing ⁠from all public and private sources combined would be $1.3 trillion annually.<br>• The rich countries met their 2020 target two years late."
+        },
+        {
+          "category": "ir",
+          "categoryLabel": "🌐 International Relations",
+          "title": "Over 100 people aboard cruise ship hit by tanker in New Orleans; injuries unknown, rescue continues, officials say",
+          "link": "https://www.thehindu.com/news/international/new-orleans-usa-tanker-ship-river-cruise-crash-updates/article71699607.ece",
+          "pubDate": "Sat, 14 Nov 2026 02:43:54 +0530",
+          "dateIso": "2026-11-14",
+          "dateDisplay": "14 Nov 2026",
+          "examRelevance": "GS Paper-II & Current Affairs: Bilateral Agreements, Foreign Visits & UN/G20/BRICS",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/409voc/article71699744.ece/alternates/LANDSCAPE_1200/New_Orleans_Cruise_Ship__7457.jpg",
+          "fullParagraphs": [
+            "A tanker struck the American Heritage river cruise paddleboat in New Orleans on Friday (November 13, 2026) with 129 passengers aboard, partially submerging the boat. Rescues were under way on the Mississippi River, officials said.",
+            "Authorities did not immediately release whether there were injuries or deaths.",
+            "Video from the scene showed the much larger Atlantic Asphalt tanker hit the paddlewheel cruise boat while it appeared to be docked as metal and glass crashed and crunched.",
+            "More than a dozen people in lifejackets were being dragged from the 19°C river onto nearby ships. Others were standing near the railing as the other side of the American Heritage listed further into the water.",
+            "“Surreal — that’s what that was,” witness Jamie Holford told WDSU-TV . “Fifteen minutes from impact to where it rolled over.”",
+            "The cruise ship was built in 2015 and operated by American Cruise Lines. It is five stories and can hold up to 150 passengers.",
+            "The American Heritage was finishing an eight-day cruise to several Mississippi River destinations in Louisiana and Mississippi.",
+            "The tanker involved in the crash specialises in carrying large quantities of asphalt and bitumen, a semi-solid substance that is often used for road construction and roofing, according to the live shipping tracker MarineTraffic.",
+            "Ships carrying asphalt and bitumen are often heated well above 120°C to prevent the asphalt from solidifying on the ship, according to the maritime periodical Marine Insights. It is not immediately clear whether the ship was carrying any materials when the crash occurred.",
+            "The 160-metre long vessel had a final destination in New Orleans, according to MarineTraffic, and was sailing under a flag for the Marshall Islands.",
+            "death / waterway and maritime transport / transport / USA"
+          ],
+          "deepExplanation": "<strong>1. Core Context & Background:</strong> A tanker struck the American Heritage river cruise paddleboat in New Orleans on Friday (November 13, 2026) with 129 passengers aboard, partially submerging the boat.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Rescues were under way on the Mississippi River, officials said. Authorities did not immediately release whether there were injuries or deaths.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> death / waterway and maritime transport / transport / USA",
+          "vocabList": [
+            "American",
+            "Heritage",
+            "Paddleboat",
+            "November",
+            "Passengers",
+            "Partially"
+          ],
+          "summary": "A tanker struck the American Heritage river cruise paddleboat in New Orleans on Friday (November 13, 2026) with 129 passengers aboard, partially submerging the boat. Rescues were under way on the Mississippi River, officials said.",
+          "keyPoints": "• A tanker struck the American Heritage river cruise paddleboat in New Orleans on Friday (November 13, 2026) with 129 passengers aboard, partially submerging the boat. Rescues were under way on the Mississippi River, officials said.<br>• Authorities did not immediately release whether there were injuries or deaths.<br>• Video from the scene showed the much larger Atlantic Asphalt tanker hit the paddlewheel cruise boat while it appeared to be docked as metal and glass crashed and crunched."
+        },
+        {
+          "category": "ir",
+          "categoryLabel": "🌐 International Relations",
+          "title": "Microsoft Outage LIVE: No ETA yet on full recovery, company says",
+          "link": "https://www.thehindu.com/sci-tech/technology/microsoft-outage-live-updates-november-13-2026-steps-to-fix-outlook-and-other-apps-ongoing/article71696624.ece",
+          "pubDate": "Sat, 14 Nov 2026 02:13:14 +0530",
+          "dateIso": "2026-11-14",
+          "dateDisplay": "14 Nov 2026",
+          "examRelevance": "GS Paper-II & Current Affairs: Bilateral Agreements, Foreign Visits & UN/G20/BRICS",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/sbfb17/article71697757.ece/alternates/LANDSCAPE_1200/2026-11-13T091516Z_1939096387_RC2XMOA8DMWH_RTRMADP_3_MICROSOFT-OUTAGES.JPG",
+          "fullParagraphs": [
+            "The story so far: Software giant Microsoft is facing a widespread outage affecting users of its Outlook email service, as well as its other workplace products. Thousands of Microsoft users in India awakened on Friday (November 13, 2026) to find their inboxes inaccessible, losing hours of productivity. According to DownDetector, over 100,000 users had initially registered complaints about Microsoft Outlook.​ Microsoft Outage: Why did Microsoft Outlook and other products go offline globally? Microsoft shared on X on November 13 that a portion of infrastructure was experiencing elevated load across multiple regions, and this could likely be contributing to the connectivity errors. ​",
+            "Microsoft shared on X on November 13 that a portion of infrastructure was experiencing elevated load across multiple regions, and this could likely be contributing to the connectivity errors.",
+            "Microsoft says that the company does not have an ETA for a full recovery of Microsoft 365 services yet.",
+            "“Still draining queued messages and rebalancing traffic; customers may see improved ⁠sign-in/access,” the company said.",
+            "Microsoft, in a post on X, said it was “deeply sorry” for the disruption and was seeing “broad recovery and stability” across its services. It said the outage was a technical issue “not related to cyber or AI / agents”, introduced during an earlier network capacity upgrade and surfaced after a recent network change.",
+            "It said services were restored gradually, validating stability at each stage, and promised a full post-incident report once its review is complete.",
+            "IndiGo said its email support services have been impacted by the Microsoft service disruption. In a post on X, the country’s largest airline said all other support channels remain available.",
+            "“Due to a global Microsoft service disruption, our email support services are currently impacted, and we may not be able to receive your emails,” the carrier said.",
+            "Microsoft 365 has reported improving service availability and email delivery performance across affected infrastructure, adding that there is no indication that the outage was caused by malicious or cyber activity.",
+            "The company said its teams are reviewing the incident and working to prevent similar disruptions in the future.",
+            "Microsoft says service availability is improving, with email queues significantly reduced and approaching normal levels. However, some users may continue to face intermittent access issues and delayed email delivery as the company restores affected infrastructure and monitors recovery.",
+            "Microsoft said it was seeing continued recovery progress across affected regions, with broader improvements in North America and across much of Europe."
+          ],
+          "deepExplanation": "<strong>1. Core Context & Background:</strong> The story so far: Software giant Microsoft is facing a widespread outage affecting users of its Outlook email service, as well as its other workplace products.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Thousands of Microsoft users in India awakened on Friday (November 13, 2026) to find their inboxes inaccessible, losing hours of productivity. According to DownDetector, over 100,000 users had initially registered complaints about Microsoft Outlook.​ Microsoft Outage: Why did Microsoft Outlook and other products go offline globally?<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Microsoft said it was seeing continued recovery progress across affected regions, with broader improvements in North America and across much of Europe.",
+          "vocabList": [
+            "Software",
+            "Microsoft",
+            "Widespread",
+            "Affecting",
+            "Workplace",
+            "Products"
+          ],
+          "summary": "The story so far: Software giant Microsoft is facing a widespread outage affecting users of its Outlook email service, as well as its other workplace products. Thousands of Microsoft users in India awakened on Friday (November 13, 2026) to find their inboxes inaccessible, losing hours of productivity. According to DownDetector, over 100,000 users had initially registered complaints about Microsoft Outlook.​ Microsoft Outage: Why did Microsoft Outlook and other products go offline globally? Microsoft shared on X on November 13 that a portion of infrastructure was experiencing elevated load across multiple regions, and this could likely be contributing to the connectivity errors. ​",
+          "keyPoints": "• The story so far: Software giant Microsoft is facing a widespread outage affecting users of its Outlook email service, as well as its other workplace products. Thousands of Microsoft users in India awakened on Friday (November 13, 2026) to find their inboxes inaccessible, losing hours of productivity. According to DownDetector, over 100,000 users had initially registered complaints about Microsoft Outlook.​ Microsoft Outage: Why did Microsoft Outlook and other products go offline globally? Microsoft shared on X on November 13 that a portion of infrastructure was experiencing elevated load across multiple regions, and this could likely be contributing to the connectivity errors. ​<br>• Microsoft shared on X on November 13 that a portion of infrastructure was experiencing elevated load across multiple regions, and this could likely be contributing to the connectivity errors.<br>• Microsoft says that the company does not have an ETA for a full recovery of Microsoft 365 services yet."
+        },
+        {
+          "category": "ir",
+          "categoryLabel": "🌐 International Relations",
           "title": "The challenge of holding the Quad together",
           "link": "https://www.thehindu.com/opinion/op-ed/the-challenge-of-holding-the-quad-together/article71698092.ece",
           "pubDate": "Sat, 14 Nov 2026 01:27:29 +0530",
@@ -1391,42 +1501,6 @@
         {
           "category": "ir",
           "categoryLabel": "🌐 International Relations",
-          "title": "Urgent climate finance pleas at COP31 face a non-urgent response",
-          "link": "https://www.thehindu.com/sci-tech/energy-and-environment/urgent-climate-finance-pleas-at-cop31-face-a-non-urgent-response/article71699520.ece",
-          "pubDate": "Sat, 14 Nov 2026 00:16:29 +0530",
-          "dateIso": "2026-11-14",
-          "dateDisplay": "14 Nov 2026",
-          "examRelevance": "GS Paper-II & Current Affairs: Bilateral Agreements, Foreign Visits & UN/G20/BRICS",
-          "imageUrl": "https://www.thehindu.com/theme/images/og-image.png",
-          "fullParagraphs": [
-            "Urgent pleas for cash from poor ​nations most exposed to the kind of climate-related disasters that have marked this year risk meeting a sluggish response at Turkiye’s COP31 talks as Western governments put ‌national security and living costs first.",
-            "Two years ago, rich countries agreed at UN climate talks they would triple ​climate funding for poorer countries to $300 billion per year by 2035 versus a previous 2020 target. Also by 2035, financing ⁠from all public and private sources combined would be $1.3 trillion annually.",
-            "The rich countries met their 2020 target two years late.",
-            "Since then, climate action has slipped down the political agenda for Western governments as U.S. President Donald Trump has withdrawn international funding, while wars in Ukraine and West Asia have added to inflationary ‌pressures and the need to spend on security.",
-            "Vulnerable small island nations say the cash they need to repair damage and to guard against future climate-related crises is again arriving too slowly and their own budgets have shrunk.",
-            "“Like many small island ‌developing states, we remain in a perpetual climate disaster recovery mode,” Solomon Islands Prime Minister Matthew Wale told the conference. “We cannot build resilience ‌while ⁠our fiscal space erodes.”",
-            "Even when money is available, technical hurdles set by lenders can stretch the administrative capacity of ⁠small states.",
-            "For many developed nations, facing international and domestic unrest as citizens protest against the rising cost of living, their focus has narrowed.",
-            "Britain, which has sought to be a leader in addressing climate change, said in July savings made from switching some climate finance contributions from grants to loans would be used to help fund a cap on ​domestic bus fares.",
-            "The Stockholm ‌International Peace Research Institute (SIPRI) estimated in April that world military expenditure reached $2.89 trillion in 2025, up 2.9% in real terms from 2024.",
-            "Marshall Islands President Hilda Heine said military defence ultimately was the smaller concern.",
-            "“We are told there is no money, but as spending on war grows, the greatest security threat we face remains underfunded. I appeal to you: Find money for life, not death,” she said ‌in her speech to the conference in the Turkish Mediterranean city of Antalya on Wednesday (November 11, 2026)."
-          ],
-          "deepExplanation": "<strong>1. Core Context & Background:</strong> Urgent pleas for cash from poor ​nations most exposed to the kind of climate-related disasters that have marked this year risk meeting a sluggish response at Turkiye’s COP31 talks as Western governments put ‌national security and living costs first.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Two years ago, rich countries agreed at UN climate talks they would triple ​climate funding for poorer countries to $300 billion per year by 2035 versus a previous 2020 target. Also by 2035, financing ⁠from all public and private sources combined would be $1.3 trillion annually.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> I appeal to you: Find money for life, not death,” she said ‌in her speech to the conference in the Turkish Mediterranean city of Antalya on Wednesday (November 11, 2026).",
-          "vocabList": [
-            "Disasters",
-            "Sluggish",
-            "Response",
-            "Governments",
-            "Security",
-            "Previous"
-          ],
-          "summary": "Urgent pleas for cash from poor ​nations most exposed to the kind of climate-related disasters that have marked this year risk meeting a sluggish response at Turkiye’s COP31 talks as Western governments put ‌national security and living costs first.",
-          "keyPoints": "• Urgent pleas for cash from poor ​nations most exposed to the kind of climate-related disasters that have marked this year risk meeting a sluggish response at Turkiye’s COP31 talks as Western governments put ‌national security and living costs first.<br>• Two years ago, rich countries agreed at UN climate talks they would triple ​climate funding for poorer countries to $300 billion per year by 2035 versus a previous 2020 target. Also by 2035, financing ⁠from all public and private sources combined would be $1.3 trillion annually.<br>• The rich countries met their 2020 target two years late."
-        },
-        {
-          "category": "ir",
-          "categoryLabel": "🌐 International Relations",
           "title": "Ukraine fires nearly 1,200 drones at Russia as U.S.-led talks consider wider European security",
           "link": "https://www.thehindu.com/news/international/ukraine-fires-nearly-1200-drones-at-russia-as-us-led-talks-consider-wider-european-security/article71699290.ece",
           "pubDate": "Fri, 13 Nov 2026 23:02:00 +0530",
@@ -1459,74 +1533,6 @@
           ],
           "summary": "Ukraine fired almost 1,200 drones at Russian targets overnight in one of its biggest aerial attacks since Moscow's invasion nearly five years ago.",
           "keyPoints": "• Ukraine fired almost 1,200 drones at Russian targets overnight in one of its biggest aerial attacks since Moscow's invasion nearly five years ago.<br>• Meanwhile, negotiators raised the stakes in talks to stop the fighting by including for discussion wider European security arrangements that have been in place since the end of the Cold War. That has alarmed European leaders and placed a question mark over NATO's future role.<br>• After two days of talks with Russian and Ukrainian delegations in Abu Dhabi this week, U.S. envoys went in person to brief Russian President Vladimir Putin in the Kremlin and Ukrainian President Volodymyr Zelenskyy, who was meeting with European Union leaders in Dublin, Ireland."
-        },
-        {
-          "category": "ir",
-          "categoryLabel": "🌐 International Relations",
-          "title": "Syria removes visa restrictions on U.S. travellers after backlash",
-          "link": "https://www.thehindu.com/news/international/syria-removes-visa-restrictions-on-us-travellers-after-backlash/article71699285.ece",
-          "pubDate": "Fri, 13 Nov 2026 22:42:24 +0530",
-          "dateIso": "2026-11-14",
-          "dateDisplay": "14 Nov 2026",
-          "examRelevance": "GS Paper-II & Current Affairs: Bilateral Agreements, Foreign Visits & UN/G20/BRICS",
-          "imageUrl": "https://th-i.thgim.com/public/news/national/c8o2h7/article71699342.ece/alternates/LANDSCAPE_1200/iStock-1138601545.jpg",
-          "fullParagraphs": [
-            "Syria has lifted restrictions on the entry of U.S. citizens imposed several days ago, an official told AFP on Friday (November 13, 2026), after the limits sparked uproar online.",
-            "The current Syrian government, in place since Islamist-led fighters overthrew Bashar al-Assad in December 2024, has allowed Westerners to obtain entry visas at Damascus airport or border crossings.",
-            "However, this week, several U.S. citizens complained on social media that they had been turned away on the grounds they needed a visa in advance.",
-            "\"The entry procedures for U.S. citizens travelling to Syria have returned to their earlier state, after the cancellation of the obligation to obtain prior authorisation, which was imposed temporarily by the interior ministry,\" Mazen Allouch, an official with the ports and borders authority, told AFP .",
-            "He said there had been no change for citizens of other countries, including Europeans.",
-            "According to Syria's Tourism Ministry, 719,000 tourists, excluding travellers from Arab nations, visited the country in the first six months of 2026, despite its struggles to recover from more than a decade of civil war and the sectarian and ethnic tensions that followed its end.",
-            "That figure was a sharp increase on the number from 2025, which was just 131,000.",
-            "International flights have resumed to Syria, while Western nations including the United States have lifted sanctions imposed on Damascus during the Assad years in an effort to help it rebuild."
-          ],
-          "deepExplanation": "<strong>1. Core Context & Background:</strong> Syria has lifted restrictions on the entry of U.S.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> citizens imposed several days ago, an official told AFP on Friday (November 13, 2026), after the limits sparked uproar online. The current Syrian government, in place since Islamist-led fighters overthrew Bashar al-Assad in December 2024, has allowed Westerners to obtain entry visas at Damascus airport or border crossings.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> International flights have resumed to Syria, while Western nations including the United States have lifted sanctions imposed on Damascus during the Assad years in an effort to help it rebuild.",
-          "vocabList": [
-            "Restrictions",
-            "Citizens",
-            "November",
-            "Islamist",
-            "Fighters",
-            "Overthrew"
-          ],
-          "summary": "Syria has lifted restrictions on the entry of U.S. citizens imposed several days ago, an official told AFP on Friday (November 13, 2026), after the limits sparked uproar online.",
-          "keyPoints": "• Syria has lifted restrictions on the entry of U.S. citizens imposed several days ago, an official told AFP on Friday (November 13, 2026), after the limits sparked uproar online.<br>• The current Syrian government, in place since Islamist-led fighters overthrew Bashar al-Assad in December 2024, has allowed Westerners to obtain entry visas at Damascus airport or border crossings.<br>• However, this week, several U.S. citizens complained on social media that they had been turned away on the grounds they needed a visa in advance."
-        },
-        {
-          "category": "ir",
-          "categoryLabel": "🌐 International Relations",
-          "title": "Eisenkot urges respect for Israel's Arab minority after Netanyahu attacks",
-          "link": "https://www.thehindu.com/news/international/eisenkot-urges-respect-for-israels-arab-minority-after-netanyahu-attacks/article71699274.ece",
-          "pubDate": "Fri, 13 Nov 2026 22:39:51 +0530",
-          "dateIso": "2026-11-14",
-          "dateDisplay": "14 Nov 2026",
-          "examRelevance": "GS Paper-II & Current Affairs: Bilateral Agreements, Foreign Visits & UN/G20/BRICS",
-          "imageUrl": "https://th-i.thgim.com/public/incoming/drxsjd/article71699312.ece/alternates/LANDSCAPE_1200/2026-11-10T120617Z_1591088096_RC2ZKOAC6UQ6_RTRMADP_3_ISRAEL-POLITICS.JPG",
-          "fullParagraphs": [
-            "Israeli Prime Ministerial hopeful Gadi Eisenkot called on Friday (November 13, 2026) for respect for the country's Arab minority after caretaker Premier Benjamin Netanyahu and other right-wing figures sought to delegitimise the community's lawmakers by linking them to Hamas.",
-            "Two Arab-majority parties, Raam and the Joint List, secured a combined 19 seats in last month's election, winning nearly a sixth of the 120-seat parliament and potentially emerging as kingmakers in efforts by Mr. Eisenkot to form a government.",
-            "\"Arab citizens of Israel are an integral part of the Israeli story,\" Mr. Eisenkot wrote on X on Friday (November 13, 2026).",
-            "\"The attempt to marginalise them and vilify them collectively is a profound violation of the principles of civic responsibility. It dishonours Israel's Declaration of Independence and the values we take pride in as a Jewish and democratic state,\" he added.",
-            "Mr. Netanyahu and his allies have repeatedly criticised leaders of Arab parties for refusing to describe Hamas as a \"terror group\" following its unprecedented October 7, 2023 attack on Israel.",
-            "All leaders of Arab parties have condemned the attack, in which Arab Israelis — descendants of Palestinians who remained in what became Israel in 1948, and who now form more than 20% of the population — were also among those killed.",
-            "Mr. Netanyahu has also repeatedly alleged electoral fraud by Arab-majority parties, but electoral authorities have rejected the claims.",
-            "In a speech at the inauguration of the new parliament this week, Mr. Netanyahu lamented that the two Arab lists refuse to recognise Israel as a Jewish state, although Raam leader Mansour Abbas has done so in the past.",
-            "He further claimed that they sought to establish either an \"Islamic state\" or a \"nationalist Palestinian state\".",
-            "During the same ceremony, National Security Minister Itamar Ben Gvir heckled Joint List leader Youssef Jabareen during his oath of allegiance, accusing him of having \"pledged allegiance to Hamas\".",
-            "\"It is entirely legitimate to disagree with representatives of the Arab parties, even to strongly disapprove of some of them. But it is neither legitimate nor acceptable to malign an entire community, and I will not allow it,\" Mr. Eisenkot said.",
-            "President Isaac Herzog tasked Mr. Eisenkot with forming a new government on Sunday (November 8, 2026) after consultations in which a majority of political parties, including the two Arab lists, recommended him for the role."
-          ],
-          "deepExplanation": "<strong>1. Core Context & Background:</strong> Israeli Prime Ministerial hopeful Gadi Eisenkot called on Friday (November 13, 2026) for respect for the country's Arab minority after caretaker Premier Benjamin Netanyahu and other right-wing figures sought to delegitimise the community's lawmakers by linking them to Hamas.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Two Arab-majority parties, Raam and the Joint List, secured a combined 19 seats in last month's election, winning nearly a sixth of the 120-seat parliament and potentially emerging as kingmakers in efforts by Mr. \"Arab citizens of Israel are an integral part of the Israeli story,\" Mr.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Eisenkot with forming a new government on Sunday (November 8, 2026) after consultations in which a majority of political parties, including the two Arab lists, recommended him for the role.",
-          "vocabList": [
-            "Ministerial",
-            "Eisenkot",
-            "November",
-            "Minority",
-            "Caretaker",
-            "Benjamin"
-          ],
-          "summary": "Israeli Prime Ministerial hopeful Gadi Eisenkot called on Friday (November 13, 2026) for respect for the country's Arab minority after caretaker Premier Benjamin Netanyahu and other right-wing figures sought to delegitimise the community's lawmakers by linking them to Hamas.",
-          "keyPoints": "• Israeli Prime Ministerial hopeful Gadi Eisenkot called on Friday (November 13, 2026) for respect for the country's Arab minority after caretaker Premier Benjamin Netanyahu and other right-wing figures sought to delegitimise the community's lawmakers by linking them to Hamas.<br>• Two Arab-majority parties, Raam and the Joint List, secured a combined 19 seats in last month's election, winning nearly a sixth of the 120-seat parliament and potentially emerging as kingmakers in efforts by Mr. Eisenkot to form a government.<br>• \"Arab citizens of Israel are an integral part of the Israeli story,\" Mr. Eisenkot wrote on X on Friday (November 13, 2026)."
         },
         {
           "category": "scitech",
@@ -1569,7 +1575,7 @@
           "dateIso": "2026-11-14",
           "dateDisplay": "14 Nov 2026",
           "examRelevance": "GS Paper-III & Prelims: ISRO/NASA Missions, Defense Updates, Tech & Climate Reports",
-          "imageUrl": "https://www.thehindu.com/theme/images/og-image.png",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/g8he2w/article71699615.ece/alternates/LANDSCAPE_1200/Climate_COP31_Turkey_47865.jpg",
           "fullParagraphs": [
             "Urgent pleas for cash from poor ​nations most exposed to the kind of climate-related disasters that have marked this year risk meeting a sluggish response at Turkiye’s COP31 talks as Western governments put ‌national security and living costs first.",
             "Two years ago, rich countries agreed at UN climate talks they would triple ​climate funding for poorer countries to $300 billion per year by 2035 versus a previous 2020 target. Also by 2035, financing ⁠from all public and private sources combined would be $1.3 trillion annually.",
@@ -1645,6 +1651,8 @@
           "fullParagraphs": [
             "The story so far: Software giant Microsoft is facing a widespread outage affecting users of its Outlook email service, as well as its other workplace products. Thousands of Microsoft users in India awakened on Friday (November 13, 2026) to find their inboxes inaccessible, losing hours of productivity. According to DownDetector, over 100,000 users had initially registered complaints about Microsoft Outlook.​ Microsoft Outage: Why did Microsoft Outlook and other products go offline globally? Microsoft shared on X on November 13 that a portion of infrastructure was experiencing elevated load across multiple regions, and this could likely be contributing to the connectivity errors. ​",
             "Microsoft shared on X on November 13 that a portion of infrastructure was experiencing elevated load across multiple regions, and this could likely be contributing to the connectivity errors.",
+            "Microsoft says that the company does not have an ETA for a full recovery of Microsoft 365 services yet.",
+            "“Still draining queued messages and rebalancing traffic; customers may see improved ⁠sign-in/access,” the company said.",
             "Microsoft, in a post on X, said it was “deeply sorry” for the disruption and was seeing “broad recovery and stability” across its services. It said the outage was a technical issue “not related to cyber or AI / agents”, introduced during an earlier network capacity upgrade and surfaced after a recent network change.",
             "It said services were restored gradually, validating stability at each stage, and promised a full post-incident report once its review is complete.",
             "IndiGo said its email support services have been impacted by the Microsoft service disruption. In a post on X, the country’s largest airline said all other support channels remain available.",
@@ -1652,11 +1660,9 @@
             "Microsoft 365 has reported improving service availability and email delivery performance across affected infrastructure, adding that there is no indication that the outage was caused by malicious or cyber activity.",
             "The company said its teams are reviewing the incident and working to prevent similar disruptions in the future.",
             "Microsoft says service availability is improving, with email queues significantly reduced and approaching normal levels. However, some users may continue to face intermittent access issues and delayed email delivery as the company restores affected infrastructure and monitors recovery.",
-            "Microsoft said it was seeing continued recovery progress across affected regions, with broader improvements in North America and across much of Europe.",
-            "Microsoft said service availability and email delivery were improving across a growing portion of the affected Microsoft 365 infrastructure, though some users may still face intermittent issues. It is prioritising reducing the email queue and backlog, and the extended 48-hour email timeout window stays in place to protect delayed messages.",
-            "An issue affecting Microsoft products worldwide was having a “serious impact” on Britain’s National Health Service (NHS), Rachel Harrison, public services head at the GMB union, said on Friday (November 13, 2026)."
+            "Microsoft said it was seeing continued recovery progress across affected regions, with broader improvements in North America and across much of Europe."
           ],
-          "deepExplanation": "<strong>1. Core Context & Background:</strong> The story so far: Software giant Microsoft is facing a widespread outage affecting users of its Outlook email service, as well as its other workplace products.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Thousands of Microsoft users in India awakened on Friday (November 13, 2026) to find their inboxes inaccessible, losing hours of productivity. According to DownDetector, over 100,000 users had initially registered complaints about Microsoft Outlook.​ Microsoft Outage: Why did Microsoft Outlook and other products go offline globally?<br><br><strong>3. Way Forward & Exam Conclusion:</strong> An issue affecting Microsoft products worldwide was having a “serious impact” on Britain’s National Health Service (NHS), Rachel Harrison, public services head at the GMB union, said on Friday (November 13, 2026).",
+          "deepExplanation": "<strong>1. Core Context & Background:</strong> The story so far: Software giant Microsoft is facing a widespread outage affecting users of its Outlook email service, as well as its other workplace products.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Thousands of Microsoft users in India awakened on Friday (November 13, 2026) to find their inboxes inaccessible, losing hours of productivity. According to DownDetector, over 100,000 users had initially registered complaints about Microsoft Outlook.​ Microsoft Outage: Why did Microsoft Outlook and other products go offline globally?<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Microsoft said it was seeing continued recovery progress across affected regions, with broader improvements in North America and across much of Europe.",
           "vocabList": [
             "Software",
             "Microsoft",
@@ -1666,7 +1672,7 @@
             "Products"
           ],
           "summary": "The story so far: Software giant Microsoft is facing a widespread outage affecting users of its Outlook email service, as well as its other workplace products. Thousands of Microsoft users in India awakened on Friday (November 13, 2026) to find their inboxes inaccessible, losing hours of productivity. According to DownDetector, over 100,000 users had initially registered complaints about Microsoft Outlook.​ Microsoft Outage: Why did Microsoft Outlook and other products go offline globally? Microsoft shared on X on November 13 that a portion of infrastructure was experiencing elevated load across multiple regions, and this could likely be contributing to the connectivity errors. ​",
-          "keyPoints": "• The story so far: Software giant Microsoft is facing a widespread outage affecting users of its Outlook email service, as well as its other workplace products. Thousands of Microsoft users in India awakened on Friday (November 13, 2026) to find their inboxes inaccessible, losing hours of productivity. According to DownDetector, over 100,000 users had initially registered complaints about Microsoft Outlook.​ Microsoft Outage: Why did Microsoft Outlook and other products go offline globally? Microsoft shared on X on November 13 that a portion of infrastructure was experiencing elevated load across multiple regions, and this could likely be contributing to the connectivity errors. ​<br>• Microsoft shared on X on November 13 that a portion of infrastructure was experiencing elevated load across multiple regions, and this could likely be contributing to the connectivity errors.<br>• Microsoft, in a post on X, said it was “deeply sorry” for the disruption and was seeing “broad recovery and stability” across its services. It said the outage was a technical issue “not related to cyber or AI / agents”, introduced during an earlier network capacity upgrade and surfaced after a recent network change."
+          "keyPoints": "• The story so far: Software giant Microsoft is facing a widespread outage affecting users of its Outlook email service, as well as its other workplace products. Thousands of Microsoft users in India awakened on Friday (November 13, 2026) to find their inboxes inaccessible, losing hours of productivity. According to DownDetector, over 100,000 users had initially registered complaints about Microsoft Outlook.​ Microsoft Outage: Why did Microsoft Outlook and other products go offline globally? Microsoft shared on X on November 13 that a portion of infrastructure was experiencing elevated load across multiple regions, and this could likely be contributing to the connectivity errors. ​<br>• Microsoft shared on X on November 13 that a portion of infrastructure was experiencing elevated load across multiple regions, and this could likely be contributing to the connectivity errors.<br>• Microsoft says that the company does not have an ETA for a full recovery of Microsoft 365 services yet."
         },
         {
           "category": "scitech",

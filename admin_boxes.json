@@ -1,21 +1,39 @@
 {
-  "updated_at": "2026-11-13 20:28:27",
+  "updated_at": "2026-11-13 21:38:38",
   "window_days": 15,
   "category_counts": {
-    "latest_jobs": 171,
-    "results": 28,
-    "admit_cards": 19,
+    "latest_jobs": 183,
+    "results": 36,
+    "admit_cards": 34,
     "answer_keys": 20,
     "syllabus": 2,
     "admissions": 0
   },
   "trending_top_6": [
     {
+      "id": "d00325d62961",
+      "title": "IBPS RRB Officer Scale I Pre Admit Card 2026",
+      "sub": "Date Extended",
+      "url": "https://ibpsreg.ibps.in/rrboaxvaug26/",
+      "details": "Name Of Post : IBPS Rural Regional Bank (Gramin Bank) RRB 15th Recruitment 2026 : Office Assistant, Officer Scale I, II, III Pre Admit Card (Scale I) for 13706 Post Post Date / Update : 10 November 2026 | 10:23 AM Short Information IBPS Rural Regional Bank (RRB) XV Recruitment 2026. Those candidates who are interested in this IBPS RRB 15th Office Assistant, Officer Scale I, Officer Scale II and Officer Scale III Examination can Download Admit Card. Read the notification for recruitment eligibility, post information, selection procedure, age limit, pay scale and all other information.",
+      "rushScore": 134,
+      "active": true
+    },
+    {
       "id": "410f8522b383",
       "title": "MPSC 16,797 Group C Online Form 2026",
       "sub": "Latest Jobs",
       "url": "https://mpsconline.gov.in/",
       "details": "",
+      "rushScore": 125,
+      "active": true
+    },
+    {
+      "id": "645afa1d7145",
+      "title": "Railway RRB NTPC 10+2 Under Graduate Online Form 2026 | Extended",
+      "sub": "Date Extended",
+      "url": "https://www.rrbapply.gov.in/#/auth/landing",
+      "details": "Name Of Post : Railway RRB Non Technical Popular Categories NTPC 10+2 Under Graduate Level CEN 07/2026 Recruitment 2026 for 1688 Post Post Date / Update : 13 November 2026 | 11:50 PM Short Information Indian Railway Recruitment Board RRB Non Technical Popular Categories NTPC Under 10+2 Under Graduate Level Recruitment CEN 07/2026. Those candidates who are Interested in This RRB NTPC CEN 07/2026 Vacancy Can Apply Online from 15/10/2026 to 15/11/2026 eligibility, post information, selection procedure, Details, age limit, pay scale and all other information.",
       "rushScore": 125,
       "active": true
     },
@@ -29,39 +47,21 @@
       "active": true
     },
     {
-      "id": "4d110a11cdc3",
-      "title": "SSC GD Constable 2026 Marks / Score Card",
+      "id": "ec401493dd6c",
+      "title": "Railway RRB Group D CEN 09/2025 Result / Score Card",
+      "sub": "Result",
+      "url": "https://www.rrbapply.gov.in/#/auth/home",
+      "details": "Name Of Post : Railway RRB Group D Various Posts of Level-1 CEN 09/2025 Recruitment 2026 Result / Score Card Post Date / Update : 12 November 2026 | 06:34 PM Short Information Indian Railway Railway Recruitment Board RRB Group D Various Posts of Level-1 CEN 09/2025. Those candidates who are Enrolled in this Railway RRB Group D CEN 09/2025 can Check Result. Read the notification for RRB Group D Various Posts of Level-1 CEN 09/2025 eligibility, post information, selection procedure, Details, age limit, pay scale and all other information.",
+      "rushScore": 123,
+      "active": true
+    },
+    {
+      "id": "24abaf3c6180",
+      "title": "SSC GD Constable Revised Result 2026",
       "sub": "Result",
       "url": "https://ssc.gov.in/",
       "details": "Staff Selection Commission SSC has released the notification for Constable (GD) in Central Armed Police Forces (CAPFs) and SSF, and Rifleman (GD) in Assam Rifles Examination, 2026. Those Candidate Are Enrolled with Vacancy Can Check the Exam Exam Admit Card. Before applying, candidates must read the complete advertisement in which selection procedure, exam syllabus, pattern, exam date and other information will be available.",
-      "rushScore": 121,
-      "active": true
-    },
-    {
-      "id": "c25ef3a4852b",
-      "title": "Railway RRC NR Apprentice Online Form 2026 (4651 Posts)",
-      "sub": "Latest Jobs",
-      "url": "https://rrcnr.org/downloads/Notification_Act_Appretice_2026.pdf",
-      "details": "Railway Recruitment Cell (RRC-NR) , has released a Notification on its official website for the recruitment of RRC NR Apprentice Posts. This recruitment is for 4651 positions. RRC Application Form will start on 11 November 2026 & the candidates can apply until 11 December 2026 . Candidates must check the complete details for RRC NR Apprentice Recruitment 2026. which has given below.",
-      "rushScore": 118,
-      "active": true
-    },
-    {
-      "id": "e3c33fcd0c4f",
-      "title": "WBSSC Group C and D Result 2026 Out",
-      "sub": "Result",
-      "url": "https://img2.freejobalert.com/news/2026/11/526418-6aec0fa8d0cce52238702.pdf",
-      "details": "The West Bengal Central School Service Commission (WBSSC) has released the WBSSC Group C and D Result 2026 on 5 November 2026 for the 1st State Level Selection Test (Non-Teaching Staff), 2025. Separate preliminary interview lists have been published for Group C (Clerk) and Group D posts. Candidates who appeared in the written examinations held on 1 March 2026 for Group C and 8 March 2026 for Group D can check their names, roll numbers, marks and preliminary interview-list positions through the published result documents.",
-      "rushScore": 118,
-      "active": true
-    },
-    {
-      "id": "1ade9f27b6fe",
-      "title": "Railway RRC CR Apprentice Online Form 2026 (2861 Posts)",
-      "sub": "Latest Jobs",
-      "url": "https://rrccr.com/TradeApp/login/Index",
-      "details": "Railway Recruitment Cell (RRC-CR) , has released a notification on the official website for the recruitment of RRC CR Apprentice Posts. This recruitment is for 2861 positions. RRC Application Form has started on 03 November 2026 & the candidates can apply until 02 December 2026 . Candidates must check the complete details for RRC CR Apprentice Recruitment 2026. which has given below.",
-      "rushScore": 114,
+      "rushScore": 123,
       "active": true
     }
   ],
