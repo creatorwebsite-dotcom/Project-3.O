@@ -1,12 +1,12 @@
 {
-  "updatedAt": "15 Nov 2026, 02:46 PM IST",
+  "updatedAt": "15 Nov 2026, 05:24 PM IST",
   "currentDateIso": "2026-11-15",
   "currentDateDisplay": "15 Nov 2026",
   "availableDates": [
     {
       "dateIso": "2026-11-15",
       "dateDisplay": "15 Nov 2026",
-      "updatedAt": "15 Nov 2026, 02:46 PM IST",
+      "updatedAt": "15 Nov 2026, 05:24 PM IST",
       "articleCount": 30
     },
     {
@@ -23,50 +23,52 @@
     }
   ],
   "hookLine1": "The Hindu Printed Broadsheet & Editorial Digest (15 Nov 2026)",
-  "hookLine2": "100% In-App Full Newspaper Pages & Deep Editorial Analysis • Updated: 15 Nov 2026, 02:46 PM IST",
+  "hookLine2": "100% In-App Full Newspaper Pages & Deep Editorial Analysis • Updated: 15 Nov 2026, 05:24 PM IST",
   "totalArticles": 30,
   "articles": [
     {
       "category": "national",
       "categoryLabel": "🏛️ National & Polity",
-      "title": "Kozhikode teacher charged after caning 10-year-old Class 5 student",
-      "link": "https://www.thehindu.com/news/cities/kozhikode/kozhikode-teacher-charged-after-caning-10-year-old-class-5-student/article71704163.ece",
-      "pubDate": "Sun, 15 Nov 2026 14:40:10 +0530",
+      "title": "Keralam power purchase row: Opposition Leader Pinarayi Vijayan alleges irregularities in decision to procure 200 MW from VEH Global",
+      "link": "https://www.thehindu.com/news/national/kerala/keralam-power-purchase-row-opposition-leader-pinarayi-vijayan-alleges-irregularities-in-decision-to-procure-200-mw-from-veh-global/article71704536.ece",
+      "pubDate": "Sun, 15 Nov 2026 17:15:30 +0530",
       "dateIso": "2026-11-15",
       "dateDisplay": "15 Nov 2026",
       "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
-      "imageUrl": "https://th-i.thgim.com/public/news/cities/bangalore/article22429504.ece/alternates/LANDSCAPE_1200/26VZCORPORAL",
+      "imageUrl": "https://th-i.thgim.com/public/incoming/yo8wbk/article71704631.ece/alternates/LANDSCAPE_1200/Kerala-HC-staysGDKGNCAUI.3.jpg.jpg",
       "fullParagraphs": [
-        "The Thamarassery police have registered a case against a teacher on charges of assaulting a 10-year-old Class V student. The accused has been identified as Mubashir, an Arabic teacher at the school near Engappuzha in Kozhikode district.",
-        "According to the complaint lodged by the girl’s father, the incident occurred on November 6, 2026, after an argument among students over the use of the school playground. The teacher allegedly took the girl outside the classroom and caned her in front of other students, accusing her of making a remark against him during the dispute.",
-        "The complaint states that the child suffered severe physical pain and urinated in her clothes as a result of the assault. The girl’s father says she has been experiencing severe mental distress since the incident and has stopped attending classes out of humiliation, despite undergoing counseling.",
-        "He further alleged that the school management was attempting to shield the teacher and that the police had delayed taking strict action, including arresting the accused. Claiming that the politically influential teacher had attempted to settle the matter out of court by offering financial assistance, the father stated that he had also filed a formal complaint with the Kerala State Commission for Protection of Child Rights seeking justice for his daughter. Police said an investigation into the incident was under way."
+        "Leader of Opposition Pinarayi Vijayan has alleged that the United Democratic Front (UDF) government decided to purchase electricity from a firm called VEH Global at a relatively high price of ₹11 per unit without inviting bids or securing the approval of the Kerala State Electricity Regulatory Commission (KSERC).",
+        "According to the Leader of the Opposition, a supply of 200 MW was secured merely on the strength of an offer made by the firm. The Commission has not yet approved this power purchase, Mr. Vijayan said.",
+        "According to him, the government entered into this deal when wind energy costs just ₹3 or ₹4 per unit. The UDF decision entails a huge loss for the exchequer, he said.",
+        "Mr. Vijayan also alleged that VEH Global was ineligible to participate in a tender process. According to him, the government issued orders on September 22 allowing power procurement from this firm. The same order mentioned its ineligibility, he said.",
+        "Recently, the UDF government’s decision to procure electricity from over-the-counter (OTC) platform GNA Energy allegedly overlooking an offer from the Himachal Pradesh government had sparked a major political row in Keralam.",
+        "On Sunday (November 15, 2026), Mr. Vijayan demanded that Chief Minister V.D. Satheesan explain to the people on what basis was the agreement with VEH Global entered into. On the corruption allegations related to the GNA Energy deal, Mr. Satheesan had defended himself saying that no agreement had been inked with GNA. However, in this case, he cannot say so, Mr. Vijayan said."
       ],
-      "deepExplanation": "<strong>1. Core Context & Background:</strong> The Thamarassery police have registered a case against a teacher on charges of assaulting a 10-year-old Class V student.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> The accused has been identified as Mubashir, an Arabic teacher at the school near Engappuzha in Kozhikode district. According to the complaint lodged by the girl’s father, the incident occurred on November 6, 2026, after an argument among students over the use of the school playground.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Police said an investigation into the incident was under way.",
+      "deepExplanation": "<strong>1. Core Context & Background:</strong> Leader of Opposition Pinarayi Vijayan has alleged that the United Democratic Front (UDF) government decided to purchase electricity from a firm called VEH Global at a relatively high price of ₹11 per unit without inviting bids or securing the approval of the Kerala State Electricity Regulatory Commission (KSERC).<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> According to the Leader of the Opposition, a supply of 200 MW was secured merely on the strength of an offer made by the firm. The Commission has not yet approved this power purchase, Mr.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> However, in this case, he cannot say so, Mr.",
       "vocabList": [
-        "Thamarassery",
-        "Registered",
-        "Assaulting",
-        "Identified",
-        "Mubashir",
-        "Engappuzha"
+        "Opposition",
+        "Pinarayi",
+        "Democratic",
+        "Purchase",
+        "Electricity",
+        "Relatively"
       ],
-      "summary": "The Thamarassery police have registered a case against a teacher on charges of assaulting a 10-year-old Class V student. The accused has been identified as Mubashir, an Arabic teacher at the school near Engappuzha in Kozhikode district.",
-      "keyPoints": "• The Thamarassery police have registered a case against a teacher on charges of assaulting a 10-year-old Class V student. The accused has been identified as Mubashir, an Arabic teacher at the school near Engappuzha in Kozhikode district.<br>• According to the complaint lodged by the girl’s father, the incident occurred on November 6, 2026, after an argument among students over the use of the school playground. The teacher allegedly took the girl outside the classroom and caned her in front of other students, accusing her of making a remark against him during the dispute.<br>• The complaint states that the child suffered severe physical pain and urinated in her clothes as a result of the assault. The girl’s father says she has been experiencing severe mental distress since the incident and has stopped attending classes out of humiliation, despite undergoing counseling."
+      "summary": "Leader of Opposition Pinarayi Vijayan has alleged that the United Democratic Front (UDF) government decided to purchase electricity from a firm called VEH Global at a relatively high price of ₹11 per unit without inviting bids or securing the approval of the Kerala State Electricity Regulatory Commission (KSERC).",
+      "keyPoints": "• Leader of Opposition Pinarayi Vijayan has alleged that the United Democratic Front (UDF) government decided to purchase electricity from a firm called VEH Global at a relatively high price of ₹11 per unit without inviting bids or securing the approval of the Kerala State Electricity Regulatory Commission (KSERC).<br>• According to the Leader of the Opposition, a supply of 200 MW was secured merely on the strength of an offer made by the firm. The Commission has not yet approved this power purchase, Mr. Vijayan said.<br>• According to him, the government entered into this deal when wind energy costs just ₹3 or ₹4 per unit. The UDF decision entails a huge loss for the exchequer, he said."
     },
     {
       "category": "national",
       "categoryLabel": "🏛️ National & Polity",
       "title": "Cyclone Akvan to move towards Andhra coast by November 19, rainfall expected in Tamil Nadu, Bengal",
       "link": "https://www.thehindu.com/news/national/depression-to-turn-severe-cyclonic-storm-over-bay-of-bengal-by-november-17/article71704137.ece",
-      "pubDate": "Sun, 15 Nov 2026 14:39:05 +0530",
+      "pubDate": "Sun, 15 Nov 2026 16:59:36 +0530",
       "dateIso": "2026-11-15",
       "dateDisplay": "15 Nov 2026",
       "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
       "imageUrl": "https://th-i.thgim.com/public/incoming/fyhfdi/article71704429.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-11-15%20at%202.29.20%20PM.jpeg",
       "fullParagraphs": [
         "A depression over the southeast and adjoining southwest Bay of Bengal is likely to strengthen into a severe cyclonic storm by November 17, the meteorological department said on Sunday (November 15, 2026).",
-        "Cyclone Akvan is expected to cause rains in north coastal districts in Tamil Nadu, Puducherry and Karaikal area, it said. The department announced that the cycline is expected to move towards the Andhra Pradesh coast around November 19.",
+        "Cyclone Akvan is expected to cause rains in north coastal districts in Tamil Nadu, Puducherry and Karaikal area, it said. The department announced that the cyclone is expected to move towards the Andhra Pradesh coast around November 19.",
         "The Regional Meteorological Centre issued a Nowcast alert at 1 p.m. in Tamilnadu, valid till 4 p.m. for light to moderate rainfall at isolated places over Cuddalore, Chengalpattu, Mayiladuthurai, Nagappattinam, Pudukkottai, Thanjavur, Thiruvarur and Viluppuram districts and Karaikal and Puducherry.",
         "According to the latest weather report, Saturday's (November 14) well-marked low-pressure area over the southeast Bay of Bengal moved northwestward, intensified into a depression and lay centred at 5:30 a.m. today. It is very likely to continue to move northwestward, intensify further into a cyclonic storm over the central parts of the south and adjoining west-central Bay of Bengal on November, 16 and into a severe cyclonic storm on November 17.",
         "The data further added that in addition to northern Tamil Nadu districts, moderate rain at isolated places is likely to occur over western ghat and southern districts of the State from Monday (November 16).",
@@ -77,7 +79,7 @@
         "A nip in the air over South Bengal is likely to dissipate as day and night temperatures will rise by two to three degrees Celsius from November 18, it said.",
         "Tamil Nadu / weather news / weather / rains / Monsoon / Puducherry / cyclones"
       ],
-      "deepExplanation": "<strong>1. Core Context & Background:</strong> A depression over the southeast and adjoining southwest Bay of Bengal is likely to strengthen into a severe cyclonic storm by November 17, the meteorological department said on Sunday (November 15, 2026).<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Cyclone Akvan is expected to cause rains in north coastal districts in Tamil Nadu, Puducherry and Karaikal area, it said. The department announced that the cycline is expected to move towards the Andhra Pradesh coast around November 19.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Tamil Nadu / weather news / weather / rains / Monsoon / Puducherry / cyclones",
+      "deepExplanation": "<strong>1. Core Context & Background:</strong> A depression over the southeast and adjoining southwest Bay of Bengal is likely to strengthen into a severe cyclonic storm by November 17, the meteorological department said on Sunday (November 15, 2026).<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Cyclone Akvan is expected to cause rains in north coastal districts in Tamil Nadu, Puducherry and Karaikal area, it said. The department announced that the cyclone is expected to move towards the Andhra Pradesh coast around November 19.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Tamil Nadu / weather news / weather / rains / Monsoon / Puducherry / cyclones",
       "vocabList": [
         "Depression",
         "Southeast",
@@ -87,135 +89,146 @@
         "Cyclonic"
       ],
       "summary": "A depression over the southeast and adjoining southwest Bay of Bengal is likely to strengthen into a severe cyclonic storm by November 17, the meteorological department said on Sunday (November 15, 2026).",
-      "keyPoints": "• A depression over the southeast and adjoining southwest Bay of Bengal is likely to strengthen into a severe cyclonic storm by November 17, the meteorological department said on Sunday (November 15, 2026).<br>• Cyclone Akvan is expected to cause rains in north coastal districts in Tamil Nadu, Puducherry and Karaikal area, it said. The department announced that the cycline is expected to move towards the Andhra Pradesh coast around November 19.<br>• The Regional Meteorological Centre issued a Nowcast alert at 1 p.m. in Tamilnadu, valid till 4 p.m. for light to moderate rainfall at isolated places over Cuddalore, Chengalpattu, Mayiladuthurai, Nagappattinam, Pudukkottai, Thanjavur, Thiruvarur and Viluppuram districts and Karaikal and Puducherry."
+      "keyPoints": "• A depression over the southeast and adjoining southwest Bay of Bengal is likely to strengthen into a severe cyclonic storm by November 17, the meteorological department said on Sunday (November 15, 2026).<br>• Cyclone Akvan is expected to cause rains in north coastal districts in Tamil Nadu, Puducherry and Karaikal area, it said. The department announced that the cyclone is expected to move towards the Andhra Pradesh coast around November 19.<br>• The Regional Meteorological Centre issued a Nowcast alert at 1 p.m. in Tamilnadu, valid till 4 p.m. for light to moderate rainfall at isolated places over Cuddalore, Chengalpattu, Mayiladuthurai, Nagappattinam, Pudukkottai, Thanjavur, Thiruvarur and Viluppuram districts and Karaikal and Puducherry."
     },
     {
       "category": "national",
       "categoryLabel": "🏛️ National & Polity",
-      "title": "TMC government considered only Muslims as minority: Bengal CM",
-      "link": "https://www.thehindu.com/news/national/west-bengal/tmc-government-considered-only-muslims-as-minority-bengal-cm/article71704406.ece",
-      "pubDate": "Sun, 15 Nov 2026 14:38:30 +0530",
+      "title": "Air India resumes direct flights to New York, Newark after easing of airspace curbs",
+      "link": "https://www.thehindu.com/news/national/air-india-resumes-direct-flights-to-new-york-newark-after-easing-of-airspace-curbs/article71704583.ece",
+      "pubDate": "Sun, 15 Nov 2026 16:44:25 +0530",
       "dateIso": "2026-11-15",
       "dateDisplay": "15 Nov 2026",
       "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
-      "imageUrl": "https://th-i.thgim.com/public/incoming/1ilf64/article71704427.ece/alternates/LANDSCAPE_1200/80717_26_8_2025_19_2_44_2_260825LOPSUVENDUADHIKARI4.JPG",
+      "imageUrl": "https://th-i.thgim.com/public/incoming/pxcv5q/article71704596.ece/alternates/LANDSCAPE_1200/iStock-622323524.jpg",
       "fullParagraphs": [
-        "West Bengal Chief Minister Suvendu Adhikari on Sunday (November 15, 2026) alleged that the previous TMC government had considered only Muslims as a minority, asserting that Sikhs, Buddhists and Jains are also religious minorities.",
-        "He visited the Gurdwara Bara Sikh Sangat at the city's trading hub, Burrabazar, and participated in a procession of the Sikh community in the area.",
-        "\"Minority does not mean a particular community. Sikhs, Buddhists and Jains are also [religious] minorities. The previous TMC government considered only Muslims as a minority,\" the Chief Minister told reporters after greeting the members of the Sikh community in the gurdwara.",
-        "\"They [Sikhs] are the truest patriots,\" the Chief Minister said.",
-        "Earlier, Mr. Adhikari had repeatedly accused the Mamata Banerjee -led government of indulging in the appeasement of the Muslim community to garner their support in the elections.",
-        "West Bengal / minority group / politics / politics (general)"
+        "Air India on Sunday (November 15, 2026) said it has resumed non-stop flights to New York and Newark from Delhi and Mumbai, following the reopening of a restricted airspace, reducing overall travel time by up to five hours.",
+        "From the first week of this month, Air India began operating these direct flights without a stopover, with the airline using Iraq airspace, sources told PTI on November 6.",
+        "Air India has one daily flight to New York and four weekly services to Newark from Delhi. All of them are operated with A350-900 aircraft.",
+        "From Mumbai, the airline flies daily services to New York and three weekly flights to Newark with Boeing 777-300 ER planes.",
+        "With the easing of airspace curbs, Air India on Sunday said the total travel time for each flight on the routes to New York and Newark from Delhi and Mumbai has been cut down by around 5 hours to 17 hours. Previously, the total travel time was around 22 hours due to an en route fuelling stop at Rome (Italy).",
+        "This year, the closure of Pakistan airspace and airspace restrictions across parts of West Asia amid regional conflict had significantly impacted flight routings between India and North America.",
+        "Subsequently, Air India's flights from Delhi and Mumbai to New York's John F. Kennedy International Airport (JFK) and Newark Liberty International Airport (EWR) started operating with a technical stop in Rome for refuelling.",
+        "\"With airspace restrictions eased, Air India has now resumed non-stop operations on all four India-New York routes,\" the airline said.",
+        "Earlier, the longer routings for these flights through Jordan and Egypt resulted in increased flying hours.",
+        "Last month, a senior airline official said there was a big impact due to the airspace restrictions, including due to the West Asia crisis, and the impact was worse than last year.",
+        "\"The more airspaces are closed, the more southwards flights have to go... the more southwards flights have to go, the more the fuel bill. So, it (airspace curbs) is worse than what we had last year,\" the official had said."
       ],
-      "deepExplanation": "<strong>1. Core Context & Background:</strong> West Bengal Chief Minister Suvendu Adhikari on Sunday (November 15, 2026) alleged that the previous TMC government had considered only Muslims as a minority, asserting that Sikhs, Buddhists and Jains are also religious minorities.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> He visited the Gurdwara Bara Sikh Sangat at the city's trading hub, Burrabazar, and participated in a procession of the Sikh community in the area. \"Minority does not mean a particular community.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> West Bengal / minority group / politics / politics (general)",
+      "deepExplanation": "<strong>1. Core Context & Background:</strong> Air India on Sunday (November 15, 2026) said it has resumed non-stop flights to New York and Newark from Delhi and Mumbai, following the reopening of a restricted airspace, reducing overall travel time by up to five hours.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> From the first week of this month, Air India began operating these direct flights without a stopover, with the airline using Iraq airspace, sources told PTI on November 6. Air India has one daily flight to New York and four weekly services to Newark from Delhi.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> So, it (airspace curbs) is worse than what we had last year,\" the official had said.",
       "vocabList": [
-        "Adhikari",
         "November",
-        "Previous",
-        "Considered",
-        "Minority",
-        "Asserting"
+        "Following",
+        "Reopening",
+        "Restricted",
+        "Airspace",
+        "Reducing"
       ],
-      "summary": "West Bengal Chief Minister Suvendu Adhikari on Sunday (November 15, 2026) alleged that the previous TMC government had considered only Muslims as a minority, asserting that Sikhs, Buddhists and Jains are also religious minorities.",
-      "keyPoints": "• West Bengal Chief Minister Suvendu Adhikari on Sunday (November 15, 2026) alleged that the previous TMC government had considered only Muslims as a minority, asserting that Sikhs, Buddhists and Jains are also religious minorities.<br>• He visited the Gurdwara Bara Sikh Sangat at the city's trading hub, Burrabazar, and participated in a procession of the Sikh community in the area.<br>• \"Minority does not mean a particular community. Sikhs, Buddhists and Jains are also [religious] minorities. The previous TMC government considered only Muslims as a minority,\" the Chief Minister told reporters after greeting the members of the Sikh community in the gurdwara."
+      "summary": "Air India on Sunday (November 15, 2026) said it has resumed non-stop flights to New York and Newark from Delhi and Mumbai, following the reopening of a restricted airspace, reducing overall travel time by up to five hours.",
+      "keyPoints": "• Air India on Sunday (November 15, 2026) said it has resumed non-stop flights to New York and Newark from Delhi and Mumbai, following the reopening of a restricted airspace, reducing overall travel time by up to five hours.<br>• From the first week of this month, Air India began operating these direct flights without a stopover, with the airline using Iraq airspace, sources told PTI on November 6.<br>• Air India has one daily flight to New York and four weekly services to Newark from Delhi. All of them are operated with A350-900 aircraft."
     },
     {
       "category": "national",
       "categoryLabel": "🏛️ National & Polity",
-      "title": "Mekedatu is Karnataka’s right, we will build dam and release Tamil Nadu’s share of water: D.K. Shivakumar",
-      "link": "https://www.thehindu.com/news/national/karnataka/mekedatu-is-karnatakas-right-we-will-build-dam-and-release-tamil-nadus-share-of-water-dk-shivakumar/article71701313.ece",
-      "pubDate": "Sun, 15 Nov 2026 14:21:43 +0530",
+      "title": "PM Modi pays tribute to Birsa Munda on birth anniversary",
+      "link": "https://www.thehindu.com/news/national/pm-modi-pays-tribute-to-birsa-munda-on-birth-anniversary/article71704060.ece",
+      "pubDate": "Sun, 15 Nov 2026 16:33:17 +0530",
       "dateIso": "2026-11-15",
       "dateDisplay": "15 Nov 2026",
       "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
-      "imageUrl": "https://th-i.thgim.com/public/incoming/ndf7vw/article71701399.ece/alternates/LANDSCAPE_1200/dji_fly_20230502_124524_662_1695920060079_photo.jpeg",
+      "imageUrl": "https://th-i.thgim.com/public/incoming/z5sstc/article71704064.ece/alternates/LANDSCAPE_1200/Nearby_Shape-wiGJJGQ1G13.3.jpg.jpg",
       "fullParagraphs": [
-        "Chief Minister D.K. Shivakumar on Saturday (November 14) asserted that Karnataka will go ahead with the Mekedatu balancing reservoir project , describing it as the State’s right and duty, while assuring that Tamil Nadu would receive its stipulated share of Cauvery water.",
-        "Responding to opposition to the project from leaders in Tamil Nadu, including State Congress president Manickam Tagore, Mr. Shivakumar said the neighbouring State should send a delegation to Karnataka to understand the project’s benefits rather than oppose it.",
-        "“Anyone is free to oppose it, but Tamil Nadu must recognise that this is our State and our right. If they wish, let them send a delegation. I am prepared to take them to the dam site and explain the project,” he told presspersons.",
-        "He said Karnataka would respect Tamil Nadu’s entitlement of 177 tmcft of Cauvery water as stipulated by the Supreme Court. “We will build the dam and ensure that they receive their share. Protecting Karnataka’s water rights while ensuring that Tamil Nadu gets its due share is our responsibility. We will not back down when it comes to safeguarding the interests of our State,” he said.",
-        "Describing the opposition to the project as politically motivated, he said the issue should be viewed in the context of the law and the Supreme Court’s directions rather than political rivalry.",
-        "“This is not a political matter. Everyone must respect the law of the land and abide by the Supreme Court’s order. Receiving 177 tmcft of water is Tamil Nadu’s right, and we will honour it,” he said.",
-        "Mr. Shivakumar said the State had sought the necessary forest and environmental clearances from the Centre and was preparing the required documents. All political parties in Karnataka had supported the project, he said, pointing out that the government was ready to take it forward once the clearances were obtained. The Centre’s requirement to provide compensatory land for the forest area that would be submerged was among the issues to be addressed.",
-        "In his interaction with Prime Minister Narendra Modi during the latter’s visit to Karnataka on Friday (November 13), Mr. Shivakumar said political differences should not come in the way of development.",
-        "“Let us compete in politics, but cooperate on development. Securing the Centre’s support for the State’s growth is our responsibility,” he said.",
-        "He said he had also urged the Centre to reject the Kasturirangan report and sought equal participation by the Centre and the State in funding Bengaluru metro projects. He had proposed the formation of a technical committee to oversee the projects and sought faster clearances for pending proposals. The State aimed to expand the metro network to 500 km in future phases, he said.",
-        "On the pending power dues raised during the Suvarna Soudha session, Mr. Shivakumar said the government’s subsidy burden towards electricity supplied to farmers’ irrigation pumpsets had increased from about ₹20,000 crore to ₹30,000 crore.",
-        "He attributed the increase to higher power consumption during drought conditions and the use of lift irrigation schemes to fill tanks, among other factors. The government would address the issue and resolve the pending matters, he said."
+        "Prime Minister Narendra Modi on Sunday (November 15, 2026) paid tributes to tribal icon Birsa Munda on his 151st birth anniversary and extended greetings on the Janjatiya Gaurav Diwas.",
+        "In a post in Hindi on X, the Prime Minister said the courage, struggle and sacrifice of 'Dharti Aaba' would continue to inspire generations to uphold self-respect, freedom and rights.",
+        "Tripura Government prioritising socio-economic development of tribals: CM Manik Saha",
+        "भगवान बिरसा मुंडा जी की जयंती पर उन्हें समस्त देशवासियों की ओर से मेरा कोटि-कोटि नमन। आप सभी को इस दिव्य अवसर से जुड़े जनजातीय गौरव दिवस की बहुत-बहुत शुभकामनाएं। धरती आबा का अदम्य साहस, संघर्ष और बलिदान देश की हर पीढ़ी को स्वाभिमान, स्वतंत्रता और अधिकारों की रक्षा के लिए प्रेरित करता रहेगा। उनसे प्रेरणा लेकर हमारी सरकार जनजातीय भाई-बहनों के सम्मान, अवसर और समृद्धि के लिए कोई कोर-कसर नहीं छोड़ रही है। आइए, सभी मिलकर राष्ट्र निर्माण में जनजातीय समाज के बहुमूल्य योगदान को नमन करें।",
+        "He said the government, drawing inspiration from Birsa Munda, was committed to ensuring dignity, opportunities and prosperity for the tribal community.",
+        "Mr. Modi also called upon people to recognise and honour the invaluable contribution of tribal communities to nation-building.",
+        "PM @narendramodi pays floral tribute to Dharti Aaba Bhagwan Birsa Munda at parliament complex in Delhi https://t.co/1aQMnVQJEA",
+        "Since 2021, Janjatiya Gaurav Diwas is observed every year on November 15 to commemorate the birth anniversary of tribal freedom fighter Birsa Munda."
       ],
-      "deepExplanation": "<strong>1. Core Context & Background:</strong> Shivakumar on Saturday (November 14) asserted that Karnataka will go ahead with the Mekedatu balancing reservoir project , describing it as the State’s right and duty, while assuring that Tamil Nadu would receive its stipulated share of Cauvery water.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Responding to opposition to the project from leaders in Tamil Nadu, including State Congress president Manickam Tagore, Mr. Shivakumar said the neighbouring State should send a delegation to Karnataka to understand the project’s benefits rather than oppose it.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> The government would address the issue and resolve the pending matters, he said.",
+      "deepExplanation": "<strong>1. Core Context & Background:</strong> Prime Minister Narendra Modi on Sunday (November 15, 2026) paid tributes to tribal icon Birsa Munda on his 151st birth anniversary and extended greetings on the Janjatiya Gaurav Diwas.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> In a post in Hindi on X, the Prime Minister said the courage, struggle and sacrifice of 'Dharti Aaba' would continue to inspire generations to uphold self-respect, freedom and rights. Tripura Government prioritising socio-economic development of tribals: CM Manik Saha भगवान बिरसा मुंडा जी की जयंती पर उन्हें समस्त देशवासियों की ओर से मेरा कोटि-कोटि नमन। आप सभी को इस दिव्य अवसर से जुड़े जनजातीय गौरव दिवस की बहुत-बहुत शुभकामनाएं। धरती आबा का अदम्य साहस, संघर्ष और बलिदान देश की हर पीढ़ी को स्वाभिमान, स्वतंत्रता और अधिकारों की रक्षा के लिए प्रेरित करता रहेगा। उनसे प्रेरणा लेकर हमारी सरकार जनजातीय भाई-बहनों के सम्मान, अवसर और समृद्धि के लिए कोई कोर-कसर नहीं छोड़ रही है। आइए, सभी मिलकर राष्ट्र निर्माण में जनजातीय समाज के बहुमूल्य योगदान को नमन करें। He said the government, drawing inspiration from Birsa Munda, was committed to ensuring dignity, opportunities and prosperity for the tribal community.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> PM @narendramodi pays floral tribute to Dharti Aaba Bhagwan Birsa Munda at parliament complex in Delhi https://t.co/1aQMnVQJEA Since 2021, Janjatiya Gaurav Diwas is observed every year on November 15 to commemorate the birth anniversary of tribal freedom fighter Birsa Munda.",
       "vocabList": [
-        "Shivakumar",
-        "Saturday",
+        "Narendra",
         "November",
-        "Asserted",
-        "Karnataka",
-        "Mekedatu"
+        "Tributes",
+        "Anniversary",
+        "Extended",
+        "Greetings"
       ],
-      "summary": "Chief Minister D.K. Shivakumar on Saturday (November 14) asserted that Karnataka will go ahead with the Mekedatu balancing reservoir project , describing it as the State’s right and duty, while assuring that Tamil Nadu would receive its stipulated share of Cauvery water.",
-      "keyPoints": "• Chief Minister D.K. Shivakumar on Saturday (November 14) asserted that Karnataka will go ahead with the Mekedatu balancing reservoir project , describing it as the State’s right and duty, while assuring that Tamil Nadu would receive its stipulated share of Cauvery water.<br>• Responding to opposition to the project from leaders in Tamil Nadu, including State Congress president Manickam Tagore, Mr. Shivakumar said the neighbouring State should send a delegation to Karnataka to understand the project’s benefits rather than oppose it.<br>• “Anyone is free to oppose it, but Tamil Nadu must recognise that this is our State and our right. If they wish, let them send a delegation. I am prepared to take them to the dam site and explain the project,” he told presspersons."
+      "summary": "Prime Minister Narendra Modi on Sunday (November 15, 2026) paid tributes to tribal icon Birsa Munda on his 151st birth anniversary and extended greetings on the Janjatiya Gaurav Diwas.",
+      "keyPoints": "• Prime Minister Narendra Modi on Sunday (November 15, 2026) paid tributes to tribal icon Birsa Munda on his 151st birth anniversary and extended greetings on the Janjatiya Gaurav Diwas.<br>• In a post in Hindi on X, the Prime Minister said the courage, struggle and sacrifice of 'Dharti Aaba' would continue to inspire generations to uphold self-respect, freedom and rights.<br>• Tripura Government prioritising socio-economic development of tribals: CM Manik Saha"
     },
     {
       "category": "national",
       "categoryLabel": "🏛️ National & Polity",
-      "title": "Dhinakaran, Vasan urge Vijay to protect interests of T.N. farmers in Mekedatu issue",
-      "link": "https://www.thehindu.com/news/national/tamil-nadu/dhinakaran-vasan-urge-vijay-to-protect-interests-of-tn-farmers-in-mekedatu-issue/article71704365.ece",
-      "pubDate": "Sun, 15 Nov 2026 14:21:26 +0530",
+      "title": "Tripura Government prioritising socio-economic development of tribals: CM Manik Saha",
+      "link": "https://www.thehindu.com/news/national/tripura/tripura-government-prioritising-socio-economic-development-of-tribals-cm-manik-saha/article71704561.ece",
+      "pubDate": "Sun, 15 Nov 2026 16:23:03 +0530",
       "dateIso": "2026-11-15",
       "dateDisplay": "15 Nov 2026",
       "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
-      "imageUrl": "https://th-i.thgim.com/public/incoming/w48m2f/article71704362.ece/alternates/LANDSCAPE_1200/11658_9_5_2026_12_13_32_2__DSC0738.JPG",
+      "imageUrl": "https://th-i.thgim.com/public/incoming/xhwcc2/article71704574.ece/alternates/LANDSCAPE_1200/PTI10_31_2026_000126B.jpg",
       "fullParagraphs": [
-        "AMMK founder T.T.V. Dhinakaran on Sunday (November 15, 2026) accused Chief Minister C. Joseph Vijay of shedding crocodile tears over the Mekedatu dam issue and said the latter had to choose between his party’s alliance with the Congress and the livelihoods of Tamil Nadu farmers.",
-        "In a statement, Mr. Dhinakaran accused Mr. Vijay of failing to discharge his responsibility to protect farmers’ livelihoods for the sake of retaining power, alleging this had emboldened Karnataka Chief Minister D.K. Shivakumar to persist with the Mekedatu project.",
-        "Condemning Mr. Shivakumar’s remarks on constructing the dam across the Cauvery, Mr. Dhinakaran urged Mr. Vijay to exert political pressure through the Congress leadership to stop the project, warning failure to do so would amount to a betrayal of Tamil Nadu farmers.",
-        "Tamil Maanila Congress (Moopanar) leader G.K. Vasan also criticised Mr. Shivakumar’s remarks on constructing the Mekedatu dam, stating his demand for the Centre’s support and his interpretation of the Supreme Court’s verdict were unacceptable.",
-        "In a statement, Mr. Vasan said Karnataka’s efforts to construct the dam amounted to an infringement of Tamil Nadu’s rights. The Mekedatu water issue was not merely a crop-related concern but a matter of survival for farmers in Tamil Nadu, he said.",
-        "Amma Makkal Munnetra Kazhagam / Tamilaga Vettri Kazhagam / Indian National Congress / Tamil Maanila Congress"
+        "Tripura Chief Minister Manik Saha on Sunday (November 15, 2026) paid tribute to tribal icon Birsa Munda on his 151st birth anniversary and said his Government has been prioritising the overall socio-economic development of the indigenous people.",
+        "Addressing a 'Janjatiya Gaurav Diwas' programme at Chawmanu in Dhalai district, Mr. Saha recalled the tribal icon's contribution to the country's freedom struggle.",
+        "“The contribution of indigenous people in the country’s freedom struggle was immense. Birsa Munda had fought the British, showing extreme courage. We must salute his contribution to the freedom struggle on his birth anniversary,\" the CM said.",
+        "Born in 1875 at Ulihatu village in Jharkhand's Khunti district, Birsa Munda is credited with mobilising tribals against colonial rule. He died in British custody at the age of 25 on June 9, 1900.",
+        "The birth anniversary of the freedom fighter has been celebrated as Janjatiya Gaurav Diwas since 2021 to honour the contributions of tribal communities, especially in India's freedom struggle, and highlights their important role in preserving the country's heritage and advancing its progress.",
+        "\"Our Government has been giving priority to the overall socio-economic development of the indigenous people,\" Mr. Saha said.",
+        "On the occasion, four Eklavya Model Residential Schools, fully residential schools for tribal students, were inaugurated in Tripura.",
+        "“With today’s inauguration of four Eklavya schools, 16 such schools are made operational in the northeastern state while two more will be opened shortly. The Centre has sanctioned 21 such schools altogether for our State. Over 10,000 students will be able to study in these residential schools once all 21 are made functional in the state,\" he said.",
+        "Mr. Saha said Prime Minister Narendra Modi and Union Tribal Welfare Minister Jual Oram participated in a programme virtually from Delhi on the occasion of Janjatiya Gaurav Diwas.",
+        "On the occasion, Mr. Modi inaugurated and laid the foundation stones for 246 development projects worth around ₹3,000 crore aimed at strengthening education, healthcare, livelihood opportunities and community infrastructure in tribal areas.",
+        "Of the 246 projects, 173 were inaugurated, including 38 Eklavya Model Residential Schools for tribal students and 100 Multi-Purpose Centres under the Pradhan Mantri Janjati Adivasi Nyaya Maha Abhiyan (PM-JANMAN).",
+        "The four Eklavya schools were among 38 schools inaugurated by Mr. Modi during the day."
       ],
-      "deepExplanation": "<strong>1. Core Context & Background:</strong> Dhinakaran on Sunday (November 15, 2026) accused Chief Minister C.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Joseph Vijay of shedding crocodile tears over the Mekedatu dam issue and said the latter had to choose between his party’s alliance with the Congress and the livelihoods of Tamil Nadu farmers. Vijay of failing to discharge his responsibility to protect farmers’ livelihoods for the sake of retaining power, alleging this had emboldened Karnataka Chief Minister D.K.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Amma Makkal Munnetra Kazhagam / Tamilaga Vettri Kazhagam / Indian National Congress / Tamil Maanila Congress",
+      "deepExplanation": "<strong>1. Core Context & Background:</strong> Tripura Chief Minister Manik Saha on Sunday (November 15, 2026) paid tribute to tribal icon Birsa Munda on his 151st birth anniversary and said his Government has been prioritising the overall socio-economic development of the indigenous people.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Addressing a 'Janjatiya Gaurav Diwas' programme at Chawmanu in Dhalai district, Mr. Saha recalled the tribal icon's contribution to the country's freedom struggle.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> The four Eklavya schools were among 38 schools inaugurated by Mr.",
       "vocabList": [
-        "Dhinakaran",
         "November",
-        "Shedding",
-        "Crocodile",
-        "Mekedatu",
-        "Alliance"
+        "Anniversary",
+        "Prioritising",
+        "Economic",
+        "Indigenous",
+        "Addressing"
       ],
-      "summary": "AMMK founder T.T.V. Dhinakaran on Sunday (November 15, 2026) accused Chief Minister C. Joseph Vijay of shedding crocodile tears over the Mekedatu dam issue and said the latter had to choose between his party’s alliance with the Congress and the livelihoods of Tamil Nadu farmers.",
-      "keyPoints": "• AMMK founder T.T.V. Dhinakaran on Sunday (November 15, 2026) accused Chief Minister C. Joseph Vijay of shedding crocodile tears over the Mekedatu dam issue and said the latter had to choose between his party’s alliance with the Congress and the livelihoods of Tamil Nadu farmers.<br>• In a statement, Mr. Dhinakaran accused Mr. Vijay of failing to discharge his responsibility to protect farmers’ livelihoods for the sake of retaining power, alleging this had emboldened Karnataka Chief Minister D.K. Shivakumar to persist with the Mekedatu project.<br>• Condemning Mr. Shivakumar’s remarks on constructing the dam across the Cauvery, Mr. Dhinakaran urged Mr. Vijay to exert political pressure through the Congress leadership to stop the project, warning failure to do so would amount to a betrayal of Tamil Nadu farmers."
+      "summary": "Tripura Chief Minister Manik Saha on Sunday (November 15, 2026) paid tribute to tribal icon Birsa Munda on his 151st birth anniversary and said his Government has been prioritising the overall socio-economic development of the indigenous people.",
+      "keyPoints": "• Tripura Chief Minister Manik Saha on Sunday (November 15, 2026) paid tribute to tribal icon Birsa Munda on his 151st birth anniversary and said his Government has been prioritising the overall socio-economic development of the indigenous people.<br>• Addressing a 'Janjatiya Gaurav Diwas' programme at Chawmanu in Dhalai district, Mr. Saha recalled the tribal icon's contribution to the country's freedom struggle.<br>• “The contribution of indigenous people in the country’s freedom struggle was immense. Birsa Munda had fought the British, showing extreme courage. We must salute his contribution to the freedom struggle on his birth anniversary,\" the CM said."
     },
     {
       "category": "national",
       "categoryLabel": "🏛️ National & Polity",
-      "title": "Statewide vaccination drive to protect children aged 10 and 16 against tetanus and diphtheria",
-      "link": "https://www.thehindu.com/news/national/andhra-pradesh/statewide-vaccination-drive-to-protect-children-aged-10-and-16-against-tetanus-and-diphtheria/article71704354.ece",
-      "pubDate": "Sun, 15 Nov 2026 14:10:31 +0530",
+      "title": "Assam Congress writes to PM, seeks enhanced aid for victims of Kaziranga accident",
+      "link": "https://www.thehindu.com/news/national/assam/assam-congress-writes-to-pm-seeks-enhanced-aid-for-victims-of-kaziranga-accident/article71704464.ece",
+      "pubDate": "Sun, 15 Nov 2026 16:17:47 +0530",
       "dateIso": "2026-11-15",
       "dateDisplay": "15 Nov 2026",
       "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
-      "imageUrl": "https://th-i.thgim.com/public/incoming/2a823/article71704379.ece/alternates/LANDSCAPE_1200/vaccination_drive_.jpg",
+      "imageUrl": "https://th-i.thgim.com/public/incoming/l59hbv/article71704480.ece/alternates/LANDSCAPE_1200/20251226248L.jpg",
       "fullParagraphs": [
-        "A vaccination drive will be held across the State from December 3 to 5 to protect children against diphtheria and tetanus, which are potentially life-threatening yet preventable bacterial diseases.",
-        "According to a release from the Department of Health, Medical and Family Welfare, the TD (Tetanus-Diphtheria) vaccine will be administered to children who have completed 10 and 16 years of age. The health department aims to cover more than 95% of children in this age bracket during the drive, which will be conducted across government and private schools and intermediate colleges on three days.",
-        "Children receive Pentavalent vaccines when very young as part of the immunisation programme, and the TD vaccine is administered to provide additional protection. According to the release, protection during adolescence is also essential, as diphtheria and tetanus are infectious diseases that can cause serious illness and even prove fatal.",
-        "Children who have completed 10 years of age should be administered the TD-10 vaccine, while those who have completed 16 years should receive the TD-16 vaccine.",
-        "Before the drive begins, ANMs have been directed to prepare a list of government and private schools and intermediate colleges in their jurisdictions and collect details of children eligible for vaccination. They should also identify those who did not attend schools or colleges. They have also been tasked with arranging the required vaccine doses, medical supplies, among other things.",
-        "Health and Family Welfare Commissioner and National Health Mission Director K.V.N. Chakradhar Babu directed District Medical and Health Officers, District Immunisation Officers and medical officers working in Primary Health Centres to conduct coordination meetings with the departments of Women and Child Welfare, Education, Minority Welfare, Panchayat Raj and Municipal Administration and Urban Development for the effective implementation of the drive.",
-        "Mr. Chakradhar Babu directed district health officials to continuously monitor the drive and inspect vaccination centres to ensure adequate vaccine availability, anaphylaxis kits, and other medical supplies to treat any emergencies.",
-        "Once vaccination is completed, digital certificates of the same should be issued to all beneficiaries and the same information should be uploaded on online health portals, the official said."
+        "Assam Congress leader Debabrata Saikia on Sunday (November 15, 2026) urged Prime Minister Narendra Modi to enhance compensation for victims of the Kaziranga minibus-truck collision , provide free treatment to the injured and livelihood assistance to families of the 26 deceased.",
+        "In the letter, the former leader of the opposition in the Assembly expressed concern over the deplorable condition of the National Highway-715 stretch and alleged that the authorities' neglect of essential road safety measures was disturbing.",
+        "Mr. Saikia demanded a thorough examination of the road's condition, design, maintenance, traffic management and safety arrangements, as well as urgent intervention on highway safety, healthcare and infrastructure of the region.",
+        "Appreciating the Prime Minister for announcing financial assistance immediately after the accident, he added that the magnitude of the tragedy demanded enhanced compensation and rehabilitation measures.",
+        "Administrative accountability must be fixed while the conduct of the drivers involved must also be investigated, the Congress leader said in the letter while expressing disappointment over the response of Chief Minister Himanta Biswa Sarma, who visited the accident site a day later on Saturday (November 14, 2026).",
+        "Mr. Saikia claimed that while Mr. Sarma announced ex gratia and promised a probe into the accident, his remarks had failed to adequately address the grievances of locals about the highway. He also referred to the Chief Minister's reported remarks about a possible medical emergency involving the deceased driver, saying this should not divert attention from potential deficiencies in highway infrastructure.",
+        "At least 26 people died, including minors, and 20 others were injured in a head-on collision between a minibus and a container truck near Kaziranga National Park in Assam on Friday (November 13, 2026), officials said. Many of the victims were college students.",
+        "The Congress leader further said that Mr. Sarma himself had acknowledged that certain traffic restrictions had previously been relaxed under political pressure, making an independent examination of administrative decisions necessary.",
+        "In the letter, he also raised concerns relating to the Kaziranga region, including the NH-715 safety, healthcare facilities, alleged misuse of hospital premises, environmental protection, expansion of the eco-sensitive zone and land acquisitions, among others.",
+        "Mr. Saikia sought an increase in total compensation to the next of kin of each deceased to at least ₹20 lakh, inclusive of the ₹9 lakh already announced by the Central and State Governments, with additional assistance for families losing multiple members.",
+        "He also sought free medical treatment, rehabilitation and disability compensation for the injured, scholarships for dependent children, and livelihood assistance for families losing their principal earning members.",
+        "The Congress leader further asked for a comprehensive independent enquiry into the accident, including the NH-715 condition and compliance with safety standards."
       ],
-      "deepExplanation": "<strong>1. Core Context & Background:</strong> A vaccination drive will be held across the State from December 3 to 5 to protect children against diphtheria and tetanus, which are potentially life-threatening yet preventable bacterial diseases.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> According to a release from the Department of Health, Medical and Family Welfare, the TD (Tetanus-Diphtheria) vaccine will be administered to children who have completed 10 and 16 years of age. The health department aims to cover more than 95% of children in this age bracket during the drive, which will be conducted across government and private schools and intermediate colleges on three days.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Once vaccination is completed, digital certificates of the same should be issued to all beneficiaries and the same information should be uploaded on online health portals, the official said.",
+      "deepExplanation": "<strong>1. Core Context & Background:</strong> Assam Congress leader Debabrata Saikia on Sunday (November 15, 2026) urged Prime Minister Narendra Modi to enhance compensation for victims of the Kaziranga minibus-truck collision , provide free treatment to the injured and livelihood assistance to families of the 26 deceased.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> In the letter, the former leader of the opposition in the Assembly expressed concern over the deplorable condition of the National Highway-715 stretch and alleged that the authorities' neglect of essential road safety measures was disturbing. Saikia demanded a thorough examination of the road's condition, design, maintenance, traffic management and safety arrangements, as well as urgent intervention on highway safety, healthcare and infrastructure of the region.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> The Congress leader further asked for a comprehensive independent enquiry into the accident, including the NH-715 condition and compliance with safety standards.",
       "vocabList": [
-        "Vaccination",
-        "December",
-        "Children",
-        "Diphtheria",
-        "Potentially",
-        "Threatening"
+        "Congress",
+        "Debabrata",
+        "November",
+        "Narendra",
+        "Compensation",
+        "Kaziranga"
       ],
-      "summary": "A vaccination drive will be held across the State from December 3 to 5 to protect children against diphtheria and tetanus, which are potentially life-threatening yet preventable bacterial diseases.",
-      "keyPoints": "• A vaccination drive will be held across the State from December 3 to 5 to protect children against diphtheria and tetanus, which are potentially life-threatening yet preventable bacterial diseases.<br>• According to a release from the Department of Health, Medical and Family Welfare, the TD (Tetanus-Diphtheria) vaccine will be administered to children who have completed 10 and 16 years of age. The health department aims to cover more than 95% of children in this age bracket during the drive, which will be conducted across government and private schools and intermediate colleges on three days.<br>• Children receive Pentavalent vaccines when very young as part of the immunisation programme, and the TD vaccine is administered to provide additional protection. According to the release, protection during adolescence is also essential, as diphtheria and tetanus are infectious diseases that can cause serious illness and even prove fatal."
+      "summary": "Assam Congress leader Debabrata Saikia on Sunday (November 15, 2026) urged Prime Minister Narendra Modi to enhance compensation for victims of the Kaziranga minibus-truck collision , provide free treatment to the injured and livelihood assistance to families of the 26 deceased.",
+      "keyPoints": "• Assam Congress leader Debabrata Saikia on Sunday (November 15, 2026) urged Prime Minister Narendra Modi to enhance compensation for victims of the Kaziranga minibus-truck collision , provide free treatment to the injured and livelihood assistance to families of the 26 deceased.<br>• In the letter, the former leader of the opposition in the Assembly expressed concern over the deplorable condition of the National Highway-715 stretch and alleged that the authorities' neglect of essential road safety measures was disturbing.<br>• Mr. Saikia demanded a thorough examination of the road's condition, design, maintenance, traffic management and safety arrangements, as well as urgent intervention on highway safety, healthcare and infrastructure of the region."
     },
     {
       "category": "economy",
@@ -405,6 +418,68 @@
     {
       "category": "ir",
       "categoryLabel": "🌐 International Relations",
+      "title": "Megaspeed says Alice Huang left company in August 2025",
+      "link": "https://www.thehindu.com/news/international/megaspeed-says-alice-huang-left-company-in-august-2025/article71704620.ece",
+      "pubDate": "Sun, 15 Nov 2026 16:57:38 +0530",
+      "dateIso": "2026-11-15",
+      "dateDisplay": "15 Nov 2026",
+      "examRelevance": "GS Paper-II & Current Affairs: Bilateral Agreements, Foreign Visits & UN/G20/BRICS",
+      "imageUrl": "https://th-i.thgim.com/public/incoming/7ckju2/article71704630.ece/alternates/LANDSCAPE_1200/2026-11-15T100429Z_2002936799_RC2TKOADN7KK_RTRMADP_3_NVIDIA-CEO-ALICE-HUANG-MEGASPEED.JPG",
+      "fullParagraphs": [
+        "Megaspeed said on Sunday (November 15, 2026) ​that Chinese businesswoman Alice ‌Huang , whose ties ​to former ⁠Nvidia CEO Jensen Huang raised U.S. national security ‌concerns, had officially left Megaspeed on ‌August 30, ‌2025, ⁠and had no ⁠current role at the Singapore-based company.",
+        "\"Megaspeed does not ​comment on ‌Ms. Huang’s personal and private matters,\" the company added in ‌a statement.",
+        "\"Megaspeed is ​aware of recent media reports ⁠containing assertions about our business, supply chain ‌and global operations that are not supported by verifiable evidence.\"",
+        "The company said it conducted \"legitimate ‌and lawful business\" and ​had retained external legal counsel to ⁠conduct a thorough internal ⁠investigation."
+      ],
+      "deepExplanation": "<strong>1. Core Context & Background:</strong> Megaspeed said on Sunday (November 15, 2026) ​that Chinese businesswoman Alice ‌Huang , whose ties ​to former ⁠Nvidia CEO Jensen Huang raised U.S.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> national security ‌concerns, had officially left Megaspeed on ‌August 30, ‌2025, ⁠and had no ⁠current role at the Singapore-based company. \"Megaspeed does not ​comment on ‌Ms.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> \"Megaspeed is ​aware of recent media reports ⁠containing assertions about our business, supply chain ‌and global operations that are not supported by verifiable evidence.\" The company said it conducted \"legitimate ‌and lawful business\" and ​had retained external legal counsel to ⁠conduct a thorough internal ⁠investigation.",
+      "vocabList": [
+        "Megaspeed",
+        "November",
+        "Businesswoman",
+        "Security",
+        "Concerns",
+        "Officially"
+      ],
+      "summary": "Megaspeed said on Sunday (November 15, 2026) ​that Chinese businesswoman Alice ‌Huang , whose ties ​to former ⁠Nvidia CEO Jensen Huang raised U.S. national security ‌concerns, had officially left Megaspeed on ‌August 30, ‌2025, ⁠and had no ⁠current role at the Singapore-based company.",
+      "keyPoints": "• Megaspeed said on Sunday (November 15, 2026) ​that Chinese businesswoman Alice ‌Huang , whose ties ​to former ⁠Nvidia CEO Jensen Huang raised U.S. national security ‌concerns, had officially left Megaspeed on ‌August 30, ‌2025, ⁠and had no ⁠current role at the Singapore-based company.<br>• \"Megaspeed does not ​comment on ‌Ms. Huang’s personal and private matters,\" the company added in ‌a statement.<br>• \"Megaspeed is ​aware of recent media reports ⁠containing assertions about our business, supply chain ‌and global operations that are not supported by verifiable evidence.\""
+    },
+    {
+      "category": "ir",
+      "categoryLabel": "🌐 International Relations",
+      "title": "At least two injured as passenger, cargo planes collide at U.S. airport",
+      "link": "https://www.thehindu.com/news/international/2-injured-as-passenger-cargo-planes-collide-at-us-airport/article71704597.ece",
+      "pubDate": "Sun, 15 Nov 2026 16:47:39 +0530",
+      "dateIso": "2026-11-15",
+      "dateDisplay": "15 Nov 2026",
+      "examRelevance": "GS Paper-II & Current Affairs: Bilateral Agreements, Foreign Visits & UN/G20/BRICS",
+      "imageUrl": "https://th-i.thgim.com/public/incoming/4juqip/article71704611.ece/alternates/LANDSCAPE_1200/iStock-1220411189.jpg",
+      "fullParagraphs": [
+        "Two people were injured after a Copa Airlines passenger plane collided with a UPS cargo aircraft while taxiing on the tarmac at Miami International Airport in the U.S., a media report said.",
+        "The incident occurred around 9:15 p.m. on Saturday (November 14, 2026) when the wingtip of a Copa Airlines Boeing 737 struck the nose of a UPS Boeing 767, the CNN report said, citing the Federal Aviation Administration (FAA).",
+        "Air traffic controllers had instructed the UPS crew to give way to the Copa aircraft, the FAA said, adding that it was investigating the collision.",
+        "According to the report, all 166 passengers and six crew members disembarked, and the Copa aircraft returned to the terminal.",
+        "Both persons sustained minor injuries and were treated at the scene, CNN quoted airport communications director Greg Chin as saying.",
+        "The Copa flight had arrived from Panama City, while the UPS aircraft was preparing to depart for Bogota, Colombia, the report said.",
+        "\"Our crew is safe, and we are committed to working with authorities to determine what happened,\" UPS Airlines said on X.",
+        "\"The safety of our employees and the public is our highest priority,\" it added.",
+        "Meanwhile, Copa Airlines issued a statement expressing regret over the disruption to passengers.",
+        "The incident came a day after a nationwide flight grounding triggered widespread cancellations across the U.S.."
+      ],
+      "deepExplanation": "<strong>1. Core Context & Background:</strong> Two people were injured after a Copa Airlines passenger plane collided with a UPS cargo aircraft while taxiing on the tarmac at Miami International Airport in the U.S., a media report said.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> The incident occurred around 9:15 p.m. on Saturday (November 14, 2026) when the wingtip of a Copa Airlines Boeing 737 struck the nose of a UPS Boeing 767, the CNN report said, citing the Federal Aviation Administration (FAA).<br><br><strong>3. Way Forward & Exam Conclusion:</strong> The incident came a day after a nationwide flight grounding triggered widespread cancellations across the U.S..",
+      "vocabList": [
+        "Airlines",
+        "Passenger",
+        "Collided",
+        "Aircraft",
+        "Incident",
+        "Occurred"
+      ],
+      "summary": "Two people were injured after a Copa Airlines passenger plane collided with a UPS cargo aircraft while taxiing on the tarmac at Miami International Airport in the U.S., a media report said.",
+      "keyPoints": "• Two people were injured after a Copa Airlines passenger plane collided with a UPS cargo aircraft while taxiing on the tarmac at Miami International Airport in the U.S., a media report said.<br>• The incident occurred around 9:15 p.m. on Saturday (November 14, 2026) when the wingtip of a Copa Airlines Boeing 737 struck the nose of a UPS Boeing 767, the CNN report said, citing the Federal Aviation Administration (FAA).<br>• Air traffic controllers had instructed the UPS crew to give way to the Copa aircraft, the FAA said, adding that it was investigating the collision."
+    },
+    {
+      "category": "ir",
+      "categoryLabel": "🌐 International Relations",
       "title": "Trump administration blames ‘overloaded’ systems for ground stop after FAA lets flights resume",
       "link": "https://www.thehindu.com/news/international/trump-administration-blames-overloaded-systems-for-ground-stop-after-faa-lets-flights-resume/article71700826.ece",
       "pubDate": "Sun, 15 Nov 2026 14:26:34 +0530",
@@ -543,76 +618,30 @@
       "keyPoints": "• Elon Musk’s SpaceX on Saturday (November 14, 2026) pulled off the first-ever “catch” of a spaceship, a technical feat showing the feasibility of fully reusable rockets that would bring affordable spaceflight one step closer to reality.<br>• The Starship emerged from the clouds after surviving the extreme heat of re-entering Earth’s atmosphere, then descended slowly over SpaceX’s south Texas Starbase before slipping smoothly between mechanical “chopstick arms” above Launch Pad 2.<br>• The success marked a milestone in the space industry’s decades-long pursuit of fully reusable rocket systems -- a goal that can drastically reduce mission costs and make more frequent launches possible."
     },
     {
-      "category": "ir",
-      "categoryLabel": "🌐 International Relations",
-      "title": "NATO to skip a leaders' summit in Albania next year as high-level meetings are scaled back",
-      "link": "https://www.thehindu.com/news/international/nato-to-skip-a-leaders-summit-in-albania-next-year-as-high-level-meetings-are-scaled-back/article71704174.ece",
-      "pubDate": "Sun, 15 Nov 2026 12:17:17 +0530",
+      "category": "scitech",
+      "categoryLabel": "🚀 Science, Tech & Environment",
+      "title": "Fading tetanus and diphtheria immunity: experts explain why the Td shot is important",
+      "link": "https://www.thehindu.com/sci-tech/health/fading-tetanus-and-diphtheria-immunity-experts-explain-why-the-td-shot-is-important/article70662485.ece",
+      "pubDate": "Sun, 15 Nov 2026 14:11:28 +0530",
       "dateIso": "2026-11-15",
       "dateDisplay": "15 Nov 2026",
-      "examRelevance": "GS Paper-II & Current Affairs: Bilateral Agreements, Foreign Visits & UN/G20/BRICS",
-      "imageUrl": "https://th-i.thgim.com/public/incoming/tcs7xr/article71704191.ece/alternates/LANDSCAPE_1200/Ireland_European_Political_Community_72296.jpg",
+      "examRelevance": "GS Paper-III & Prelims: ISRO/NASA Missions, Defense Updates, Tech & Climate Reports",
+      "imageUrl": "https://th-i.thgim.com/public/incoming/dp17qt/article70662484.ece/alternates/LANDSCAPE_1200/2026-01-09T160738Z_1459209238_RC2RXIA2SHKU_RTRMADP_3_HEALTH-USA-JPM-M-A.JPG",
       "fullParagraphs": [
-        "NATO is scaling back its high-level meetings and will not hold a leaders' summit in Albania next year as previously planned amid tension within the alliance over defence spending, Iran and the war in Ukraine.",
-        "Albanian Prime Minister Edi Rama said on Thursday (November 12, 2026) that “there is not yet a common position on when the summit will happen, for sure not in 2027.” He said that “in 2028, if it will be a summit, it will be in Tirana,” Albania's capital.",
-        "NATO Secretary-General Mark Rutte played down the issue. “We are flexible with NATO summits,” he told The Associated Press in an interview. “We have summits when we need them,” he said, and will hold the next one “when a necessity is there.”",
-        "Until about a decade ago, NATO held summits every two years.",
-        "It's not just about gatherings between U.S. President Donald Trump and his counterparts.",
-        "NATO Defence Ministers usually meet in October, but no talks took place last month, and none are planned for October 2027. Foreign Ministers only have one scheduled meeting next year, instead of two, under what NATO describes as a “reorganization package.”",
-        "U.S. Defence Secretary Pete Hegseth and Secretary of State Marco Rubio have each skipped a NATO meeting or left before talks ended since they came to office. Mr. Hegseth has used defence ministerial gatherings to berate or cajole European allies and Canada.",
-        "The planned summit in Albania highlights the alliance's challenges. Albania was appointed next year's host in 2025, but its name was removed from a July summit declaration.",
-        "Some allies believe that Albania is not spending enough on defence and they were reluctant to reward the country with NATO's big event. The government in Tirana is projected to spend 2.15% of its gross domestic product on defense this year.",
-        "NATO's target is for the 32 allies to spend 3.5% of GDP on core defense by 2035, and 1.5% on defense-related infrastructure. Albania is not the worst offender among the 32 member countries. Spain, Belgium and Slovenia are faring much worse.",
-        "But hosting a summit itself has tremendous financial and political costs. The Netherlands required a year of preparation ahead of the 2025 meeting in The Hague, and a roughly $100 million investment.",
-        "Officials said NATO would have needed to decide on Albania by October for it to have enough time to organize a summit next year."
+        "Tetanus and diphtheria are two preventable diseases. And still, they surface years after childhood vaccinations. As antibody levels decline over time, especially against diphtheria, could the introduction of the Td vaccine signal a crucial point in closing this long-overlooked gap in adult vaccination and protection?",
+        "According to the World Health Organization (WHO), maternal and neonatal tetanus has declined significantly over the past two decades. But thousands of people still die from the disease each year, with newborns being especially at risk, particularly in low- and middle-income countries. Diphtheria also continues to cause outbreaks in areas where immunity wanes or vaccine coverage is insufficient."
       ],
-      "deepExplanation": "<strong>1. Core Context & Background:</strong> NATO is scaling back its high-level meetings and will not hold a leaders' summit in Albania next year as previously planned amid tension within the alliance over defence spending, Iran and the war in Ukraine.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Albanian Prime Minister Edi Rama said on Thursday (November 12, 2026) that “there is not yet a common position on when the summit will happen, for sure not in 2027.” He said that “in 2028, if it will be a summit, it will be in Tirana,” Albania's capital. NATO Secretary-General Mark Rutte played down the issue.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Officials said NATO would have needed to decide on Albania by October for it to have enough time to organize a summit next year.",
+      "deepExplanation": "<strong>1. Core Context & Background:</strong> Tetanus and diphtheria are two preventable diseases.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> And still, they surface years after childhood vaccinations. As antibody levels decline over time, especially against diphtheria, could the introduction of the Td vaccine signal a crucial point in closing this long-overlooked gap in adult vaccination and protection?<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Diphtheria also continues to cause outbreaks in areas where immunity wanes or vaccine coverage is insufficient.",
       "vocabList": [
-        "Meetings",
-        "Previously",
-        "Alliance",
-        "Spending",
-        "Albanian",
-        "Thursday"
+        "Diphtheria",
+        "Preventable",
+        "Diseases",
+        "Childhood",
+        "Vaccinations",
+        "Antibody"
       ],
-      "summary": "NATO is scaling back its high-level meetings and will not hold a leaders' summit in Albania next year as previously planned amid tension within the alliance over defence spending, Iran and the war in Ukraine.",
-      "keyPoints": "• NATO is scaling back its high-level meetings and will not hold a leaders' summit in Albania next year as previously planned amid tension within the alliance over defence spending, Iran and the war in Ukraine.<br>• Albanian Prime Minister Edi Rama said on Thursday (November 12, 2026) that “there is not yet a common position on when the summit will happen, for sure not in 2027.” He said that “in 2028, if it will be a summit, it will be in Tirana,” Albania's capital.<br>• NATO Secretary-General Mark Rutte played down the issue. “We are flexible with NATO summits,” he told The Associated Press in an interview. “We have summits when we need them,” he said, and will hold the next one “when a necessity is there.”"
-    },
-    {
-      "category": "ir",
-      "categoryLabel": "🌐 International Relations",
-      "title": "U.S. suggested Kyiv cede land to Russia in exchange for joining NATO, says Zelenskyy",
-      "link": "https://www.thehindu.com/news/international/us-suggested-kyiv-cede-land-to-russia-in-exchange-for-joining-nato-says-zelenskyy/article71704053.ece",
-      "pubDate": "Sun, 15 Nov 2026 11:55:16 +0530",
-      "dateIso": "2026-11-15",
-      "dateDisplay": "15 Nov 2026",
-      "examRelevance": "GS Paper-II & Current Affairs: Bilateral Agreements, Foreign Visits & UN/G20/BRICS",
-      "imageUrl": "https://th-i.thgim.com/public/incoming/celdpx/article71704055.ece/alternates/LANDSCAPE_1200/Russia_Ukraine_War_397_9.jpg",
-      "fullParagraphs": [
-        "Washington has suggested Ukraine cede land to Russia in exchange for joining NATO, President Volodymyr Zelenskyy said in comments released on Saturday (November 14, 2026), adding that it indicated his country’s ties with the Western military alliance are “back on the agenda”.",
-        "Mr. Zelenskyy also warned the Kremlin was “betting everything” on this winter’s military campaign.",
-        "Moscow has pounded Ukraine in the run-up to the colder months, with Russian President Vladimir Putin showing no sign of backing down.",
-        "U.S. envoys Jared Kushner and Steve Witkoff met both Mr. Putin and Mr. Zelenskyy separately on Thursday after two days of talks with their delegations in Abu Dhabi, which ended with no breakthrough.",
-        "“The Americans raised a question: ‘What if Ukraine joins NATO? Would Ukraine withdraw from Donbas?’ This was the first time this had been raised,” Mr. Zelenskyy said.",
-        "“After providing Ukraine with this kind of defence support, seeing this kind of development of our army and this strength in our defence, they cannot simply let Ukraine go,” he added.",
-        "He said the discussion showed that “NATO is back on the agenda” for Ukraine.",
-        "Ukraine has long sought to enter the military alliance, which Moscow has considered a red line.",
-        "NATO and Washington have not yet commented directly on Mr. Zelenskyy’s account.",
-        "Mr. Kushner, U.S. President Donald Trump’s son-in-law, later posted on X that media had reported “maximalist propositions proposed by both sides, along with strong political rhetoric”.",
-        "“However, we are determined to continue the hard work, maintain the confidentiality necessary for sensitive negotiations, and find a pathway to end this horrible war,” he said, adding “several new ideas emerged from the discussions and are now being explored.”",
-        "This week’s meetings have led to agreements that European countries would join future talks on ending the war."
-      ],
-      "deepExplanation": "<strong>1. Core Context & Background:</strong> Washington has suggested Ukraine cede land to Russia in exchange for joining NATO, President Volodymyr Zelenskyy said in comments released on Saturday (November 14, 2026), adding that it indicated his country’s ties with the Western military alliance are “back on the agenda”.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Zelenskyy also warned the Kremlin was “betting everything” on this winter’s military campaign. Moscow has pounded Ukraine in the run-up to the colder months, with Russian President Vladimir Putin showing no sign of backing down.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> “However, we are determined to continue the hard work, maintain the confidentiality necessary for sensitive negotiations, and find a pathway to end this horrible war,” he said, adding “several new ideas emerged from the discussions and are now being explored.” This week’s meetings have led to agreements that European countries would join future talks on ending the war.",
-      "vocabList": [
-        "Washington",
-        "Suggested",
-        "Exchange",
-        "President",
-        "Volodymyr",
-        "Zelenskyy"
-      ],
-      "summary": "Washington has suggested Ukraine cede land to Russia in exchange for joining NATO, President Volodymyr Zelenskyy said in comments released on Saturday (November 14, 2026), adding that it indicated his country’s ties with the Western military alliance are “back on the agenda”.",
-      "keyPoints": "• Washington has suggested Ukraine cede land to Russia in exchange for joining NATO, President Volodymyr Zelenskyy said in comments released on Saturday (November 14, 2026), adding that it indicated his country’s ties with the Western military alliance are “back on the agenda”.<br>• Mr. Zelenskyy also warned the Kremlin was “betting everything” on this winter’s military campaign.<br>• Moscow has pounded Ukraine in the run-up to the colder months, with Russian President Vladimir Putin showing no sign of backing down."
+      "summary": "Tetanus and diphtheria are two preventable diseases. And still, they surface years after childhood vaccinations. As antibody levels decline over time, especially against diphtheria, could the introduction of the Td vaccine signal a crucial point in closing this long-overlooked gap in adult vaccination and protection?",
+      "keyPoints": "• Tetanus and diphtheria are two preventable diseases. And still, they surface years after childhood vaccinations. As antibody levels decline over time, especially against diphtheria, could the introduction of the Td vaccine signal a crucial point in closing this long-overlooked gap in adult vaccination and protection?<br>• According to the World Health Organization (WHO), maternal and neonatal tetanus has declined significantly over the past two decades. But thousands of people still die from the disease each year, with newborns being especially at risk, particularly in low- and middle-income countries. Diphtheria also continues to cause outbreaks in areas where immunity wanes or vaccine coverage is insufficient."
     },
     {
       "category": "scitech",
@@ -789,36 +818,6 @@
       "keyPoints": "• Exposure to extreme heat during pregnancy can lead to severe outcomes, including preterm birth, stillbirth and congenital abnormalities in newborns, prompting experts at the United Nations Climate Change Conference (COP31) to highlight maternal health risks and call for targeted adaptation strategies.<br>• The issue comes into focus as countries at COP31 prepare to discuss progress towards the Global Goal on Adaptation, a framework to help nations develop key adaptation measures, including those needed to address the health impacts of climate change.<br>• However, translating growing recognition of climate-related health risks into action remains a challenge, particularly in the absence of adequate financial support."
     },
     {
-      "category": "scitech",
-      "categoryLabel": "🚀 Science, Tech & Environment",
-      "title": "Health Wrap Episode 59 discusses living with diabetes, approaches to diabetes care and more",
-      "link": "https://www.thehindu.com/sci-tech/health/health-wrap-episode-59-discusses-living-with-diabetes-approaches-to-diabetes-care-and-more/article71704119.ece",
-      "pubDate": "Sun, 15 Nov 2026 11:35:59 +0530",
-      "dateIso": "2026-11-15",
-      "dateDisplay": "15 Nov 2026",
-      "examRelevance": "GS Paper-III & Prelims: ISRO/NASA Missions, Defense Updates, Tech & Climate Reports",
-      "imageUrl": "https://th-i.thgim.com/public/incoming/9m9fxd/article71704122.ece/alternates/LANDSCAPE_1200/AFP_36XL2HC.jpg",
-      "fullParagraphs": [
-        "The 59th episode of Health Wrap by The Hindu, marking World Diabetes Day, explores the everyday realities of living with diabetes and approaches to managing the condition over time.",
-        "Ramya Kannan, Health Editor, The Hindu, speaks to individuals living with diabetes, including older adults who share their experiences of managing the condition over several years. Their experiences offer perspectives on living with diabetes and the importance of sustained management.",
-        "The episode also features a discussion with Dr. V. Mohan, Chairman and Chief of Diabetology, Dr. Mohan’s Diabetes Specialities Centre, Chennai, on practical approaches to diabetes care.",
-        "The discussion looks at the role of dietary habits and food choices in diabetes management, the importance of regular physical activity and exercise, and blood glucose monitoring. It also examines how sustainable changes to everyday food and activity routines can support long-term management of the condition.",
-        "The episode discusses practical measures that people living with diabetes can incorporate into their daily lives, the importance of consistent approaches to care, and how genetic predisposition and environmental factors influence the development and management of diabetes. It also explores longevity and living well with diabetes over the years.",
-        "The episode can also be viewed on The Hindu health page along with the full playlist of The Health Wrap"
-      ],
-      "deepExplanation": "<strong>1. Core Context & Background:</strong> The 59th episode of Health Wrap by The Hindu, marking World Diabetes Day, explores the everyday realities of living with diabetes and approaches to managing the condition over time.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Ramya Kannan, Health Editor, The Hindu, speaks to individuals living with diabetes, including older adults who share their experiences of managing the condition over several years. Their experiences offer perspectives on living with diabetes and the importance of sustained management.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> The episode can also be viewed on The Hindu health page along with the full playlist of The Health Wrap",
-      "vocabList": [
-        "Diabetes",
-        "Explores",
-        "Everyday",
-        "Realities",
-        "Approaches",
-        "Managing"
-      ],
-      "summary": "The 59th episode of Health Wrap by The Hindu, marking World Diabetes Day, explores the everyday realities of living with diabetes and approaches to managing the condition over time.",
-      "keyPoints": "• The 59th episode of Health Wrap by The Hindu, marking World Diabetes Day, explores the everyday realities of living with diabetes and approaches to managing the condition over time.<br>• Ramya Kannan, Health Editor, The Hindu, speaks to individuals living with diabetes, including older adults who share their experiences of managing the condition over several years. Their experiences offer perspectives on living with diabetes and the importance of sustained management.<br>• The episode also features a discussion with Dr. V. Mohan, Chairman and Chief of Diabetology, Dr. Mohan’s Diabetes Specialities Centre, Chennai, on practical approaches to diabetes care."
-    },
-    {
       "category": "editorial",
       "categoryLabel": "✍️ Editorial Spark",
       "title": "Critical ban: On recycling of lithium-ion batteries",
@@ -984,49 +983,51 @@
     "2026-11-15": {
       "dateIso": "2026-11-15",
       "dateDisplay": "15 Nov 2026",
-      "updatedAt": "15 Nov 2026, 02:46 PM IST",
+      "updatedAt": "15 Nov 2026, 05:24 PM IST",
       "articles": [
         {
           "category": "national",
           "categoryLabel": "🏛️ National & Polity",
-          "title": "Kozhikode teacher charged after caning 10-year-old Class 5 student",
-          "link": "https://www.thehindu.com/news/cities/kozhikode/kozhikode-teacher-charged-after-caning-10-year-old-class-5-student/article71704163.ece",
-          "pubDate": "Sun, 15 Nov 2026 14:40:10 +0530",
+          "title": "Keralam power purchase row: Opposition Leader Pinarayi Vijayan alleges irregularities in decision to procure 200 MW from VEH Global",
+          "link": "https://www.thehindu.com/news/national/kerala/keralam-power-purchase-row-opposition-leader-pinarayi-vijayan-alleges-irregularities-in-decision-to-procure-200-mw-from-veh-global/article71704536.ece",
+          "pubDate": "Sun, 15 Nov 2026 17:15:30 +0530",
           "dateIso": "2026-11-15",
           "dateDisplay": "15 Nov 2026",
           "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
-          "imageUrl": "https://th-i.thgim.com/public/news/cities/bangalore/article22429504.ece/alternates/LANDSCAPE_1200/26VZCORPORAL",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/yo8wbk/article71704631.ece/alternates/LANDSCAPE_1200/Kerala-HC-staysGDKGNCAUI.3.jpg.jpg",
           "fullParagraphs": [
-            "The Thamarassery police have registered a case against a teacher on charges of assaulting a 10-year-old Class V student. The accused has been identified as Mubashir, an Arabic teacher at the school near Engappuzha in Kozhikode district.",
-            "According to the complaint lodged by the girl’s father, the incident occurred on November 6, 2026, after an argument among students over the use of the school playground. The teacher allegedly took the girl outside the classroom and caned her in front of other students, accusing her of making a remark against him during the dispute.",
-            "The complaint states that the child suffered severe physical pain and urinated in her clothes as a result of the assault. The girl’s father says she has been experiencing severe mental distress since the incident and has stopped attending classes out of humiliation, despite undergoing counseling.",
-            "He further alleged that the school management was attempting to shield the teacher and that the police had delayed taking strict action, including arresting the accused. Claiming that the politically influential teacher had attempted to settle the matter out of court by offering financial assistance, the father stated that he had also filed a formal complaint with the Kerala State Commission for Protection of Child Rights seeking justice for his daughter. Police said an investigation into the incident was under way."
+            "Leader of Opposition Pinarayi Vijayan has alleged that the United Democratic Front (UDF) government decided to purchase electricity from a firm called VEH Global at a relatively high price of ₹11 per unit without inviting bids or securing the approval of the Kerala State Electricity Regulatory Commission (KSERC).",
+            "According to the Leader of the Opposition, a supply of 200 MW was secured merely on the strength of an offer made by the firm. The Commission has not yet approved this power purchase, Mr. Vijayan said.",
+            "According to him, the government entered into this deal when wind energy costs just ₹3 or ₹4 per unit. The UDF decision entails a huge loss for the exchequer, he said.",
+            "Mr. Vijayan also alleged that VEH Global was ineligible to participate in a tender process. According to him, the government issued orders on September 22 allowing power procurement from this firm. The same order mentioned its ineligibility, he said.",
+            "Recently, the UDF government’s decision to procure electricity from over-the-counter (OTC) platform GNA Energy allegedly overlooking an offer from the Himachal Pradesh government had sparked a major political row in Keralam.",
+            "On Sunday (November 15, 2026), Mr. Vijayan demanded that Chief Minister V.D. Satheesan explain to the people on what basis was the agreement with VEH Global entered into. On the corruption allegations related to the GNA Energy deal, Mr. Satheesan had defended himself saying that no agreement had been inked with GNA. However, in this case, he cannot say so, Mr. Vijayan said."
           ],
-          "deepExplanation": "<strong>1. Core Context & Background:</strong> The Thamarassery police have registered a case against a teacher on charges of assaulting a 10-year-old Class V student.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> The accused has been identified as Mubashir, an Arabic teacher at the school near Engappuzha in Kozhikode district. According to the complaint lodged by the girl’s father, the incident occurred on November 6, 2026, after an argument among students over the use of the school playground.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Police said an investigation into the incident was under way.",
+          "deepExplanation": "<strong>1. Core Context & Background:</strong> Leader of Opposition Pinarayi Vijayan has alleged that the United Democratic Front (UDF) government decided to purchase electricity from a firm called VEH Global at a relatively high price of ₹11 per unit without inviting bids or securing the approval of the Kerala State Electricity Regulatory Commission (KSERC).<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> According to the Leader of the Opposition, a supply of 200 MW was secured merely on the strength of an offer made by the firm. The Commission has not yet approved this power purchase, Mr.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> However, in this case, he cannot say so, Mr.",
           "vocabList": [
-            "Thamarassery",
-            "Registered",
-            "Assaulting",
-            "Identified",
-            "Mubashir",
-            "Engappuzha"
+            "Opposition",
+            "Pinarayi",
+            "Democratic",
+            "Purchase",
+            "Electricity",
+            "Relatively"
           ],
-          "summary": "The Thamarassery police have registered a case against a teacher on charges of assaulting a 10-year-old Class V student. The accused has been identified as Mubashir, an Arabic teacher at the school near Engappuzha in Kozhikode district.",
-          "keyPoints": "• The Thamarassery police have registered a case against a teacher on charges of assaulting a 10-year-old Class V student. The accused has been identified as Mubashir, an Arabic teacher at the school near Engappuzha in Kozhikode district.<br>• According to the complaint lodged by the girl’s father, the incident occurred on November 6, 2026, after an argument among students over the use of the school playground. The teacher allegedly took the girl outside the classroom and caned her in front of other students, accusing her of making a remark against him during the dispute.<br>• The complaint states that the child suffered severe physical pain and urinated in her clothes as a result of the assault. The girl’s father says she has been experiencing severe mental distress since the incident and has stopped attending classes out of humiliation, despite undergoing counseling."
+          "summary": "Leader of Opposition Pinarayi Vijayan has alleged that the United Democratic Front (UDF) government decided to purchase electricity from a firm called VEH Global at a relatively high price of ₹11 per unit without inviting bids or securing the approval of the Kerala State Electricity Regulatory Commission (KSERC).",
+          "keyPoints": "• Leader of Opposition Pinarayi Vijayan has alleged that the United Democratic Front (UDF) government decided to purchase electricity from a firm called VEH Global at a relatively high price of ₹11 per unit without inviting bids or securing the approval of the Kerala State Electricity Regulatory Commission (KSERC).<br>• According to the Leader of the Opposition, a supply of 200 MW was secured merely on the strength of an offer made by the firm. The Commission has not yet approved this power purchase, Mr. Vijayan said.<br>• According to him, the government entered into this deal when wind energy costs just ₹3 or ₹4 per unit. The UDF decision entails a huge loss for the exchequer, he said."
         },
         {
           "category": "national",
           "categoryLabel": "🏛️ National & Polity",
           "title": "Cyclone Akvan to move towards Andhra coast by November 19, rainfall expected in Tamil Nadu, Bengal",
           "link": "https://www.thehindu.com/news/national/depression-to-turn-severe-cyclonic-storm-over-bay-of-bengal-by-november-17/article71704137.ece",
-          "pubDate": "Sun, 15 Nov 2026 14:39:05 +0530",
+          "pubDate": "Sun, 15 Nov 2026 16:59:36 +0530",
           "dateIso": "2026-11-15",
           "dateDisplay": "15 Nov 2026",
           "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
           "imageUrl": "https://th-i.thgim.com/public/incoming/fyhfdi/article71704429.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-11-15%20at%202.29.20%20PM.jpeg",
           "fullParagraphs": [
             "A depression over the southeast and adjoining southwest Bay of Bengal is likely to strengthen into a severe cyclonic storm by November 17, the meteorological department said on Sunday (November 15, 2026).",
-            "Cyclone Akvan is expected to cause rains in north coastal districts in Tamil Nadu, Puducherry and Karaikal area, it said. The department announced that the cycline is expected to move towards the Andhra Pradesh coast around November 19.",
+            "Cyclone Akvan is expected to cause rains in north coastal districts in Tamil Nadu, Puducherry and Karaikal area, it said. The department announced that the cyclone is expected to move towards the Andhra Pradesh coast around November 19.",
             "The Regional Meteorological Centre issued a Nowcast alert at 1 p.m. in Tamilnadu, valid till 4 p.m. for light to moderate rainfall at isolated places over Cuddalore, Chengalpattu, Mayiladuthurai, Nagappattinam, Pudukkottai, Thanjavur, Thiruvarur and Viluppuram districts and Karaikal and Puducherry.",
             "According to the latest weather report, Saturday's (November 14) well-marked low-pressure area over the southeast Bay of Bengal moved northwestward, intensified into a depression and lay centred at 5:30 a.m. today. It is very likely to continue to move northwestward, intensify further into a cyclonic storm over the central parts of the south and adjoining west-central Bay of Bengal on November, 16 and into a severe cyclonic storm on November 17.",
             "The data further added that in addition to northern Tamil Nadu districts, moderate rain at isolated places is likely to occur over western ghat and southern districts of the State from Monday (November 16).",
@@ -1037,7 +1038,7 @@
             "A nip in the air over South Bengal is likely to dissipate as day and night temperatures will rise by two to three degrees Celsius from November 18, it said.",
             "Tamil Nadu / weather news / weather / rains / Monsoon / Puducherry / cyclones"
           ],
-          "deepExplanation": "<strong>1. Core Context & Background:</strong> A depression over the southeast and adjoining southwest Bay of Bengal is likely to strengthen into a severe cyclonic storm by November 17, the meteorological department said on Sunday (November 15, 2026).<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Cyclone Akvan is expected to cause rains in north coastal districts in Tamil Nadu, Puducherry and Karaikal area, it said. The department announced that the cycline is expected to move towards the Andhra Pradesh coast around November 19.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Tamil Nadu / weather news / weather / rains / Monsoon / Puducherry / cyclones",
+          "deepExplanation": "<strong>1. Core Context & Background:</strong> A depression over the southeast and adjoining southwest Bay of Bengal is likely to strengthen into a severe cyclonic storm by November 17, the meteorological department said on Sunday (November 15, 2026).<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Cyclone Akvan is expected to cause rains in north coastal districts in Tamil Nadu, Puducherry and Karaikal area, it said. The department announced that the cyclone is expected to move towards the Andhra Pradesh coast around November 19.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Tamil Nadu / weather news / weather / rains / Monsoon / Puducherry / cyclones",
           "vocabList": [
             "Depression",
             "Southeast",
@@ -1047,135 +1048,146 @@
             "Cyclonic"
           ],
           "summary": "A depression over the southeast and adjoining southwest Bay of Bengal is likely to strengthen into a severe cyclonic storm by November 17, the meteorological department said on Sunday (November 15, 2026).",
-          "keyPoints": "• A depression over the southeast and adjoining southwest Bay of Bengal is likely to strengthen into a severe cyclonic storm by November 17, the meteorological department said on Sunday (November 15, 2026).<br>• Cyclone Akvan is expected to cause rains in north coastal districts in Tamil Nadu, Puducherry and Karaikal area, it said. The department announced that the cycline is expected to move towards the Andhra Pradesh coast around November 19.<br>• The Regional Meteorological Centre issued a Nowcast alert at 1 p.m. in Tamilnadu, valid till 4 p.m. for light to moderate rainfall at isolated places over Cuddalore, Chengalpattu, Mayiladuthurai, Nagappattinam, Pudukkottai, Thanjavur, Thiruvarur and Viluppuram districts and Karaikal and Puducherry."
+          "keyPoints": "• A depression over the southeast and adjoining southwest Bay of Bengal is likely to strengthen into a severe cyclonic storm by November 17, the meteorological department said on Sunday (November 15, 2026).<br>• Cyclone Akvan is expected to cause rains in north coastal districts in Tamil Nadu, Puducherry and Karaikal area, it said. The department announced that the cyclone is expected to move towards the Andhra Pradesh coast around November 19.<br>• The Regional Meteorological Centre issued a Nowcast alert at 1 p.m. in Tamilnadu, valid till 4 p.m. for light to moderate rainfall at isolated places over Cuddalore, Chengalpattu, Mayiladuthurai, Nagappattinam, Pudukkottai, Thanjavur, Thiruvarur and Viluppuram districts and Karaikal and Puducherry."
         },
         {
           "category": "national",
           "categoryLabel": "🏛️ National & Polity",
-          "title": "TMC government considered only Muslims as minority: Bengal CM",
-          "link": "https://www.thehindu.com/news/national/west-bengal/tmc-government-considered-only-muslims-as-minority-bengal-cm/article71704406.ece",
-          "pubDate": "Sun, 15 Nov 2026 14:38:30 +0530",
+          "title": "Air India resumes direct flights to New York, Newark after easing of airspace curbs",
+          "link": "https://www.thehindu.com/news/national/air-india-resumes-direct-flights-to-new-york-newark-after-easing-of-airspace-curbs/article71704583.ece",
+          "pubDate": "Sun, 15 Nov 2026 16:44:25 +0530",
           "dateIso": "2026-11-15",
           "dateDisplay": "15 Nov 2026",
           "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
-          "imageUrl": "https://th-i.thgim.com/public/incoming/1ilf64/article71704427.ece/alternates/LANDSCAPE_1200/80717_26_8_2025_19_2_44_2_260825LOPSUVENDUADHIKARI4.JPG",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/pxcv5q/article71704596.ece/alternates/LANDSCAPE_1200/iStock-622323524.jpg",
           "fullParagraphs": [
-            "West Bengal Chief Minister Suvendu Adhikari on Sunday (November 15, 2026) alleged that the previous TMC government had considered only Muslims as a minority, asserting that Sikhs, Buddhists and Jains are also religious minorities.",
-            "He visited the Gurdwara Bara Sikh Sangat at the city's trading hub, Burrabazar, and participated in a procession of the Sikh community in the area.",
-            "\"Minority does not mean a particular community. Sikhs, Buddhists and Jains are also [religious] minorities. The previous TMC government considered only Muslims as a minority,\" the Chief Minister told reporters after greeting the members of the Sikh community in the gurdwara.",
-            "\"They [Sikhs] are the truest patriots,\" the Chief Minister said.",
-            "Earlier, Mr. Adhikari had repeatedly accused the Mamata Banerjee -led government of indulging in the appeasement of the Muslim community to garner their support in the elections.",
-            "West Bengal / minority group / politics / politics (general)"
+            "Air India on Sunday (November 15, 2026) said it has resumed non-stop flights to New York and Newark from Delhi and Mumbai, following the reopening of a restricted airspace, reducing overall travel time by up to five hours.",
+            "From the first week of this month, Air India began operating these direct flights without a stopover, with the airline using Iraq airspace, sources told PTI on November 6.",
+            "Air India has one daily flight to New York and four weekly services to Newark from Delhi. All of them are operated with A350-900 aircraft.",
+            "From Mumbai, the airline flies daily services to New York and three weekly flights to Newark with Boeing 777-300 ER planes.",
+            "With the easing of airspace curbs, Air India on Sunday said the total travel time for each flight on the routes to New York and Newark from Delhi and Mumbai has been cut down by around 5 hours to 17 hours. Previously, the total travel time was around 22 hours due to an en route fuelling stop at Rome (Italy).",
+            "This year, the closure of Pakistan airspace and airspace restrictions across parts of West Asia amid regional conflict had significantly impacted flight routings between India and North America.",
+            "Subsequently, Air India's flights from Delhi and Mumbai to New York's John F. Kennedy International Airport (JFK) and Newark Liberty International Airport (EWR) started operating with a technical stop in Rome for refuelling.",
+            "\"With airspace restrictions eased, Air India has now resumed non-stop operations on all four India-New York routes,\" the airline said.",
+            "Earlier, the longer routings for these flights through Jordan and Egypt resulted in increased flying hours.",
+            "Last month, a senior airline official said there was a big impact due to the airspace restrictions, including due to the West Asia crisis, and the impact was worse than last year.",
+            "\"The more airspaces are closed, the more southwards flights have to go... the more southwards flights have to go, the more the fuel bill. So, it (airspace curbs) is worse than what we had last year,\" the official had said."
           ],
-          "deepExplanation": "<strong>1. Core Context & Background:</strong> West Bengal Chief Minister Suvendu Adhikari on Sunday (November 15, 2026) alleged that the previous TMC government had considered only Muslims as a minority, asserting that Sikhs, Buddhists and Jains are also religious minorities.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> He visited the Gurdwara Bara Sikh Sangat at the city's trading hub, Burrabazar, and participated in a procession of the Sikh community in the area. \"Minority does not mean a particular community.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> West Bengal / minority group / politics / politics (general)",
+          "deepExplanation": "<strong>1. Core Context & Background:</strong> Air India on Sunday (November 15, 2026) said it has resumed non-stop flights to New York and Newark from Delhi and Mumbai, following the reopening of a restricted airspace, reducing overall travel time by up to five hours.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> From the first week of this month, Air India began operating these direct flights without a stopover, with the airline using Iraq airspace, sources told PTI on November 6. Air India has one daily flight to New York and four weekly services to Newark from Delhi.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> So, it (airspace curbs) is worse than what we had last year,\" the official had said.",
           "vocabList": [
-            "Adhikari",
             "November",
-            "Previous",
-            "Considered",
-            "Minority",
-            "Asserting"
+            "Following",
+            "Reopening",
+            "Restricted",
+            "Airspace",
+            "Reducing"
           ],
-          "summary": "West Bengal Chief Minister Suvendu Adhikari on Sunday (November 15, 2026) alleged that the previous TMC government had considered only Muslims as a minority, asserting that Sikhs, Buddhists and Jains are also religious minorities.",
-          "keyPoints": "• West Bengal Chief Minister Suvendu Adhikari on Sunday (November 15, 2026) alleged that the previous TMC government had considered only Muslims as a minority, asserting that Sikhs, Buddhists and Jains are also religious minorities.<br>• He visited the Gurdwara Bara Sikh Sangat at the city's trading hub, Burrabazar, and participated in a procession of the Sikh community in the area.<br>• \"Minority does not mean a particular community. Sikhs, Buddhists and Jains are also [religious] minorities. The previous TMC government considered only Muslims as a minority,\" the Chief Minister told reporters after greeting the members of the Sikh community in the gurdwara."
+          "summary": "Air India on Sunday (November 15, 2026) said it has resumed non-stop flights to New York and Newark from Delhi and Mumbai, following the reopening of a restricted airspace, reducing overall travel time by up to five hours.",
+          "keyPoints": "• Air India on Sunday (November 15, 2026) said it has resumed non-stop flights to New York and Newark from Delhi and Mumbai, following the reopening of a restricted airspace, reducing overall travel time by up to five hours.<br>• From the first week of this month, Air India began operating these direct flights without a stopover, with the airline using Iraq airspace, sources told PTI on November 6.<br>• Air India has one daily flight to New York and four weekly services to Newark from Delhi. All of them are operated with A350-900 aircraft."
         },
         {
           "category": "national",
           "categoryLabel": "🏛️ National & Polity",
-          "title": "Mekedatu is Karnataka’s right, we will build dam and release Tamil Nadu’s share of water: D.K. Shivakumar",
-          "link": "https://www.thehindu.com/news/national/karnataka/mekedatu-is-karnatakas-right-we-will-build-dam-and-release-tamil-nadus-share-of-water-dk-shivakumar/article71701313.ece",
-          "pubDate": "Sun, 15 Nov 2026 14:21:43 +0530",
+          "title": "PM Modi pays tribute to Birsa Munda on birth anniversary",
+          "link": "https://www.thehindu.com/news/national/pm-modi-pays-tribute-to-birsa-munda-on-birth-anniversary/article71704060.ece",
+          "pubDate": "Sun, 15 Nov 2026 16:33:17 +0530",
           "dateIso": "2026-11-15",
           "dateDisplay": "15 Nov 2026",
           "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
-          "imageUrl": "https://th-i.thgim.com/public/incoming/ndf7vw/article71701399.ece/alternates/LANDSCAPE_1200/dji_fly_20230502_124524_662_1695920060079_photo.jpeg",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/z5sstc/article71704064.ece/alternates/LANDSCAPE_1200/Nearby_Shape-wiGJJGQ1G13.3.jpg.jpg",
           "fullParagraphs": [
-            "Chief Minister D.K. Shivakumar on Saturday (November 14) asserted that Karnataka will go ahead with the Mekedatu balancing reservoir project , describing it as the State’s right and duty, while assuring that Tamil Nadu would receive its stipulated share of Cauvery water.",
-            "Responding to opposition to the project from leaders in Tamil Nadu, including State Congress president Manickam Tagore, Mr. Shivakumar said the neighbouring State should send a delegation to Karnataka to understand the project’s benefits rather than oppose it.",
-            "“Anyone is free to oppose it, but Tamil Nadu must recognise that this is our State and our right. If they wish, let them send a delegation. I am prepared to take them to the dam site and explain the project,” he told presspersons.",
-            "He said Karnataka would respect Tamil Nadu’s entitlement of 177 tmcft of Cauvery water as stipulated by the Supreme Court. “We will build the dam and ensure that they receive their share. Protecting Karnataka’s water rights while ensuring that Tamil Nadu gets its due share is our responsibility. We will not back down when it comes to safeguarding the interests of our State,” he said.",
-            "Describing the opposition to the project as politically motivated, he said the issue should be viewed in the context of the law and the Supreme Court’s directions rather than political rivalry.",
-            "“This is not a political matter. Everyone must respect the law of the land and abide by the Supreme Court’s order. Receiving 177 tmcft of water is Tamil Nadu’s right, and we will honour it,” he said.",
-            "Mr. Shivakumar said the State had sought the necessary forest and environmental clearances from the Centre and was preparing the required documents. All political parties in Karnataka had supported the project, he said, pointing out that the government was ready to take it forward once the clearances were obtained. The Centre’s requirement to provide compensatory land for the forest area that would be submerged was among the issues to be addressed.",
-            "In his interaction with Prime Minister Narendra Modi during the latter’s visit to Karnataka on Friday (November 13), Mr. Shivakumar said political differences should not come in the way of development.",
-            "“Let us compete in politics, but cooperate on development. Securing the Centre’s support for the State’s growth is our responsibility,” he said.",
-            "He said he had also urged the Centre to reject the Kasturirangan report and sought equal participation by the Centre and the State in funding Bengaluru metro projects. He had proposed the formation of a technical committee to oversee the projects and sought faster clearances for pending proposals. The State aimed to expand the metro network to 500 km in future phases, he said.",
-            "On the pending power dues raised during the Suvarna Soudha session, Mr. Shivakumar said the government’s subsidy burden towards electricity supplied to farmers’ irrigation pumpsets had increased from about ₹20,000 crore to ₹30,000 crore.",
-            "He attributed the increase to higher power consumption during drought conditions and the use of lift irrigation schemes to fill tanks, among other factors. The government would address the issue and resolve the pending matters, he said."
+            "Prime Minister Narendra Modi on Sunday (November 15, 2026) paid tributes to tribal icon Birsa Munda on his 151st birth anniversary and extended greetings on the Janjatiya Gaurav Diwas.",
+            "In a post in Hindi on X, the Prime Minister said the courage, struggle and sacrifice of 'Dharti Aaba' would continue to inspire generations to uphold self-respect, freedom and rights.",
+            "Tripura Government prioritising socio-economic development of tribals: CM Manik Saha",
+            "भगवान बिरसा मुंडा जी की जयंती पर उन्हें समस्त देशवासियों की ओर से मेरा कोटि-कोटि नमन। आप सभी को इस दिव्य अवसर से जुड़े जनजातीय गौरव दिवस की बहुत-बहुत शुभकामनाएं। धरती आबा का अदम्य साहस, संघर्ष और बलिदान देश की हर पीढ़ी को स्वाभिमान, स्वतंत्रता और अधिकारों की रक्षा के लिए प्रेरित करता रहेगा। उनसे प्रेरणा लेकर हमारी सरकार जनजातीय भाई-बहनों के सम्मान, अवसर और समृद्धि के लिए कोई कोर-कसर नहीं छोड़ रही है। आइए, सभी मिलकर राष्ट्र निर्माण में जनजातीय समाज के बहुमूल्य योगदान को नमन करें।",
+            "He said the government, drawing inspiration from Birsa Munda, was committed to ensuring dignity, opportunities and prosperity for the tribal community.",
+            "Mr. Modi also called upon people to recognise and honour the invaluable contribution of tribal communities to nation-building.",
+            "PM @narendramodi pays floral tribute to Dharti Aaba Bhagwan Birsa Munda at parliament complex in Delhi https://t.co/1aQMnVQJEA",
+            "Since 2021, Janjatiya Gaurav Diwas is observed every year on November 15 to commemorate the birth anniversary of tribal freedom fighter Birsa Munda."
           ],
-          "deepExplanation": "<strong>1. Core Context & Background:</strong> Shivakumar on Saturday (November 14) asserted that Karnataka will go ahead with the Mekedatu balancing reservoir project , describing it as the State’s right and duty, while assuring that Tamil Nadu would receive its stipulated share of Cauvery water.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Responding to opposition to the project from leaders in Tamil Nadu, including State Congress president Manickam Tagore, Mr. Shivakumar said the neighbouring State should send a delegation to Karnataka to understand the project’s benefits rather than oppose it.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> The government would address the issue and resolve the pending matters, he said.",
+          "deepExplanation": "<strong>1. Core Context & Background:</strong> Prime Minister Narendra Modi on Sunday (November 15, 2026) paid tributes to tribal icon Birsa Munda on his 151st birth anniversary and extended greetings on the Janjatiya Gaurav Diwas.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> In a post in Hindi on X, the Prime Minister said the courage, struggle and sacrifice of 'Dharti Aaba' would continue to inspire generations to uphold self-respect, freedom and rights. Tripura Government prioritising socio-economic development of tribals: CM Manik Saha भगवान बिरसा मुंडा जी की जयंती पर उन्हें समस्त देशवासियों की ओर से मेरा कोटि-कोटि नमन। आप सभी को इस दिव्य अवसर से जुड़े जनजातीय गौरव दिवस की बहुत-बहुत शुभकामनाएं। धरती आबा का अदम्य साहस, संघर्ष और बलिदान देश की हर पीढ़ी को स्वाभिमान, स्वतंत्रता और अधिकारों की रक्षा के लिए प्रेरित करता रहेगा। उनसे प्रेरणा लेकर हमारी सरकार जनजातीय भाई-बहनों के सम्मान, अवसर और समृद्धि के लिए कोई कोर-कसर नहीं छोड़ रही है। आइए, सभी मिलकर राष्ट्र निर्माण में जनजातीय समाज के बहुमूल्य योगदान को नमन करें। He said the government, drawing inspiration from Birsa Munda, was committed to ensuring dignity, opportunities and prosperity for the tribal community.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> PM @narendramodi pays floral tribute to Dharti Aaba Bhagwan Birsa Munda at parliament complex in Delhi https://t.co/1aQMnVQJEA Since 2021, Janjatiya Gaurav Diwas is observed every year on November 15 to commemorate the birth anniversary of tribal freedom fighter Birsa Munda.",
           "vocabList": [
-            "Shivakumar",
-            "Saturday",
+            "Narendra",
             "November",
-            "Asserted",
-            "Karnataka",
-            "Mekedatu"
+            "Tributes",
+            "Anniversary",
+            "Extended",
+            "Greetings"
           ],
-          "summary": "Chief Minister D.K. Shivakumar on Saturday (November 14) asserted that Karnataka will go ahead with the Mekedatu balancing reservoir project , describing it as the State’s right and duty, while assuring that Tamil Nadu would receive its stipulated share of Cauvery water.",
-          "keyPoints": "• Chief Minister D.K. Shivakumar on Saturday (November 14) asserted that Karnataka will go ahead with the Mekedatu balancing reservoir project , describing it as the State’s right and duty, while assuring that Tamil Nadu would receive its stipulated share of Cauvery water.<br>• Responding to opposition to the project from leaders in Tamil Nadu, including State Congress president Manickam Tagore, Mr. Shivakumar said the neighbouring State should send a delegation to Karnataka to understand the project’s benefits rather than oppose it.<br>• “Anyone is free to oppose it, but Tamil Nadu must recognise that this is our State and our right. If they wish, let them send a delegation. I am prepared to take them to the dam site and explain the project,” he told presspersons."
+          "summary": "Prime Minister Narendra Modi on Sunday (November 15, 2026) paid tributes to tribal icon Birsa Munda on his 151st birth anniversary and extended greetings on the Janjatiya Gaurav Diwas.",
+          "keyPoints": "• Prime Minister Narendra Modi on Sunday (November 15, 2026) paid tributes to tribal icon Birsa Munda on his 151st birth anniversary and extended greetings on the Janjatiya Gaurav Diwas.<br>• In a post in Hindi on X, the Prime Minister said the courage, struggle and sacrifice of 'Dharti Aaba' would continue to inspire generations to uphold self-respect, freedom and rights.<br>• Tripura Government prioritising socio-economic development of tribals: CM Manik Saha"
         },
         {
           "category": "national",
           "categoryLabel": "🏛️ National & Polity",
-          "title": "Dhinakaran, Vasan urge Vijay to protect interests of T.N. farmers in Mekedatu issue",
-          "link": "https://www.thehindu.com/news/national/tamil-nadu/dhinakaran-vasan-urge-vijay-to-protect-interests-of-tn-farmers-in-mekedatu-issue/article71704365.ece",
-          "pubDate": "Sun, 15 Nov 2026 14:21:26 +0530",
+          "title": "Tripura Government prioritising socio-economic development of tribals: CM Manik Saha",
+          "link": "https://www.thehindu.com/news/national/tripura/tripura-government-prioritising-socio-economic-development-of-tribals-cm-manik-saha/article71704561.ece",
+          "pubDate": "Sun, 15 Nov 2026 16:23:03 +0530",
           "dateIso": "2026-11-15",
           "dateDisplay": "15 Nov 2026",
           "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
-          "imageUrl": "https://th-i.thgim.com/public/incoming/w48m2f/article71704362.ece/alternates/LANDSCAPE_1200/11658_9_5_2026_12_13_32_2__DSC0738.JPG",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/xhwcc2/article71704574.ece/alternates/LANDSCAPE_1200/PTI10_31_2026_000126B.jpg",
           "fullParagraphs": [
-            "AMMK founder T.T.V. Dhinakaran on Sunday (November 15, 2026) accused Chief Minister C. Joseph Vijay of shedding crocodile tears over the Mekedatu dam issue and said the latter had to choose between his party’s alliance with the Congress and the livelihoods of Tamil Nadu farmers.",
-            "In a statement, Mr. Dhinakaran accused Mr. Vijay of failing to discharge his responsibility to protect farmers’ livelihoods for the sake of retaining power, alleging this had emboldened Karnataka Chief Minister D.K. Shivakumar to persist with the Mekedatu project.",
-            "Condemning Mr. Shivakumar’s remarks on constructing the dam across the Cauvery, Mr. Dhinakaran urged Mr. Vijay to exert political pressure through the Congress leadership to stop the project, warning failure to do so would amount to a betrayal of Tamil Nadu farmers.",
-            "Tamil Maanila Congress (Moopanar) leader G.K. Vasan also criticised Mr. Shivakumar’s remarks on constructing the Mekedatu dam, stating his demand for the Centre’s support and his interpretation of the Supreme Court’s verdict were unacceptable.",
-            "In a statement, Mr. Vasan said Karnataka’s efforts to construct the dam amounted to an infringement of Tamil Nadu’s rights. The Mekedatu water issue was not merely a crop-related concern but a matter of survival for farmers in Tamil Nadu, he said.",
-            "Amma Makkal Munnetra Kazhagam / Tamilaga Vettri Kazhagam / Indian National Congress / Tamil Maanila Congress"
+            "Tripura Chief Minister Manik Saha on Sunday (November 15, 2026) paid tribute to tribal icon Birsa Munda on his 151st birth anniversary and said his Government has been prioritising the overall socio-economic development of the indigenous people.",
+            "Addressing a 'Janjatiya Gaurav Diwas' programme at Chawmanu in Dhalai district, Mr. Saha recalled the tribal icon's contribution to the country's freedom struggle.",
+            "“The contribution of indigenous people in the country’s freedom struggle was immense. Birsa Munda had fought the British, showing extreme courage. We must salute his contribution to the freedom struggle on his birth anniversary,\" the CM said.",
+            "Born in 1875 at Ulihatu village in Jharkhand's Khunti district, Birsa Munda is credited with mobilising tribals against colonial rule. He died in British custody at the age of 25 on June 9, 1900.",
+            "The birth anniversary of the freedom fighter has been celebrated as Janjatiya Gaurav Diwas since 2021 to honour the contributions of tribal communities, especially in India's freedom struggle, and highlights their important role in preserving the country's heritage and advancing its progress.",
+            "\"Our Government has been giving priority to the overall socio-economic development of the indigenous people,\" Mr. Saha said.",
+            "On the occasion, four Eklavya Model Residential Schools, fully residential schools for tribal students, were inaugurated in Tripura.",
+            "“With today’s inauguration of four Eklavya schools, 16 such schools are made operational in the northeastern state while two more will be opened shortly. The Centre has sanctioned 21 such schools altogether for our State. Over 10,000 students will be able to study in these residential schools once all 21 are made functional in the state,\" he said.",
+            "Mr. Saha said Prime Minister Narendra Modi and Union Tribal Welfare Minister Jual Oram participated in a programme virtually from Delhi on the occasion of Janjatiya Gaurav Diwas.",
+            "On the occasion, Mr. Modi inaugurated and laid the foundation stones for 246 development projects worth around ₹3,000 crore aimed at strengthening education, healthcare, livelihood opportunities and community infrastructure in tribal areas.",
+            "Of the 246 projects, 173 were inaugurated, including 38 Eklavya Model Residential Schools for tribal students and 100 Multi-Purpose Centres under the Pradhan Mantri Janjati Adivasi Nyaya Maha Abhiyan (PM-JANMAN).",
+            "The four Eklavya schools were among 38 schools inaugurated by Mr. Modi during the day."
           ],
-          "deepExplanation": "<strong>1. Core Context & Background:</strong> Dhinakaran on Sunday (November 15, 2026) accused Chief Minister C.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Joseph Vijay of shedding crocodile tears over the Mekedatu dam issue and said the latter had to choose between his party’s alliance with the Congress and the livelihoods of Tamil Nadu farmers. Vijay of failing to discharge his responsibility to protect farmers’ livelihoods for the sake of retaining power, alleging this had emboldened Karnataka Chief Minister D.K.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Amma Makkal Munnetra Kazhagam / Tamilaga Vettri Kazhagam / Indian National Congress / Tamil Maanila Congress",
+          "deepExplanation": "<strong>1. Core Context & Background:</strong> Tripura Chief Minister Manik Saha on Sunday (November 15, 2026) paid tribute to tribal icon Birsa Munda on his 151st birth anniversary and said his Government has been prioritising the overall socio-economic development of the indigenous people.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Addressing a 'Janjatiya Gaurav Diwas' programme at Chawmanu in Dhalai district, Mr. Saha recalled the tribal icon's contribution to the country's freedom struggle.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> The four Eklavya schools were among 38 schools inaugurated by Mr.",
           "vocabList": [
-            "Dhinakaran",
             "November",
-            "Shedding",
-            "Crocodile",
-            "Mekedatu",
-            "Alliance"
+            "Anniversary",
+            "Prioritising",
+            "Economic",
+            "Indigenous",
+            "Addressing"
           ],
-          "summary": "AMMK founder T.T.V. Dhinakaran on Sunday (November 15, 2026) accused Chief Minister C. Joseph Vijay of shedding crocodile tears over the Mekedatu dam issue and said the latter had to choose between his party’s alliance with the Congress and the livelihoods of Tamil Nadu farmers.",
-          "keyPoints": "• AMMK founder T.T.V. Dhinakaran on Sunday (November 15, 2026) accused Chief Minister C. Joseph Vijay of shedding crocodile tears over the Mekedatu dam issue and said the latter had to choose between his party’s alliance with the Congress and the livelihoods of Tamil Nadu farmers.<br>• In a statement, Mr. Dhinakaran accused Mr. Vijay of failing to discharge his responsibility to protect farmers’ livelihoods for the sake of retaining power, alleging this had emboldened Karnataka Chief Minister D.K. Shivakumar to persist with the Mekedatu project.<br>• Condemning Mr. Shivakumar’s remarks on constructing the dam across the Cauvery, Mr. Dhinakaran urged Mr. Vijay to exert political pressure through the Congress leadership to stop the project, warning failure to do so would amount to a betrayal of Tamil Nadu farmers."
+          "summary": "Tripura Chief Minister Manik Saha on Sunday (November 15, 2026) paid tribute to tribal icon Birsa Munda on his 151st birth anniversary and said his Government has been prioritising the overall socio-economic development of the indigenous people.",
+          "keyPoints": "• Tripura Chief Minister Manik Saha on Sunday (November 15, 2026) paid tribute to tribal icon Birsa Munda on his 151st birth anniversary and said his Government has been prioritising the overall socio-economic development of the indigenous people.<br>• Addressing a 'Janjatiya Gaurav Diwas' programme at Chawmanu in Dhalai district, Mr. Saha recalled the tribal icon's contribution to the country's freedom struggle.<br>• “The contribution of indigenous people in the country’s freedom struggle was immense. Birsa Munda had fought the British, showing extreme courage. We must salute his contribution to the freedom struggle on his birth anniversary,\" the CM said."
         },
         {
           "category": "national",
           "categoryLabel": "🏛️ National & Polity",
-          "title": "Statewide vaccination drive to protect children aged 10 and 16 against tetanus and diphtheria",
-          "link": "https://www.thehindu.com/news/national/andhra-pradesh/statewide-vaccination-drive-to-protect-children-aged-10-and-16-against-tetanus-and-diphtheria/article71704354.ece",
-          "pubDate": "Sun, 15 Nov 2026 14:10:31 +0530",
+          "title": "Assam Congress writes to PM, seeks enhanced aid for victims of Kaziranga accident",
+          "link": "https://www.thehindu.com/news/national/assam/assam-congress-writes-to-pm-seeks-enhanced-aid-for-victims-of-kaziranga-accident/article71704464.ece",
+          "pubDate": "Sun, 15 Nov 2026 16:17:47 +0530",
           "dateIso": "2026-11-15",
           "dateDisplay": "15 Nov 2026",
           "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
-          "imageUrl": "https://th-i.thgim.com/public/incoming/2a823/article71704379.ece/alternates/LANDSCAPE_1200/vaccination_drive_.jpg",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/l59hbv/article71704480.ece/alternates/LANDSCAPE_1200/20251226248L.jpg",
           "fullParagraphs": [
-            "A vaccination drive will be held across the State from December 3 to 5 to protect children against diphtheria and tetanus, which are potentially life-threatening yet preventable bacterial diseases.",
-            "According to a release from the Department of Health, Medical and Family Welfare, the TD (Tetanus-Diphtheria) vaccine will be administered to children who have completed 10 and 16 years of age. The health department aims to cover more than 95% of children in this age bracket during the drive, which will be conducted across government and private schools and intermediate colleges on three days.",
-            "Children receive Pentavalent vaccines when very young as part of the immunisation programme, and the TD vaccine is administered to provide additional protection. According to the release, protection during adolescence is also essential, as diphtheria and tetanus are infectious diseases that can cause serious illness and even prove fatal.",
-            "Children who have completed 10 years of age should be administered the TD-10 vaccine, while those who have completed 16 years should receive the TD-16 vaccine.",
-            "Before the drive begins, ANMs have been directed to prepare a list of government and private schools and intermediate colleges in their jurisdictions and collect details of children eligible for vaccination. They should also identify those who did not attend schools or colleges. They have also been tasked with arranging the required vaccine doses, medical supplies, among other things.",
-            "Health and Family Welfare Commissioner and National Health Mission Director K.V.N. Chakradhar Babu directed District Medical and Health Officers, District Immunisation Officers and medical officers working in Primary Health Centres to conduct coordination meetings with the departments of Women and Child Welfare, Education, Minority Welfare, Panchayat Raj and Municipal Administration and Urban Development for the effective implementation of the drive.",
-            "Mr. Chakradhar Babu directed district health officials to continuously monitor the drive and inspect vaccination centres to ensure adequate vaccine availability, anaphylaxis kits, and other medical supplies to treat any emergencies.",
-            "Once vaccination is completed, digital certificates of the same should be issued to all beneficiaries and the same information should be uploaded on online health portals, the official said."
+            "Assam Congress leader Debabrata Saikia on Sunday (November 15, 2026) urged Prime Minister Narendra Modi to enhance compensation for victims of the Kaziranga minibus-truck collision , provide free treatment to the injured and livelihood assistance to families of the 26 deceased.",
+            "In the letter, the former leader of the opposition in the Assembly expressed concern over the deplorable condition of the National Highway-715 stretch and alleged that the authorities' neglect of essential road safety measures was disturbing.",
+            "Mr. Saikia demanded a thorough examination of the road's condition, design, maintenance, traffic management and safety arrangements, as well as urgent intervention on highway safety, healthcare and infrastructure of the region.",
+            "Appreciating the Prime Minister for announcing financial assistance immediately after the accident, he added that the magnitude of the tragedy demanded enhanced compensation and rehabilitation measures.",
+            "Administrative accountability must be fixed while the conduct of the drivers involved must also be investigated, the Congress leader said in the letter while expressing disappointment over the response of Chief Minister Himanta Biswa Sarma, who visited the accident site a day later on Saturday (November 14, 2026).",
+            "Mr. Saikia claimed that while Mr. Sarma announced ex gratia and promised a probe into the accident, his remarks had failed to adequately address the grievances of locals about the highway. He also referred to the Chief Minister's reported remarks about a possible medical emergency involving the deceased driver, saying this should not divert attention from potential deficiencies in highway infrastructure.",
+            "At least 26 people died, including minors, and 20 others were injured in a head-on collision between a minibus and a container truck near Kaziranga National Park in Assam on Friday (November 13, 2026), officials said. Many of the victims were college students.",
+            "The Congress leader further said that Mr. Sarma himself had acknowledged that certain traffic restrictions had previously been relaxed under political pressure, making an independent examination of administrative decisions necessary.",
+            "In the letter, he also raised concerns relating to the Kaziranga region, including the NH-715 safety, healthcare facilities, alleged misuse of hospital premises, environmental protection, expansion of the eco-sensitive zone and land acquisitions, among others.",
+            "Mr. Saikia sought an increase in total compensation to the next of kin of each deceased to at least ₹20 lakh, inclusive of the ₹9 lakh already announced by the Central and State Governments, with additional assistance for families losing multiple members.",
+            "He also sought free medical treatment, rehabilitation and disability compensation for the injured, scholarships for dependent children, and livelihood assistance for families losing their principal earning members.",
+            "The Congress leader further asked for a comprehensive independent enquiry into the accident, including the NH-715 condition and compliance with safety standards."
           ],
-          "deepExplanation": "<strong>1. Core Context & Background:</strong> A vaccination drive will be held across the State from December 3 to 5 to protect children against diphtheria and tetanus, which are potentially life-threatening yet preventable bacterial diseases.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> According to a release from the Department of Health, Medical and Family Welfare, the TD (Tetanus-Diphtheria) vaccine will be administered to children who have completed 10 and 16 years of age. The health department aims to cover more than 95% of children in this age bracket during the drive, which will be conducted across government and private schools and intermediate colleges on three days.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Once vaccination is completed, digital certificates of the same should be issued to all beneficiaries and the same information should be uploaded on online health portals, the official said.",
+          "deepExplanation": "<strong>1. Core Context & Background:</strong> Assam Congress leader Debabrata Saikia on Sunday (November 15, 2026) urged Prime Minister Narendra Modi to enhance compensation for victims of the Kaziranga minibus-truck collision , provide free treatment to the injured and livelihood assistance to families of the 26 deceased.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> In the letter, the former leader of the opposition in the Assembly expressed concern over the deplorable condition of the National Highway-715 stretch and alleged that the authorities' neglect of essential road safety measures was disturbing. Saikia demanded a thorough examination of the road's condition, design, maintenance, traffic management and safety arrangements, as well as urgent intervention on highway safety, healthcare and infrastructure of the region.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> The Congress leader further asked for a comprehensive independent enquiry into the accident, including the NH-715 condition and compliance with safety standards.",
           "vocabList": [
-            "Vaccination",
-            "December",
-            "Children",
-            "Diphtheria",
-            "Potentially",
-            "Threatening"
+            "Congress",
+            "Debabrata",
+            "November",
+            "Narendra",
+            "Compensation",
+            "Kaziranga"
           ],
-          "summary": "A vaccination drive will be held across the State from December 3 to 5 to protect children against diphtheria and tetanus, which are potentially life-threatening yet preventable bacterial diseases.",
-          "keyPoints": "• A vaccination drive will be held across the State from December 3 to 5 to protect children against diphtheria and tetanus, which are potentially life-threatening yet preventable bacterial diseases.<br>• According to a release from the Department of Health, Medical and Family Welfare, the TD (Tetanus-Diphtheria) vaccine will be administered to children who have completed 10 and 16 years of age. The health department aims to cover more than 95% of children in this age bracket during the drive, which will be conducted across government and private schools and intermediate colleges on three days.<br>• Children receive Pentavalent vaccines when very young as part of the immunisation programme, and the TD vaccine is administered to provide additional protection. According to the release, protection during adolescence is also essential, as diphtheria and tetanus are infectious diseases that can cause serious illness and even prove fatal."
+          "summary": "Assam Congress leader Debabrata Saikia on Sunday (November 15, 2026) urged Prime Minister Narendra Modi to enhance compensation for victims of the Kaziranga minibus-truck collision , provide free treatment to the injured and livelihood assistance to families of the 26 deceased.",
+          "keyPoints": "• Assam Congress leader Debabrata Saikia on Sunday (November 15, 2026) urged Prime Minister Narendra Modi to enhance compensation for victims of the Kaziranga minibus-truck collision , provide free treatment to the injured and livelihood assistance to families of the 26 deceased.<br>• In the letter, the former leader of the opposition in the Assembly expressed concern over the deplorable condition of the National Highway-715 stretch and alleged that the authorities' neglect of essential road safety measures was disturbing.<br>• Mr. Saikia demanded a thorough examination of the road's condition, design, maintenance, traffic management and safety arrangements, as well as urgent intervention on highway safety, healthcare and infrastructure of the region."
         },
         {
           "category": "economy",
@@ -1365,6 +1377,68 @@
         {
           "category": "ir",
           "categoryLabel": "🌐 International Relations",
+          "title": "Megaspeed says Alice Huang left company in August 2025",
+          "link": "https://www.thehindu.com/news/international/megaspeed-says-alice-huang-left-company-in-august-2025/article71704620.ece",
+          "pubDate": "Sun, 15 Nov 2026 16:57:38 +0530",
+          "dateIso": "2026-11-15",
+          "dateDisplay": "15 Nov 2026",
+          "examRelevance": "GS Paper-II & Current Affairs: Bilateral Agreements, Foreign Visits & UN/G20/BRICS",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/7ckju2/article71704630.ece/alternates/LANDSCAPE_1200/2026-11-15T100429Z_2002936799_RC2TKOADN7KK_RTRMADP_3_NVIDIA-CEO-ALICE-HUANG-MEGASPEED.JPG",
+          "fullParagraphs": [
+            "Megaspeed said on Sunday (November 15, 2026) ​that Chinese businesswoman Alice ‌Huang , whose ties ​to former ⁠Nvidia CEO Jensen Huang raised U.S. national security ‌concerns, had officially left Megaspeed on ‌August 30, ‌2025, ⁠and had no ⁠current role at the Singapore-based company.",
+            "\"Megaspeed does not ​comment on ‌Ms. Huang’s personal and private matters,\" the company added in ‌a statement.",
+            "\"Megaspeed is ​aware of recent media reports ⁠containing assertions about our business, supply chain ‌and global operations that are not supported by verifiable evidence.\"",
+            "The company said it conducted \"legitimate ‌and lawful business\" and ​had retained external legal counsel to ⁠conduct a thorough internal ⁠investigation."
+          ],
+          "deepExplanation": "<strong>1. Core Context & Background:</strong> Megaspeed said on Sunday (November 15, 2026) ​that Chinese businesswoman Alice ‌Huang , whose ties ​to former ⁠Nvidia CEO Jensen Huang raised U.S.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> national security ‌concerns, had officially left Megaspeed on ‌August 30, ‌2025, ⁠and had no ⁠current role at the Singapore-based company. \"Megaspeed does not ​comment on ‌Ms.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> \"Megaspeed is ​aware of recent media reports ⁠containing assertions about our business, supply chain ‌and global operations that are not supported by verifiable evidence.\" The company said it conducted \"legitimate ‌and lawful business\" and ​had retained external legal counsel to ⁠conduct a thorough internal ⁠investigation.",
+          "vocabList": [
+            "Megaspeed",
+            "November",
+            "Businesswoman",
+            "Security",
+            "Concerns",
+            "Officially"
+          ],
+          "summary": "Megaspeed said on Sunday (November 15, 2026) ​that Chinese businesswoman Alice ‌Huang , whose ties ​to former ⁠Nvidia CEO Jensen Huang raised U.S. national security ‌concerns, had officially left Megaspeed on ‌August 30, ‌2025, ⁠and had no ⁠current role at the Singapore-based company.",
+          "keyPoints": "• Megaspeed said on Sunday (November 15, 2026) ​that Chinese businesswoman Alice ‌Huang , whose ties ​to former ⁠Nvidia CEO Jensen Huang raised U.S. national security ‌concerns, had officially left Megaspeed on ‌August 30, ‌2025, ⁠and had no ⁠current role at the Singapore-based company.<br>• \"Megaspeed does not ​comment on ‌Ms. Huang’s personal and private matters,\" the company added in ‌a statement.<br>• \"Megaspeed is ​aware of recent media reports ⁠containing assertions about our business, supply chain ‌and global operations that are not supported by verifiable evidence.\""
+        },
+        {
+          "category": "ir",
+          "categoryLabel": "🌐 International Relations",
+          "title": "At least two injured as passenger, cargo planes collide at U.S. airport",
+          "link": "https://www.thehindu.com/news/international/2-injured-as-passenger-cargo-planes-collide-at-us-airport/article71704597.ece",
+          "pubDate": "Sun, 15 Nov 2026 16:47:39 +0530",
+          "dateIso": "2026-11-15",
+          "dateDisplay": "15 Nov 2026",
+          "examRelevance": "GS Paper-II & Current Affairs: Bilateral Agreements, Foreign Visits & UN/G20/BRICS",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/4juqip/article71704611.ece/alternates/LANDSCAPE_1200/iStock-1220411189.jpg",
+          "fullParagraphs": [
+            "Two people were injured after a Copa Airlines passenger plane collided with a UPS cargo aircraft while taxiing on the tarmac at Miami International Airport in the U.S., a media report said.",
+            "The incident occurred around 9:15 p.m. on Saturday (November 14, 2026) when the wingtip of a Copa Airlines Boeing 737 struck the nose of a UPS Boeing 767, the CNN report said, citing the Federal Aviation Administration (FAA).",
+            "Air traffic controllers had instructed the UPS crew to give way to the Copa aircraft, the FAA said, adding that it was investigating the collision.",
+            "According to the report, all 166 passengers and six crew members disembarked, and the Copa aircraft returned to the terminal.",
+            "Both persons sustained minor injuries and were treated at the scene, CNN quoted airport communications director Greg Chin as saying.",
+            "The Copa flight had arrived from Panama City, while the UPS aircraft was preparing to depart for Bogota, Colombia, the report said.",
+            "\"Our crew is safe, and we are committed to working with authorities to determine what happened,\" UPS Airlines said on X.",
+            "\"The safety of our employees and the public is our highest priority,\" it added.",
+            "Meanwhile, Copa Airlines issued a statement expressing regret over the disruption to passengers.",
+            "The incident came a day after a nationwide flight grounding triggered widespread cancellations across the U.S.."
+          ],
+          "deepExplanation": "<strong>1. Core Context & Background:</strong> Two people were injured after a Copa Airlines passenger plane collided with a UPS cargo aircraft while taxiing on the tarmac at Miami International Airport in the U.S., a media report said.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> The incident occurred around 9:15 p.m. on Saturday (November 14, 2026) when the wingtip of a Copa Airlines Boeing 737 struck the nose of a UPS Boeing 767, the CNN report said, citing the Federal Aviation Administration (FAA).<br><br><strong>3. Way Forward & Exam Conclusion:</strong> The incident came a day after a nationwide flight grounding triggered widespread cancellations across the U.S..",
+          "vocabList": [
+            "Airlines",
+            "Passenger",
+            "Collided",
+            "Aircraft",
+            "Incident",
+            "Occurred"
+          ],
+          "summary": "Two people were injured after a Copa Airlines passenger plane collided with a UPS cargo aircraft while taxiing on the tarmac at Miami International Airport in the U.S., a media report said.",
+          "keyPoints": "• Two people were injured after a Copa Airlines passenger plane collided with a UPS cargo aircraft while taxiing on the tarmac at Miami International Airport in the U.S., a media report said.<br>• The incident occurred around 9:15 p.m. on Saturday (November 14, 2026) when the wingtip of a Copa Airlines Boeing 737 struck the nose of a UPS Boeing 767, the CNN report said, citing the Federal Aviation Administration (FAA).<br>• Air traffic controllers had instructed the UPS crew to give way to the Copa aircraft, the FAA said, adding that it was investigating the collision."
+        },
+        {
+          "category": "ir",
+          "categoryLabel": "🌐 International Relations",
           "title": "Trump administration blames ‘overloaded’ systems for ground stop after FAA lets flights resume",
           "link": "https://www.thehindu.com/news/international/trump-administration-blames-overloaded-systems-for-ground-stop-after-faa-lets-flights-resume/article71700826.ece",
           "pubDate": "Sun, 15 Nov 2026 14:26:34 +0530",
@@ -1503,76 +1577,30 @@
           "keyPoints": "• Elon Musk’s SpaceX on Saturday (November 14, 2026) pulled off the first-ever “catch” of a spaceship, a technical feat showing the feasibility of fully reusable rockets that would bring affordable spaceflight one step closer to reality.<br>• The Starship emerged from the clouds after surviving the extreme heat of re-entering Earth’s atmosphere, then descended slowly over SpaceX’s south Texas Starbase before slipping smoothly between mechanical “chopstick arms” above Launch Pad 2.<br>• The success marked a milestone in the space industry’s decades-long pursuit of fully reusable rocket systems -- a goal that can drastically reduce mission costs and make more frequent launches possible."
         },
         {
-          "category": "ir",
-          "categoryLabel": "🌐 International Relations",
-          "title": "NATO to skip a leaders' summit in Albania next year as high-level meetings are scaled back",
-          "link": "https://www.thehindu.com/news/international/nato-to-skip-a-leaders-summit-in-albania-next-year-as-high-level-meetings-are-scaled-back/article71704174.ece",
-          "pubDate": "Sun, 15 Nov 2026 12:17:17 +0530",
+          "category": "scitech",
+          "categoryLabel": "🚀 Science, Tech & Environment",
+          "title": "Fading tetanus and diphtheria immunity: experts explain why the Td shot is important",
+          "link": "https://www.thehindu.com/sci-tech/health/fading-tetanus-and-diphtheria-immunity-experts-explain-why-the-td-shot-is-important/article70662485.ece",
+          "pubDate": "Sun, 15 Nov 2026 14:11:28 +0530",
           "dateIso": "2026-11-15",
           "dateDisplay": "15 Nov 2026",
-          "examRelevance": "GS Paper-II & Current Affairs: Bilateral Agreements, Foreign Visits & UN/G20/BRICS",
-          "imageUrl": "https://th-i.thgim.com/public/incoming/tcs7xr/article71704191.ece/alternates/LANDSCAPE_1200/Ireland_European_Political_Community_72296.jpg",
+          "examRelevance": "GS Paper-III & Prelims: ISRO/NASA Missions, Defense Updates, Tech & Climate Reports",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/dp17qt/article70662484.ece/alternates/LANDSCAPE_1200/2026-01-09T160738Z_1459209238_RC2RXIA2SHKU_RTRMADP_3_HEALTH-USA-JPM-M-A.JPG",
           "fullParagraphs": [
-            "NATO is scaling back its high-level meetings and will not hold a leaders' summit in Albania next year as previously planned amid tension within the alliance over defence spending, Iran and the war in Ukraine.",
-            "Albanian Prime Minister Edi Rama said on Thursday (November 12, 2026) that “there is not yet a common position on when the summit will happen, for sure not in 2027.” He said that “in 2028, if it will be a summit, it will be in Tirana,” Albania's capital.",
-            "NATO Secretary-General Mark Rutte played down the issue. “We are flexible with NATO summits,” he told The Associated Press in an interview. “We have summits when we need them,” he said, and will hold the next one “when a necessity is there.”",
-            "Until about a decade ago, NATO held summits every two years.",
-            "It's not just about gatherings between U.S. President Donald Trump and his counterparts.",
-            "NATO Defence Ministers usually meet in October, but no talks took place last month, and none are planned for October 2027. Foreign Ministers only have one scheduled meeting next year, instead of two, under what NATO describes as a “reorganization package.”",
-            "U.S. Defence Secretary Pete Hegseth and Secretary of State Marco Rubio have each skipped a NATO meeting or left before talks ended since they came to office. Mr. Hegseth has used defence ministerial gatherings to berate or cajole European allies and Canada.",
-            "The planned summit in Albania highlights the alliance's challenges. Albania was appointed next year's host in 2025, but its name was removed from a July summit declaration.",
-            "Some allies believe that Albania is not spending enough on defence and they were reluctant to reward the country with NATO's big event. The government in Tirana is projected to spend 2.15% of its gross domestic product on defense this year.",
-            "NATO's target is for the 32 allies to spend 3.5% of GDP on core defense by 2035, and 1.5% on defense-related infrastructure. Albania is not the worst offender among the 32 member countries. Spain, Belgium and Slovenia are faring much worse.",
-            "But hosting a summit itself has tremendous financial and political costs. The Netherlands required a year of preparation ahead of the 2025 meeting in The Hague, and a roughly $100 million investment.",
-            "Officials said NATO would have needed to decide on Albania by October for it to have enough time to organize a summit next year."
+            "Tetanus and diphtheria are two preventable diseases. And still, they surface years after childhood vaccinations. As antibody levels decline over time, especially against diphtheria, could the introduction of the Td vaccine signal a crucial point in closing this long-overlooked gap in adult vaccination and protection?",
+            "According to the World Health Organization (WHO), maternal and neonatal tetanus has declined significantly over the past two decades. But thousands of people still die from the disease each year, with newborns being especially at risk, particularly in low- and middle-income countries. Diphtheria also continues to cause outbreaks in areas where immunity wanes or vaccine coverage is insufficient."
           ],
-          "deepExplanation": "<strong>1. Core Context & Background:</strong> NATO is scaling back its high-level meetings and will not hold a leaders' summit in Albania next year as previously planned amid tension within the alliance over defence spending, Iran and the war in Ukraine.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Albanian Prime Minister Edi Rama said on Thursday (November 12, 2026) that “there is not yet a common position on when the summit will happen, for sure not in 2027.” He said that “in 2028, if it will be a summit, it will be in Tirana,” Albania's capital. NATO Secretary-General Mark Rutte played down the issue.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Officials said NATO would have needed to decide on Albania by October for it to have enough time to organize a summit next year.",
+          "deepExplanation": "<strong>1. Core Context & Background:</strong> Tetanus and diphtheria are two preventable diseases.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> And still, they surface years after childhood vaccinations. As antibody levels decline over time, especially against diphtheria, could the introduction of the Td vaccine signal a crucial point in closing this long-overlooked gap in adult vaccination and protection?<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Diphtheria also continues to cause outbreaks in areas where immunity wanes or vaccine coverage is insufficient.",
           "vocabList": [
-            "Meetings",
-            "Previously",
-            "Alliance",
-            "Spending",
-            "Albanian",
-            "Thursday"
+            "Diphtheria",
+            "Preventable",
+            "Diseases",
+            "Childhood",
+            "Vaccinations",
+            "Antibody"
           ],
-          "summary": "NATO is scaling back its high-level meetings and will not hold a leaders' summit in Albania next year as previously planned amid tension within the alliance over defence spending, Iran and the war in Ukraine.",
-          "keyPoints": "• NATO is scaling back its high-level meetings and will not hold a leaders' summit in Albania next year as previously planned amid tension within the alliance over defence spending, Iran and the war in Ukraine.<br>• Albanian Prime Minister Edi Rama said on Thursday (November 12, 2026) that “there is not yet a common position on when the summit will happen, for sure not in 2027.” He said that “in 2028, if it will be a summit, it will be in Tirana,” Albania's capital.<br>• NATO Secretary-General Mark Rutte played down the issue. “We are flexible with NATO summits,” he told The Associated Press in an interview. “We have summits when we need them,” he said, and will hold the next one “when a necessity is there.”"
-        },
-        {
-          "category": "ir",
-          "categoryLabel": "🌐 International Relations",
-          "title": "U.S. suggested Kyiv cede land to Russia in exchange for joining NATO, says Zelenskyy",
-          "link": "https://www.thehindu.com/news/international/us-suggested-kyiv-cede-land-to-russia-in-exchange-for-joining-nato-says-zelenskyy/article71704053.ece",
-          "pubDate": "Sun, 15 Nov 2026 11:55:16 +0530",
-          "dateIso": "2026-11-15",
-          "dateDisplay": "15 Nov 2026",
-          "examRelevance": "GS Paper-II & Current Affairs: Bilateral Agreements, Foreign Visits & UN/G20/BRICS",
-          "imageUrl": "https://th-i.thgim.com/public/incoming/celdpx/article71704055.ece/alternates/LANDSCAPE_1200/Russia_Ukraine_War_397_9.jpg",
-          "fullParagraphs": [
-            "Washington has suggested Ukraine cede land to Russia in exchange for joining NATO, President Volodymyr Zelenskyy said in comments released on Saturday (November 14, 2026), adding that it indicated his country’s ties with the Western military alliance are “back on the agenda”.",
-            "Mr. Zelenskyy also warned the Kremlin was “betting everything” on this winter’s military campaign.",
-            "Moscow has pounded Ukraine in the run-up to the colder months, with Russian President Vladimir Putin showing no sign of backing down.",
-            "U.S. envoys Jared Kushner and Steve Witkoff met both Mr. Putin and Mr. Zelenskyy separately on Thursday after two days of talks with their delegations in Abu Dhabi, which ended with no breakthrough.",
-            "“The Americans raised a question: ‘What if Ukraine joins NATO? Would Ukraine withdraw from Donbas?’ This was the first time this had been raised,” Mr. Zelenskyy said.",
-            "“After providing Ukraine with this kind of defence support, seeing this kind of development of our army and this strength in our defence, they cannot simply let Ukraine go,” he added.",
-            "He said the discussion showed that “NATO is back on the agenda” for Ukraine.",
-            "Ukraine has long sought to enter the military alliance, which Moscow has considered a red line.",
-            "NATO and Washington have not yet commented directly on Mr. Zelenskyy’s account.",
-            "Mr. Kushner, U.S. President Donald Trump’s son-in-law, later posted on X that media had reported “maximalist propositions proposed by both sides, along with strong political rhetoric”.",
-            "“However, we are determined to continue the hard work, maintain the confidentiality necessary for sensitive negotiations, and find a pathway to end this horrible war,” he said, adding “several new ideas emerged from the discussions and are now being explored.”",
-            "This week’s meetings have led to agreements that European countries would join future talks on ending the war."
-          ],
-          "deepExplanation": "<strong>1. Core Context & Background:</strong> Washington has suggested Ukraine cede land to Russia in exchange for joining NATO, President Volodymyr Zelenskyy said in comments released on Saturday (November 14, 2026), adding that it indicated his country’s ties with the Western military alliance are “back on the agenda”.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Zelenskyy also warned the Kremlin was “betting everything” on this winter’s military campaign. Moscow has pounded Ukraine in the run-up to the colder months, with Russian President Vladimir Putin showing no sign of backing down.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> “However, we are determined to continue the hard work, maintain the confidentiality necessary for sensitive negotiations, and find a pathway to end this horrible war,” he said, adding “several new ideas emerged from the discussions and are now being explored.” This week’s meetings have led to agreements that European countries would join future talks on ending the war.",
-          "vocabList": [
-            "Washington",
-            "Suggested",
-            "Exchange",
-            "President",
-            "Volodymyr",
-            "Zelenskyy"
-          ],
-          "summary": "Washington has suggested Ukraine cede land to Russia in exchange for joining NATO, President Volodymyr Zelenskyy said in comments released on Saturday (November 14, 2026), adding that it indicated his country’s ties with the Western military alliance are “back on the agenda”.",
-          "keyPoints": "• Washington has suggested Ukraine cede land to Russia in exchange for joining NATO, President Volodymyr Zelenskyy said in comments released on Saturday (November 14, 2026), adding that it indicated his country’s ties with the Western military alliance are “back on the agenda”.<br>• Mr. Zelenskyy also warned the Kremlin was “betting everything” on this winter’s military campaign.<br>• Moscow has pounded Ukraine in the run-up to the colder months, with Russian President Vladimir Putin showing no sign of backing down."
+          "summary": "Tetanus and diphtheria are two preventable diseases. And still, they surface years after childhood vaccinations. As antibody levels decline over time, especially against diphtheria, could the introduction of the Td vaccine signal a crucial point in closing this long-overlooked gap in adult vaccination and protection?",
+          "keyPoints": "• Tetanus and diphtheria are two preventable diseases. And still, they surface years after childhood vaccinations. As antibody levels decline over time, especially against diphtheria, could the introduction of the Td vaccine signal a crucial point in closing this long-overlooked gap in adult vaccination and protection?<br>• According to the World Health Organization (WHO), maternal and neonatal tetanus has declined significantly over the past two decades. But thousands of people still die from the disease each year, with newborns being especially at risk, particularly in low- and middle-income countries. Diphtheria also continues to cause outbreaks in areas where immunity wanes or vaccine coverage is insufficient."
         },
         {
           "category": "scitech",
@@ -1747,36 +1775,6 @@
           ],
           "summary": "Exposure to extreme heat during pregnancy can lead to severe outcomes, including preterm birth, stillbirth and congenital abnormalities in newborns, prompting experts at the United Nations Climate Change Conference (COP31) to highlight maternal health risks and call for targeted adaptation strategies.",
           "keyPoints": "• Exposure to extreme heat during pregnancy can lead to severe outcomes, including preterm birth, stillbirth and congenital abnormalities in newborns, prompting experts at the United Nations Climate Change Conference (COP31) to highlight maternal health risks and call for targeted adaptation strategies.<br>• The issue comes into focus as countries at COP31 prepare to discuss progress towards the Global Goal on Adaptation, a framework to help nations develop key adaptation measures, including those needed to address the health impacts of climate change.<br>• However, translating growing recognition of climate-related health risks into action remains a challenge, particularly in the absence of adequate financial support."
-        },
-        {
-          "category": "scitech",
-          "categoryLabel": "🚀 Science, Tech & Environment",
-          "title": "Health Wrap Episode 59 discusses living with diabetes, approaches to diabetes care and more",
-          "link": "https://www.thehindu.com/sci-tech/health/health-wrap-episode-59-discusses-living-with-diabetes-approaches-to-diabetes-care-and-more/article71704119.ece",
-          "pubDate": "Sun, 15 Nov 2026 11:35:59 +0530",
-          "dateIso": "2026-11-15",
-          "dateDisplay": "15 Nov 2026",
-          "examRelevance": "GS Paper-III & Prelims: ISRO/NASA Missions, Defense Updates, Tech & Climate Reports",
-          "imageUrl": "https://th-i.thgim.com/public/incoming/9m9fxd/article71704122.ece/alternates/LANDSCAPE_1200/AFP_36XL2HC.jpg",
-          "fullParagraphs": [
-            "The 59th episode of Health Wrap by The Hindu, marking World Diabetes Day, explores the everyday realities of living with diabetes and approaches to managing the condition over time.",
-            "Ramya Kannan, Health Editor, The Hindu, speaks to individuals living with diabetes, including older adults who share their experiences of managing the condition over several years. Their experiences offer perspectives on living with diabetes and the importance of sustained management.",
-            "The episode also features a discussion with Dr. V. Mohan, Chairman and Chief of Diabetology, Dr. Mohan’s Diabetes Specialities Centre, Chennai, on practical approaches to diabetes care.",
-            "The discussion looks at the role of dietary habits and food choices in diabetes management, the importance of regular physical activity and exercise, and blood glucose monitoring. It also examines how sustainable changes to everyday food and activity routines can support long-term management of the condition.",
-            "The episode discusses practical measures that people living with diabetes can incorporate into their daily lives, the importance of consistent approaches to care, and how genetic predisposition and environmental factors influence the development and management of diabetes. It also explores longevity and living well with diabetes over the years.",
-            "The episode can also be viewed on The Hindu health page along with the full playlist of The Health Wrap"
-          ],
-          "deepExplanation": "<strong>1. Core Context & Background:</strong> The 59th episode of Health Wrap by The Hindu, marking World Diabetes Day, explores the everyday realities of living with diabetes and approaches to managing the condition over time.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Ramya Kannan, Health Editor, The Hindu, speaks to individuals living with diabetes, including older adults who share their experiences of managing the condition over several years. Their experiences offer perspectives on living with diabetes and the importance of sustained management.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> The episode can also be viewed on The Hindu health page along with the full playlist of The Health Wrap",
-          "vocabList": [
-            "Diabetes",
-            "Explores",
-            "Everyday",
-            "Realities",
-            "Approaches",
-            "Managing"
-          ],
-          "summary": "The 59th episode of Health Wrap by The Hindu, marking World Diabetes Day, explores the everyday realities of living with diabetes and approaches to managing the condition over time.",
-          "keyPoints": "• The 59th episode of Health Wrap by The Hindu, marking World Diabetes Day, explores the everyday realities of living with diabetes and approaches to managing the condition over time.<br>• Ramya Kannan, Health Editor, The Hindu, speaks to individuals living with diabetes, including older adults who share their experiences of managing the condition over several years. Their experiences offer perspectives on living with diabetes and the importance of sustained management.<br>• The episode also features a discussion with Dr. V. Mohan, Chairman and Chief of Diabetology, Dr. Mohan’s Diabetes Specialities Centre, Chennai, on practical approaches to diabetes care."
         },
         {
           "category": "editorial",
@@ -3839,29 +3837,29 @@
       "id": "gk_15 Nov 2026_1",
       "cat": "🏛️ National & Polity",
       "date": "15 Nov 2026",
-      "qEn": "[15 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"The Thamarassery police have registered a case against a teacher on charges of assaulting a 10-year-old Class V student. The accus...\"?",
-      "qHi": "[15 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"The Thamarassery police have registered a case against a teacher on charges of assaulting a 10-year-old Class V student. The accus...\"?",
-      "qMr": "[15 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"The Thamarassery police have registered a case against a teacher on charges of assaulting a 10-year-old Class V student. The accus...\"?",
+      "qEn": "[15 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"Leader of Opposition Pinarayi Vijayan has alleged that the United Democratic Front (UDF) government decided to purchase electricit...\"?",
+      "qHi": "[15 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"Leader of Opposition Pinarayi Vijayan has alleged that the United Democratic Front (UDF) government decided to purchase electricit...\"?",
+      "qMr": "[15 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"Leader of Opposition Pinarayi Vijayan has alleged that the United Democratic Front (UDF) government decided to purchase electricit...\"?",
       "optsEn": [
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
         "15th Finance Commission Special State Grant",
-        "Kozhikode teacher charged after caning 10-year-old Class 5 student",
-        "Inter-State Council Constitutional Review Panel"
+        "Inter-State Council Constitutional Review Panel",
+        "Keralam power purchase row: Opposition Leader Pinarayi Vijayan alleges irregularit..."
       ],
       "optsHi": [
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
         "15th Finance Commission Special State Grant",
-        "Kozhikode teacher charged after caning 10-year-old Class 5 student",
-        "Inter-State Council Constitutional Review Panel"
+        "Inter-State Council Constitutional Review Panel",
+        "Keralam power purchase row: Opposition Leader Pinarayi Vijayan alleges irregularit..."
       ],
       "optsMr": [
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
         "15th Finance Commission Special State Grant",
-        "Kozhikode teacher charged after caning 10-year-old Class 5 student",
-        "Inter-State Council Constitutional Review Panel"
+        "Inter-State Council Constitutional Review Panel",
+        "Keralam power purchase row: Opposition Leader Pinarayi Vijayan alleges irregularit..."
       ],
-      "ans": 2,
-      "explanation": "<strong>1. Core Context & Background:</strong> The Thamarassery police have registered a case against a teacher on charges of assaulting a 10-year-old Class V student.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> The accused has been identified as Mubashir, an Arabic teacher at the school near Engappuzha in Kozhikode district. According to the complaint lodged by the girl’s father, the incident occurred on November 6, 2026, after an argument among students over the use of the school playground.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Police said an investigation into the incident was under way."
+      "ans": 3,
+      "explanation": "<strong>1. Core Context & Background:</strong> Leader of Opposition Pinarayi Vijayan has alleged that the United Democratic Front (UDF) government decided to purchase electricity from a firm called VEH Global at a relatively high price of ₹11 per unit without inviting bids or securing the approval of the Kerala State Electricity Regulatory Commission (KSERC).<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> According to the Leader of the Opposition, a supply of 200 MW was secured merely on the strength of an offer made by the firm. The Commission has not yet approved this power purchase, Mr.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> However, in this case, he cannot say so, Mr."
     },
     {
       "id": "gk_15 Nov 2026_2",
@@ -3889,119 +3887,119 @@
         "Cyclone Akvan to move towards Andhra coast by November 19, rainfall expected in Ta..."
       ],
       "ans": 3,
-      "explanation": "<strong>1. Core Context & Background:</strong> A depression over the southeast and adjoining southwest Bay of Bengal is likely to strengthen into a severe cyclonic storm by November 17, the meteorological department said on Sunday (November 15, 2026).<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Cyclone Akvan is expected to cause rains in north coastal districts in Tamil Nadu, Puducherry and Karaikal area, it said. The department announced that the cycline is expected to move towards the Andhra Pradesh coast around November 19.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Tamil Nadu / weather news / weather / rains / Monsoon / Puducherry / cyclones"
+      "explanation": "<strong>1. Core Context & Background:</strong> A depression over the southeast and adjoining southwest Bay of Bengal is likely to strengthen into a severe cyclonic storm by November 17, the meteorological department said on Sunday (November 15, 2026).<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Cyclone Akvan is expected to cause rains in north coastal districts in Tamil Nadu, Puducherry and Karaikal area, it said. The department announced that the cyclone is expected to move towards the Andhra Pradesh coast around November 19.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Tamil Nadu / weather news / weather / rains / Monsoon / Puducherry / cyclones"
     },
     {
       "id": "gk_15 Nov 2026_3",
       "cat": "🏛️ National & Polity",
       "date": "15 Nov 2026",
-      "qEn": "[15 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"West Bengal Chief Minister Suvendu Adhikari on Sunday (November 15, 2026) alleged that the previous TMC government had considered ...\"?",
-      "qHi": "[15 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"West Bengal Chief Minister Suvendu Adhikari on Sunday (November 15, 2026) alleged that the previous TMC government had considered ...\"?",
-      "qMr": "[15 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"West Bengal Chief Minister Suvendu Adhikari on Sunday (November 15, 2026) alleged that the previous TMC government had considered ...\"?",
+      "qEn": "[15 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"Air India on Sunday (November 15, 2026) said it has resumed non-stop flights to New York and Newark from Delhi and Mumbai, followi...\"?",
+      "qHi": "[15 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"Air India on Sunday (November 15, 2026) said it has resumed non-stop flights to New York and Newark from Delhi and Mumbai, followi...\"?",
+      "qMr": "[15 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"Air India on Sunday (November 15, 2026) said it has resumed non-stop flights to New York and Newark from Delhi and Mumbai, followi...\"?",
       "optsEn": [
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "Air India resumes direct flights to New York, Newark after easing of airspace curbs",
         "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel",
-        "TMC government considered only Muslims as minority: Bengal CM"
+        "Inter-State Council Constitutional Review Panel"
       ],
       "optsHi": [
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "Air India resumes direct flights to New York, Newark after easing of airspace curbs",
         "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel",
-        "TMC government considered only Muslims as minority: Bengal CM"
+        "Inter-State Council Constitutional Review Panel"
       ],
       "optsMr": [
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "Air India resumes direct flights to New York, Newark after easing of airspace curbs",
         "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel",
-        "TMC government considered only Muslims as minority: Bengal CM"
+        "Inter-State Council Constitutional Review Panel"
       ],
-      "ans": 3,
-      "explanation": "<strong>1. Core Context & Background:</strong> West Bengal Chief Minister Suvendu Adhikari on Sunday (November 15, 2026) alleged that the previous TMC government had considered only Muslims as a minority, asserting that Sikhs, Buddhists and Jains are also religious minorities.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> He visited the Gurdwara Bara Sikh Sangat at the city's trading hub, Burrabazar, and participated in a procession of the Sikh community in the area. \"Minority does not mean a particular community.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> West Bengal / minority group / politics / politics (general)"
+      "ans": 1,
+      "explanation": "<strong>1. Core Context & Background:</strong> Air India on Sunday (November 15, 2026) said it has resumed non-stop flights to New York and Newark from Delhi and Mumbai, following the reopening of a restricted airspace, reducing overall travel time by up to five hours.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> From the first week of this month, Air India began operating these direct flights without a stopover, with the airline using Iraq airspace, sources told PTI on November 6. Air India has one daily flight to New York and four weekly services to Newark from Delhi.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> So, it (airspace curbs) is worse than what we had last year,\" the official had said."
     },
     {
       "id": "gk_15 Nov 2026_4",
       "cat": "🏛️ National & Polity",
       "date": "15 Nov 2026",
-      "qEn": "[15 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"Chief Minister D.K. Shivakumar on Saturday (November 14) asserted that Karnataka will go ahead with the Mekedatu balancing reservo...\"?",
-      "qHi": "[15 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"Chief Minister D.K. Shivakumar on Saturday (November 14) asserted that Karnataka will go ahead with the Mekedatu balancing reservo...\"?",
-      "qMr": "[15 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"Chief Minister D.K. Shivakumar on Saturday (November 14) asserted that Karnataka will go ahead with the Mekedatu balancing reservo...\"?",
+      "qEn": "[15 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"Prime Minister Narendra Modi on Sunday (November 15, 2026) paid tributes to tribal icon Birsa Munda on his 151st birth anniversary...\"?",
+      "qHi": "[15 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"Prime Minister Narendra Modi on Sunday (November 15, 2026) paid tributes to tribal icon Birsa Munda on his 151st birth anniversary...\"?",
+      "qMr": "[15 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"Prime Minister Narendra Modi on Sunday (November 15, 2026) paid tributes to tribal icon Birsa Munda on his 151st birth anniversary...\"?",
       "optsEn": [
-        "Mekedatu is Karnataka’s right, we will build dam and release Tamil Nadu’s share of...",
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
         "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel"
+        "Inter-State Council Constitutional Review Panel",
+        "PM Modi pays tribute to Birsa Munda on birth anniversary"
       ],
       "optsHi": [
-        "Mekedatu is Karnataka’s right, we will build dam and release Tamil Nadu’s share of...",
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
         "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel"
+        "Inter-State Council Constitutional Review Panel",
+        "PM Modi pays tribute to Birsa Munda on birth anniversary"
       ],
       "optsMr": [
-        "Mekedatu is Karnataka’s right, we will build dam and release Tamil Nadu’s share of...",
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
         "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel"
+        "Inter-State Council Constitutional Review Panel",
+        "PM Modi pays tribute to Birsa Munda on birth anniversary"
       ],
-      "ans": 0,
-      "explanation": "<strong>1. Core Context & Background:</strong> Shivakumar on Saturday (November 14) asserted that Karnataka will go ahead with the Mekedatu balancing reservoir project , describing it as the State’s right and duty, while assuring that Tamil Nadu would receive its stipulated share of Cauvery water.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Responding to opposition to the project from leaders in Tamil Nadu, including State Congress president Manickam Tagore, Mr. Shivakumar said the neighbouring State should send a delegation to Karnataka to understand the project’s benefits rather than oppose it.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> The government would address the issue and resolve the pending matters, he said."
+      "ans": 3,
+      "explanation": "<strong>1. Core Context & Background:</strong> Prime Minister Narendra Modi on Sunday (November 15, 2026) paid tributes to tribal icon Birsa Munda on his 151st birth anniversary and extended greetings on the Janjatiya Gaurav Diwas.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> In a post in Hindi on X, the Prime Minister said the courage, struggle and sacrifice of 'Dharti Aaba' would continue to inspire generations to uphold self-respect, freedom and rights. Tripura Government prioritising socio-economic development of tribals: CM Manik Saha भगवान बिरसा मुंडा जी की जयंती पर उन्हें समस्त देशवासियों की ओर से मेरा कोटि-कोटि नमन। आप सभी को इस दिव्य अवसर से जुड़े जनजातीय गौरव दिवस की बहुत-बहुत शुभकामनाएं। धरती आबा का अदम्य साहस, संघर्ष और बलिदान देश की हर पीढ़ी को स्वाभिमान, स्वतंत्रता और अधिकारों की रक्षा के लिए प्रेरित करता रहेगा। उनसे प्रेरणा लेकर हमारी सरकार जनजातीय भाई-बहनों के सम्मान, अवसर और समृद्धि के लिए कोई कोर-कसर नहीं छोड़ रही है। आइए, सभी मिलकर राष्ट्र निर्माण में जनजातीय समाज के बहुमूल्य योगदान को नमन करें। He said the government, drawing inspiration from Birsa Munda, was committed to ensuring dignity, opportunities and prosperity for the tribal community.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> PM @narendramodi pays floral tribute to Dharti Aaba Bhagwan Birsa Munda at parliament complex in Delhi https://t.co/1aQMnVQJEA Since 2021, Janjatiya Gaurav Diwas is observed every year on November 15 to commemorate the birth anniversary of tribal freedom fighter Birsa Munda."
     },
     {
       "id": "gk_15 Nov 2026_5",
       "cat": "🏛️ National & Polity",
       "date": "15 Nov 2026",
-      "qEn": "[15 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"AMMK founder T.T.V. Dhinakaran on Sunday (November 15, 2026) accused Chief Minister C. Joseph Vijay of shedding crocodile tears ov...\"?",
-      "qHi": "[15 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"AMMK founder T.T.V. Dhinakaran on Sunday (November 15, 2026) accused Chief Minister C. Joseph Vijay of shedding crocodile tears ov...\"?",
-      "qMr": "[15 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"AMMK founder T.T.V. Dhinakaran on Sunday (November 15, 2026) accused Chief Minister C. Joseph Vijay of shedding crocodile tears ov...\"?",
+      "qEn": "[15 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"Tripura Chief Minister Manik Saha on Sunday (November 15, 2026) paid tribute to tribal icon Birsa Munda on his 151st birth anniver...\"?",
+      "qHi": "[15 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"Tripura Chief Minister Manik Saha on Sunday (November 15, 2026) paid tribute to tribal icon Birsa Munda on his 151st birth anniver...\"?",
+      "qMr": "[15 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"Tripura Chief Minister Manik Saha on Sunday (November 15, 2026) paid tribute to tribal icon Birsa Munda on his 151st birth anniver...\"?",
       "optsEn": [
+        "Tripura Government prioritising socio-economic development of tribals: CM Manik Saha",
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
         "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel",
-        "Dhinakaran, Vasan urge Vijay to protect interests of T.N. farmers in Mekedatu issue"
+        "Inter-State Council Constitutional Review Panel"
       ],
       "optsHi": [
+        "Tripura Government prioritising socio-economic development of tribals: CM Manik Saha",
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
         "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel",
-        "Dhinakaran, Vasan urge Vijay to protect interests of T.N. farmers in Mekedatu issue"
+        "Inter-State Council Constitutional Review Panel"
       ],
       "optsMr": [
+        "Tripura Government prioritising socio-economic development of tribals: CM Manik Saha",
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
         "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel",
-        "Dhinakaran, Vasan urge Vijay to protect interests of T.N. farmers in Mekedatu issue"
+        "Inter-State Council Constitutional Review Panel"
       ],
-      "ans": 3,
-      "explanation": "<strong>1. Core Context & Background:</strong> Dhinakaran on Sunday (November 15, 2026) accused Chief Minister C.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Joseph Vijay of shedding crocodile tears over the Mekedatu dam issue and said the latter had to choose between his party’s alliance with the Congress and the livelihoods of Tamil Nadu farmers. Vijay of failing to discharge his responsibility to protect farmers’ livelihoods for the sake of retaining power, alleging this had emboldened Karnataka Chief Minister D.K.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Amma Makkal Munnetra Kazhagam / Tamilaga Vettri Kazhagam / Indian National Congress / Tamil Maanila Congress"
+      "ans": 0,
+      "explanation": "<strong>1. Core Context & Background:</strong> Tripura Chief Minister Manik Saha on Sunday (November 15, 2026) paid tribute to tribal icon Birsa Munda on his 151st birth anniversary and said his Government has been prioritising the overall socio-economic development of the indigenous people.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Addressing a 'Janjatiya Gaurav Diwas' programme at Chawmanu in Dhalai district, Mr. Saha recalled the tribal icon's contribution to the country's freedom struggle.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> The four Eklavya schools were among 38 schools inaugurated by Mr."
     },
     {
       "id": "gk_15 Nov 2026_6",
       "cat": "🏛️ National & Polity",
       "date": "15 Nov 2026",
-      "qEn": "[15 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"A vaccination drive will be held across the State from December 3 to 5 to protect children against diphtheria and tetanus, which a...\"?",
-      "qHi": "[15 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"A vaccination drive will be held across the State from December 3 to 5 to protect children against diphtheria and tetanus, which a...\"?",
-      "qMr": "[15 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"A vaccination drive will be held across the State from December 3 to 5 to protect children against diphtheria and tetanus, which a...\"?",
+      "qEn": "[15 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"Assam Congress leader Debabrata Saikia on Sunday (November 15, 2026) urged Prime Minister Narendra Modi to enhance compensation fo...\"?",
+      "qHi": "[15 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"Assam Congress leader Debabrata Saikia on Sunday (November 15, 2026) urged Prime Minister Narendra Modi to enhance compensation fo...\"?",
+      "qMr": "[15 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"Assam Congress leader Debabrata Saikia on Sunday (November 15, 2026) urged Prime Minister Narendra Modi to enhance compensation fo...\"?",
       "optsEn": [
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
         "15th Finance Commission Special State Grant",
-        "Statewide vaccination drive to protect children aged 10 and 16 against tetanus and...",
+        "Assam Congress writes to PM, seeks enhanced aid for victims of Kaziranga accident",
         "Inter-State Council Constitutional Review Panel"
       ],
       "optsHi": [
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
         "15th Finance Commission Special State Grant",
-        "Statewide vaccination drive to protect children aged 10 and 16 against tetanus and...",
+        "Assam Congress writes to PM, seeks enhanced aid for victims of Kaziranga accident",
         "Inter-State Council Constitutional Review Panel"
       ],
       "optsMr": [
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
         "15th Finance Commission Special State Grant",
-        "Statewide vaccination drive to protect children aged 10 and 16 against tetanus and...",
+        "Assam Congress writes to PM, seeks enhanced aid for victims of Kaziranga accident",
         "Inter-State Council Constitutional Review Panel"
       ],
       "ans": 2,
-      "explanation": "<strong>1. Core Context & Background:</strong> A vaccination drive will be held across the State from December 3 to 5 to protect children against diphtheria and tetanus, which are potentially life-threatening yet preventable bacterial diseases.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> According to a release from the Department of Health, Medical and Family Welfare, the TD (Tetanus-Diphtheria) vaccine will be administered to children who have completed 10 and 16 years of age. The health department aims to cover more than 95% of children in this age bracket during the drive, which will be conducted across government and private schools and intermediate colleges on three days.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Once vaccination is completed, digital certificates of the same should be issued to all beneficiaries and the same information should be uploaded on online health portals, the official said."
+      "explanation": "<strong>1. Core Context & Background:</strong> Assam Congress leader Debabrata Saikia on Sunday (November 15, 2026) urged Prime Minister Narendra Modi to enhance compensation for victims of the Kaziranga minibus-truck collision , provide free treatment to the injured and livelihood assistance to families of the 26 deceased.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> In the letter, the former leader of the opposition in the Assembly expressed concern over the deplorable condition of the National Highway-715 stretch and alleged that the authorities' neglect of essential road safety measures was disturbing. Saikia demanded a thorough examination of the road's condition, design, maintenance, traffic management and safety arrangements, as well as urgent intervention on highway safety, healthcare and infrastructure of the region.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> The Congress leader further asked for a comprehensive independent enquiry into the accident, including the NH-715 condition and compliance with safety standards."
     },
     {
       "id": "gk_15 Nov 2026_7",
