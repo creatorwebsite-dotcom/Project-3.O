@@ -1,12 +1,12 @@
 {
-  "updatedAt": "17 Nov 2026, 04:21 AM IST",
+  "updatedAt": "17 Nov 2026, 05:20 AM IST",
   "currentDateIso": "2026-11-17",
   "currentDateDisplay": "17 Nov 2026",
   "availableDates": [
     {
       "dateIso": "2026-11-17",
       "dateDisplay": "17 Nov 2026",
-      "updatedAt": "17 Nov 2026, 04:21 AM IST",
+      "updatedAt": "17 Nov 2026, 05:20 AM IST",
       "articleCount": 30
     },
     {
@@ -23,9 +23,72 @@
     }
   ],
   "hookLine1": "The Hindu Printed Broadsheet & Editorial Digest (17 Nov 2026)",
-  "hookLine2": "100% In-App Full Newspaper Pages & Deep Editorial Analysis • Updated: 17 Nov 2026, 04:21 AM IST",
+  "hookLine2": "100% In-App Full Newspaper Pages & Deep Editorial Analysis • Updated: 17 Nov 2026, 05:20 AM IST",
   "totalArticles": 30,
   "articles": [
+    {
+      "category": "national",
+      "categoryLabel": "🏛️ National & Polity",
+      "title": "BJP holds key party meeting in Mathura for Assembly polls",
+      "link": "https://www.thehindu.com/news/national/uttar-pradesh/bjp-holds-key-party-meeting-in-mathura-for-assembly-polls/article71709422.ece",
+      "pubDate": "Tue, 17 Nov 2026 04:57:22 +0530",
+      "dateIso": "2026-11-17",
+      "dateDisplay": "17 Nov 2026",
+      "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
+      "imageUrl": "https://th-i.thgim.com/public/incoming/78xw0r/article71709580.ece/alternates/LANDSCAPE_1200/HXQBPS1bUAAKXsb.jpeg",
+      "fullParagraphs": [
+        "Senior BJP leaders from Uttar Pradesh, including Chief Minister Yogi Adityanath, attended a key meeting at the Pandit Deendayal Upadhyaya Cow Research Institute in Parkham, Mathura, to discuss strategy for the upcoming U.P. Assembly polls.",
+        "The party announced the meeting to discuss organisational programmes, booth empowerment, and public welfare benefits, while also outlining electoral strategy and caste-based outreach to counter the Opposition’s renewed pitch.",
+        "“One goal, one idea... BJP government again for the third time... Today, in Mathura, the birthplace of Lord Krishna, I participated in a planning meeting with National General Secretary (Organisation) B.L. Santosh, Chief Minister Yogi Adityanath, and BJP Uttar Pradesh Incharge Shri Vinod Tawde,” wrote Pankaj Chaudhary, U.P. BJP president, on X.",
+        "“In the meeting, various important topics, including upcoming organisational programmes, booth empowerment, and providing benefits of public welfare schemes to every household, were discussed in detail. On this occasion, National General Secretary Irani, Deputy Chief Ministers Shri Keshav Prasad Maurya ji and Shri Brajesh Pathak, co-incharges of BJP Uttar Pradesh, Ministers of the State Government, public representatives, and state officials were present,” he added.",
+        "State Deputy CM Keshav Prasad Maurya said the construction of a grand temple at Shri Krishna Janmabhoomi in Mathura will be a major poll issue in the 2027 U.P. elections, and that a grand Krishna temple will be built—through the courts or mutual dialogue, as with Ayodhya.",
+        "“If Akhilesh Yadav wants to join us in kar seva, we will take him along too to build a grand temple of Lord Krishna,” said the Deputy CM.",
+        "The meeting in Mathura is also significant amid the BJP’s emphasis on Mathura and western Uttar Pradesh. “The BJP holds meetings regularly to discuss organisational programmes, booth empowerment and other issues. Reach out to various sections of society is also part of our work,” said Dinesh Dubey, a senior BJP leader based in Lucknow.",
+        "Asad Rizvi, a political analyst based in Lucknow, said, “the meeting is significant as it is organised only a few months before the Assembly elections. Amid the main Opposition parties (the Samajwadi Party-Congress) pushing backwards, Scheduled Castes (SCs), Brahmins and marginalised groups through the PDA plank, the BJP will be recalibrating their policies and making a renewed effort towards them. ”",
+        "The SP president Akhilesh Yadav in a cryptic statement urged the BJP leaders to take a dip in the Yamuna and sip its water before starting the event. “I request them to take a dip in the Yamuna and sip its water before starting the event. It will be auspicious. If they fall ill, call a good doctor,” said Mr. Yadav."
+      ],
+      "deepExplanation": "<strong>1. Core Context & Background:</strong> Senior BJP leaders from Uttar Pradesh, including Chief Minister Yogi Adityanath, attended a key meeting at the Pandit Deendayal Upadhyaya Cow Research Institute in Parkham, Mathura, to discuss strategy for the upcoming U.P.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> The party announced the meeting to discuss organisational programmes, booth empowerment, and public welfare benefits, while also outlining electoral strategy and caste-based outreach to counter the Opposition’s renewed pitch. BJP government again for the third time...<br><br><strong>3. Way Forward & Exam Conclusion:</strong> If they fall ill, call a good doctor,” said Mr.",
+      "vocabList": [
+        "Adityanath",
+        "Attended",
+        "Deendayal",
+        "Upadhyaya",
+        "Research",
+        "Institute"
+      ],
+      "summary": "Senior BJP leaders from Uttar Pradesh, including Chief Minister Yogi Adityanath, attended a key meeting at the Pandit Deendayal Upadhyaya Cow Research Institute in Parkham, Mathura, to discuss strategy for the upcoming U.P. Assembly polls.",
+      "keyPoints": "• Senior BJP leaders from Uttar Pradesh, including Chief Minister Yogi Adityanath, attended a key meeting at the Pandit Deendayal Upadhyaya Cow Research Institute in Parkham, Mathura, to discuss strategy for the upcoming U.P. Assembly polls.<br>• The party announced the meeting to discuss organisational programmes, booth empowerment, and public welfare benefits, while also outlining electoral strategy and caste-based outreach to counter the Opposition’s renewed pitch.<br>• “One goal, one idea... BJP government again for the third time... Today, in Mathura, the birthplace of Lord Krishna, I participated in a planning meeting with National General Secretary (Organisation) B.L. Santosh, Chief Minister Yogi Adityanath, and BJP Uttar Pradesh Incharge Shri Vinod Tawde,” wrote Pankaj Chaudhary, U.P. BJP president, on X."
+    },
+    {
+      "category": "national",
+      "categoryLabel": "🏛️ National & Polity",
+      "title": "Tribute to Kartar Singh Sarabha, Punjab free from drugs and unemployment, says CM Mann",
+      "link": "https://www.thehindu.com/news/national/punjab/tribute-to-kartar-singh-sarabha-punjab-free-from-drugs-and-unemployment-says-cm-mann/article71709559.ece",
+      "pubDate": "Tue, 17 Nov 2026 04:27:18 +0530",
+      "dateIso": "2026-11-17",
+      "dateDisplay": "17 Nov 2026",
+      "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
+      "imageUrl": "https://th-i.thgim.com/public/incoming/y7hw4f/article71709560.ece/alternates/LANDSCAPE_1200/20261116535L.jpg",
+      "fullParagraphs": [
+        "Punjab Chief Minister Bhagwant Mann said on Monday (November 16, 2026) that the greatest tribute to the 19-year-old revolutionary and freedom fighter Kartar Singh Sarabha is to fulfil his dream of a Punjab free from drugs, unemployment, and injustice.",
+        "He was speaking after paying tribute to Shaheed Kartar Singh Sarabha on his 111th martyrdom anniversary at his native village, Sarabha, in Ludhiana district. The Chief Minister said his government is working to build the progressive Punjab they envision.",
+        "“Shaheed Kartar Singh Sarabha embraced the gallows at the tender age of just 19, proving that courage, conviction and love for the motherland know no age. At a time when youngsters today are planning their futures, this great revolutionary was planning the liberation of the country. He sacrificed his youth, dreams and ultimately his life for our freedom,” he said.",
+        "“On November 16, 1915, Shaheed Kartar Singh Sarabha was hanged at Lahore Central Jail along with six other revolutionaries in the First Lahore Conspiracy Case. His fearless commitment to the freedom of the country remains a shining example of patriotism and selflessness,” he added.",
+        "As the Punjab 2027 Assembly election approaches, the drug menace has once again become a central campaign issue. In the run-up to the Assembly polls, the major political parties in the fray—the Congress, the Bharatiya Janata Party (BJP), the Shiromani Akali Dal (SAD), and the ruling Aam Aadmi Party (AAP)—are making the drug menace a key plank of their campaigns.",
+        "While the ruling party has been asserting that eradicating drugs is its “biggest priority,” the Opposition parties have accused the AAP of failing to curb the drug menace and instead patronising the drug trade."
+      ],
+      "deepExplanation": "<strong>1. Core Context & Background:</strong> Punjab Chief Minister Bhagwant Mann said on Monday (November 16, 2026) that the greatest tribute to the 19-year-old revolutionary and freedom fighter Kartar Singh Sarabha is to fulfil his dream of a Punjab free from drugs, unemployment, and injustice.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> He was speaking after paying tribute to Shaheed Kartar Singh Sarabha on his 111th martyrdom anniversary at his native village, Sarabha, in Ludhiana district. The Chief Minister said his government is working to build the progressive Punjab they envision.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> While the ruling party has been asserting that eradicating drugs is its “biggest priority,” the Opposition parties have accused the AAP of failing to curb the drug menace and instead patronising the drug trade.",
+      "vocabList": [
+        "Bhagwant",
+        "November",
+        "Greatest",
+        "Revolutionary",
+        "Unemployment",
+        "Injustice"
+      ],
+      "summary": "Punjab Chief Minister Bhagwant Mann said on Monday (November 16, 2026) that the greatest tribute to the 19-year-old revolutionary and freedom fighter Kartar Singh Sarabha is to fulfil his dream of a Punjab free from drugs, unemployment, and injustice.",
+      "keyPoints": "• Punjab Chief Minister Bhagwant Mann said on Monday (November 16, 2026) that the greatest tribute to the 19-year-old revolutionary and freedom fighter Kartar Singh Sarabha is to fulfil his dream of a Punjab free from drugs, unemployment, and injustice.<br>• He was speaking after paying tribute to Shaheed Kartar Singh Sarabha on his 111th martyrdom anniversary at his native village, Sarabha, in Ludhiana district. The Chief Minister said his government is working to build the progressive Punjab they envision.<br>• “Shaheed Kartar Singh Sarabha embraced the gallows at the tender age of just 19, proving that courage, conviction and love for the motherland know no age. At a time when youngsters today are planning their futures, this great revolutionary was planning the liberation of the country. He sacrificed his youth, dreams and ultimately his life for our freedom,” he said."
+    },
     {
       "category": "national",
       "categoryLabel": "🏛️ National & Polity",
@@ -155,67 +218,6 @@
       ],
       "summary": "With the deep depression in the Bay of Bengal intensifying into cyclonic storm Akvan on Monday evening, the Regional Meteorological Centre (RMC) in Chennai has issued a cyclone warning for Andhra Pradesh and adjoining south Odisha coasts.",
       "keyPoints": "• With the deep depression in the Bay of Bengal intensifying into cyclonic storm Akvan on Monday evening, the Regional Meteorological Centre (RMC) in Chennai has issued a cyclone warning for Andhra Pradesh and adjoining south Odisha coasts.<br>• The cyclonic storm lay centred about 610 km east of Chennai at 5.30 p.m. on Monday (November 16, 2026). The clouds associated with the system are likely to bring light to moderate rainfall at isolated places over coastal Tamil Nadu and the Western Ghat districts, as well as Puducherry and Karaikal, on Tuesday (November 17, 2026). The RMC, Chennai, has forecast that mainly dry weather is likely to prevail over the rest of the State during the same period.<br>• Cyclone Akvan to make landfall between Nellore and Tuni in Andhra as very severe storm on November 20"
-    },
-    {
-      "category": "national",
-      "categoryLabel": "🏛️ National & Polity",
-      "title": "Kerala High Court refers petition challenging clean chit to Chief Minister in Punarjani case to Chief Justice",
-      "link": "https://www.thehindu.com/news/national/kerala/kerala-high-court-refers-petition-challenging-clean-chit-to-chief-minister-in-punarjani-case-to-chief-justice/article71708756.ece",
-      "pubDate": "Tue, 17 Nov 2026 01:48:23 +0530",
-      "dateIso": "2026-11-17",
-      "dateDisplay": "17 Nov 2026",
-      "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
-      "imageUrl": "https://th-i.thgim.com/public/incoming/yjr7x7/article71709423.ece/alternates/LANDSCAPE_1200/Satheesan02.jpg",
-      "fullParagraphs": [
-        "A Single Bench of the Kerala High Court has referred the petition challenging the closure of the preliminary inquiry against Chief Minister V.D. Satheesan in the Punarjani case for consideration before the appropriate court.",
-        "Justice C. Jayachandran observed that there was a strong prima facie indication that the petition had features of a public interest litigation (PIL). The Bench directed the High Court Registry to place the matter before the Chief Justice to decide whether the case would be considered by the court trying MP/MLA cases, Prevention of Corruption Act, or as a PIL.",
-        "The petition had been filed by lawyer K.M. Shajahan challenging a Vigilance and Anti-Corruption Bureau (VACB) report closing the preliminary inquiry and dropping corruption charges against the Chief Minister in connection with the Punarjani flood rehabilitation scheme.",
-        "The court examined two aspects while considering the petition — first, if the petitioner had the right to challenge the preliminary inquiry report, and second, if the court had the jurisdiction to hear the matter.",
-        "The petitioner argued that he had preferred the plea in his capacity as a citizen and a whistleblower, with every right to challenge the report. The State pointed out that a petition in this regard was filed by one of the complainants in the Punarjani case. This petition was later withdrawn and filed as a PIL seeking a CBI probe. However, the PIL was dismissed by a Division Bench of the court. The State contended that the petitioner did not have any right to move the petition since the complaint had already been decided by the court.",
-        "The Single Bench found that the jurisdiction to try the case would have to be decided first before examining the rights of the petitioner."
-      ],
-      "deepExplanation": "<strong>1. Core Context & Background:</strong> A Single Bench of the Kerala High Court has referred the petition challenging the closure of the preliminary inquiry against Chief Minister V.D.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Satheesan in the Punarjani case for consideration before the appropriate court. Jayachandran observed that there was a strong prima facie indication that the petition had features of a public interest litigation (PIL).<br><br><strong>3. Way Forward & Exam Conclusion:</strong> The Single Bench found that the jurisdiction to try the case would have to be decided first before examining the rights of the petitioner.",
-      "vocabList": [
-        "Referred",
-        "Petition",
-        "Challenging",
-        "Preliminary",
-        "Satheesan",
-        "Punarjani"
-      ],
-      "summary": "A Single Bench of the Kerala High Court has referred the petition challenging the closure of the preliminary inquiry against Chief Minister V.D. Satheesan in the Punarjani case for consideration before the appropriate court.",
-      "keyPoints": "• A Single Bench of the Kerala High Court has referred the petition challenging the closure of the preliminary inquiry against Chief Minister V.D. Satheesan in the Punarjani case for consideration before the appropriate court.<br>• Justice C. Jayachandran observed that there was a strong prima facie indication that the petition had features of a public interest litigation (PIL). The Bench directed the High Court Registry to place the matter before the Chief Justice to decide whether the case would be considered by the court trying MP/MLA cases, Prevention of Corruption Act, or as a PIL.<br>• The petition had been filed by lawyer K.M. Shajahan challenging a Vigilance and Anti-Corruption Bureau (VACB) report closing the preliminary inquiry and dropping corruption charges against the Chief Minister in connection with the Punarjani flood rehabilitation scheme."
-    },
-    {
-      "category": "national",
-      "categoryLabel": "🏛️ National & Polity",
-      "title": "70% turnout in most districts as four-phase panchayat polls end in Rajasthan",
-      "link": "https://www.thehindu.com/news/national/rajasthan/70-turnout-in-most-districts-as-four-phase-panchayat-polls-end-in-rajasthan/article71709420.ece",
-      "pubDate": "Tue, 17 Nov 2026 01:34:41 +0530",
-      "dateIso": "2026-11-17",
-      "dateDisplay": "17 Nov 2026",
-      "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
-      "imageUrl": "https://www.thehindu.com/theme/images/og-image.png",
-      "fullParagraphs": [
-        "The four-phase panchayat election process in Rajasthan concluded on Monday with polling held for 3,747 sarpanch and 33,885 ward panch posts across 25 districts. Voting exceeded 70% in most of the districts that went to the polls in the final phase.",
-        "There were stray incidents of confrontation and violence at some places, though long queues of voters were seen at several polling stations since morning. Villagers in Jalore district’s Gundau and Bharatpur district’s Shakarpur staged protests and created a ruckus raising allegations of bogus voting.",
-        "Police fired in the air and used force to disperse the supporters of two rival candidates for the sarpanch post at Mahu Gulawali in Dholpur district. The two groups clashed and hurled stones at each other, while one of them set on fire two motorcycles parked outside a polling booth.",
-        "In Dholpur’s Baroli village, polling started in late afternoon amid tension over a shooting incident on Sunday that resulted in the death of one person following a clash over election-related rivalry. Police have detained the main accused and 10 others in connection with the incident.",
-        "The allegations of fraudulent voting sparked tension in Kali Pahadi village of Khairthal-Tijara district and a verbal altercation between two groups escalated into a physical confrontation. Police arrived in the village on receiving information and brought the situation under control. An elderly person, who sustained serious injuries during the clash, was referred to Alwar for treatment.",
-        "Voting for both sarpanch and ward panch posts was conducted through ballot papers. More than 1.05 crore voters were eligible to exercise their franchise at 11,905 polling stations. Counting of votes started immediately after the polling ended. Results are expected to be declared by late night. The declaration of results will bring the election of representatives in all 14,403 panchayats in the State to a close.",
-        "The sarpanch and ward panch polls are not contested on political party symbols and parties do not officially allot tickets for these posts, unlike the zila parishad and panchayat samiti polls. Polling for zila parishad and panchayat samiti members across all four phases has been completed. Votes will be counted on November 20."
-      ],
-      "deepExplanation": "<strong>1. Core Context & Background:</strong> The four-phase panchayat election process in Rajasthan concluded on Monday with polling held for 3,747 sarpanch and 33,885 ward panch posts across 25 districts.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Voting exceeded 70% in most of the districts that went to the polls in the final phase. There were stray incidents of confrontation and violence at some places, though long queues of voters were seen at several polling stations since morning.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Votes will be counted on November 20.",
-      "vocabList": [
-        "Panchayat",
-        "Election",
-        "Rajasthan",
-        "Concluded",
-        "Sarpanch",
-        "Districts"
-      ],
-      "summary": "The four-phase panchayat election process in Rajasthan concluded on Monday with polling held for 3,747 sarpanch and 33,885 ward panch posts across 25 districts. Voting exceeded 70% in most of the districts that went to the polls in the final phase.",
-      "keyPoints": "• The four-phase panchayat election process in Rajasthan concluded on Monday with polling held for 3,747 sarpanch and 33,885 ward panch posts across 25 districts. Voting exceeded 70% in most of the districts that went to the polls in the final phase.<br>• There were stray incidents of confrontation and violence at some places, though long queues of voters were seen at several polling stations since morning. Villagers in Jalore district’s Gundau and Bharatpur district’s Shakarpur staged protests and created a ruckus raising allegations of bogus voting.<br>• Police fired in the air and used force to disperse the supporters of two rival candidates for the sarpanch post at Mahu Gulawali in Dholpur district. The two groups clashed and hurled stones at each other, while one of them set on fire two motorcycles parked outside a polling booth."
     },
     {
       "category": "economy",
@@ -954,8 +956,71 @@
     "2026-11-17": {
       "dateIso": "2026-11-17",
       "dateDisplay": "17 Nov 2026",
-      "updatedAt": "17 Nov 2026, 04:21 AM IST",
+      "updatedAt": "17 Nov 2026, 05:20 AM IST",
       "articles": [
+        {
+          "category": "national",
+          "categoryLabel": "🏛️ National & Polity",
+          "title": "BJP holds key party meeting in Mathura for Assembly polls",
+          "link": "https://www.thehindu.com/news/national/uttar-pradesh/bjp-holds-key-party-meeting-in-mathura-for-assembly-polls/article71709422.ece",
+          "pubDate": "Tue, 17 Nov 2026 04:57:22 +0530",
+          "dateIso": "2026-11-17",
+          "dateDisplay": "17 Nov 2026",
+          "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/78xw0r/article71709580.ece/alternates/LANDSCAPE_1200/HXQBPS1bUAAKXsb.jpeg",
+          "fullParagraphs": [
+            "Senior BJP leaders from Uttar Pradesh, including Chief Minister Yogi Adityanath, attended a key meeting at the Pandit Deendayal Upadhyaya Cow Research Institute in Parkham, Mathura, to discuss strategy for the upcoming U.P. Assembly polls.",
+            "The party announced the meeting to discuss organisational programmes, booth empowerment, and public welfare benefits, while also outlining electoral strategy and caste-based outreach to counter the Opposition’s renewed pitch.",
+            "“One goal, one idea... BJP government again for the third time... Today, in Mathura, the birthplace of Lord Krishna, I participated in a planning meeting with National General Secretary (Organisation) B.L. Santosh, Chief Minister Yogi Adityanath, and BJP Uttar Pradesh Incharge Shri Vinod Tawde,” wrote Pankaj Chaudhary, U.P. BJP president, on X.",
+            "“In the meeting, various important topics, including upcoming organisational programmes, booth empowerment, and providing benefits of public welfare schemes to every household, were discussed in detail. On this occasion, National General Secretary Irani, Deputy Chief Ministers Shri Keshav Prasad Maurya ji and Shri Brajesh Pathak, co-incharges of BJP Uttar Pradesh, Ministers of the State Government, public representatives, and state officials were present,” he added.",
+            "State Deputy CM Keshav Prasad Maurya said the construction of a grand temple at Shri Krishna Janmabhoomi in Mathura will be a major poll issue in the 2027 U.P. elections, and that a grand Krishna temple will be built—through the courts or mutual dialogue, as with Ayodhya.",
+            "“If Akhilesh Yadav wants to join us in kar seva, we will take him along too to build a grand temple of Lord Krishna,” said the Deputy CM.",
+            "The meeting in Mathura is also significant amid the BJP’s emphasis on Mathura and western Uttar Pradesh. “The BJP holds meetings regularly to discuss organisational programmes, booth empowerment and other issues. Reach out to various sections of society is also part of our work,” said Dinesh Dubey, a senior BJP leader based in Lucknow.",
+            "Asad Rizvi, a political analyst based in Lucknow, said, “the meeting is significant as it is organised only a few months before the Assembly elections. Amid the main Opposition parties (the Samajwadi Party-Congress) pushing backwards, Scheduled Castes (SCs), Brahmins and marginalised groups through the PDA plank, the BJP will be recalibrating their policies and making a renewed effort towards them. ”",
+            "The SP president Akhilesh Yadav in a cryptic statement urged the BJP leaders to take a dip in the Yamuna and sip its water before starting the event. “I request them to take a dip in the Yamuna and sip its water before starting the event. It will be auspicious. If they fall ill, call a good doctor,” said Mr. Yadav."
+          ],
+          "deepExplanation": "<strong>1. Core Context & Background:</strong> Senior BJP leaders from Uttar Pradesh, including Chief Minister Yogi Adityanath, attended a key meeting at the Pandit Deendayal Upadhyaya Cow Research Institute in Parkham, Mathura, to discuss strategy for the upcoming U.P.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> The party announced the meeting to discuss organisational programmes, booth empowerment, and public welfare benefits, while also outlining electoral strategy and caste-based outreach to counter the Opposition’s renewed pitch. BJP government again for the third time...<br><br><strong>3. Way Forward & Exam Conclusion:</strong> If they fall ill, call a good doctor,” said Mr.",
+          "vocabList": [
+            "Adityanath",
+            "Attended",
+            "Deendayal",
+            "Upadhyaya",
+            "Research",
+            "Institute"
+          ],
+          "summary": "Senior BJP leaders from Uttar Pradesh, including Chief Minister Yogi Adityanath, attended a key meeting at the Pandit Deendayal Upadhyaya Cow Research Institute in Parkham, Mathura, to discuss strategy for the upcoming U.P. Assembly polls.",
+          "keyPoints": "• Senior BJP leaders from Uttar Pradesh, including Chief Minister Yogi Adityanath, attended a key meeting at the Pandit Deendayal Upadhyaya Cow Research Institute in Parkham, Mathura, to discuss strategy for the upcoming U.P. Assembly polls.<br>• The party announced the meeting to discuss organisational programmes, booth empowerment, and public welfare benefits, while also outlining electoral strategy and caste-based outreach to counter the Opposition’s renewed pitch.<br>• “One goal, one idea... BJP government again for the third time... Today, in Mathura, the birthplace of Lord Krishna, I participated in a planning meeting with National General Secretary (Organisation) B.L. Santosh, Chief Minister Yogi Adityanath, and BJP Uttar Pradesh Incharge Shri Vinod Tawde,” wrote Pankaj Chaudhary, U.P. BJP president, on X."
+        },
+        {
+          "category": "national",
+          "categoryLabel": "🏛️ National & Polity",
+          "title": "Tribute to Kartar Singh Sarabha, Punjab free from drugs and unemployment, says CM Mann",
+          "link": "https://www.thehindu.com/news/national/punjab/tribute-to-kartar-singh-sarabha-punjab-free-from-drugs-and-unemployment-says-cm-mann/article71709559.ece",
+          "pubDate": "Tue, 17 Nov 2026 04:27:18 +0530",
+          "dateIso": "2026-11-17",
+          "dateDisplay": "17 Nov 2026",
+          "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/y7hw4f/article71709560.ece/alternates/LANDSCAPE_1200/20261116535L.jpg",
+          "fullParagraphs": [
+            "Punjab Chief Minister Bhagwant Mann said on Monday (November 16, 2026) that the greatest tribute to the 19-year-old revolutionary and freedom fighter Kartar Singh Sarabha is to fulfil his dream of a Punjab free from drugs, unemployment, and injustice.",
+            "He was speaking after paying tribute to Shaheed Kartar Singh Sarabha on his 111th martyrdom anniversary at his native village, Sarabha, in Ludhiana district. The Chief Minister said his government is working to build the progressive Punjab they envision.",
+            "“Shaheed Kartar Singh Sarabha embraced the gallows at the tender age of just 19, proving that courage, conviction and love for the motherland know no age. At a time when youngsters today are planning their futures, this great revolutionary was planning the liberation of the country. He sacrificed his youth, dreams and ultimately his life for our freedom,” he said.",
+            "“On November 16, 1915, Shaheed Kartar Singh Sarabha was hanged at Lahore Central Jail along with six other revolutionaries in the First Lahore Conspiracy Case. His fearless commitment to the freedom of the country remains a shining example of patriotism and selflessness,” he added.",
+            "As the Punjab 2027 Assembly election approaches, the drug menace has once again become a central campaign issue. In the run-up to the Assembly polls, the major political parties in the fray—the Congress, the Bharatiya Janata Party (BJP), the Shiromani Akali Dal (SAD), and the ruling Aam Aadmi Party (AAP)—are making the drug menace a key plank of their campaigns.",
+            "While the ruling party has been asserting that eradicating drugs is its “biggest priority,” the Opposition parties have accused the AAP of failing to curb the drug menace and instead patronising the drug trade."
+          ],
+          "deepExplanation": "<strong>1. Core Context & Background:</strong> Punjab Chief Minister Bhagwant Mann said on Monday (November 16, 2026) that the greatest tribute to the 19-year-old revolutionary and freedom fighter Kartar Singh Sarabha is to fulfil his dream of a Punjab free from drugs, unemployment, and injustice.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> He was speaking after paying tribute to Shaheed Kartar Singh Sarabha on his 111th martyrdom anniversary at his native village, Sarabha, in Ludhiana district. The Chief Minister said his government is working to build the progressive Punjab they envision.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> While the ruling party has been asserting that eradicating drugs is its “biggest priority,” the Opposition parties have accused the AAP of failing to curb the drug menace and instead patronising the drug trade.",
+          "vocabList": [
+            "Bhagwant",
+            "November",
+            "Greatest",
+            "Revolutionary",
+            "Unemployment",
+            "Injustice"
+          ],
+          "summary": "Punjab Chief Minister Bhagwant Mann said on Monday (November 16, 2026) that the greatest tribute to the 19-year-old revolutionary and freedom fighter Kartar Singh Sarabha is to fulfil his dream of a Punjab free from drugs, unemployment, and injustice.",
+          "keyPoints": "• Punjab Chief Minister Bhagwant Mann said on Monday (November 16, 2026) that the greatest tribute to the 19-year-old revolutionary and freedom fighter Kartar Singh Sarabha is to fulfil his dream of a Punjab free from drugs, unemployment, and injustice.<br>• He was speaking after paying tribute to Shaheed Kartar Singh Sarabha on his 111th martyrdom anniversary at his native village, Sarabha, in Ludhiana district. The Chief Minister said his government is working to build the progressive Punjab they envision.<br>• “Shaheed Kartar Singh Sarabha embraced the gallows at the tender age of just 19, proving that courage, conviction and love for the motherland know no age. At a time when youngsters today are planning their futures, this great revolutionary was planning the liberation of the country. He sacrificed his youth, dreams and ultimately his life for our freedom,” he said."
+        },
         {
           "category": "national",
           "categoryLabel": "🏛️ National & Polity",
@@ -1085,67 +1150,6 @@
           ],
           "summary": "With the deep depression in the Bay of Bengal intensifying into cyclonic storm Akvan on Monday evening, the Regional Meteorological Centre (RMC) in Chennai has issued a cyclone warning for Andhra Pradesh and adjoining south Odisha coasts.",
           "keyPoints": "• With the deep depression in the Bay of Bengal intensifying into cyclonic storm Akvan on Monday evening, the Regional Meteorological Centre (RMC) in Chennai has issued a cyclone warning for Andhra Pradesh and adjoining south Odisha coasts.<br>• The cyclonic storm lay centred about 610 km east of Chennai at 5.30 p.m. on Monday (November 16, 2026). The clouds associated with the system are likely to bring light to moderate rainfall at isolated places over coastal Tamil Nadu and the Western Ghat districts, as well as Puducherry and Karaikal, on Tuesday (November 17, 2026). The RMC, Chennai, has forecast that mainly dry weather is likely to prevail over the rest of the State during the same period.<br>• Cyclone Akvan to make landfall between Nellore and Tuni in Andhra as very severe storm on November 20"
-        },
-        {
-          "category": "national",
-          "categoryLabel": "🏛️ National & Polity",
-          "title": "Kerala High Court refers petition challenging clean chit to Chief Minister in Punarjani case to Chief Justice",
-          "link": "https://www.thehindu.com/news/national/kerala/kerala-high-court-refers-petition-challenging-clean-chit-to-chief-minister-in-punarjani-case-to-chief-justice/article71708756.ece",
-          "pubDate": "Tue, 17 Nov 2026 01:48:23 +0530",
-          "dateIso": "2026-11-17",
-          "dateDisplay": "17 Nov 2026",
-          "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
-          "imageUrl": "https://th-i.thgim.com/public/incoming/yjr7x7/article71709423.ece/alternates/LANDSCAPE_1200/Satheesan02.jpg",
-          "fullParagraphs": [
-            "A Single Bench of the Kerala High Court has referred the petition challenging the closure of the preliminary inquiry against Chief Minister V.D. Satheesan in the Punarjani case for consideration before the appropriate court.",
-            "Justice C. Jayachandran observed that there was a strong prima facie indication that the petition had features of a public interest litigation (PIL). The Bench directed the High Court Registry to place the matter before the Chief Justice to decide whether the case would be considered by the court trying MP/MLA cases, Prevention of Corruption Act, or as a PIL.",
-            "The petition had been filed by lawyer K.M. Shajahan challenging a Vigilance and Anti-Corruption Bureau (VACB) report closing the preliminary inquiry and dropping corruption charges against the Chief Minister in connection with the Punarjani flood rehabilitation scheme.",
-            "The court examined two aspects while considering the petition — first, if the petitioner had the right to challenge the preliminary inquiry report, and second, if the court had the jurisdiction to hear the matter.",
-            "The petitioner argued that he had preferred the plea in his capacity as a citizen and a whistleblower, with every right to challenge the report. The State pointed out that a petition in this regard was filed by one of the complainants in the Punarjani case. This petition was later withdrawn and filed as a PIL seeking a CBI probe. However, the PIL was dismissed by a Division Bench of the court. The State contended that the petitioner did not have any right to move the petition since the complaint had already been decided by the court.",
-            "The Single Bench found that the jurisdiction to try the case would have to be decided first before examining the rights of the petitioner."
-          ],
-          "deepExplanation": "<strong>1. Core Context & Background:</strong> A Single Bench of the Kerala High Court has referred the petition challenging the closure of the preliminary inquiry against Chief Minister V.D.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Satheesan in the Punarjani case for consideration before the appropriate court. Jayachandran observed that there was a strong prima facie indication that the petition had features of a public interest litigation (PIL).<br><br><strong>3. Way Forward & Exam Conclusion:</strong> The Single Bench found that the jurisdiction to try the case would have to be decided first before examining the rights of the petitioner.",
-          "vocabList": [
-            "Referred",
-            "Petition",
-            "Challenging",
-            "Preliminary",
-            "Satheesan",
-            "Punarjani"
-          ],
-          "summary": "A Single Bench of the Kerala High Court has referred the petition challenging the closure of the preliminary inquiry against Chief Minister V.D. Satheesan in the Punarjani case for consideration before the appropriate court.",
-          "keyPoints": "• A Single Bench of the Kerala High Court has referred the petition challenging the closure of the preliminary inquiry against Chief Minister V.D. Satheesan in the Punarjani case for consideration before the appropriate court.<br>• Justice C. Jayachandran observed that there was a strong prima facie indication that the petition had features of a public interest litigation (PIL). The Bench directed the High Court Registry to place the matter before the Chief Justice to decide whether the case would be considered by the court trying MP/MLA cases, Prevention of Corruption Act, or as a PIL.<br>• The petition had been filed by lawyer K.M. Shajahan challenging a Vigilance and Anti-Corruption Bureau (VACB) report closing the preliminary inquiry and dropping corruption charges against the Chief Minister in connection with the Punarjani flood rehabilitation scheme."
-        },
-        {
-          "category": "national",
-          "categoryLabel": "🏛️ National & Polity",
-          "title": "70% turnout in most districts as four-phase panchayat polls end in Rajasthan",
-          "link": "https://www.thehindu.com/news/national/rajasthan/70-turnout-in-most-districts-as-four-phase-panchayat-polls-end-in-rajasthan/article71709420.ece",
-          "pubDate": "Tue, 17 Nov 2026 01:34:41 +0530",
-          "dateIso": "2026-11-17",
-          "dateDisplay": "17 Nov 2026",
-          "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
-          "imageUrl": "https://www.thehindu.com/theme/images/og-image.png",
-          "fullParagraphs": [
-            "The four-phase panchayat election process in Rajasthan concluded on Monday with polling held for 3,747 sarpanch and 33,885 ward panch posts across 25 districts. Voting exceeded 70% in most of the districts that went to the polls in the final phase.",
-            "There were stray incidents of confrontation and violence at some places, though long queues of voters were seen at several polling stations since morning. Villagers in Jalore district’s Gundau and Bharatpur district’s Shakarpur staged protests and created a ruckus raising allegations of bogus voting.",
-            "Police fired in the air and used force to disperse the supporters of two rival candidates for the sarpanch post at Mahu Gulawali in Dholpur district. The two groups clashed and hurled stones at each other, while one of them set on fire two motorcycles parked outside a polling booth.",
-            "In Dholpur’s Baroli village, polling started in late afternoon amid tension over a shooting incident on Sunday that resulted in the death of one person following a clash over election-related rivalry. Police have detained the main accused and 10 others in connection with the incident.",
-            "The allegations of fraudulent voting sparked tension in Kali Pahadi village of Khairthal-Tijara district and a verbal altercation between two groups escalated into a physical confrontation. Police arrived in the village on receiving information and brought the situation under control. An elderly person, who sustained serious injuries during the clash, was referred to Alwar for treatment.",
-            "Voting for both sarpanch and ward panch posts was conducted through ballot papers. More than 1.05 crore voters were eligible to exercise their franchise at 11,905 polling stations. Counting of votes started immediately after the polling ended. Results are expected to be declared by late night. The declaration of results will bring the election of representatives in all 14,403 panchayats in the State to a close.",
-            "The sarpanch and ward panch polls are not contested on political party symbols and parties do not officially allot tickets for these posts, unlike the zila parishad and panchayat samiti polls. Polling for zila parishad and panchayat samiti members across all four phases has been completed. Votes will be counted on November 20."
-          ],
-          "deepExplanation": "<strong>1. Core Context & Background:</strong> The four-phase panchayat election process in Rajasthan concluded on Monday with polling held for 3,747 sarpanch and 33,885 ward panch posts across 25 districts.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Voting exceeded 70% in most of the districts that went to the polls in the final phase. There were stray incidents of confrontation and violence at some places, though long queues of voters were seen at several polling stations since morning.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Votes will be counted on November 20.",
-          "vocabList": [
-            "Panchayat",
-            "Election",
-            "Rajasthan",
-            "Concluded",
-            "Sarpanch",
-            "Districts"
-          ],
-          "summary": "The four-phase panchayat election process in Rajasthan concluded on Monday with polling held for 3,747 sarpanch and 33,885 ward panch posts across 25 districts. Voting exceeded 70% in most of the districts that went to the polls in the final phase.",
-          "keyPoints": "• The four-phase panchayat election process in Rajasthan concluded on Monday with polling held for 3,747 sarpanch and 33,885 ward panch posts across 25 districts. Voting exceeded 70% in most of the districts that went to the polls in the final phase.<br>• There were stray incidents of confrontation and violence at some places, though long queues of voters were seen at several polling stations since morning. Villagers in Jalore district’s Gundau and Bharatpur district’s Shakarpur staged protests and created a ruckus raising allegations of bogus voting.<br>• Police fired in the air and used force to disperse the supporters of two rival candidates for the sarpanch post at Mahu Gulawali in Dholpur district. The two groups clashed and hurled stones at each other, while one of them set on fire two motorcycles parked outside a polling booth."
         },
         {
           "category": "economy",
@@ -3771,60 +3775,116 @@
       "id": "gk_17 Nov 2026_1",
       "cat": "🏛️ National & Polity",
       "date": "17 Nov 2026",
-      "qEn": "[17 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"Ahead of the upcoming Christmas festivities, the representatives of Christian communities in West Bengal have expressed concerns a...\"?",
-      "qHi": "[17 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"Ahead of the upcoming Christmas festivities, the representatives of Christian communities in West Bengal have expressed concerns a...\"?",
-      "qMr": "[17 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"Ahead of the upcoming Christmas festivities, the representatives of Christian communities in West Bengal have expressed concerns a...\"?",
+      "qEn": "[17 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"Senior BJP leaders from Uttar Pradesh, including Chief Minister Yogi Adityanath, attended a key meeting at the Pandit Deendayal Up...\"?",
+      "qHi": "[17 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"Senior BJP leaders from Uttar Pradesh, including Chief Minister Yogi Adityanath, attended a key meeting at the Pandit Deendayal Up...\"?",
+      "qMr": "[17 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"Senior BJP leaders from Uttar Pradesh, including Chief Minister Yogi Adityanath, attended a key meeting at the Pandit Deendayal Up...\"?",
       "optsEn": [
-        "Christian community seeks West Bengal CM’s intervention over targeted attacks ahea...",
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "BJP holds key party meeting in Mathura for Assembly polls",
         "15th Finance Commission Special State Grant",
         "Inter-State Council Constitutional Review Panel"
       ],
       "optsHi": [
-        "Christian community seeks West Bengal CM’s intervention over targeted attacks ahea...",
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "BJP holds key party meeting in Mathura for Assembly polls",
         "15th Finance Commission Special State Grant",
         "Inter-State Council Constitutional Review Panel"
       ],
       "optsMr": [
-        "Christian community seeks West Bengal CM’s intervention over targeted attacks ahea...",
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "BJP holds key party meeting in Mathura for Assembly polls",
         "15th Finance Commission Special State Grant",
         "Inter-State Council Constitutional Review Panel"
       ],
-      "ans": 0,
-      "explanation": "<strong>1. Core Context & Background:</strong> Ahead of the upcoming Christmas festivities, the representatives of Christian communities in West Bengal have expressed concerns about the rising attacks on churches across several districts in the State and have sought intervention from Chief Minister Suvendu Adhikari.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> During a press conference addressed by the Bengal Christian Council (a cluster body for Protestant churches), the Bishop of Calcutta, Reverend Paritosh Canning, said that the concerns of the people of the community are not without reason. “West Bengal has traditionally been a land of communal harmony, where people belonging to different faiths and communities have coexisted in peace, mutual respect, and brotherhood.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> In a letter addressed to Samik Bhattacharya, Herod Mullick, the founder-secretary of BCP, said that “if any institution or individual is found guilty of illegal or forced religious conversion through greed or deception, we strongly condemn such actions and stand firmly against them.” “However, making broad, unsubstantiated generalisations without naming specific individuals or institutions unfairly casts a shadow of suspicion over the entire Christian community and the more than 800 educational institutions we operate across West Bengal,” the letter added."
+      "ans": 1,
+      "explanation": "<strong>1. Core Context & Background:</strong> Senior BJP leaders from Uttar Pradesh, including Chief Minister Yogi Adityanath, attended a key meeting at the Pandit Deendayal Upadhyaya Cow Research Institute in Parkham, Mathura, to discuss strategy for the upcoming U.P.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> The party announced the meeting to discuss organisational programmes, booth empowerment, and public welfare benefits, while also outlining electoral strategy and caste-based outreach to counter the Opposition’s renewed pitch. BJP government again for the third time...<br><br><strong>3. Way Forward & Exam Conclusion:</strong> If they fall ill, call a good doctor,” said Mr."
     },
     {
       "id": "gk_17 Nov 2026_2",
+      "cat": "🏛️ National & Polity",
+      "date": "17 Nov 2026",
+      "qEn": "[17 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"Punjab Chief Minister Bhagwant Mann said on Monday (November 16, 2026) that the greatest tribute to the 19-year-old revolutionary ...\"?",
+      "qHi": "[17 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"Punjab Chief Minister Bhagwant Mann said on Monday (November 16, 2026) that the greatest tribute to the 19-year-old revolutionary ...\"?",
+      "qMr": "[17 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"Punjab Chief Minister Bhagwant Mann said on Monday (November 16, 2026) that the greatest tribute to the 19-year-old revolutionary ...\"?",
+      "optsEn": [
+        "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "15th Finance Commission Special State Grant",
+        "Inter-State Council Constitutional Review Panel",
+        "Tribute to Kartar Singh Sarabha, Punjab free from drugs and unemployment, says CM ..."
+      ],
+      "optsHi": [
+        "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "15th Finance Commission Special State Grant",
+        "Inter-State Council Constitutional Review Panel",
+        "Tribute to Kartar Singh Sarabha, Punjab free from drugs and unemployment, says CM ..."
+      ],
+      "optsMr": [
+        "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "15th Finance Commission Special State Grant",
+        "Inter-State Council Constitutional Review Panel",
+        "Tribute to Kartar Singh Sarabha, Punjab free from drugs and unemployment, says CM ..."
+      ],
+      "ans": 3,
+      "explanation": "<strong>1. Core Context & Background:</strong> Punjab Chief Minister Bhagwant Mann said on Monday (November 16, 2026) that the greatest tribute to the 19-year-old revolutionary and freedom fighter Kartar Singh Sarabha is to fulfil his dream of a Punjab free from drugs, unemployment, and injustice.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> He was speaking after paying tribute to Shaheed Kartar Singh Sarabha on his 111th martyrdom anniversary at his native village, Sarabha, in Ludhiana district. The Chief Minister said his government is working to build the progressive Punjab they envision.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> While the ruling party has been asserting that eradicating drugs is its “biggest priority,” the Opposition parties have accused the AAP of failing to curb the drug menace and instead patronising the drug trade."
+    },
+    {
+      "id": "gk_17 Nov 2026_3",
+      "cat": "🏛️ National & Polity",
+      "date": "17 Nov 2026",
+      "qEn": "[17 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"Ahead of the upcoming Christmas festivities, the representatives of Christian communities in West Bengal have expressed concerns a...\"?",
+      "qHi": "[17 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"Ahead of the upcoming Christmas festivities, the representatives of Christian communities in West Bengal have expressed concerns a...\"?",
+      "qMr": "[17 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"Ahead of the upcoming Christmas festivities, the representatives of Christian communities in West Bengal have expressed concerns a...\"?",
+      "optsEn": [
+        "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "15th Finance Commission Special State Grant",
+        "Christian community seeks West Bengal CM’s intervention over targeted attacks ahea...",
+        "Inter-State Council Constitutional Review Panel"
+      ],
+      "optsHi": [
+        "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "15th Finance Commission Special State Grant",
+        "Christian community seeks West Bengal CM’s intervention over targeted attacks ahea...",
+        "Inter-State Council Constitutional Review Panel"
+      ],
+      "optsMr": [
+        "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "15th Finance Commission Special State Grant",
+        "Christian community seeks West Bengal CM’s intervention over targeted attacks ahea...",
+        "Inter-State Council Constitutional Review Panel"
+      ],
+      "ans": 2,
+      "explanation": "<strong>1. Core Context & Background:</strong> Ahead of the upcoming Christmas festivities, the representatives of Christian communities in West Bengal have expressed concerns about the rising attacks on churches across several districts in the State and have sought intervention from Chief Minister Suvendu Adhikari.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> During a press conference addressed by the Bengal Christian Council (a cluster body for Protestant churches), the Bishop of Calcutta, Reverend Paritosh Canning, said that the concerns of the people of the community are not without reason. “West Bengal has traditionally been a land of communal harmony, where people belonging to different faiths and communities have coexisted in peace, mutual respect, and brotherhood.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> In a letter addressed to Samik Bhattacharya, Herod Mullick, the founder-secretary of BCP, said that “if any institution or individual is found guilty of illegal or forced religious conversion through greed or deception, we strongly condemn such actions and stand firmly against them.” “However, making broad, unsubstantiated generalisations without naming specific individuals or institutions unfairly casts a shadow of suspicion over the entire Christian community and the more than 800 educational institutions we operate across West Bengal,” the letter added."
+    },
+    {
+      "id": "gk_17 Nov 2026_4",
       "cat": "🏛️ National & Polity",
       "date": "17 Nov 2026",
       "qEn": "[17 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"Amid reports of growing feuds within the Bharatiya Janata Party (BJP) in West Bengal , Union Minister of State and Bongaon MP Shan...\"?",
       "qHi": "[17 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"Amid reports of growing feuds within the Bharatiya Janata Party (BJP) in West Bengal , Union Minister of State and Bongaon MP Shan...\"?",
       "qMr": "[17 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"Amid reports of growing feuds within the Bharatiya Janata Party (BJP) in West Bengal , Union Minister of State and Bongaon MP Shan...\"?",
       "optsEn": [
-        "West Bengal BJP supporters beating up own party members, says Union Minister as fe...",
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
         "15th Finance Commission Special State Grant",
+        "West Bengal BJP supporters beating up own party members, says Union Minister as fe...",
         "Inter-State Council Constitutional Review Panel"
       ],
       "optsHi": [
-        "West Bengal BJP supporters beating up own party members, says Union Minister as fe...",
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
         "15th Finance Commission Special State Grant",
+        "West Bengal BJP supporters beating up own party members, says Union Minister as fe...",
         "Inter-State Council Constitutional Review Panel"
       ],
       "optsMr": [
-        "West Bengal BJP supporters beating up own party members, says Union Minister as fe...",
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
         "15th Finance Commission Special State Grant",
+        "West Bengal BJP supporters beating up own party members, says Union Minister as fe...",
         "Inter-State Council Constitutional Review Panel"
       ],
-      "ans": 0,
+      "ans": 2,
       "explanation": "<strong>1. Core Context & Background:</strong> Amid reports of growing feuds within the Bharatiya Janata Party (BJP) in West Bengal , Union Minister of State and Bongaon MP Shantanu Thakur not only publicly acknowledged factionalism within the party but also said that BJP supporters are attacked by its members.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> The Minister spoke about developments in his own constituency in North 24 Parganas, but reports of factional feuds within the BJP rank and file have surfaced across the State. “Here, BJP workers are being beaten up, and those beating them are also from the BJP.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Give me the papers; I will file them,” Mr."
     },
     {
-      "id": "gk_17 Nov 2026_3",
+      "id": "gk_17 Nov 2026_5",
       "cat": "🏛️ National & Polity",
       "date": "17 Nov 2026",
       "qEn": "[17 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"People’s representatives and officials on Monday conducted a site inspection for the proposed Goshree-Mamangalam road development ...\"?",
@@ -3832,108 +3892,52 @@
       "qMr": "[17 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"People’s representatives and officials on Monday conducted a site inspection for the proposed Goshree-Mamangalam road development ...\"?",
       "optsEn": [
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "Site inspection held for key Goshree-Mamangalam traffic corridor in Keralam’s Kochi",
         "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel"
+        "Inter-State Council Constitutional Review Panel",
+        "Site inspection held for key Goshree-Mamangalam traffic corridor in Keralam’s Kochi"
       ],
       "optsHi": [
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "Site inspection held for key Goshree-Mamangalam traffic corridor in Keralam’s Kochi",
         "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel"
+        "Inter-State Council Constitutional Review Panel",
+        "Site inspection held for key Goshree-Mamangalam traffic corridor in Keralam’s Kochi"
       ],
       "optsMr": [
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "Site inspection held for key Goshree-Mamangalam traffic corridor in Keralam’s Kochi",
         "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel"
+        "Inter-State Council Constitutional Review Panel",
+        "Site inspection held for key Goshree-Mamangalam traffic corridor in Keralam’s Kochi"
       ],
-      "ans": 1,
+      "ans": 3,
       "explanation": "<strong>1. Core Context & Background:</strong> People’s representatives and officials on Monday conducted a site inspection for the proposed Goshree-Mamangalam road development project, which is expected to provide major relief from traffic woes in Kochi.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> The project is critical to improving the overall traffic system in the city and enhancing connectivity between various points. The demand for the proposed road dates back more than 30 years.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Sudheer were among those who participated in the inspection."
     },
     {
-      "id": "gk_17 Nov 2026_4",
+      "id": "gk_17 Nov 2026_6",
       "cat": "🏛️ National & Polity",
       "date": "17 Nov 2026",
       "qEn": "[17 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"With the deep depression in the Bay of Bengal intensifying into cyclonic storm Akvan on Monday evening, the Regional Meteorologica...\"?",
       "qHi": "[17 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"With the deep depression in the Bay of Bengal intensifying into cyclonic storm Akvan on Monday evening, the Regional Meteorologica...\"?",
       "qMr": "[17 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"With the deep depression in the Bay of Bengal intensifying into cyclonic storm Akvan on Monday evening, the Regional Meteorologica...\"?",
       "optsEn": [
-        "Cyclone Akvan to bring light rainfall to parts of coastal T.N. on November 17",
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
         "15th Finance Commission Special State Grant",
+        "Cyclone Akvan to bring light rainfall to parts of coastal T.N. on November 17",
         "Inter-State Council Constitutional Review Panel"
       ],
       "optsHi": [
-        "Cyclone Akvan to bring light rainfall to parts of coastal T.N. on November 17",
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
         "15th Finance Commission Special State Grant",
+        "Cyclone Akvan to bring light rainfall to parts of coastal T.N. on November 17",
         "Inter-State Council Constitutional Review Panel"
       ],
       "optsMr": [
-        "Cyclone Akvan to bring light rainfall to parts of coastal T.N. on November 17",
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
         "15th Finance Commission Special State Grant",
+        "Cyclone Akvan to bring light rainfall to parts of coastal T.N. on November 17",
         "Inter-State Council Constitutional Review Panel"
       ],
-      "ans": 0,
+      "ans": 2,
       "explanation": "<strong>1. Core Context & Background:</strong> With the deep depression in the Bay of Bengal intensifying into cyclonic storm Akvan on Monday evening, the Regional Meteorological Centre (RMC) in Chennai has issued a cyclone warning for Andhra Pradesh and adjoining south Odisha coasts.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> The cyclonic storm lay centred about 610 km east of Chennai at 5.30 p.m. The clouds associated with the system are likely to bring light to moderate rainfall at isolated places over coastal Tamil Nadu and the Western Ghat districts, as well as Puducherry and Karaikal, on Tuesday (November 17, 2026).<br><br><strong>3. Way Forward & Exam Conclusion:</strong> It will continue to move northwestward, and could cross Andhra Pradesh and Yanam coasts between Nellore and Tuni around Friday noon as a very severe cyclonic storm with the maximum sustained wind speed of 120-130 kmph gusting to 145 km/hr."
-    },
-    {
-      "id": "gk_17 Nov 2026_5",
-      "cat": "🏛️ National & Polity",
-      "date": "17 Nov 2026",
-      "qEn": "[17 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"A Single Bench of the Kerala High Court has referred the petition challenging the closure of the preliminary inquiry against Chief...\"?",
-      "qHi": "[17 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"A Single Bench of the Kerala High Court has referred the petition challenging the closure of the preliminary inquiry against Chief...\"?",
-      "qMr": "[17 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"A Single Bench of the Kerala High Court has referred the petition challenging the closure of the preliminary inquiry against Chief...\"?",
-      "optsEn": [
-        "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "Kerala High Court refers petition challenging clean chit to Chief Minister in Puna...",
-        "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel"
-      ],
-      "optsHi": [
-        "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "Kerala High Court refers petition challenging clean chit to Chief Minister in Puna...",
-        "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel"
-      ],
-      "optsMr": [
-        "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "Kerala High Court refers petition challenging clean chit to Chief Minister in Puna...",
-        "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel"
-      ],
-      "ans": 1,
-      "explanation": "<strong>1. Core Context & Background:</strong> A Single Bench of the Kerala High Court has referred the petition challenging the closure of the preliminary inquiry against Chief Minister V.D.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Satheesan in the Punarjani case for consideration before the appropriate court. Jayachandran observed that there was a strong prima facie indication that the petition had features of a public interest litigation (PIL).<br><br><strong>3. Way Forward & Exam Conclusion:</strong> The Single Bench found that the jurisdiction to try the case would have to be decided first before examining the rights of the petitioner."
-    },
-    {
-      "id": "gk_17 Nov 2026_6",
-      "cat": "🏛️ National & Polity",
-      "date": "17 Nov 2026",
-      "qEn": "[17 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"The four-phase panchayat election process in Rajasthan concluded on Monday with polling held for 3,747 sarpanch and 33,885 ward pa...\"?",
-      "qHi": "[17 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"The four-phase panchayat election process in Rajasthan concluded on Monday with polling held for 3,747 sarpanch and 33,885 ward pa...\"?",
-      "qMr": "[17 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"The four-phase panchayat election process in Rajasthan concluded on Monday with polling held for 3,747 sarpanch and 33,885 ward pa...\"?",
-      "optsEn": [
-        "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "70% turnout in most districts as four-phase panchayat polls end in Rajasthan",
-        "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel"
-      ],
-      "optsHi": [
-        "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "70% turnout in most districts as four-phase panchayat polls end in Rajasthan",
-        "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel"
-      ],
-      "optsMr": [
-        "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "70% turnout in most districts as four-phase panchayat polls end in Rajasthan",
-        "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel"
-      ],
-      "ans": 1,
-      "explanation": "<strong>1. Core Context & Background:</strong> The four-phase panchayat election process in Rajasthan concluded on Monday with polling held for 3,747 sarpanch and 33,885 ward panch posts across 25 districts.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Voting exceeded 70% in most of the districts that went to the polls in the final phase. There were stray incidents of confrontation and violence at some places, though long queues of voters were seen at several polling stations since morning.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Votes will be counted on November 20."
     },
     {
       "id": "gk_17 Nov 2026_7",
