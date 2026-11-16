@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-16 18:36:31",
+  "updated_at": "2026-11-16 21:56:50",
   "window_days": 15,
   "category_counts": {
-    "latest_jobs": 184,
-    "results": 34,
-    "admit_cards": 34,
-    "answer_keys": 28,
+    "latest_jobs": 187,
+    "results": 36,
+    "admit_cards": 37,
+    "answer_keys": 29,
     "syllabus": 1,
     "admissions": 1
   },
@@ -25,6 +25,15 @@
       "sub": "Result",
       "url": "https://upcons2025.com/conmailrequest/loginpage.aspx",
       "details": "",
+      "rushScore": 125,
+      "active": true
+    },
+    {
+      "id": "e99bfc6ef2e4",
+      "title": "UP Police Constable 2025 Score Card / Marks",
+      "sub": "Result",
+      "url": "https://www.upprpb.in/",
+      "details": "Name Of Post : UP Police Constable Recruitment 2025 Final Result, Score Card, Marks 2026 Post Date / Update : 16 November 2026 | 05:50 PM Short Information Uttar Pradesh Police Recruitment & Promotion Board (UPPRPB) has released Constable (Sipahi) Recruitment Notification. Those candidates who are Enrolled in this UP Police Constable Exam 2026 can Download the Final Result. Read the notification for recruitment eligibility, post information, selection procedure, Practice Test, pay scale and all other information.",
       "rushScore": 125,
       "active": true
     },
@@ -53,15 +62,6 @@
       "url": "https://rrb.digialm.com/EForms/configuredHtml/33244/102956/cOPXnjiLXCY5nEw5Vt/login.html",
       "details": "",
       "rushScore": 125,
-      "active": true
-    },
-    {
-      "id": "ec401493dd6c",
-      "title": "Railway RRB Group D CEN 09/2025 Result / Score Card",
-      "sub": "Result",
-      "url": "https://www.rrbapply.gov.in/#/auth/home",
-      "details": "Name Of Post : Railway RRB Group D Various Posts of Level-1 CEN 09/2025 Recruitment 2026 Result / Score Card Post Date / Update : 12 November 2026 | 06:34 PM Short Information Indian Railway Railway Recruitment Board RRB Group D Various Posts of Level-1 CEN 09/2025. Those candidates who are Enrolled in this Railway RRB Group D CEN 09/2025 can Check Result. Read the notification for RRB Group D Various Posts of Level-1 CEN 09/2025 eligibility, post information, selection procedure, Details, age limit, pay scale and all other information.",
-      "rushScore": 123,
       "active": true
     }
   ],
