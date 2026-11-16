@@ -1,12 +1,12 @@
 {
-  "updatedAt": "17 Nov 2026, 03:26 AM IST",
+  "updatedAt": "17 Nov 2026, 04:21 AM IST",
   "currentDateIso": "2026-11-17",
   "currentDateDisplay": "17 Nov 2026",
   "availableDates": [
     {
       "dateIso": "2026-11-17",
       "dateDisplay": "17 Nov 2026",
-      "updatedAt": "17 Nov 2026, 03:26 AM IST",
+      "updatedAt": "17 Nov 2026, 04:21 AM IST",
       "articleCount": 30
     },
     {
@@ -23,7 +23,7 @@
     }
   ],
   "hookLine1": "The Hindu Printed Broadsheet & Editorial Digest (17 Nov 2026)",
-  "hookLine2": "100% In-App Full Newspaper Pages & Deep Editorial Analysis • Updated: 17 Nov 2026, 03:26 AM IST",
+  "hookLine2": "100% In-App Full Newspaper Pages & Deep Editorial Analysis • Updated: 17 Nov 2026, 04:21 AM IST",
   "totalArticles": 30,
   "articles": [
     {
@@ -400,6 +400,36 @@
     {
       "category": "ir",
       "categoryLabel": "🌐 International Relations",
+      "title": "Customers at some of the U.S.’ largest banks are reporting difficulty accessing accounts online",
+      "link": "https://www.thehindu.com/news/international/customers-at-some-of-the-us-largest-banks-are-reporting-difficulty-accessing-accounts-online/article71709556.ece",
+      "pubDate": "Tue, 17 Nov 2026 03:51:10 +0530",
+      "dateIso": "2026-11-17",
+      "dateDisplay": "17 Nov 2026",
+      "examRelevance": "GS Paper-II & Current Affairs: Bilateral Agreements, Foreign Visits & UN/G20/BRICS",
+      "imageUrl": "https://th-i.thgim.com/public/incoming/zfla0g/article71709557.ece/alternates/LANDSCAPE_1200/Bank_Outage_6_9_.jpg",
+      "fullParagraphs": [
+        "Customers reported difficulty accessing the online accounts at some of the U.S.’ largest banks on Monday (November 16, 2026).",
+        "Bank of America, Chase, J.P. Morgan, U.S. Bank, Wells Fargo and Zelle were listed by users as down or experiencing issues, according to the website downdetector.com.",
+        "Chase Bank’s services are experiencing a technical bug issue, not a cyber issue, a spokesperson said Monday (November 16, 2026).",
+        "“Due to a technical issue, some transactions are taking longer than usual to complete but customers still have access to their accounts and funds,” a Chase spokesperson said in a statement. “We are working to resolve this as quickly as possible.”",
+        "The reports follow a major outage by Microsoft that began on Friday (November 13, 2026) and lasted for hours, which impacted services including Outlook, Teams and the AI assistant Copilot.",
+        "Some Chase customers received a message that said, “Some services aren’t available. We’re working on them. Please try back later.”"
+      ],
+      "deepExplanation": "<strong>1. Core Context & Background:</strong> Customers reported difficulty accessing the online accounts at some of the U.S.’ largest banks on Monday (November 16, 2026).<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Bank, Wells Fargo and Zelle were listed by users as down or experiencing issues, according to the website downdetector.com. Chase Bank’s services are experiencing a technical bug issue, not a cyber issue, a spokesperson said Monday (November 16, 2026).<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Some Chase customers received a message that said, “Some services aren’t available.",
+      "vocabList": [
+        "Customers",
+        "Reported",
+        "Difficulty",
+        "Accessing",
+        "Accounts",
+        "November"
+      ],
+      "summary": "Customers reported difficulty accessing the online accounts at some of the U.S.’ largest banks on Monday (November 16, 2026).",
+      "keyPoints": "• Customers reported difficulty accessing the online accounts at some of the U.S.’ largest banks on Monday (November 16, 2026).<br>• Bank of America, Chase, J.P. Morgan, U.S. Bank, Wells Fargo and Zelle were listed by users as down or experiencing issues, according to the website downdetector.com.<br>• Chase Bank’s services are experiencing a technical bug issue, not a cyber issue, a spokesperson said Monday (November 16, 2026)."
+    },
+    {
+      "category": "ir",
+      "categoryLabel": "🌐 International Relations",
       "title": "Trump says ‘would not mind’ Huang being reinstated at Nvidia",
       "link": "https://www.thehindu.com/news/international/trump-says-would-not-mind-huang-being-reinstated-at-nvidia/article71709259.ece",
       "pubDate": "Mon, 16 Nov 2026 23:19:15 +0530",
@@ -568,42 +598,6 @@
       ],
       "summary": "Saudi Arabia replaced the commander overseeing its coalition against Yemen’s Iran-allied Houthis ‌on Monday (November 16, 2026) after Riyadh’s Yemeni allies were forced to withdraw from swathes of territory in ​a major setback for their campaign against the group.",
       "keyPoints": "• Saudi Arabia replaced the commander overseeing its coalition against Yemen’s Iran-allied Houthis ‌on Monday (November 16, 2026) after Riyadh’s Yemeni allies were forced to withdraw from swathes of territory in ​a major setback for their campaign against the group.<br>• The Houthis have made rapid gains ⁠against the Saudi-backed Yemeni government since the U.S.-Iran conflict reignited Yemen’s frozen civil war this summer, drawing Riyadh back into confrontation with the group.<br>• After gaining ground in a counter-attack in October, the Yemeni government said on Sunday (November 15, 2026) it was withdrawing from ‌areas near the Bab el-Mandeb Strait, a global shipping artery, to focus on defending its base of operations in Aden, a port city on the southern coast."
-    },
-    {
-      "category": "ir",
-      "categoryLabel": "🌐 International Relations",
-      "title": "Israeli opposition chiefs denounce Netanyahu over ‘attempted coup’",
-      "link": "https://www.thehindu.com/news/international/israeli-opposition-chiefs-denounce-netanyahu-over-attempted-coup/article71709115.ece",
-      "pubDate": "Mon, 16 Nov 2026 22:05:18 +0530",
-      "dateIso": "2026-11-17",
-      "dateDisplay": "17 Nov 2026",
-      "examRelevance": "GS Paper-II & Current Affairs: Bilateral Agreements, Foreign Visits & UN/G20/BRICS",
-      "imageUrl": "https://th-i.thgim.com/public/incoming/divz21/article71709172.ece/alternates/LANDSCAPE_1200/AP11_10_2026_000234B.jpg",
-      "fullParagraphs": [
-        "Two Israeli opposition leaders denounced Monday (November 16, 2026) an \"attempted coup\" following press reports that outgoing Prime Minister Benjamin Netanyahu's office tried to frame members of an Arab-Israeli party ahead of last month's election.",
-        "\"As more and more details come to light, it becomes clear: This wasn't an attempt to disrupt the elections. It was an attempted coup,\" wrote Yair Lapid on X, who headed the opposition in the previous legislature and co-chairs the Beyachad list.",
-        "Israel's Channel 12 reported Sunday (November 15, 2026) that on the eve of the October 27 election, Mr. Netanyahu's chief of staff Ido Norden had phoned in a complaint to the police about members of the Arab-Israeli Raam party.",
-        "Mr. Norden reportedly pointed the police to a purported intelligence source -- a former employee of Mr. Netanyahu's office -- who provided information that led to the arrest of three Raam members.",
-        "The three men were later released when the police determined that the information was unfounded.",
-        "Mr. Netanyahu subsequently accused Arab parties of electoral fraud after they gained a record number of seats. His Likud party issued a statement denying the latest allegations.",
-        "The Israeli newspaper Haaretz also reported that David Zini, head of the Shin Bet domestic security service, sought to wiretap leaders of the other Arab slate, the Joint List, but the attorney general turned down his request due to lack of evidence.",
-        "Following the report, Joint List leader Yousef Jabareen also denounced an \"attempted coup by Netanyahu\".",
-        "\"If the findings are confirmed, this is a criminal mechanism that operated from the heart of government to rig the election results. Everyone found responsible must be held accountable, including Netanyahu,\" he wrote on X.",
-        "Raam's number two, former police chief Yoav Segalovitz, called for an urgent investigation.",
-        "\"These suspicions require an immediate, independent and thorough criminal investigation that reaches everyone involved, at every level and in every role,\" he wrote on X.",
-        "\"Netanyahu cried out that his election was being stolen, while he himself tried to steal the country and is still trying to do so now,\" he added."
-      ],
-      "deepExplanation": "<strong>1. Core Context & Background:</strong> Two Israeli opposition leaders denounced Monday (November 16, 2026) an \"attempted coup\" following press reports that outgoing Prime Minister Benjamin Netanyahu's office tried to frame members of an Arab-Israeli party ahead of last month's election.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> \"As more and more details come to light, it becomes clear: This wasn't an attempt to disrupt the elections. It was an attempted coup,\" wrote Yair Lapid on X, who headed the opposition in the previous legislature and co-chairs the Beyachad list.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> \"Netanyahu cried out that his election was being stolen, while he himself tried to steal the country and is still trying to do so now,\" he added.",
-      "vocabList": [
-        "Opposition",
-        "Denounced",
-        "November",
-        "Attempted",
-        "Following",
-        "Outgoing"
-      ],
-      "summary": "Two Israeli opposition leaders denounced Monday (November 16, 2026) an \"attempted coup\" following press reports that outgoing Prime Minister Benjamin Netanyahu's office tried to frame members of an Arab-Israeli party ahead of last month's election.",
-      "keyPoints": "• Two Israeli opposition leaders denounced Monday (November 16, 2026) an \"attempted coup\" following press reports that outgoing Prime Minister Benjamin Netanyahu's office tried to frame members of an Arab-Israeli party ahead of last month's election.<br>• \"As more and more details come to light, it becomes clear: This wasn't an attempt to disrupt the elections. It was an attempted coup,\" wrote Yair Lapid on X, who headed the opposition in the previous legislature and co-chairs the Beyachad list.<br>• Israel's Channel 12 reported Sunday (November 15, 2026) that on the eve of the October 27 election, Mr. Netanyahu's chief of staff Ido Norden had phoned in a complaint to the police about members of the Arab-Israeli Raam party."
     },
     {
       "category": "scitech",
@@ -960,7 +954,7 @@
     "2026-11-17": {
       "dateIso": "2026-11-17",
       "dateDisplay": "17 Nov 2026",
-      "updatedAt": "17 Nov 2026, 03:26 AM IST",
+      "updatedAt": "17 Nov 2026, 04:21 AM IST",
       "articles": [
         {
           "category": "national",
@@ -1336,6 +1330,36 @@
         {
           "category": "ir",
           "categoryLabel": "🌐 International Relations",
+          "title": "Customers at some of the U.S.’ largest banks are reporting difficulty accessing accounts online",
+          "link": "https://www.thehindu.com/news/international/customers-at-some-of-the-us-largest-banks-are-reporting-difficulty-accessing-accounts-online/article71709556.ece",
+          "pubDate": "Tue, 17 Nov 2026 03:51:10 +0530",
+          "dateIso": "2026-11-17",
+          "dateDisplay": "17 Nov 2026",
+          "examRelevance": "GS Paper-II & Current Affairs: Bilateral Agreements, Foreign Visits & UN/G20/BRICS",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/zfla0g/article71709557.ece/alternates/LANDSCAPE_1200/Bank_Outage_6_9_.jpg",
+          "fullParagraphs": [
+            "Customers reported difficulty accessing the online accounts at some of the U.S.’ largest banks on Monday (November 16, 2026).",
+            "Bank of America, Chase, J.P. Morgan, U.S. Bank, Wells Fargo and Zelle were listed by users as down or experiencing issues, according to the website downdetector.com.",
+            "Chase Bank’s services are experiencing a technical bug issue, not a cyber issue, a spokesperson said Monday (November 16, 2026).",
+            "“Due to a technical issue, some transactions are taking longer than usual to complete but customers still have access to their accounts and funds,” a Chase spokesperson said in a statement. “We are working to resolve this as quickly as possible.”",
+            "The reports follow a major outage by Microsoft that began on Friday (November 13, 2026) and lasted for hours, which impacted services including Outlook, Teams and the AI assistant Copilot.",
+            "Some Chase customers received a message that said, “Some services aren’t available. We’re working on them. Please try back later.”"
+          ],
+          "deepExplanation": "<strong>1. Core Context & Background:</strong> Customers reported difficulty accessing the online accounts at some of the U.S.’ largest banks on Monday (November 16, 2026).<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Bank, Wells Fargo and Zelle were listed by users as down or experiencing issues, according to the website downdetector.com. Chase Bank’s services are experiencing a technical bug issue, not a cyber issue, a spokesperson said Monday (November 16, 2026).<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Some Chase customers received a message that said, “Some services aren’t available.",
+          "vocabList": [
+            "Customers",
+            "Reported",
+            "Difficulty",
+            "Accessing",
+            "Accounts",
+            "November"
+          ],
+          "summary": "Customers reported difficulty accessing the online accounts at some of the U.S.’ largest banks on Monday (November 16, 2026).",
+          "keyPoints": "• Customers reported difficulty accessing the online accounts at some of the U.S.’ largest banks on Monday (November 16, 2026).<br>• Bank of America, Chase, J.P. Morgan, U.S. Bank, Wells Fargo and Zelle were listed by users as down or experiencing issues, according to the website downdetector.com.<br>• Chase Bank’s services are experiencing a technical bug issue, not a cyber issue, a spokesperson said Monday (November 16, 2026)."
+        },
+        {
+          "category": "ir",
+          "categoryLabel": "🌐 International Relations",
           "title": "Trump says ‘would not mind’ Huang being reinstated at Nvidia",
           "link": "https://www.thehindu.com/news/international/trump-says-would-not-mind-huang-being-reinstated-at-nvidia/article71709259.ece",
           "pubDate": "Mon, 16 Nov 2026 23:19:15 +0530",
@@ -1504,42 +1528,6 @@
           ],
           "summary": "Saudi Arabia replaced the commander overseeing its coalition against Yemen’s Iran-allied Houthis ‌on Monday (November 16, 2026) after Riyadh’s Yemeni allies were forced to withdraw from swathes of territory in ​a major setback for their campaign against the group.",
           "keyPoints": "• Saudi Arabia replaced the commander overseeing its coalition against Yemen’s Iran-allied Houthis ‌on Monday (November 16, 2026) after Riyadh’s Yemeni allies were forced to withdraw from swathes of territory in ​a major setback for their campaign against the group.<br>• The Houthis have made rapid gains ⁠against the Saudi-backed Yemeni government since the U.S.-Iran conflict reignited Yemen’s frozen civil war this summer, drawing Riyadh back into confrontation with the group.<br>• After gaining ground in a counter-attack in October, the Yemeni government said on Sunday (November 15, 2026) it was withdrawing from ‌areas near the Bab el-Mandeb Strait, a global shipping artery, to focus on defending its base of operations in Aden, a port city on the southern coast."
-        },
-        {
-          "category": "ir",
-          "categoryLabel": "🌐 International Relations",
-          "title": "Israeli opposition chiefs denounce Netanyahu over ‘attempted coup’",
-          "link": "https://www.thehindu.com/news/international/israeli-opposition-chiefs-denounce-netanyahu-over-attempted-coup/article71709115.ece",
-          "pubDate": "Mon, 16 Nov 2026 22:05:18 +0530",
-          "dateIso": "2026-11-17",
-          "dateDisplay": "17 Nov 2026",
-          "examRelevance": "GS Paper-II & Current Affairs: Bilateral Agreements, Foreign Visits & UN/G20/BRICS",
-          "imageUrl": "https://th-i.thgim.com/public/incoming/divz21/article71709172.ece/alternates/LANDSCAPE_1200/AP11_10_2026_000234B.jpg",
-          "fullParagraphs": [
-            "Two Israeli opposition leaders denounced Monday (November 16, 2026) an \"attempted coup\" following press reports that outgoing Prime Minister Benjamin Netanyahu's office tried to frame members of an Arab-Israeli party ahead of last month's election.",
-            "\"As more and more details come to light, it becomes clear: This wasn't an attempt to disrupt the elections. It was an attempted coup,\" wrote Yair Lapid on X, who headed the opposition in the previous legislature and co-chairs the Beyachad list.",
-            "Israel's Channel 12 reported Sunday (November 15, 2026) that on the eve of the October 27 election, Mr. Netanyahu's chief of staff Ido Norden had phoned in a complaint to the police about members of the Arab-Israeli Raam party.",
-            "Mr. Norden reportedly pointed the police to a purported intelligence source -- a former employee of Mr. Netanyahu's office -- who provided information that led to the arrest of three Raam members.",
-            "The three men were later released when the police determined that the information was unfounded.",
-            "Mr. Netanyahu subsequently accused Arab parties of electoral fraud after they gained a record number of seats. His Likud party issued a statement denying the latest allegations.",
-            "The Israeli newspaper Haaretz also reported that David Zini, head of the Shin Bet domestic security service, sought to wiretap leaders of the other Arab slate, the Joint List, but the attorney general turned down his request due to lack of evidence.",
-            "Following the report, Joint List leader Yousef Jabareen also denounced an \"attempted coup by Netanyahu\".",
-            "\"If the findings are confirmed, this is a criminal mechanism that operated from the heart of government to rig the election results. Everyone found responsible must be held accountable, including Netanyahu,\" he wrote on X.",
-            "Raam's number two, former police chief Yoav Segalovitz, called for an urgent investigation.",
-            "\"These suspicions require an immediate, independent and thorough criminal investigation that reaches everyone involved, at every level and in every role,\" he wrote on X.",
-            "\"Netanyahu cried out that his election was being stolen, while he himself tried to steal the country and is still trying to do so now,\" he added."
-          ],
-          "deepExplanation": "<strong>1. Core Context & Background:</strong> Two Israeli opposition leaders denounced Monday (November 16, 2026) an \"attempted coup\" following press reports that outgoing Prime Minister Benjamin Netanyahu's office tried to frame members of an Arab-Israeli party ahead of last month's election.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> \"As more and more details come to light, it becomes clear: This wasn't an attempt to disrupt the elections. It was an attempted coup,\" wrote Yair Lapid on X, who headed the opposition in the previous legislature and co-chairs the Beyachad list.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> \"Netanyahu cried out that his election was being stolen, while he himself tried to steal the country and is still trying to do so now,\" he added.",
-          "vocabList": [
-            "Opposition",
-            "Denounced",
-            "November",
-            "Attempted",
-            "Following",
-            "Outgoing"
-          ],
-          "summary": "Two Israeli opposition leaders denounced Monday (November 16, 2026) an \"attempted coup\" following press reports that outgoing Prime Minister Benjamin Netanyahu's office tried to frame members of an Arab-Israeli party ahead of last month's election.",
-          "keyPoints": "• Two Israeli opposition leaders denounced Monday (November 16, 2026) an \"attempted coup\" following press reports that outgoing Prime Minister Benjamin Netanyahu's office tried to frame members of an Arab-Israeli party ahead of last month's election.<br>• \"As more and more details come to light, it becomes clear: This wasn't an attempt to disrupt the elections. It was an attempted coup,\" wrote Yair Lapid on X, who headed the opposition in the previous legislature and co-chairs the Beyachad list.<br>• Israel's Channel 12 reported Sunday (November 15, 2026) that on the eve of the October 27 election, Mr. Netanyahu's chief of staff Ido Norden had phoned in a complaint to the police about members of the Arab-Israeli Raam party."
         },
         {
           "category": "scitech",
