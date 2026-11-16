@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-16 09:34:03",
+  "updated_at": "2026-11-16 12:39:55",
   "window_days": 15,
   "category_counts": {
-    "latest_jobs": 179,
-    "results": 32,
+    "latest_jobs": 183,
+    "results": 34,
     "admit_cards": 34,
-    "answer_keys": 26,
+    "answer_keys": 28,
     "syllabus": 1,
     "admissions": 1
   },
@@ -17,6 +17,15 @@
       "url": "https://ibpsreg.ibps.in/rrboaxvaug26/",
       "details": "Name Of Post : IBPS Rural Regional Bank (Gramin Bank) RRB 15th Recruitment 2026 : Office Assistant, Officer Scale I, II, III Pre Admit Card (Scale I) for 13706 Post Post Date / Update : 10 November 2026 | 10:23 AM Short Information IBPS Rural Regional Bank (RRB) XV Recruitment 2026. Those candidates who are interested in this IBPS RRB 15th Office Assistant, Officer Scale I, Officer Scale II and Officer Scale III Examination can Download Admit Card. Read the notification for recruitment eligibility, post information, selection procedure, age limit, pay scale and all other information.",
       "rushScore": 134,
+      "active": true
+    },
+    {
+      "id": "828df6b10d6a",
+      "title": "UP Police Constable Score Card 2026 Out",
+      "sub": "Result",
+      "url": "https://upcons2025.com/conmailrequest/loginpage.aspx",
+      "details": "",
+      "rushScore": 125,
       "active": true
     },
     {
@@ -52,15 +61,6 @@
       "sub": "Result",
       "url": "https://www.rrbapply.gov.in/#/auth/home",
       "details": "Name Of Post : Railway RRB Group D Various Posts of Level-1 CEN 09/2025 Recruitment 2026 Result / Score Card Post Date / Update : 12 November 2026 | 06:34 PM Short Information Indian Railway Railway Recruitment Board RRB Group D Various Posts of Level-1 CEN 09/2025. Those candidates who are Enrolled in this Railway RRB Group D CEN 09/2025 can Check Result. Read the notification for RRB Group D Various Posts of Level-1 CEN 09/2025 eligibility, post information, selection procedure, Details, age limit, pay scale and all other information.",
-      "rushScore": 123,
-      "active": true
-    },
-    {
-      "id": "24abaf3c6180",
-      "title": "SSC GD Constable Revised Result 2026",
-      "sub": "Result",
-      "url": "https://ssc.gov.in/",
-      "details": "Staff Selection Commission SSC has released the notification for Constable (GD) in Central Armed Police Forces (CAPFs) and SSF, and Rifleman (GD) in Assam Rifles Examination, 2026. Those Candidate Are Enrolled with Vacancy Can Check the Exam Exam Admit Card. Before applying, candidates must read the complete advertisement in which selection procedure, exam syllabus, pattern, exam date and other information will be available.",
       "rushScore": 123,
       "active": true
     }
