@@ -1,12 +1,12 @@
 {
-  "updatedAt": "18 Nov 2026, 03:14 AM IST",
+  "updatedAt": "18 Nov 2026, 04:40 AM IST",
   "currentDateIso": "2026-11-18",
   "currentDateDisplay": "18 Nov 2026",
   "availableDates": [
     {
       "dateIso": "2026-11-18",
       "dateDisplay": "18 Nov 2026",
-      "updatedAt": "18 Nov 2026, 03:14 AM IST",
+      "updatedAt": "18 Nov 2026, 04:40 AM IST",
       "articleCount": 30
     },
     {
@@ -23,9 +23,77 @@
     }
   ],
   "hookLine1": "The Hindu Printed Broadsheet & Editorial Digest (18 Nov 2026)",
-  "hookLine2": "100% In-App Full Newspaper Pages & Deep Editorial Analysis • Updated: 18 Nov 2026, 03:14 AM IST",
+  "hookLine2": "100% In-App Full Newspaper Pages & Deep Editorial Analysis • Updated: 18 Nov 2026, 04:40 AM IST",
   "totalArticles": 30,
   "articles": [
+    {
+      "category": "national",
+      "categoryLabel": "🏛️ National & Polity",
+      "title": "Jharkhand SIR: Final BLO meetings at poll stations on November 18",
+      "link": "https://www.thehindu.com/news/national/jharkhand/jharkhand-sir-final-blo-meeting-at-poll-stations-on-november-18/article71713613.ece",
+      "pubDate": "Wed, 18 Nov 2026 03:52:22 +0530",
+      "dateIso": "2026-11-18",
+      "dateDisplay": "18 Nov 2026",
+      "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
+      "imageUrl": "https://th-i.thgim.com/public/incoming/e5e05a/article71713614.ece/alternates/LANDSCAPE_1200/20260930290L.jpg",
+      "fullParagraphs": [
+        "Jharkhand Chief Electoral Officer (CEO) K. Ravi Kumar on Tuesday (November 17, 2026) appealed to all eligible Indian citizens in the State to ensure their names are included in the electoral roll being published under the Special Intensive Revision (SIR).",
+        "Speaking to the media in Ranchi, Mr. Ravi asserted that an “Ek Aur Avsar” (One More Opportunity) camp will be held on November 18 at all polling stations in the State, from 11 a.m. to 4 p.m., where meetings of BLOs (Booth Level Officers) and BLAs-2 (Booth Level Agents-2) will take place in the form of a “Chunav Pathshala” (Electoral Awareness Session).",
+        "He pointed out that the objective of this special initiative is to provide one additional opportunity for any eligible Indian citizen who, for various reasons, has not yet had their name added to the electoral roll.",
+        "Mr. Ravi explained that the camps will focus primarily on three key areas. First, the Election Commission of India (ECI) is republishing the ASDD (Absent, Shifted, Dead, or Duplicate) list at all polling stations. If any eligible Indian citizen has been included in this list, they may follow the prescribed procedure to submit Form-6 or an enumeration form.",
+        "Second, lists of voters in categories such as “No Mapping” or those with “Logical Discrepancies”—who have failed to provide the necessary documentation despite receiving two notices from the Electoral Registration Officer (ERO) and undergoing a door-to-door verification process—will be made available at the respective polling stations.",
+        "Third, efforts are being made to identify eligible Indian citizens who will have turned 18 by October 1, 2026, but who have not yet registered their names in the electoral roll for their respective polling stations. Eligible Indian citizens will be able to have their names included in the electoral roll by submitting Form 6.",
+        "The CEO said that this is the sixth and final BLO-BLA-2 meeting being held under the ongoing SIR process in Jharkhand. He urged all eligible citizens in the state to take advantage of this opportunity and get their names added to the electoral roll, ensuring that no eligible Indian citizen remains excluded.",
+        "The ECI has already extended the deadline for final publication of electoral rolls in Jharkhand under the SIR to November 30. The final publication was initially scheduled for October 7 and was later extended to October 19 before being revised.",
+        "Jharkhand / Special Intensive Revision of electoral rolls"
+      ],
+      "deepExplanation": "<strong>1. Core Context & Background:</strong> Jharkhand Chief Electoral Officer (CEO) K.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Ravi Kumar on Tuesday (November 17, 2026) appealed to all eligible Indian citizens in the State to ensure their names are included in the electoral roll being published under the Special Intensive Revision (SIR). Speaking to the media in Ranchi, Mr.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Jharkhand / Special Intensive Revision of electoral rolls",
+      "vocabList": [
+        "Jharkhand",
+        "Electoral",
+        "November",
+        "Appealed",
+        "Eligible",
+        "Citizens"
+      ],
+      "summary": "Jharkhand Chief Electoral Officer (CEO) K. Ravi Kumar on Tuesday (November 17, 2026) appealed to all eligible Indian citizens in the State to ensure their names are included in the electoral roll being published under the Special Intensive Revision (SIR).",
+      "keyPoints": "• Jharkhand Chief Electoral Officer (CEO) K. Ravi Kumar on Tuesday (November 17, 2026) appealed to all eligible Indian citizens in the State to ensure their names are included in the electoral roll being published under the Special Intensive Revision (SIR).<br>• Speaking to the media in Ranchi, Mr. Ravi asserted that an “Ek Aur Avsar” (One More Opportunity) camp will be held on November 18 at all polling stations in the State, from 11 a.m. to 4 p.m., where meetings of BLOs (Booth Level Officers) and BLAs-2 (Booth Level Agents-2) will take place in the form of a “Chunav Pathshala” (Electoral Awareness Session).<br>• He pointed out that the objective of this special initiative is to provide one additional opportunity for any eligible Indian citizen who, for various reasons, has not yet had their name added to the electoral roll."
+    },
+    {
+      "category": "national",
+      "categoryLabel": "🏛️ National & Polity",
+      "title": "Construction activities on Kaziranga wildlife corridors flagged",
+      "link": "https://www.thehindu.com/news/national/assam/construction-activities-on-kaziranga-wildlife-corridors-flagged/article71713607.ece",
+      "pubDate": "Wed, 18 Nov 2026 03:14:11 +0530",
+      "dateIso": "2026-11-18",
+      "dateDisplay": "18 Nov 2026",
+      "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
+      "imageUrl": "https://th-i.thgim.com/public/incoming/vyxyko/article71713610.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-11-16%20at%207.00.14%20PM.jpeg",
+      "fullParagraphs": [
+        "An eastern Assam-based environmental activist has reminded the Supreme Court–constituted Central Empowered Committee (CEC) to continue construction activities on the wildlife corridors of Kaziranga National Park and Tiger Reserve.",
+        "Kaziranga has nine notified wildlife corridors and several dandis or animal pathways. Animals use these corridors and dandis mostly to escape to the hills of Karbi Anglong district when the park is flooded during the monsoon months.",
+        "In a letter to the CEC’s Member-Secretary on November 16, Rohit Choudhury said he had brought such construction activities to the notice of the Committee on May 11. He lamented the lack of action against these activities, violating the Supreme Court’s April 2019 order.",
+        "“We order that all kinds of mining and related activities along the aforesaid Kaziranga National Park area and in the entire catchment area of rivers, streams and rivulets originating in the Karbi Anglong Hill ranges and flowing into Kaziranga National Park, including the Tiger Reserve, are restrained. No new construction shall be permitted on private lands which form part of the nine identified animal corridors,” the apex court’s order read.",
+        "“Despite this clear and categorical prohibition, the Government of Assam has displayed a disturbing disregard for the mandate of the Supreme Court by permitting and facilitating unlawful construction activities within these ecologically sensitive wildlife corridors,” Mr. Choudhury wrote.",
+        "He reminded the CEC of photographic evidence of a building under construction on the Haldhibari Wildlife Corridor attached to his May 11 letter. “The construction activity was allowed to proceed unabated and has now reached an advanced stage of completion,” he wrote, attaching recent photographs of the construction site.",
+        "Mr. Choudhury said the CEC’s inability to take up the matter six months ago “effectively afforded the concerned authorities sufficient time to continue and substantially complete the illegal construction”.",
+        "He said such delays in addressing matters of grave environmental significance seriously undermine the purpose and efficacy of the CEC’s mandate.",
+        "The activist further said the Assam Government did not inform the Supreme Court of any instance of violation of its April 12, 2019, order for necessary action.",
+        "“This persistent failure of enforcement has emboldened continued violations and weakened the protection envisaged by the Supreme Court,” he said, urging the CEC to recommend contempt proceedings against the officials responsible for permitting, facilitating or failing to prevent these blatant violations of the court’s binding directions.",
+        "“The matter concerns not merely a breach of judicial orders but the continued degradation of one of India’s most treasured ecological landscapes and a globally recognised natural heritage site. Immediate intervention is therefore both necessary and imperative,” Mr. Choudhury wrote."
+      ],
+      "deepExplanation": "<strong>1. Core Context & Background:</strong> An eastern Assam-based environmental activist has reminded the Supreme Court–constituted Central Empowered Committee (CEC) to continue construction activities on the wildlife corridors of Kaziranga National Park and Tiger Reserve.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Kaziranga has nine notified wildlife corridors and several dandis or animal pathways. Animals use these corridors and dandis mostly to escape to the hills of Karbi Anglong district when the park is flooded during the monsoon months.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Immediate intervention is therefore both necessary and imperative,” Mr.",
+      "vocabList": [
+        "Environmental",
+        "Activist",
+        "Reminded",
+        "Constituted",
+        "Empowered",
+        "Continue"
+      ],
+      "summary": "An eastern Assam-based environmental activist has reminded the Supreme Court–constituted Central Empowered Committee (CEC) to continue construction activities on the wildlife corridors of Kaziranga National Park and Tiger Reserve.",
+      "keyPoints": "• An eastern Assam-based environmental activist has reminded the Supreme Court–constituted Central Empowered Committee (CEC) to continue construction activities on the wildlife corridors of Kaziranga National Park and Tiger Reserve.<br>• Kaziranga has nine notified wildlife corridors and several dandis or animal pathways. Animals use these corridors and dandis mostly to escape to the hills of Karbi Anglong district when the park is flooded during the monsoon months.<br>• In a letter to the CEC’s Member-Secretary on November 16, Rohit Choudhury said he had brought such construction activities to the notice of the Committee on May 11. He lamented the lack of action against these activities, violating the Supreme Court’s April 2019 order."
+    },
     {
       "category": "national",
       "categoryLabel": "🏛️ National & Polity",
@@ -153,61 +221,6 @@
       ],
       "summary": "The witness examination in the alleged human sacrifice case in Elanthoor, Pathanamthitta, is nearing its final stage.",
       "keyPoints": "• The witness examination in the alleged human sacrifice case in Elanthoor, Pathanamthitta, is nearing its final stage.<br>• The trial, which got under way at the Ernakulam Additional Sessions Court in March, is expected to be completed by February 2027.<br>• The investigating officers, forensic experts, and other key witnesses remain to be examined."
-    },
-    {
-      "category": "national",
-      "categoryLabel": "🏛️ National & Polity",
-      "title": "Convocation ceremony row: Maharaja’s College council asks suspended students to accept their mistake",
-      "link": "https://www.thehindu.com/news/national/kerala/convocation-ceremony-row-maharajas-college-council-asks-suspended-students-to-accept-their-mistake/article71713079.ece",
-      "pubDate": "Wed, 18 Nov 2026 01:42:21 +0530",
-      "dateIso": "2026-11-18",
-      "dateDisplay": "18 Nov 2026",
-      "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
-      "imageUrl": "https://th-i.thgim.com/public/incoming/1tpq2l/article71713472.ece/alternates/LANDSCAPE_1200/College01.jpg",
-      "fullParagraphs": [
-        "A meeting of the council of Maharaja’s College, Kochi, held on Tuesday accepted an inquiry committee report that indicted activists of the Students’ Federation of India (SFI) for disrupting a convocation ceremony attended by Minister for Higher Education Roji M. John on October 30.",
-        "The meeting recommended that V. Praneel Raj, chairperson, and Nafeesathul Misriya, vice-chairperson of the college union, who were suspended in connection with the incident on November 2, submit an apology admitting their mistake. The inquiry committee report found that the incident had caused disrepute to the image of the institution in the public domain, according to sources.",
-        "The council observed that it did not wish to initiate further disciplinary action against the students, but they need to accept their mistake. The meeting took note of the case registered by the police against 10 SFI activists booked in connection with the protest.",
-        "SFI activists staged the protest soon after the Minister completed his inaugural address at the convocation ceremony, seeking answers from him on the suspension of 16 students of Sree Sankaracharya University of Sanskrit, Kalady. The activists demanded that the Minister withdraw his alleged statements against those who were suspended for protesting against Vice-Chancellor Ciza Thomas. Following the protest, Mr. John had to leave the function midway."
-      ],
-      "deepExplanation": "<strong>1. Core Context & Background:</strong> A meeting of the council of Maharaja’s College, Kochi, held on Tuesday accepted an inquiry committee report that indicted activists of the Students’ Federation of India (SFI) for disrupting a convocation ceremony attended by Minister for Higher Education Roji M.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Praneel Raj, chairperson, and Nafeesathul Misriya, vice-chairperson of the college union, who were suspended in connection with the incident on November 2, submit an apology admitting their mistake. The inquiry committee report found that the incident had caused disrepute to the image of the institution in the public domain, according to sources.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> John had to leave the function midway.",
-      "vocabList": [
-        "Maharaja",
-        "Accepted",
-        "Indicted",
-        "Activists",
-        "Students",
-        "Federation"
-      ],
-      "summary": "A meeting of the council of Maharaja’s College, Kochi, held on Tuesday accepted an inquiry committee report that indicted activists of the Students’ Federation of India (SFI) for disrupting a convocation ceremony attended by Minister for Higher Education Roji M. John on October 30.",
-      "keyPoints": "• A meeting of the council of Maharaja’s College, Kochi, held on Tuesday accepted an inquiry committee report that indicted activists of the Students’ Federation of India (SFI) for disrupting a convocation ceremony attended by Minister for Higher Education Roji M. John on October 30.<br>• The meeting recommended that V. Praneel Raj, chairperson, and Nafeesathul Misriya, vice-chairperson of the college union, who were suspended in connection with the incident on November 2, submit an apology admitting their mistake. The inquiry committee report found that the incident had caused disrepute to the image of the institution in the public domain, according to sources.<br>• The council observed that it did not wish to initiate further disciplinary action against the students, but they need to accept their mistake. The meeting took note of the case registered by the police against 10 SFI activists booked in connection with the protest."
-    },
-    {
-      "category": "national",
-      "categoryLabel": "🏛️ National & Polity",
-      "title": "Kochi woman loses ₹90,000 in credit card activation scam",
-      "link": "https://www.thehindu.com/news/national/kerala/kochi-woman-loses-90000-in-credit-card-activation-scam/article71711687.ece",
-      "pubDate": "Wed, 18 Nov 2026 01:34:19 +0530",
-      "dateIso": "2026-11-18",
-      "dateDisplay": "18 Nov 2026",
-      "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
-      "imageUrl": "https://th-i.thgim.com/public/incoming/d49vvd/article71713470.ece/alternates/LANDSCAPE_1200/iStock-1557556005.jpg",
-      "fullParagraphs": [
-        "The Kochi City cyber police have registered a case after a 36-year-old woman was allegedly cheated of nearly ₹90,000 on the pretext of activating a credit card.",
-        "The complainant, a resident of Mulavukad, was allegedly cheated by an unidentified person who contacted her over the phone, promising to activate a credit card issued by a private sector bank. On November 2, the accused convinced her to share a one-time password (OTP) to activate the card using another credit card she owns. She lost ₹49,440 after sharing the OTP. Two days later, the accused contacted the woman again and asked her to share another OTP to credit the amount debited earlier back to her card. This time, she was duped of ₹40,464.",
-        "The police have registered a case of cheating under Section 318 of the Bharatiya Nyaya Sanhita."
-      ],
-      "deepExplanation": "<strong>1. Core Context & Background:</strong> The Kochi City cyber police have registered a case after a 36-year-old woman was allegedly cheated of nearly ₹90,000 on the pretext of activating a credit card.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> The complainant, a resident of Mulavukad, was allegedly cheated by an unidentified person who contacted her over the phone, promising to activate a credit card issued by a private sector bank. On November 2, the accused convinced her to share a one-time password (OTP) to activate the card using another credit card she owns.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> The police have registered a case of cheating under Section 318 of the Bharatiya Nyaya Sanhita.",
-      "vocabList": [
-        "Registered",
-        "Allegedly",
-        "Activating",
-        "Complainant",
-        "Resident",
-        "Mulavukad"
-      ],
-      "summary": "The Kochi City cyber police have registered a case after a 36-year-old woman was allegedly cheated of nearly ₹90,000 on the pretext of activating a credit card.",
-      "keyPoints": "• The Kochi City cyber police have registered a case after a 36-year-old woman was allegedly cheated of nearly ₹90,000 on the pretext of activating a credit card.<br>• The complainant, a resident of Mulavukad, was allegedly cheated by an unidentified person who contacted her over the phone, promising to activate a credit card issued by a private sector bank. On November 2, the accused convinced her to share a one-time password (OTP) to activate the card using another credit card she owns. She lost ₹49,440 after sharing the OTP. Two days later, the accused contacted the woman again and asked her to share another OTP to credit the amount debited earlier back to her card. This time, she was duped of ₹40,464.<br>• The police have registered a case of cheating under Section 318 of the Bharatiya Nyaya Sanhita."
     },
     {
       "category": "economy",
@@ -396,6 +409,71 @@
     {
       "category": "ir",
       "categoryLabel": "🌐 International Relations",
+      "title": "Russian military transport plane crashes in Siberia, killing 19: Defence Ministry",
+      "link": "https://www.thehindu.com/news/international/several-dead-after-russian-military-transport-plane-crashes-in-siberia/article71713626.ece",
+      "pubDate": "Wed, 18 Nov 2026 04:09:31 +0530",
+      "dateIso": "2026-11-18",
+      "dateDisplay": "18 Nov 2026",
+      "examRelevance": "GS Paper-II & Current Affairs: Bilateral Agreements, Foreign Visits & UN/G20/BRICS",
+      "imageUrl": "https://th-i.thgim.com/public/incoming/maecpj/article71713628.ece/alternates/LANDSCAPE_1200/2026-11-17T183007Z_1896887606_RC2UPOAT81QH_RTRMADP_3_RUSSIA-PLANE.JPG",
+      "fullParagraphs": [
+        "A Russian military transport plane crashed in western Siberia on Tuesday (November 17, 2026), killing all 19 people on board, the Defence Ministry said. Preliminary findings pointed to equipment failure.",
+        "The An-12 aircraft went down in an unpopulated area near the city of Kemerovo, about 3,000 kilometres (about 1,860 miles) east of Moscow. Air force experts were investigating the cause of the crash. The An-12 typically has a crew of six.",
+        "Kemerovo Gov. Ilya Serdyuk said the plane crashed near the village of Yagunovo, which is close to Kemerovo airport. “Emergency responders put out a fire on the site of the crash,” he said.",
+        "The Investigative Committee, the country’s top criminal investigation agency, launched an inquiry into possible violations of flight safety rules, a standard practice following crashes.",
+        "The An-12 is a Soviet-built four-engine turboprop transport plane that has been in service since the late 1950s. Over 1,000 were built and some still remain in operation in Russia and other nations."
+      ],
+      "deepExplanation": "<strong>1. Core Context & Background:</strong> A Russian military transport plane crashed in western Siberia on Tuesday (November 17, 2026), killing all 19 people on board, the Defence Ministry said.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Preliminary findings pointed to equipment failure. The An-12 aircraft went down in an unpopulated area near the city of Kemerovo, about 3,000 kilometres (about 1,860 miles) east of Moscow.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Over 1,000 were built and some still remain in operation in Russia and other nations.",
+      "vocabList": [
+        "Military",
+        "Transport",
+        "November",
+        "Ministry",
+        "Preliminary",
+        "Findings"
+      ],
+      "summary": "A Russian military transport plane crashed in western Siberia on Tuesday (November 17, 2026), killing all 19 people on board, the Defence Ministry said. Preliminary findings pointed to equipment failure.",
+      "keyPoints": "• A Russian military transport plane crashed in western Siberia on Tuesday (November 17, 2026), killing all 19 people on board, the Defence Ministry said. Preliminary findings pointed to equipment failure.<br>• The An-12 aircraft went down in an unpopulated area near the city of Kemerovo, about 3,000 kilometres (about 1,860 miles) east of Moscow. Air force experts were investigating the cause of the crash. The An-12 typically has a crew of six.<br>• Kemerovo Gov. Ilya Serdyuk said the plane crashed near the village of Yagunovo, which is close to Kemerovo airport. “Emergency responders put out a fire on the site of the crash,” he said."
+    },
+    {
+      "category": "ir",
+      "categoryLabel": "🌐 International Relations",
+      "title": "U.K. hands NATO-assigned American soldier accused of Russia spying to U.S.",
+      "link": "https://www.thehindu.com/news/international/american-soldier-accused-of-russia-spying/article71713619.ece",
+      "pubDate": "Wed, 18 Nov 2026 03:50:14 +0530",
+      "dateIso": "2026-11-18",
+      "dateDisplay": "18 Nov 2026",
+      "examRelevance": "GS Paper-II & Current Affairs: Bilateral Agreements, Foreign Visits & UN/G20/BRICS",
+      "imageUrl": "https://th-i.thgim.com/public/incoming/sxmw0p/article71713621.ece/alternates/LANDSCAPE_1200/AFP__20261111__D7787CJ__v1__HighRes__BritainUsRussiaMilitaryDefenceArrest.jpg",
+      "fullParagraphs": [
+        "A senior American soldier assigned to NATO who was arrested in Britain last week on suspicion of spying for Russia has been transferred to U.S. military custody, U.K. police said on Tuesday (November 17, 2026).",
+        "The espionage case, the latest involving suspected Kremlin agents in Britain and elsewhere in Europe, comes amid heightened tensions between Moscow and various European capitals after Russia’s 2022 full-scale invasion of Ukraine.",
+        "It also follows recent security scares at two British air force bases hosting the U.S. military, with officials accusing Iran of involvement in plots to target them.",
+        "A U.S. Army official has named the detained soldier as 41-year-old Lieutenant Colonel Brandon Tyner.",
+        "Held in British police custody since his November 10 arrest near Gloucester, southwest England, he was handed to the US military “over suspected national security and espionage allegations”, U.K. Counter Terrorism Policing said.",
+        "Assistant Commissioner Laurence Taylor said the decision to “pass the investigation to them to progress” followed an extensive probe by his counter-terror unit and subsequent discussions between British prosecutors and “American partners”.",
+        "FBI Director Kash Patel said in a statement that the unnamed Army officer was in U.S. custody after “an espionage investigation”.",
+        "He noted it had involved “close cooperation” between the FBI’s Philadelphia field office and various other US and UK law enforcement and intelligence agencies.",
+        "“Together we worked to identify a potential threat to national security and take swift action,” Mr. Patel added.",
+        "A senior NATO military official last week confirmed that the arrested soldier had been assigned to its Allied Rapid Reaction Corps (ARRC), the alliance’s 20-nation, high-readiness force led by the British Army.",
+        "Based at Imjin Barracks near Gloucester, it can deploy at short notice anywhere in Europe or globally under the direct operational command of NATO’s Supreme Allied Commander Europe.",
+        "Imjin is also just a few miles from the U.K.’s highly sensitive GCHQ intelligence, security and cyber agency headquarters."
+      ],
+      "deepExplanation": "<strong>1. Core Context & Background:</strong> A senior American soldier assigned to NATO who was arrested in Britain last week on suspicion of spying for Russia has been transferred to U.S.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> police said on Tuesday (November 17, 2026). The espionage case, the latest involving suspected Kremlin agents in Britain and elsewhere in Europe, comes amid heightened tensions between Moscow and various European capitals after Russia’s 2022 full-scale invasion of Ukraine.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Imjin is also just a few miles from the U.K.’s highly sensitive GCHQ intelligence, security and cyber agency headquarters.",
+      "vocabList": [
+        "American",
+        "Assigned",
+        "Arrested",
+        "Suspicion",
+        "Transferred",
+        "Military"
+      ],
+      "summary": "A senior American soldier assigned to NATO who was arrested in Britain last week on suspicion of spying for Russia has been transferred to U.S. military custody, U.K. police said on Tuesday (November 17, 2026).",
+      "keyPoints": "• A senior American soldier assigned to NATO who was arrested in Britain last week on suspicion of spying for Russia has been transferred to U.S. military custody, U.K. police said on Tuesday (November 17, 2026).<br>• The espionage case, the latest involving suspected Kremlin agents in Britain and elsewhere in Europe, comes amid heightened tensions between Moscow and various European capitals after Russia’s 2022 full-scale invasion of Ukraine.<br>• It also follows recent security scares at two British air force bases hosting the U.S. military, with officials accusing Iran of involvement in plots to target them."
+    },
+    {
+      "category": "ir",
+      "categoryLabel": "🌐 International Relations",
       "title": "All-too fallible: On India’s vote against moratorium on death penalty",
       "link": "https://www.thehindu.com/opinion/editorial/the-hindu-editorial-on-indias-vote-against-moratorium-on-death-penalty/article71713256.ece",
       "pubDate": "Tue, 17 Nov 2026 23:56:51 +0530",
@@ -529,81 +607,71 @@
       "keyPoints": "• NATO allies will discuss Washington’s review of U.S. troop levels in ​Europe with Pentagon policy chief Elbridge Colby on Tuesday (November 17, 2026), German Defence ⁠Minister Boris Pistorius said, with more clarity on the scope of any drawdown expected within weeks.<br>• U.S. Defense Secretary Pete Hegseth unveiled the six-month review in June and threatened to withhold some ‌U.S. dues to NATO if “free riding” allies fell short of defence spending commitments.<br>• He did not explicitly say the review could lead to cuts ‌in the 80,000 U.S. troops deployed to Europe, but stressed the goal of ‌prompting ⁠the continent to do more while enabling the U.S. military to ⁠meet global commitments."
     },
     {
-      "category": "ir",
-      "categoryLabel": "🌐 International Relations",
-      "title": "Nabeel Rajab, prominent Bahraini human rights activist, dies at 62",
-      "link": "https://www.thehindu.com/news/international/nabeel-rajab-prominent-bahraini-human-rights-activist-dies-at-62/article71713180.ece",
-      "pubDate": "Tue, 17 Nov 2026 23:27:24 +0530",
+      "category": "scitech",
+      "categoryLabel": "🚀 Science, Tech & Environment",
+      "title": "Construction activities on Kaziranga wildlife corridors flagged",
+      "link": "https://www.thehindu.com/news/national/assam/construction-activities-on-kaziranga-wildlife-corridors-flagged/article71713607.ece",
+      "pubDate": "Wed, 18 Nov 2026 03:14:11 +0530",
       "dateIso": "2026-11-18",
       "dateDisplay": "18 Nov 2026",
-      "examRelevance": "GS Paper-II & Current Affairs: Bilateral Agreements, Foreign Visits & UN/G20/BRICS",
-      "imageUrl": "https://th-i.thgim.com/public/incoming/rws2v6/article71713306.ece/alternates/LANDSCAPE_1200/Bahrain_33_84.jpg",
+      "examRelevance": "GS Paper-III & Prelims: ISRO/NASA Missions, Defense Updates, Tech & Climate Reports",
+      "imageUrl": "https://th-i.thgim.com/public/incoming/vyxyko/article71713610.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-11-16%20at%207.00.14%20PM.jpeg",
       "fullParagraphs": [
-        "Nabeel Rajab, a prominent democracy activist in Bahrain who helped lead the island nation's 2011 protests known across the wider region as the Arab Spring and who spent years in prison for challenging its monarchy, died on Tuesday (November 17, 2026). He was 62.",
-        "His family found him unresponsive at their home in Turkey on Tuesday (November 17, 2026) morning, activists said. The Bahrain Center for Human Rights, which Rajab once led as president, confirmed his death in a post on X.",
-        "\"We extend our sincere condolences and heartfelt sympathy to his esteemed family. We pray that God may encompass him with his vast mercy and reward him abundantly for his efforts and contributions,\" the group wrote.",
-        "Ebrahim Sharif, an activist who was a close friend of the family, said Rajab's wife and daughter found him unresponsive early in the morning at their home in Turkey. He said he had spoken to Rajab's brother and that the family believed Rajab likely died of a heart attack.",
-        "Rajab left Bahrain early in the Iran war, as authorities cracked down on Shia-led protests throughout the Gulf island kingdom, home to the U.S. Navy's Fifth Fleet. Rajab accused the government of torturing an imprisoned activist and feared he would be arrested if he returned, he told The Associated Press at the time.",
-        "Rajab rose to international prominence in 2011, as the Arab Spring uprising swept the region and demonstrations erupted in Bahrain's capital, Manama. He was a pivotal figure in the protest movement, during which the country's majority Shiite population demanded the ruling Sunni monarchy offer them greater political freedoms. As president of the Bahrain Centre for Human Rights, he advocated for expanding the powers of Bahrain's parliament, ensuring freedom of expression and fighting anti-Shia discrimination.",
-        "Bahraini authorities, backed by Saudi troops, arrested scores of demonstrators and crushed the protests, while ultimately introducing limited political reforms.",
-        "He was imprisoned on multiple occasions in the years following the unrest. His longest stretch behind bars began in June 2016. He was eventually released in June of 2020 during the coronavirus pandemic, though he was ordered to spend the remaining time in home detention.",
-        "At the time, he had been serving a five-year sentence over tweets criticising the Saudi-led war in Yemen and alleging prison abuse. He had also been sentenced to two years over comments deemed critical of Bahrain.",
-        "Rajab had a history of heart issues. During one of his earlier detentions, he received treatment for an irregular heartbeat. He separately received a pardon from King Hamad bin Isa Al Khalifa in 2015, after concerns emerged about Rajab's health."
+        "An eastern Assam-based environmental activist has reminded the Supreme Court–constituted Central Empowered Committee (CEC) to continue construction activities on the wildlife corridors of Kaziranga National Park and Tiger Reserve.",
+        "Kaziranga has nine notified wildlife corridors and several dandis or animal pathways. Animals use these corridors and dandis mostly to escape to the hills of Karbi Anglong district when the park is flooded during the monsoon months.",
+        "In a letter to the CEC’s Member-Secretary on November 16, Rohit Choudhury said he had brought such construction activities to the notice of the Committee on May 11. He lamented the lack of action against these activities, violating the Supreme Court’s April 2019 order.",
+        "“We order that all kinds of mining and related activities along the aforesaid Kaziranga National Park area and in the entire catchment area of rivers, streams and rivulets originating in the Karbi Anglong Hill ranges and flowing into Kaziranga National Park, including the Tiger Reserve, are restrained. No new construction shall be permitted on private lands which form part of the nine identified animal corridors,” the apex court’s order read.",
+        "“Despite this clear and categorical prohibition, the Government of Assam has displayed a disturbing disregard for the mandate of the Supreme Court by permitting and facilitating unlawful construction activities within these ecologically sensitive wildlife corridors,” Mr. Choudhury wrote.",
+        "He reminded the CEC of photographic evidence of a building under construction on the Haldhibari Wildlife Corridor attached to his May 11 letter. “The construction activity was allowed to proceed unabated and has now reached an advanced stage of completion,” he wrote, attaching recent photographs of the construction site.",
+        "Mr. Choudhury said the CEC’s inability to take up the matter six months ago “effectively afforded the concerned authorities sufficient time to continue and substantially complete the illegal construction”.",
+        "He said such delays in addressing matters of grave environmental significance seriously undermine the purpose and efficacy of the CEC’s mandate.",
+        "The activist further said the Assam Government did not inform the Supreme Court of any instance of violation of its April 12, 2019, order for necessary action.",
+        "“This persistent failure of enforcement has emboldened continued violations and weakened the protection envisaged by the Supreme Court,” he said, urging the CEC to recommend contempt proceedings against the officials responsible for permitting, facilitating or failing to prevent these blatant violations of the court’s binding directions.",
+        "“The matter concerns not merely a breach of judicial orders but the continued degradation of one of India’s most treasured ecological landscapes and a globally recognised natural heritage site. Immediate intervention is therefore both necessary and imperative,” Mr. Choudhury wrote."
       ],
-      "deepExplanation": "<strong>1. Core Context & Background:</strong> Nabeel Rajab, a prominent democracy activist in Bahrain who helped lead the island nation's 2011 protests known across the wider region as the Arab Spring and who spent years in prison for challenging its monarchy, died on Tuesday (November 17, 2026).<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> His family found him unresponsive at their home in Turkey on Tuesday (November 17, 2026) morning, activists said. The Bahrain Center for Human Rights, which Rajab once led as president, confirmed his death in a post on X.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> He separately received a pardon from King Hamad bin Isa Al Khalifa in 2015, after concerns emerged about Rajab's health.",
+      "deepExplanation": "<strong>1. Core Context & Background:</strong> An eastern Assam-based environmental activist has reminded the Supreme Court–constituted Central Empowered Committee (CEC) to continue construction activities on the wildlife corridors of Kaziranga National Park and Tiger Reserve.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Kaziranga has nine notified wildlife corridors and several dandis or animal pathways. Animals use these corridors and dandis mostly to escape to the hills of Karbi Anglong district when the park is flooded during the monsoon months.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Immediate intervention is therefore both necessary and imperative,” Mr.",
       "vocabList": [
-        "Prominent",
-        "Democracy",
+        "Environmental",
         "Activist",
-        "Protests",
-        "Challenging",
-        "Monarchy"
+        "Reminded",
+        "Constituted",
+        "Empowered",
+        "Continue"
       ],
-      "summary": "Nabeel Rajab, a prominent democracy activist in Bahrain who helped lead the island nation's 2011 protests known across the wider region as the Arab Spring and who spent years in prison for challenging its monarchy, died on Tuesday (November 17, 2026). He was 62.",
-      "keyPoints": "• Nabeel Rajab, a prominent democracy activist in Bahrain who helped lead the island nation's 2011 protests known across the wider region as the Arab Spring and who spent years in prison for challenging its monarchy, died on Tuesday (November 17, 2026). He was 62.<br>• His family found him unresponsive at their home in Turkey on Tuesday (November 17, 2026) morning, activists said. The Bahrain Center for Human Rights, which Rajab once led as president, confirmed his death in a post on X.<br>• \"We extend our sincere condolences and heartfelt sympathy to his esteemed family. We pray that God may encompass him with his vast mercy and reward him abundantly for his efforts and contributions,\" the group wrote."
+      "summary": "An eastern Assam-based environmental activist has reminded the Supreme Court–constituted Central Empowered Committee (CEC) to continue construction activities on the wildlife corridors of Kaziranga National Park and Tiger Reserve.",
+      "keyPoints": "• An eastern Assam-based environmental activist has reminded the Supreme Court–constituted Central Empowered Committee (CEC) to continue construction activities on the wildlife corridors of Kaziranga National Park and Tiger Reserve.<br>• Kaziranga has nine notified wildlife corridors and several dandis or animal pathways. Animals use these corridors and dandis mostly to escape to the hills of Karbi Anglong district when the park is flooded during the monsoon months.<br>• In a letter to the CEC’s Member-Secretary on November 16, Rohit Choudhury said he had brought such construction activities to the notice of the Committee on May 11. He lamented the lack of action against these activities, violating the Supreme Court’s April 2019 order."
     },
     {
-      "category": "ir",
-      "categoryLabel": "🌐 International Relations",
-      "title": "Iran targets Bahrain, slams 'fabricated' dirty-bomb report",
-      "link": "https://www.thehindu.com/news/international/iran-targets-bahrain-slams-fabricated-dirty-bomb-report/article71713177.ece",
-      "pubDate": "Tue, 17 Nov 2026 23:16:56 +0530",
+      "category": "scitech",
+      "categoryLabel": "🚀 Science, Tech & Environment",
+      "title": "Why frontline experience and operational research need to come together in the health sector",
+      "link": "https://www.thehindu.com/opinion/op-ed/why-frontline-experience-and-operational-research-need-to-come-together-in-the-health-sector/article71711604.ece",
+      "pubDate": "Wed, 18 Nov 2026 01:38:55 +0530",
       "dateIso": "2026-11-18",
       "dateDisplay": "18 Nov 2026",
-      "examRelevance": "GS Paper-II & Current Affairs: Bilateral Agreements, Foreign Visits & UN/G20/BRICS",
-      "imageUrl": "https://th-i.thgim.com/public/incoming/tj7g64/article71713259.ece/alternates/LANDSCAPE_1200/AFP_D7PJ9J2.jpg",
+      "examRelevance": "GS Paper-III & Prelims: ISRO/NASA Missions, Defense Updates, Tech & Climate Reports",
+      "imageUrl": "https://th-i.thgim.com/public/incoming/nffbji/article71711609.ece/alternates/LANDSCAPE_1200/HEALTH%20MEDICAL%20MAKKALAI%20THEDI%20MARUTHUVAM%20DOORSTEP%20OF%20THE%20PEOPLE_01.jpg",
       "fullParagraphs": [
-        "Iran launched a fresh drone attack against Bahrain on Tuesday (November 17, 2026) and dismissed a report alleging a dirty-bomb plot against the United States, which President Donald Trump said he took \"very seriously\".",
-        "Mediator Qatar urged \"all parties\" to show restraint following an uptick in hostilities, with Bahrain targeted three times in five days after a lull in Iranian attacks on Gulf countries since September.",
-        "Mr. Trump was speaking after CNN cited seven anonymous U.S. officials as saying Iran was plotting to target senior administration figures with a \"dirty\" bomb, laced with chemical or radioactive materials.",
-        "\"If there is [such a threat], they will pay a price the likes of which no other country has ever paid before,\" Trump said after arriving for a summit in the Philippines.",
-        "\"I hope it's not, but we take it very seriously because they happen to be crazy.\"",
-        "Iran's Foreign Ministry spokesman Esmaeil Baqaei dismissed the report as \"fabricated\".",
-        "\"Those who initiated the aggression against Iran are now seeking to lay the media groundwork for their sinister designs by manufacturing and disseminating baseless allegations\" including \"the fabricated media narrative surrounding an alleged 'dirty bomb' propagated by CNN\", he posted on X.",
-        "Mr. Baqaei also criticised a New York Times report questioning whether Iranian dams and water projects had military uses.",
-        "Earlier on Tuesday (November 17, 2026), explosions boomed across Bahrain's capital as a mobile-phone alert warned residents to seek safety.",
-        "Bahrain's armed forces said they \"confronted, intercepted and destroyed a number of treacherous Iranian aerial attacks today... before they could achieve their objectives\", while Iran's Revolutionary Guards said they targeted a U.S.-operated radar system.",
-        "\"Combat drones belonging to the Revolutionary Guards carried out a precision operation this morning, targeting a radar system operated by US forces at the Sheikh Isa Air Base in Bahrain,\" the Guards' Sepah news website said.",
-        "The attack was in response to the \"repeated violations of Iranian airspace by US military drones\", it added. The Guards also said they had intercepted and captured a US drone south of Qeshm island in the Strait of Hormuz."
+        "The road to the village floods for four months every year. While a pregnant woman is put into an ambulance, the hospital has no surgeon on duty. In a semi-permanent ward, a health worker follows a protocol designed for a tertiary hospital that bears little resemblance to the conditions in which they work."
       ],
-      "deepExplanation": "<strong>1. Core Context & Background:</strong> Iran launched a fresh drone attack against Bahrain on Tuesday (November 17, 2026) and dismissed a report alleging a dirty-bomb plot against the United States, which President Donald Trump said he took \"very seriously\".<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Mediator Qatar urged \"all parties\" to show restraint following an uptick in hostilities, with Bahrain targeted three times in five days after a lull in Iranian attacks on Gulf countries since September. Trump was speaking after CNN cited seven anonymous U.S.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> The Guards also said they had intercepted and captured a US drone south of Qeshm island in the Strait of Hormuz.",
+      "deepExplanation": "<strong>1. Core Context & Background:</strong> The road to the village floods for four months every year.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> While a pregnant woman is put into an ambulance, the hospital has no surgeon on duty. In a semi-permanent ward, a health worker follows a protocol designed for a tertiary hospital that bears little resemblance to the conditions in which they work.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> In a semi-permanent ward, a health worker follows a protocol designed for a tertiary hospital that bears little resemblance to the conditions in which they work.",
       "vocabList": [
-        "Launched",
-        "November",
-        "Dismissed",
-        "Alleging",
-        "President",
-        "Seriously"
+        "Pregnant",
+        "Ambulance",
+        "Hospital",
+        "Permanent",
+        "Protocol",
+        "Designed"
       ],
-      "summary": "Iran launched a fresh drone attack against Bahrain on Tuesday (November 17, 2026) and dismissed a report alleging a dirty-bomb plot against the United States, which President Donald Trump said he took \"very seriously\".",
-      "keyPoints": "• Iran launched a fresh drone attack against Bahrain on Tuesday (November 17, 2026) and dismissed a report alleging a dirty-bomb plot against the United States, which President Donald Trump said he took \"very seriously\".<br>• Mediator Qatar urged \"all parties\" to show restraint following an uptick in hostilities, with Bahrain targeted three times in five days after a lull in Iranian attacks on Gulf countries since September.<br>• Mr. Trump was speaking after CNN cited seven anonymous U.S. officials as saying Iran was plotting to target senior administration figures with a \"dirty\" bomb, laced with chemical or radioactive materials."
+      "summary": "The road to the village floods for four months every year. While a pregnant woman is put into an ambulance, the hospital has no surgeon on duty. In a semi-permanent ward, a health worker follows a protocol designed for a tertiary hospital that bears little resemblance to the conditions in which they work.",
+      "keyPoints": "• The road to the village floods for four months every year. While a pregnant woman is put into an ambulance, the hospital has no surgeon on duty. In a semi-permanent ward, a health worker follows a protocol designed for a tertiary hospital that bears little resemblance to the conditions in which they work."
     },
     {
       "category": "scitech",
       "categoryLabel": "🚀 Science, Tech & Environment",
       "title": "Earthshot Prize: Climate action needs innovation, global cooperation, say leaders on green carpet in Mumbai",
       "link": "https://www.thehindu.com/news/national/earthshot-prize-climate-action-needs-innovation-global-cooperation-say-leaders-on-green-carpet-in-mumbai/article71713406.ece",
-      "pubDate": "Wed, 18 Nov 2026 01:09:36 +0530",
+      "pubDate": "Wed, 18 Nov 2026 01:19:26 +0530",
       "dateIso": "2026-11-18",
       "dateDisplay": "18 Nov 2026",
       "examRelevance": "GS Paper-III & Prelims: ISRO/NASA Missions, Defense Updates, Tech & Climate Reports",
@@ -712,78 +780,6 @@
       ],
       "summary": "Parliament passed the Transgender Persons (Protection of Rights) Amendment Act, 2026 earlier this year. The new Act represents a significant shift from the Transgender Persons (Protection of Rights) Act, 2019. The 2026 amendment removes the principle of self-identification and demands a medical board’s recommendation; a selection from prescribed categories; and certification by a District Magistrate. It fundamentally changes legal recognition for transgender persons from self-identification to medical assessment. While the 2026 Act does increase protection, it changes the philosophical foundation of transgender rights — from recognition based substantially on autonomy and self-identification towards recognition mediated by medical and administrative authorities.",
       "keyPoints": "• Parliament passed the Transgender Persons (Protection of Rights) Amendment Act, 2026 earlier this year. The new Act represents a significant shift from the Transgender Persons (Protection of Rights) Act, 2019. The 2026 amendment removes the principle of self-identification and demands a medical board’s recommendation; a selection from prescribed categories; and certification by a District Magistrate. It fundamentally changes legal recognition for transgender persons from self-identification to medical assessment. While the 2026 Act does increase protection, it changes the philosophical foundation of transgender rights — from recognition based substantially on autonomy and self-identification towards recognition mediated by medical and administrative authorities.<br>• The definition of “transgender” as introduced in the Amendment Act is in contradiction to established international evidence and guidelines laid down in the World Health Organization ICD-11 and the World Professional Association for Transgender Health Standards of Care Version 8.<br>• transgender / healthcare policy / gender / welfare / society"
-    },
-    {
-      "category": "scitech",
-      "categoryLabel": "🚀 Science, Tech & Environment",
-      "title": "Prince William says Gen Z is the torchbearer of the global movement for change",
-      "link": "https://www.thehindu.com/news/national/maharashtra/prince-william-says-gen-z-is-the-torchbearer-of-the-global-movement-for-change/article71713218.ece",
-      "pubDate": "Wed, 18 Nov 2026 00:02:26 +0530",
-      "dateIso": "2026-11-18",
-      "dateDisplay": "18 Nov 2026",
-      "examRelevance": "GS Paper-III & Prelims: ISRO/NASA Missions, Defense Updates, Tech & Climate Reports",
-      "imageUrl": "https://th-i.thgim.com/public/incoming/ud2j93/article71713308.ece/alternates/LANDSCAPE_1200/11908_17_11_2026_20_44_17_1_DSC_2129.JPEG",
-      "fullParagraphs": [
-        "Young people from around the world are not waiting for someone else to find the solution, they are the torchbearers of the global movement for change, Britain’s Prince William said in Mumbai on Tuesday (November 17, 2026).",
-        "He was speaking at the 2026 Earthshot Prize Awards Ceremony, which was held in India for the first time.",
-        "“India is a nation of extraordinary innovation, ambition, facing immense environmental pressures, yet moving ahead with determination. Not because the challenge is simple, not because the path is easy. But because millions of people have decided that progress simply cannot wait,” said Prince William.",
-        "Winners of the Earthshot Prize award were declared under five categories in a glittering ceremony. The awardees include the Himalayan Kingdom of Bhutan and Mahindra Last Mile Mobility.",
-        "“They [Gen Z] are bringing fresh ideas and showing what is possible when optimism is matched with action. Their ideas, their energy, and their determination are helping to shape the future,” he said.",
-        "During his address, Prince William reflected on the achievements of this year’s finalists and the growing global movement behind environmental innovation.",
-        "The ceremony was attended by environmental innovators, philanthropists, business leaders, government representatives and global figures from sport, entertainment and culture.",
-        "Mahindra Last Mile Mobility won the Earthshot Prize in the ‘Clean Our Air’ category. Accepting the award, the company’s CEO, Suman Mishra, said it showed how urgent optimism worked.",
-        "The company has won 1 million pounds for its efforts, due to which 33 per cent of India’s three-wheelers are now electric.",
-        "Prince Williams and Princess Catherine meet the winners of Earthshot Prize post the award ceremony in Mumbai on November 17, 2026. | Photo Credit: Emmanual Yogini",
-        "In the ‘Revive Our Oceans’ category, Niue Ocean Wide Trust was chosen for protecting the oceans, especially the vast Pacific region.",
-        "Coral Pasisi, vice chair and co-architect of Ocean Conservation Commitments, expressed gratitude for indigenous, people-led sustainability efforts being honoured."
-      ],
-      "deepExplanation": "<strong>1. Core Context & Background:</strong> Young people from around the world are not waiting for someone else to find the solution, they are the torchbearers of the global movement for change, Britain’s Prince William said in Mumbai on Tuesday (November 17, 2026).<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> He was speaking at the 2026 Earthshot Prize Awards Ceremony, which was held in India for the first time. “India is a nation of extraordinary innovation, ambition, facing immense environmental pressures, yet moving ahead with determination.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Coral Pasisi, vice chair and co-architect of Ocean Conservation Commitments, expressed gratitude for indigenous, people-led sustainability efforts being honoured.",
-      "vocabList": [
-        "Solution",
-        "Torchbearers",
-        "Movement",
-        "November",
-        "Speaking",
-        "Earthshot"
-      ],
-      "summary": "Young people from around the world are not waiting for someone else to find the solution, they are the torchbearers of the global movement for change, Britain’s Prince William said in Mumbai on Tuesday (November 17, 2026).",
-      "keyPoints": "• Young people from around the world are not waiting for someone else to find the solution, they are the torchbearers of the global movement for change, Britain’s Prince William said in Mumbai on Tuesday (November 17, 2026).<br>• He was speaking at the 2026 Earthshot Prize Awards Ceremony, which was held in India for the first time.<br>• “India is a nation of extraordinary innovation, ambition, facing immense environmental pressures, yet moving ahead with determination. Not because the challenge is simple, not because the path is easy. But because millions of people have decided that progress simply cannot wait,” said Prince William."
-    },
-    {
-      "category": "scitech",
-      "categoryLabel": "🚀 Science, Tech & Environment",
-      "title": "Ex-Nvidia CEO Jensen Huang acknowledges ‘mistakes,’ signals interest in return if company chooses",
-      "link": "https://www.thehindu.com/news/international/ex-nvidia-ceo-jensen-huang-acknowledges-mistakes-signals-interest-in-return-if-company-chooses/article71713348.ece",
-      "pubDate": "Tue, 17 Nov 2026 23:47:12 +0530",
-      "dateIso": "2026-11-18",
-      "dateDisplay": "18 Nov 2026",
-      "examRelevance": "GS Paper-III & Prelims: ISRO/NASA Missions, Defense Updates, Tech & Climate Reports",
-      "imageUrl": "https://th-i.thgim.com/public/incoming/62ck9x/article71713362.ece/alternates/LANDSCAPE_1200/2026-11-16T161231Z_1668403843_RC29TNAQ5GL0_RTRMADP_3_NVIDIA-CEO.JPG",
-      "fullParagraphs": [
-        "Former Nvidia CEO Jensen Huang has signalled his interest in returning to lead the AI computer chip company in his first public statement since he abruptly left the company last week following revelations of an extramarital affair with an alleged Chinese spy .",
-        "“If the Board of Directors decides that my return is in the best interest of our shareholders, our employees, the company, and America, I would be honoured to answer these calls and return as CEO,” he said in a social media post.",
-        "He acknowledged making “serious mistakes” in his personal life but said that he’s received an “outpouring” of support from employees, investors, business partners and customers for his return.",
-        "The statement comes after an online petition to reinstate Mr. Huang gathered more than 1,90,000 signatures, including from tech industry figures like SpaceX and Tesla CEO Elon Musk. President Donald Trump also endorsed the bid.",
-        "Nvidia did not immediately respond to a request for comment on Mr. Huang’s statement.",
-        "Also on Tuesday (November 17, 2026), key House lawmakers said that Mr. Huang has voluntarily agreed to appear for transcribed interviews as the chipmaker faces intensifying national scrutiny over sales of its advanced computer chips.",
-        "How Jensen Huang’s affair puts Nvidia and American AI at risk? (Recorded before his resignation) | In Focus Podcast",
-        "U.S. blocks China’s remote access to AI chips after Nvidia scandal; China slams move",
-        "U.S. Treasury chief Scott Bessent wants answers soon from Nvidia",
-        "Mr. Huang will appear before the committees on December 1, followed by the company’s general counsel, Tim Teter, on Dec. 2.",
-        "“We look forward to hearing from Jensen Huang and Tim Teter on their roles in a potential breach of our national security,” said a statement from the chairmen of three House committees with oversight of China and intelligence issues.",
-        "“The American people need answers on Mr. Huang and Nvidia’s role in allowing dangerous PRC actors to access our most advanced chips, as well as the role of a potential Chinese intelligence asset in this scandal,” the lawmakers said, referring to the People’s Republic of China."
-      ],
-      "deepExplanation": "<strong>1. Core Context & Background:</strong> Former Nvidia CEO Jensen Huang has signalled his interest in returning to lead the AI computer chip company in his first public statement since he abruptly left the company last week following revelations of an extramarital affair with an alleged Chinese spy .<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> “If the Board of Directors decides that my return is in the best interest of our shareholders, our employees, the company, and America, I would be honoured to answer these calls and return as CEO,” he said in a social media post. He acknowledged making “serious mistakes” in his personal life but said that he’s received an “outpouring” of support from employees, investors, business partners and customers for his return.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Huang and Nvidia’s role in allowing dangerous PRC actors to access our most advanced chips, as well as the role of a potential Chinese intelligence asset in this scandal,” the lawmakers said, referring to the People’s Republic of China.",
-      "vocabList": [
-        "Signalled",
-        "Interest",
-        "Returning",
-        "Computer",
-        "Abruptly",
-        "Following"
-      ],
-      "summary": "Former Nvidia CEO Jensen Huang has signalled his interest in returning to lead the AI computer chip company in his first public statement since he abruptly left the company last week following revelations of an extramarital affair with an alleged Chinese spy .",
-      "keyPoints": "• Former Nvidia CEO Jensen Huang has signalled his interest in returning to lead the AI computer chip company in his first public statement since he abruptly left the company last week following revelations of an extramarital affair with an alleged Chinese spy .<br>• “If the Board of Directors decides that my return is in the best interest of our shareholders, our employees, the company, and America, I would be honoured to answer these calls and return as CEO,” he said in a social media post.<br>• He acknowledged making “serious mistakes” in his personal life but said that he’s received an “outpouring” of support from employees, investors, business partners and customers for his return."
     },
     {
       "category": "editorial",
@@ -949,8 +945,76 @@
     "2026-11-18": {
       "dateIso": "2026-11-18",
       "dateDisplay": "18 Nov 2026",
-      "updatedAt": "18 Nov 2026, 03:14 AM IST",
+      "updatedAt": "18 Nov 2026, 04:40 AM IST",
       "articles": [
+        {
+          "category": "national",
+          "categoryLabel": "🏛️ National & Polity",
+          "title": "Jharkhand SIR: Final BLO meetings at poll stations on November 18",
+          "link": "https://www.thehindu.com/news/national/jharkhand/jharkhand-sir-final-blo-meeting-at-poll-stations-on-november-18/article71713613.ece",
+          "pubDate": "Wed, 18 Nov 2026 03:52:22 +0530",
+          "dateIso": "2026-11-18",
+          "dateDisplay": "18 Nov 2026",
+          "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/e5e05a/article71713614.ece/alternates/LANDSCAPE_1200/20260930290L.jpg",
+          "fullParagraphs": [
+            "Jharkhand Chief Electoral Officer (CEO) K. Ravi Kumar on Tuesday (November 17, 2026) appealed to all eligible Indian citizens in the State to ensure their names are included in the electoral roll being published under the Special Intensive Revision (SIR).",
+            "Speaking to the media in Ranchi, Mr. Ravi asserted that an “Ek Aur Avsar” (One More Opportunity) camp will be held on November 18 at all polling stations in the State, from 11 a.m. to 4 p.m., where meetings of BLOs (Booth Level Officers) and BLAs-2 (Booth Level Agents-2) will take place in the form of a “Chunav Pathshala” (Electoral Awareness Session).",
+            "He pointed out that the objective of this special initiative is to provide one additional opportunity for any eligible Indian citizen who, for various reasons, has not yet had their name added to the electoral roll.",
+            "Mr. Ravi explained that the camps will focus primarily on three key areas. First, the Election Commission of India (ECI) is republishing the ASDD (Absent, Shifted, Dead, or Duplicate) list at all polling stations. If any eligible Indian citizen has been included in this list, they may follow the prescribed procedure to submit Form-6 or an enumeration form.",
+            "Second, lists of voters in categories such as “No Mapping” or those with “Logical Discrepancies”—who have failed to provide the necessary documentation despite receiving two notices from the Electoral Registration Officer (ERO) and undergoing a door-to-door verification process—will be made available at the respective polling stations.",
+            "Third, efforts are being made to identify eligible Indian citizens who will have turned 18 by October 1, 2026, but who have not yet registered their names in the electoral roll for their respective polling stations. Eligible Indian citizens will be able to have their names included in the electoral roll by submitting Form 6.",
+            "The CEO said that this is the sixth and final BLO-BLA-2 meeting being held under the ongoing SIR process in Jharkhand. He urged all eligible citizens in the state to take advantage of this opportunity and get their names added to the electoral roll, ensuring that no eligible Indian citizen remains excluded.",
+            "The ECI has already extended the deadline for final publication of electoral rolls in Jharkhand under the SIR to November 30. The final publication was initially scheduled for October 7 and was later extended to October 19 before being revised.",
+            "Jharkhand / Special Intensive Revision of electoral rolls"
+          ],
+          "deepExplanation": "<strong>1. Core Context & Background:</strong> Jharkhand Chief Electoral Officer (CEO) K.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Ravi Kumar on Tuesday (November 17, 2026) appealed to all eligible Indian citizens in the State to ensure their names are included in the electoral roll being published under the Special Intensive Revision (SIR). Speaking to the media in Ranchi, Mr.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Jharkhand / Special Intensive Revision of electoral rolls",
+          "vocabList": [
+            "Jharkhand",
+            "Electoral",
+            "November",
+            "Appealed",
+            "Eligible",
+            "Citizens"
+          ],
+          "summary": "Jharkhand Chief Electoral Officer (CEO) K. Ravi Kumar on Tuesday (November 17, 2026) appealed to all eligible Indian citizens in the State to ensure their names are included in the electoral roll being published under the Special Intensive Revision (SIR).",
+          "keyPoints": "• Jharkhand Chief Electoral Officer (CEO) K. Ravi Kumar on Tuesday (November 17, 2026) appealed to all eligible Indian citizens in the State to ensure their names are included in the electoral roll being published under the Special Intensive Revision (SIR).<br>• Speaking to the media in Ranchi, Mr. Ravi asserted that an “Ek Aur Avsar” (One More Opportunity) camp will be held on November 18 at all polling stations in the State, from 11 a.m. to 4 p.m., where meetings of BLOs (Booth Level Officers) and BLAs-2 (Booth Level Agents-2) will take place in the form of a “Chunav Pathshala” (Electoral Awareness Session).<br>• He pointed out that the objective of this special initiative is to provide one additional opportunity for any eligible Indian citizen who, for various reasons, has not yet had their name added to the electoral roll."
+        },
+        {
+          "category": "national",
+          "categoryLabel": "🏛️ National & Polity",
+          "title": "Construction activities on Kaziranga wildlife corridors flagged",
+          "link": "https://www.thehindu.com/news/national/assam/construction-activities-on-kaziranga-wildlife-corridors-flagged/article71713607.ece",
+          "pubDate": "Wed, 18 Nov 2026 03:14:11 +0530",
+          "dateIso": "2026-11-18",
+          "dateDisplay": "18 Nov 2026",
+          "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/vyxyko/article71713610.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-11-16%20at%207.00.14%20PM.jpeg",
+          "fullParagraphs": [
+            "An eastern Assam-based environmental activist has reminded the Supreme Court–constituted Central Empowered Committee (CEC) to continue construction activities on the wildlife corridors of Kaziranga National Park and Tiger Reserve.",
+            "Kaziranga has nine notified wildlife corridors and several dandis or animal pathways. Animals use these corridors and dandis mostly to escape to the hills of Karbi Anglong district when the park is flooded during the monsoon months.",
+            "In a letter to the CEC’s Member-Secretary on November 16, Rohit Choudhury said he had brought such construction activities to the notice of the Committee on May 11. He lamented the lack of action against these activities, violating the Supreme Court’s April 2019 order.",
+            "“We order that all kinds of mining and related activities along the aforesaid Kaziranga National Park area and in the entire catchment area of rivers, streams and rivulets originating in the Karbi Anglong Hill ranges and flowing into Kaziranga National Park, including the Tiger Reserve, are restrained. No new construction shall be permitted on private lands which form part of the nine identified animal corridors,” the apex court’s order read.",
+            "“Despite this clear and categorical prohibition, the Government of Assam has displayed a disturbing disregard for the mandate of the Supreme Court by permitting and facilitating unlawful construction activities within these ecologically sensitive wildlife corridors,” Mr. Choudhury wrote.",
+            "He reminded the CEC of photographic evidence of a building under construction on the Haldhibari Wildlife Corridor attached to his May 11 letter. “The construction activity was allowed to proceed unabated and has now reached an advanced stage of completion,” he wrote, attaching recent photographs of the construction site.",
+            "Mr. Choudhury said the CEC’s inability to take up the matter six months ago “effectively afforded the concerned authorities sufficient time to continue and substantially complete the illegal construction”.",
+            "He said such delays in addressing matters of grave environmental significance seriously undermine the purpose and efficacy of the CEC’s mandate.",
+            "The activist further said the Assam Government did not inform the Supreme Court of any instance of violation of its April 12, 2019, order for necessary action.",
+            "“This persistent failure of enforcement has emboldened continued violations and weakened the protection envisaged by the Supreme Court,” he said, urging the CEC to recommend contempt proceedings against the officials responsible for permitting, facilitating or failing to prevent these blatant violations of the court’s binding directions.",
+            "“The matter concerns not merely a breach of judicial orders but the continued degradation of one of India’s most treasured ecological landscapes and a globally recognised natural heritage site. Immediate intervention is therefore both necessary and imperative,” Mr. Choudhury wrote."
+          ],
+          "deepExplanation": "<strong>1. Core Context & Background:</strong> An eastern Assam-based environmental activist has reminded the Supreme Court–constituted Central Empowered Committee (CEC) to continue construction activities on the wildlife corridors of Kaziranga National Park and Tiger Reserve.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Kaziranga has nine notified wildlife corridors and several dandis or animal pathways. Animals use these corridors and dandis mostly to escape to the hills of Karbi Anglong district when the park is flooded during the monsoon months.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Immediate intervention is therefore both necessary and imperative,” Mr.",
+          "vocabList": [
+            "Environmental",
+            "Activist",
+            "Reminded",
+            "Constituted",
+            "Empowered",
+            "Continue"
+          ],
+          "summary": "An eastern Assam-based environmental activist has reminded the Supreme Court–constituted Central Empowered Committee (CEC) to continue construction activities on the wildlife corridors of Kaziranga National Park and Tiger Reserve.",
+          "keyPoints": "• An eastern Assam-based environmental activist has reminded the Supreme Court–constituted Central Empowered Committee (CEC) to continue construction activities on the wildlife corridors of Kaziranga National Park and Tiger Reserve.<br>• Kaziranga has nine notified wildlife corridors and several dandis or animal pathways. Animals use these corridors and dandis mostly to escape to the hills of Karbi Anglong district when the park is flooded during the monsoon months.<br>• In a letter to the CEC’s Member-Secretary on November 16, Rohit Choudhury said he had brought such construction activities to the notice of the Committee on May 11. He lamented the lack of action against these activities, violating the Supreme Court’s April 2019 order."
+        },
         {
           "category": "national",
           "categoryLabel": "🏛️ National & Polity",
@@ -1078,61 +1142,6 @@
           ],
           "summary": "The witness examination in the alleged human sacrifice case in Elanthoor, Pathanamthitta, is nearing its final stage.",
           "keyPoints": "• The witness examination in the alleged human sacrifice case in Elanthoor, Pathanamthitta, is nearing its final stage.<br>• The trial, which got under way at the Ernakulam Additional Sessions Court in March, is expected to be completed by February 2027.<br>• The investigating officers, forensic experts, and other key witnesses remain to be examined."
-        },
-        {
-          "category": "national",
-          "categoryLabel": "🏛️ National & Polity",
-          "title": "Convocation ceremony row: Maharaja’s College council asks suspended students to accept their mistake",
-          "link": "https://www.thehindu.com/news/national/kerala/convocation-ceremony-row-maharajas-college-council-asks-suspended-students-to-accept-their-mistake/article71713079.ece",
-          "pubDate": "Wed, 18 Nov 2026 01:42:21 +0530",
-          "dateIso": "2026-11-18",
-          "dateDisplay": "18 Nov 2026",
-          "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
-          "imageUrl": "https://th-i.thgim.com/public/incoming/1tpq2l/article71713472.ece/alternates/LANDSCAPE_1200/College01.jpg",
-          "fullParagraphs": [
-            "A meeting of the council of Maharaja’s College, Kochi, held on Tuesday accepted an inquiry committee report that indicted activists of the Students’ Federation of India (SFI) for disrupting a convocation ceremony attended by Minister for Higher Education Roji M. John on October 30.",
-            "The meeting recommended that V. Praneel Raj, chairperson, and Nafeesathul Misriya, vice-chairperson of the college union, who were suspended in connection with the incident on November 2, submit an apology admitting their mistake. The inquiry committee report found that the incident had caused disrepute to the image of the institution in the public domain, according to sources.",
-            "The council observed that it did not wish to initiate further disciplinary action against the students, but they need to accept their mistake. The meeting took note of the case registered by the police against 10 SFI activists booked in connection with the protest.",
-            "SFI activists staged the protest soon after the Minister completed his inaugural address at the convocation ceremony, seeking answers from him on the suspension of 16 students of Sree Sankaracharya University of Sanskrit, Kalady. The activists demanded that the Minister withdraw his alleged statements against those who were suspended for protesting against Vice-Chancellor Ciza Thomas. Following the protest, Mr. John had to leave the function midway."
-          ],
-          "deepExplanation": "<strong>1. Core Context & Background:</strong> A meeting of the council of Maharaja’s College, Kochi, held on Tuesday accepted an inquiry committee report that indicted activists of the Students’ Federation of India (SFI) for disrupting a convocation ceremony attended by Minister for Higher Education Roji M.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Praneel Raj, chairperson, and Nafeesathul Misriya, vice-chairperson of the college union, who were suspended in connection with the incident on November 2, submit an apology admitting their mistake. The inquiry committee report found that the incident had caused disrepute to the image of the institution in the public domain, according to sources.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> John had to leave the function midway.",
-          "vocabList": [
-            "Maharaja",
-            "Accepted",
-            "Indicted",
-            "Activists",
-            "Students",
-            "Federation"
-          ],
-          "summary": "A meeting of the council of Maharaja’s College, Kochi, held on Tuesday accepted an inquiry committee report that indicted activists of the Students’ Federation of India (SFI) for disrupting a convocation ceremony attended by Minister for Higher Education Roji M. John on October 30.",
-          "keyPoints": "• A meeting of the council of Maharaja’s College, Kochi, held on Tuesday accepted an inquiry committee report that indicted activists of the Students’ Federation of India (SFI) for disrupting a convocation ceremony attended by Minister for Higher Education Roji M. John on October 30.<br>• The meeting recommended that V. Praneel Raj, chairperson, and Nafeesathul Misriya, vice-chairperson of the college union, who were suspended in connection with the incident on November 2, submit an apology admitting their mistake. The inquiry committee report found that the incident had caused disrepute to the image of the institution in the public domain, according to sources.<br>• The council observed that it did not wish to initiate further disciplinary action against the students, but they need to accept their mistake. The meeting took note of the case registered by the police against 10 SFI activists booked in connection with the protest."
-        },
-        {
-          "category": "national",
-          "categoryLabel": "🏛️ National & Polity",
-          "title": "Kochi woman loses ₹90,000 in credit card activation scam",
-          "link": "https://www.thehindu.com/news/national/kerala/kochi-woman-loses-90000-in-credit-card-activation-scam/article71711687.ece",
-          "pubDate": "Wed, 18 Nov 2026 01:34:19 +0530",
-          "dateIso": "2026-11-18",
-          "dateDisplay": "18 Nov 2026",
-          "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
-          "imageUrl": "https://th-i.thgim.com/public/incoming/d49vvd/article71713470.ece/alternates/LANDSCAPE_1200/iStock-1557556005.jpg",
-          "fullParagraphs": [
-            "The Kochi City cyber police have registered a case after a 36-year-old woman was allegedly cheated of nearly ₹90,000 on the pretext of activating a credit card.",
-            "The complainant, a resident of Mulavukad, was allegedly cheated by an unidentified person who contacted her over the phone, promising to activate a credit card issued by a private sector bank. On November 2, the accused convinced her to share a one-time password (OTP) to activate the card using another credit card she owns. She lost ₹49,440 after sharing the OTP. Two days later, the accused contacted the woman again and asked her to share another OTP to credit the amount debited earlier back to her card. This time, she was duped of ₹40,464.",
-            "The police have registered a case of cheating under Section 318 of the Bharatiya Nyaya Sanhita."
-          ],
-          "deepExplanation": "<strong>1. Core Context & Background:</strong> The Kochi City cyber police have registered a case after a 36-year-old woman was allegedly cheated of nearly ₹90,000 on the pretext of activating a credit card.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> The complainant, a resident of Mulavukad, was allegedly cheated by an unidentified person who contacted her over the phone, promising to activate a credit card issued by a private sector bank. On November 2, the accused convinced her to share a one-time password (OTP) to activate the card using another credit card she owns.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> The police have registered a case of cheating under Section 318 of the Bharatiya Nyaya Sanhita.",
-          "vocabList": [
-            "Registered",
-            "Allegedly",
-            "Activating",
-            "Complainant",
-            "Resident",
-            "Mulavukad"
-          ],
-          "summary": "The Kochi City cyber police have registered a case after a 36-year-old woman was allegedly cheated of nearly ₹90,000 on the pretext of activating a credit card.",
-          "keyPoints": "• The Kochi City cyber police have registered a case after a 36-year-old woman was allegedly cheated of nearly ₹90,000 on the pretext of activating a credit card.<br>• The complainant, a resident of Mulavukad, was allegedly cheated by an unidentified person who contacted her over the phone, promising to activate a credit card issued by a private sector bank. On November 2, the accused convinced her to share a one-time password (OTP) to activate the card using another credit card she owns. She lost ₹49,440 after sharing the OTP. Two days later, the accused contacted the woman again and asked her to share another OTP to credit the amount debited earlier back to her card. This time, she was duped of ₹40,464.<br>• The police have registered a case of cheating under Section 318 of the Bharatiya Nyaya Sanhita."
         },
         {
           "category": "economy",
@@ -1321,6 +1330,71 @@
         {
           "category": "ir",
           "categoryLabel": "🌐 International Relations",
+          "title": "Russian military transport plane crashes in Siberia, killing 19: Defence Ministry",
+          "link": "https://www.thehindu.com/news/international/several-dead-after-russian-military-transport-plane-crashes-in-siberia/article71713626.ece",
+          "pubDate": "Wed, 18 Nov 2026 04:09:31 +0530",
+          "dateIso": "2026-11-18",
+          "dateDisplay": "18 Nov 2026",
+          "examRelevance": "GS Paper-II & Current Affairs: Bilateral Agreements, Foreign Visits & UN/G20/BRICS",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/maecpj/article71713628.ece/alternates/LANDSCAPE_1200/2026-11-17T183007Z_1896887606_RC2UPOAT81QH_RTRMADP_3_RUSSIA-PLANE.JPG",
+          "fullParagraphs": [
+            "A Russian military transport plane crashed in western Siberia on Tuesday (November 17, 2026), killing all 19 people on board, the Defence Ministry said. Preliminary findings pointed to equipment failure.",
+            "The An-12 aircraft went down in an unpopulated area near the city of Kemerovo, about 3,000 kilometres (about 1,860 miles) east of Moscow. Air force experts were investigating the cause of the crash. The An-12 typically has a crew of six.",
+            "Kemerovo Gov. Ilya Serdyuk said the plane crashed near the village of Yagunovo, which is close to Kemerovo airport. “Emergency responders put out a fire on the site of the crash,” he said.",
+            "The Investigative Committee, the country’s top criminal investigation agency, launched an inquiry into possible violations of flight safety rules, a standard practice following crashes.",
+            "The An-12 is a Soviet-built four-engine turboprop transport plane that has been in service since the late 1950s. Over 1,000 were built and some still remain in operation in Russia and other nations."
+          ],
+          "deepExplanation": "<strong>1. Core Context & Background:</strong> A Russian military transport plane crashed in western Siberia on Tuesday (November 17, 2026), killing all 19 people on board, the Defence Ministry said.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Preliminary findings pointed to equipment failure. The An-12 aircraft went down in an unpopulated area near the city of Kemerovo, about 3,000 kilometres (about 1,860 miles) east of Moscow.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Over 1,000 were built and some still remain in operation in Russia and other nations.",
+          "vocabList": [
+            "Military",
+            "Transport",
+            "November",
+            "Ministry",
+            "Preliminary",
+            "Findings"
+          ],
+          "summary": "A Russian military transport plane crashed in western Siberia on Tuesday (November 17, 2026), killing all 19 people on board, the Defence Ministry said. Preliminary findings pointed to equipment failure.",
+          "keyPoints": "• A Russian military transport plane crashed in western Siberia on Tuesday (November 17, 2026), killing all 19 people on board, the Defence Ministry said. Preliminary findings pointed to equipment failure.<br>• The An-12 aircraft went down in an unpopulated area near the city of Kemerovo, about 3,000 kilometres (about 1,860 miles) east of Moscow. Air force experts were investigating the cause of the crash. The An-12 typically has a crew of six.<br>• Kemerovo Gov. Ilya Serdyuk said the plane crashed near the village of Yagunovo, which is close to Kemerovo airport. “Emergency responders put out a fire on the site of the crash,” he said."
+        },
+        {
+          "category": "ir",
+          "categoryLabel": "🌐 International Relations",
+          "title": "U.K. hands NATO-assigned American soldier accused of Russia spying to U.S.",
+          "link": "https://www.thehindu.com/news/international/american-soldier-accused-of-russia-spying/article71713619.ece",
+          "pubDate": "Wed, 18 Nov 2026 03:50:14 +0530",
+          "dateIso": "2026-11-18",
+          "dateDisplay": "18 Nov 2026",
+          "examRelevance": "GS Paper-II & Current Affairs: Bilateral Agreements, Foreign Visits & UN/G20/BRICS",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/sxmw0p/article71713621.ece/alternates/LANDSCAPE_1200/AFP__20261111__D7787CJ__v1__HighRes__BritainUsRussiaMilitaryDefenceArrest.jpg",
+          "fullParagraphs": [
+            "A senior American soldier assigned to NATO who was arrested in Britain last week on suspicion of spying for Russia has been transferred to U.S. military custody, U.K. police said on Tuesday (November 17, 2026).",
+            "The espionage case, the latest involving suspected Kremlin agents in Britain and elsewhere in Europe, comes amid heightened tensions between Moscow and various European capitals after Russia’s 2022 full-scale invasion of Ukraine.",
+            "It also follows recent security scares at two British air force bases hosting the U.S. military, with officials accusing Iran of involvement in plots to target them.",
+            "A U.S. Army official has named the detained soldier as 41-year-old Lieutenant Colonel Brandon Tyner.",
+            "Held in British police custody since his November 10 arrest near Gloucester, southwest England, he was handed to the US military “over suspected national security and espionage allegations”, U.K. Counter Terrorism Policing said.",
+            "Assistant Commissioner Laurence Taylor said the decision to “pass the investigation to them to progress” followed an extensive probe by his counter-terror unit and subsequent discussions between British prosecutors and “American partners”.",
+            "FBI Director Kash Patel said in a statement that the unnamed Army officer was in U.S. custody after “an espionage investigation”.",
+            "He noted it had involved “close cooperation” between the FBI’s Philadelphia field office and various other US and UK law enforcement and intelligence agencies.",
+            "“Together we worked to identify a potential threat to national security and take swift action,” Mr. Patel added.",
+            "A senior NATO military official last week confirmed that the arrested soldier had been assigned to its Allied Rapid Reaction Corps (ARRC), the alliance’s 20-nation, high-readiness force led by the British Army.",
+            "Based at Imjin Barracks near Gloucester, it can deploy at short notice anywhere in Europe or globally under the direct operational command of NATO’s Supreme Allied Commander Europe.",
+            "Imjin is also just a few miles from the U.K.’s highly sensitive GCHQ intelligence, security and cyber agency headquarters."
+          ],
+          "deepExplanation": "<strong>1. Core Context & Background:</strong> A senior American soldier assigned to NATO who was arrested in Britain last week on suspicion of spying for Russia has been transferred to U.S.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> police said on Tuesday (November 17, 2026). The espionage case, the latest involving suspected Kremlin agents in Britain and elsewhere in Europe, comes amid heightened tensions between Moscow and various European capitals after Russia’s 2022 full-scale invasion of Ukraine.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Imjin is also just a few miles from the U.K.’s highly sensitive GCHQ intelligence, security and cyber agency headquarters.",
+          "vocabList": [
+            "American",
+            "Assigned",
+            "Arrested",
+            "Suspicion",
+            "Transferred",
+            "Military"
+          ],
+          "summary": "A senior American soldier assigned to NATO who was arrested in Britain last week on suspicion of spying for Russia has been transferred to U.S. military custody, U.K. police said on Tuesday (November 17, 2026).",
+          "keyPoints": "• A senior American soldier assigned to NATO who was arrested in Britain last week on suspicion of spying for Russia has been transferred to U.S. military custody, U.K. police said on Tuesday (November 17, 2026).<br>• The espionage case, the latest involving suspected Kremlin agents in Britain and elsewhere in Europe, comes amid heightened tensions between Moscow and various European capitals after Russia’s 2022 full-scale invasion of Ukraine.<br>• It also follows recent security scares at two British air force bases hosting the U.S. military, with officials accusing Iran of involvement in plots to target them."
+        },
+        {
+          "category": "ir",
+          "categoryLabel": "🌐 International Relations",
           "title": "All-too fallible: On India’s vote against moratorium on death penalty",
           "link": "https://www.thehindu.com/opinion/editorial/the-hindu-editorial-on-indias-vote-against-moratorium-on-death-penalty/article71713256.ece",
           "pubDate": "Tue, 17 Nov 2026 23:56:51 +0530",
@@ -1454,81 +1528,71 @@
           "keyPoints": "• NATO allies will discuss Washington’s review of U.S. troop levels in ​Europe with Pentagon policy chief Elbridge Colby on Tuesday (November 17, 2026), German Defence ⁠Minister Boris Pistorius said, with more clarity on the scope of any drawdown expected within weeks.<br>• U.S. Defense Secretary Pete Hegseth unveiled the six-month review in June and threatened to withhold some ‌U.S. dues to NATO if “free riding” allies fell short of defence spending commitments.<br>• He did not explicitly say the review could lead to cuts ‌in the 80,000 U.S. troops deployed to Europe, but stressed the goal of ‌prompting ⁠the continent to do more while enabling the U.S. military to ⁠meet global commitments."
         },
         {
-          "category": "ir",
-          "categoryLabel": "🌐 International Relations",
-          "title": "Nabeel Rajab, prominent Bahraini human rights activist, dies at 62",
-          "link": "https://www.thehindu.com/news/international/nabeel-rajab-prominent-bahraini-human-rights-activist-dies-at-62/article71713180.ece",
-          "pubDate": "Tue, 17 Nov 2026 23:27:24 +0530",
+          "category": "scitech",
+          "categoryLabel": "🚀 Science, Tech & Environment",
+          "title": "Construction activities on Kaziranga wildlife corridors flagged",
+          "link": "https://www.thehindu.com/news/national/assam/construction-activities-on-kaziranga-wildlife-corridors-flagged/article71713607.ece",
+          "pubDate": "Wed, 18 Nov 2026 03:14:11 +0530",
           "dateIso": "2026-11-18",
           "dateDisplay": "18 Nov 2026",
-          "examRelevance": "GS Paper-II & Current Affairs: Bilateral Agreements, Foreign Visits & UN/G20/BRICS",
-          "imageUrl": "https://th-i.thgim.com/public/incoming/rws2v6/article71713306.ece/alternates/LANDSCAPE_1200/Bahrain_33_84.jpg",
+          "examRelevance": "GS Paper-III & Prelims: ISRO/NASA Missions, Defense Updates, Tech & Climate Reports",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/vyxyko/article71713610.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-11-16%20at%207.00.14%20PM.jpeg",
           "fullParagraphs": [
-            "Nabeel Rajab, a prominent democracy activist in Bahrain who helped lead the island nation's 2011 protests known across the wider region as the Arab Spring and who spent years in prison for challenging its monarchy, died on Tuesday (November 17, 2026). He was 62.",
-            "His family found him unresponsive at their home in Turkey on Tuesday (November 17, 2026) morning, activists said. The Bahrain Center for Human Rights, which Rajab once led as president, confirmed his death in a post on X.",
-            "\"We extend our sincere condolences and heartfelt sympathy to his esteemed family. We pray that God may encompass him with his vast mercy and reward him abundantly for his efforts and contributions,\" the group wrote.",
-            "Ebrahim Sharif, an activist who was a close friend of the family, said Rajab's wife and daughter found him unresponsive early in the morning at their home in Turkey. He said he had spoken to Rajab's brother and that the family believed Rajab likely died of a heart attack.",
-            "Rajab left Bahrain early in the Iran war, as authorities cracked down on Shia-led protests throughout the Gulf island kingdom, home to the U.S. Navy's Fifth Fleet. Rajab accused the government of torturing an imprisoned activist and feared he would be arrested if he returned, he told The Associated Press at the time.",
-            "Rajab rose to international prominence in 2011, as the Arab Spring uprising swept the region and demonstrations erupted in Bahrain's capital, Manama. He was a pivotal figure in the protest movement, during which the country's majority Shiite population demanded the ruling Sunni monarchy offer them greater political freedoms. As president of the Bahrain Centre for Human Rights, he advocated for expanding the powers of Bahrain's parliament, ensuring freedom of expression and fighting anti-Shia discrimination.",
-            "Bahraini authorities, backed by Saudi troops, arrested scores of demonstrators and crushed the protests, while ultimately introducing limited political reforms.",
-            "He was imprisoned on multiple occasions in the years following the unrest. His longest stretch behind bars began in June 2016. He was eventually released in June of 2020 during the coronavirus pandemic, though he was ordered to spend the remaining time in home detention.",
-            "At the time, he had been serving a five-year sentence over tweets criticising the Saudi-led war in Yemen and alleging prison abuse. He had also been sentenced to two years over comments deemed critical of Bahrain.",
-            "Rajab had a history of heart issues. During one of his earlier detentions, he received treatment for an irregular heartbeat. He separately received a pardon from King Hamad bin Isa Al Khalifa in 2015, after concerns emerged about Rajab's health."
+            "An eastern Assam-based environmental activist has reminded the Supreme Court–constituted Central Empowered Committee (CEC) to continue construction activities on the wildlife corridors of Kaziranga National Park and Tiger Reserve.",
+            "Kaziranga has nine notified wildlife corridors and several dandis or animal pathways. Animals use these corridors and dandis mostly to escape to the hills of Karbi Anglong district when the park is flooded during the monsoon months.",
+            "In a letter to the CEC’s Member-Secretary on November 16, Rohit Choudhury said he had brought such construction activities to the notice of the Committee on May 11. He lamented the lack of action against these activities, violating the Supreme Court’s April 2019 order.",
+            "“We order that all kinds of mining and related activities along the aforesaid Kaziranga National Park area and in the entire catchment area of rivers, streams and rivulets originating in the Karbi Anglong Hill ranges and flowing into Kaziranga National Park, including the Tiger Reserve, are restrained. No new construction shall be permitted on private lands which form part of the nine identified animal corridors,” the apex court’s order read.",
+            "“Despite this clear and categorical prohibition, the Government of Assam has displayed a disturbing disregard for the mandate of the Supreme Court by permitting and facilitating unlawful construction activities within these ecologically sensitive wildlife corridors,” Mr. Choudhury wrote.",
+            "He reminded the CEC of photographic evidence of a building under construction on the Haldhibari Wildlife Corridor attached to his May 11 letter. “The construction activity was allowed to proceed unabated and has now reached an advanced stage of completion,” he wrote, attaching recent photographs of the construction site.",
+            "Mr. Choudhury said the CEC’s inability to take up the matter six months ago “effectively afforded the concerned authorities sufficient time to continue and substantially complete the illegal construction”.",
+            "He said such delays in addressing matters of grave environmental significance seriously undermine the purpose and efficacy of the CEC’s mandate.",
+            "The activist further said the Assam Government did not inform the Supreme Court of any instance of violation of its April 12, 2019, order for necessary action.",
+            "“This persistent failure of enforcement has emboldened continued violations and weakened the protection envisaged by the Supreme Court,” he said, urging the CEC to recommend contempt proceedings against the officials responsible for permitting, facilitating or failing to prevent these blatant violations of the court’s binding directions.",
+            "“The matter concerns not merely a breach of judicial orders but the continued degradation of one of India’s most treasured ecological landscapes and a globally recognised natural heritage site. Immediate intervention is therefore both necessary and imperative,” Mr. Choudhury wrote."
           ],
-          "deepExplanation": "<strong>1. Core Context & Background:</strong> Nabeel Rajab, a prominent democracy activist in Bahrain who helped lead the island nation's 2011 protests known across the wider region as the Arab Spring and who spent years in prison for challenging its monarchy, died on Tuesday (November 17, 2026).<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> His family found him unresponsive at their home in Turkey on Tuesday (November 17, 2026) morning, activists said. The Bahrain Center for Human Rights, which Rajab once led as president, confirmed his death in a post on X.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> He separately received a pardon from King Hamad bin Isa Al Khalifa in 2015, after concerns emerged about Rajab's health.",
+          "deepExplanation": "<strong>1. Core Context & Background:</strong> An eastern Assam-based environmental activist has reminded the Supreme Court–constituted Central Empowered Committee (CEC) to continue construction activities on the wildlife corridors of Kaziranga National Park and Tiger Reserve.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Kaziranga has nine notified wildlife corridors and several dandis or animal pathways. Animals use these corridors and dandis mostly to escape to the hills of Karbi Anglong district when the park is flooded during the monsoon months.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Immediate intervention is therefore both necessary and imperative,” Mr.",
           "vocabList": [
-            "Prominent",
-            "Democracy",
+            "Environmental",
             "Activist",
-            "Protests",
-            "Challenging",
-            "Monarchy"
+            "Reminded",
+            "Constituted",
+            "Empowered",
+            "Continue"
           ],
-          "summary": "Nabeel Rajab, a prominent democracy activist in Bahrain who helped lead the island nation's 2011 protests known across the wider region as the Arab Spring and who spent years in prison for challenging its monarchy, died on Tuesday (November 17, 2026). He was 62.",
-          "keyPoints": "• Nabeel Rajab, a prominent democracy activist in Bahrain who helped lead the island nation's 2011 protests known across the wider region as the Arab Spring and who spent years in prison for challenging its monarchy, died on Tuesday (November 17, 2026). He was 62.<br>• His family found him unresponsive at their home in Turkey on Tuesday (November 17, 2026) morning, activists said. The Bahrain Center for Human Rights, which Rajab once led as president, confirmed his death in a post on X.<br>• \"We extend our sincere condolences and heartfelt sympathy to his esteemed family. We pray that God may encompass him with his vast mercy and reward him abundantly for his efforts and contributions,\" the group wrote."
+          "summary": "An eastern Assam-based environmental activist has reminded the Supreme Court–constituted Central Empowered Committee (CEC) to continue construction activities on the wildlife corridors of Kaziranga National Park and Tiger Reserve.",
+          "keyPoints": "• An eastern Assam-based environmental activist has reminded the Supreme Court–constituted Central Empowered Committee (CEC) to continue construction activities on the wildlife corridors of Kaziranga National Park and Tiger Reserve.<br>• Kaziranga has nine notified wildlife corridors and several dandis or animal pathways. Animals use these corridors and dandis mostly to escape to the hills of Karbi Anglong district when the park is flooded during the monsoon months.<br>• In a letter to the CEC’s Member-Secretary on November 16, Rohit Choudhury said he had brought such construction activities to the notice of the Committee on May 11. He lamented the lack of action against these activities, violating the Supreme Court’s April 2019 order."
         },
         {
-          "category": "ir",
-          "categoryLabel": "🌐 International Relations",
-          "title": "Iran targets Bahrain, slams 'fabricated' dirty-bomb report",
-          "link": "https://www.thehindu.com/news/international/iran-targets-bahrain-slams-fabricated-dirty-bomb-report/article71713177.ece",
-          "pubDate": "Tue, 17 Nov 2026 23:16:56 +0530",
+          "category": "scitech",
+          "categoryLabel": "🚀 Science, Tech & Environment",
+          "title": "Why frontline experience and operational research need to come together in the health sector",
+          "link": "https://www.thehindu.com/opinion/op-ed/why-frontline-experience-and-operational-research-need-to-come-together-in-the-health-sector/article71711604.ece",
+          "pubDate": "Wed, 18 Nov 2026 01:38:55 +0530",
           "dateIso": "2026-11-18",
           "dateDisplay": "18 Nov 2026",
-          "examRelevance": "GS Paper-II & Current Affairs: Bilateral Agreements, Foreign Visits & UN/G20/BRICS",
-          "imageUrl": "https://th-i.thgim.com/public/incoming/tj7g64/article71713259.ece/alternates/LANDSCAPE_1200/AFP_D7PJ9J2.jpg",
+          "examRelevance": "GS Paper-III & Prelims: ISRO/NASA Missions, Defense Updates, Tech & Climate Reports",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/nffbji/article71711609.ece/alternates/LANDSCAPE_1200/HEALTH%20MEDICAL%20MAKKALAI%20THEDI%20MARUTHUVAM%20DOORSTEP%20OF%20THE%20PEOPLE_01.jpg",
           "fullParagraphs": [
-            "Iran launched a fresh drone attack against Bahrain on Tuesday (November 17, 2026) and dismissed a report alleging a dirty-bomb plot against the United States, which President Donald Trump said he took \"very seriously\".",
-            "Mediator Qatar urged \"all parties\" to show restraint following an uptick in hostilities, with Bahrain targeted three times in five days after a lull in Iranian attacks on Gulf countries since September.",
-            "Mr. Trump was speaking after CNN cited seven anonymous U.S. officials as saying Iran was plotting to target senior administration figures with a \"dirty\" bomb, laced with chemical or radioactive materials.",
-            "\"If there is [such a threat], they will pay a price the likes of which no other country has ever paid before,\" Trump said after arriving for a summit in the Philippines.",
-            "\"I hope it's not, but we take it very seriously because they happen to be crazy.\"",
-            "Iran's Foreign Ministry spokesman Esmaeil Baqaei dismissed the report as \"fabricated\".",
-            "\"Those who initiated the aggression against Iran are now seeking to lay the media groundwork for their sinister designs by manufacturing and disseminating baseless allegations\" including \"the fabricated media narrative surrounding an alleged 'dirty bomb' propagated by CNN\", he posted on X.",
-            "Mr. Baqaei also criticised a New York Times report questioning whether Iranian dams and water projects had military uses.",
-            "Earlier on Tuesday (November 17, 2026), explosions boomed across Bahrain's capital as a mobile-phone alert warned residents to seek safety.",
-            "Bahrain's armed forces said they \"confronted, intercepted and destroyed a number of treacherous Iranian aerial attacks today... before they could achieve their objectives\", while Iran's Revolutionary Guards said they targeted a U.S.-operated radar system.",
-            "\"Combat drones belonging to the Revolutionary Guards carried out a precision operation this morning, targeting a radar system operated by US forces at the Sheikh Isa Air Base in Bahrain,\" the Guards' Sepah news website said.",
-            "The attack was in response to the \"repeated violations of Iranian airspace by US military drones\", it added. The Guards also said they had intercepted and captured a US drone south of Qeshm island in the Strait of Hormuz."
+            "The road to the village floods for four months every year. While a pregnant woman is put into an ambulance, the hospital has no surgeon on duty. In a semi-permanent ward, a health worker follows a protocol designed for a tertiary hospital that bears little resemblance to the conditions in which they work."
           ],
-          "deepExplanation": "<strong>1. Core Context & Background:</strong> Iran launched a fresh drone attack against Bahrain on Tuesday (November 17, 2026) and dismissed a report alleging a dirty-bomb plot against the United States, which President Donald Trump said he took \"very seriously\".<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Mediator Qatar urged \"all parties\" to show restraint following an uptick in hostilities, with Bahrain targeted three times in five days after a lull in Iranian attacks on Gulf countries since September. Trump was speaking after CNN cited seven anonymous U.S.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> The Guards also said they had intercepted and captured a US drone south of Qeshm island in the Strait of Hormuz.",
+          "deepExplanation": "<strong>1. Core Context & Background:</strong> The road to the village floods for four months every year.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> While a pregnant woman is put into an ambulance, the hospital has no surgeon on duty. In a semi-permanent ward, a health worker follows a protocol designed for a tertiary hospital that bears little resemblance to the conditions in which they work.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> In a semi-permanent ward, a health worker follows a protocol designed for a tertiary hospital that bears little resemblance to the conditions in which they work.",
           "vocabList": [
-            "Launched",
-            "November",
-            "Dismissed",
-            "Alleging",
-            "President",
-            "Seriously"
+            "Pregnant",
+            "Ambulance",
+            "Hospital",
+            "Permanent",
+            "Protocol",
+            "Designed"
           ],
-          "summary": "Iran launched a fresh drone attack against Bahrain on Tuesday (November 17, 2026) and dismissed a report alleging a dirty-bomb plot against the United States, which President Donald Trump said he took \"very seriously\".",
-          "keyPoints": "• Iran launched a fresh drone attack against Bahrain on Tuesday (November 17, 2026) and dismissed a report alleging a dirty-bomb plot against the United States, which President Donald Trump said he took \"very seriously\".<br>• Mediator Qatar urged \"all parties\" to show restraint following an uptick in hostilities, with Bahrain targeted three times in five days after a lull in Iranian attacks on Gulf countries since September.<br>• Mr. Trump was speaking after CNN cited seven anonymous U.S. officials as saying Iran was plotting to target senior administration figures with a \"dirty\" bomb, laced with chemical or radioactive materials."
+          "summary": "The road to the village floods for four months every year. While a pregnant woman is put into an ambulance, the hospital has no surgeon on duty. In a semi-permanent ward, a health worker follows a protocol designed for a tertiary hospital that bears little resemblance to the conditions in which they work.",
+          "keyPoints": "• The road to the village floods for four months every year. While a pregnant woman is put into an ambulance, the hospital has no surgeon on duty. In a semi-permanent ward, a health worker follows a protocol designed for a tertiary hospital that bears little resemblance to the conditions in which they work."
         },
         {
           "category": "scitech",
           "categoryLabel": "🚀 Science, Tech & Environment",
           "title": "Earthshot Prize: Climate action needs innovation, global cooperation, say leaders on green carpet in Mumbai",
           "link": "https://www.thehindu.com/news/national/earthshot-prize-climate-action-needs-innovation-global-cooperation-say-leaders-on-green-carpet-in-mumbai/article71713406.ece",
-          "pubDate": "Wed, 18 Nov 2026 01:09:36 +0530",
+          "pubDate": "Wed, 18 Nov 2026 01:19:26 +0530",
           "dateIso": "2026-11-18",
           "dateDisplay": "18 Nov 2026",
           "examRelevance": "GS Paper-III & Prelims: ISRO/NASA Missions, Defense Updates, Tech & Climate Reports",
@@ -1637,78 +1701,6 @@
           ],
           "summary": "Parliament passed the Transgender Persons (Protection of Rights) Amendment Act, 2026 earlier this year. The new Act represents a significant shift from the Transgender Persons (Protection of Rights) Act, 2019. The 2026 amendment removes the principle of self-identification and demands a medical board’s recommendation; a selection from prescribed categories; and certification by a District Magistrate. It fundamentally changes legal recognition for transgender persons from self-identification to medical assessment. While the 2026 Act does increase protection, it changes the philosophical foundation of transgender rights — from recognition based substantially on autonomy and self-identification towards recognition mediated by medical and administrative authorities.",
           "keyPoints": "• Parliament passed the Transgender Persons (Protection of Rights) Amendment Act, 2026 earlier this year. The new Act represents a significant shift from the Transgender Persons (Protection of Rights) Act, 2019. The 2026 amendment removes the principle of self-identification and demands a medical board’s recommendation; a selection from prescribed categories; and certification by a District Magistrate. It fundamentally changes legal recognition for transgender persons from self-identification to medical assessment. While the 2026 Act does increase protection, it changes the philosophical foundation of transgender rights — from recognition based substantially on autonomy and self-identification towards recognition mediated by medical and administrative authorities.<br>• The definition of “transgender” as introduced in the Amendment Act is in contradiction to established international evidence and guidelines laid down in the World Health Organization ICD-11 and the World Professional Association for Transgender Health Standards of Care Version 8.<br>• transgender / healthcare policy / gender / welfare / society"
-        },
-        {
-          "category": "scitech",
-          "categoryLabel": "🚀 Science, Tech & Environment",
-          "title": "Prince William says Gen Z is the torchbearer of the global movement for change",
-          "link": "https://www.thehindu.com/news/national/maharashtra/prince-william-says-gen-z-is-the-torchbearer-of-the-global-movement-for-change/article71713218.ece",
-          "pubDate": "Wed, 18 Nov 2026 00:02:26 +0530",
-          "dateIso": "2026-11-18",
-          "dateDisplay": "18 Nov 2026",
-          "examRelevance": "GS Paper-III & Prelims: ISRO/NASA Missions, Defense Updates, Tech & Climate Reports",
-          "imageUrl": "https://th-i.thgim.com/public/incoming/ud2j93/article71713308.ece/alternates/LANDSCAPE_1200/11908_17_11_2026_20_44_17_1_DSC_2129.JPEG",
-          "fullParagraphs": [
-            "Young people from around the world are not waiting for someone else to find the solution, they are the torchbearers of the global movement for change, Britain’s Prince William said in Mumbai on Tuesday (November 17, 2026).",
-            "He was speaking at the 2026 Earthshot Prize Awards Ceremony, which was held in India for the first time.",
-            "“India is a nation of extraordinary innovation, ambition, facing immense environmental pressures, yet moving ahead with determination. Not because the challenge is simple, not because the path is easy. But because millions of people have decided that progress simply cannot wait,” said Prince William.",
-            "Winners of the Earthshot Prize award were declared under five categories in a glittering ceremony. The awardees include the Himalayan Kingdom of Bhutan and Mahindra Last Mile Mobility.",
-            "“They [Gen Z] are bringing fresh ideas and showing what is possible when optimism is matched with action. Their ideas, their energy, and their determination are helping to shape the future,” he said.",
-            "During his address, Prince William reflected on the achievements of this year’s finalists and the growing global movement behind environmental innovation.",
-            "The ceremony was attended by environmental innovators, philanthropists, business leaders, government representatives and global figures from sport, entertainment and culture.",
-            "Mahindra Last Mile Mobility won the Earthshot Prize in the ‘Clean Our Air’ category. Accepting the award, the company’s CEO, Suman Mishra, said it showed how urgent optimism worked.",
-            "The company has won 1 million pounds for its efforts, due to which 33 per cent of India’s three-wheelers are now electric.",
-            "Prince Williams and Princess Catherine meet the winners of Earthshot Prize post the award ceremony in Mumbai on November 17, 2026. | Photo Credit: Emmanual Yogini",
-            "In the ‘Revive Our Oceans’ category, Niue Ocean Wide Trust was chosen for protecting the oceans, especially the vast Pacific region.",
-            "Coral Pasisi, vice chair and co-architect of Ocean Conservation Commitments, expressed gratitude for indigenous, people-led sustainability efforts being honoured."
-          ],
-          "deepExplanation": "<strong>1. Core Context & Background:</strong> Young people from around the world are not waiting for someone else to find the solution, they are the torchbearers of the global movement for change, Britain’s Prince William said in Mumbai on Tuesday (November 17, 2026).<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> He was speaking at the 2026 Earthshot Prize Awards Ceremony, which was held in India for the first time. “India is a nation of extraordinary innovation, ambition, facing immense environmental pressures, yet moving ahead with determination.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Coral Pasisi, vice chair and co-architect of Ocean Conservation Commitments, expressed gratitude for indigenous, people-led sustainability efforts being honoured.",
-          "vocabList": [
-            "Solution",
-            "Torchbearers",
-            "Movement",
-            "November",
-            "Speaking",
-            "Earthshot"
-          ],
-          "summary": "Young people from around the world are not waiting for someone else to find the solution, they are the torchbearers of the global movement for change, Britain’s Prince William said in Mumbai on Tuesday (November 17, 2026).",
-          "keyPoints": "• Young people from around the world are not waiting for someone else to find the solution, they are the torchbearers of the global movement for change, Britain’s Prince William said in Mumbai on Tuesday (November 17, 2026).<br>• He was speaking at the 2026 Earthshot Prize Awards Ceremony, which was held in India for the first time.<br>• “India is a nation of extraordinary innovation, ambition, facing immense environmental pressures, yet moving ahead with determination. Not because the challenge is simple, not because the path is easy. But because millions of people have decided that progress simply cannot wait,” said Prince William."
-        },
-        {
-          "category": "scitech",
-          "categoryLabel": "🚀 Science, Tech & Environment",
-          "title": "Ex-Nvidia CEO Jensen Huang acknowledges ‘mistakes,’ signals interest in return if company chooses",
-          "link": "https://www.thehindu.com/news/international/ex-nvidia-ceo-jensen-huang-acknowledges-mistakes-signals-interest-in-return-if-company-chooses/article71713348.ece",
-          "pubDate": "Tue, 17 Nov 2026 23:47:12 +0530",
-          "dateIso": "2026-11-18",
-          "dateDisplay": "18 Nov 2026",
-          "examRelevance": "GS Paper-III & Prelims: ISRO/NASA Missions, Defense Updates, Tech & Climate Reports",
-          "imageUrl": "https://th-i.thgim.com/public/incoming/62ck9x/article71713362.ece/alternates/LANDSCAPE_1200/2026-11-16T161231Z_1668403843_RC29TNAQ5GL0_RTRMADP_3_NVIDIA-CEO.JPG",
-          "fullParagraphs": [
-            "Former Nvidia CEO Jensen Huang has signalled his interest in returning to lead the AI computer chip company in his first public statement since he abruptly left the company last week following revelations of an extramarital affair with an alleged Chinese spy .",
-            "“If the Board of Directors decides that my return is in the best interest of our shareholders, our employees, the company, and America, I would be honoured to answer these calls and return as CEO,” he said in a social media post.",
-            "He acknowledged making “serious mistakes” in his personal life but said that he’s received an “outpouring” of support from employees, investors, business partners and customers for his return.",
-            "The statement comes after an online petition to reinstate Mr. Huang gathered more than 1,90,000 signatures, including from tech industry figures like SpaceX and Tesla CEO Elon Musk. President Donald Trump also endorsed the bid.",
-            "Nvidia did not immediately respond to a request for comment on Mr. Huang’s statement.",
-            "Also on Tuesday (November 17, 2026), key House lawmakers said that Mr. Huang has voluntarily agreed to appear for transcribed interviews as the chipmaker faces intensifying national scrutiny over sales of its advanced computer chips.",
-            "How Jensen Huang’s affair puts Nvidia and American AI at risk? (Recorded before his resignation) | In Focus Podcast",
-            "U.S. blocks China’s remote access to AI chips after Nvidia scandal; China slams move",
-            "U.S. Treasury chief Scott Bessent wants answers soon from Nvidia",
-            "Mr. Huang will appear before the committees on December 1, followed by the company’s general counsel, Tim Teter, on Dec. 2.",
-            "“We look forward to hearing from Jensen Huang and Tim Teter on their roles in a potential breach of our national security,” said a statement from the chairmen of three House committees with oversight of China and intelligence issues.",
-            "“The American people need answers on Mr. Huang and Nvidia’s role in allowing dangerous PRC actors to access our most advanced chips, as well as the role of a potential Chinese intelligence asset in this scandal,” the lawmakers said, referring to the People’s Republic of China."
-          ],
-          "deepExplanation": "<strong>1. Core Context & Background:</strong> Former Nvidia CEO Jensen Huang has signalled his interest in returning to lead the AI computer chip company in his first public statement since he abruptly left the company last week following revelations of an extramarital affair with an alleged Chinese spy .<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> “If the Board of Directors decides that my return is in the best interest of our shareholders, our employees, the company, and America, I would be honoured to answer these calls and return as CEO,” he said in a social media post. He acknowledged making “serious mistakes” in his personal life but said that he’s received an “outpouring” of support from employees, investors, business partners and customers for his return.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Huang and Nvidia’s role in allowing dangerous PRC actors to access our most advanced chips, as well as the role of a potential Chinese intelligence asset in this scandal,” the lawmakers said, referring to the People’s Republic of China.",
-          "vocabList": [
-            "Signalled",
-            "Interest",
-            "Returning",
-            "Computer",
-            "Abruptly",
-            "Following"
-          ],
-          "summary": "Former Nvidia CEO Jensen Huang has signalled his interest in returning to lead the AI computer chip company in his first public statement since he abruptly left the company last week following revelations of an extramarital affair with an alleged Chinese spy .",
-          "keyPoints": "• Former Nvidia CEO Jensen Huang has signalled his interest in returning to lead the AI computer chip company in his first public statement since he abruptly left the company last week following revelations of an extramarital affair with an alleged Chinese spy .<br>• “If the Board of Directors decides that my return is in the best interest of our shareholders, our employees, the company, and America, I would be honoured to answer these calls and return as CEO,” he said in a social media post.<br>• He acknowledged making “serious mistakes” in his personal life but said that he’s received an “outpouring” of support from employees, investors, business partners and customers for his return."
         },
         {
           "category": "editorial",
@@ -3816,169 +3808,169 @@
       "id": "gk_18 Nov 2026_1",
       "cat": "🏛️ National & Polity",
       "date": "18 Nov 2026",
-      "qEn": "[18 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"Pilgrims visiting the Kedarnath shrine generated 73 tonnes of waste during the 2026 Char Dham Yatra, more than three times the amo...\"?",
-      "qHi": "[18 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"Pilgrims visiting the Kedarnath shrine generated 73 tonnes of waste during the 2026 Char Dham Yatra, more than three times the amo...\"?",
-      "qMr": "[18 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"Pilgrims visiting the Kedarnath shrine generated 73 tonnes of waste during the 2026 Char Dham Yatra, more than three times the amo...\"?",
+      "qEn": "[18 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"Jharkhand Chief Electoral Officer (CEO) K. Ravi Kumar on Tuesday (November 17, 2026) appealed to all eligible Indian citizens in t...\"?",
+      "qHi": "[18 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"Jharkhand Chief Electoral Officer (CEO) K. Ravi Kumar on Tuesday (November 17, 2026) appealed to all eligible Indian citizens in t...\"?",
+      "qMr": "[18 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"Jharkhand Chief Electoral Officer (CEO) K. Ravi Kumar on Tuesday (November 17, 2026) appealed to all eligible Indian citizens in t...\"?",
       "optsEn": [
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "Jharkhand SIR: Final BLO meetings at poll stations on November 18",
         "15th Finance Commission Special State Grant",
-        "Kedarnath generates 73 tonnes of waste during 2026 Char Dham Yatra",
         "Inter-State Council Constitutional Review Panel"
       ],
       "optsHi": [
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "Jharkhand SIR: Final BLO meetings at poll stations on November 18",
         "15th Finance Commission Special State Grant",
-        "Kedarnath generates 73 tonnes of waste during 2026 Char Dham Yatra",
         "Inter-State Council Constitutional Review Panel"
       ],
       "optsMr": [
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "Jharkhand SIR: Final BLO meetings at poll stations on November 18",
         "15th Finance Commission Special State Grant",
-        "Kedarnath generates 73 tonnes of waste during 2026 Char Dham Yatra",
         "Inter-State Council Constitutional Review Panel"
       ],
-      "ans": 2,
-      "explanation": "<strong>1. Core Context & Background:</strong> Pilgrims visiting the Kedarnath shrine generated 73 tonnes of waste during the 2026 Char Dham Yatra, more than three times the amount recorded last year.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> The yatra, which ended on Monday (November 16, 2026) with the closure of the Badrinath shrine portals, witnessed a record 65.65 lakh pilgrims this year. According to data shared by the civic body at Kedarnath, the 73 tonnes of waste comprised plastic bottles, food packets, Tetra Pak, and cardboard.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> He stressed that Uttarakhand must move beyond the pursuit of record-breaking pilgrim numbers and focus on carrying capacity, pilgrim health, sustainability and the long-term future of the Char Dham Yatra."
+      "ans": 1,
+      "explanation": "<strong>1. Core Context & Background:</strong> Jharkhand Chief Electoral Officer (CEO) K.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Ravi Kumar on Tuesday (November 17, 2026) appealed to all eligible Indian citizens in the State to ensure their names are included in the electoral roll being published under the Special Intensive Revision (SIR). Speaking to the media in Ranchi, Mr.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Jharkhand / Special Intensive Revision of electoral rolls"
     },
     {
       "id": "gk_18 Nov 2026_2",
+      "cat": "🏛️ National & Polity",
+      "date": "18 Nov 2026",
+      "qEn": "[18 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"An eastern Assam-based environmental activist has reminded the Supreme Court–constituted Central Empowered Committee (CEC) to cont...\"?",
+      "qHi": "[18 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"An eastern Assam-based environmental activist has reminded the Supreme Court–constituted Central Empowered Committee (CEC) to cont...\"?",
+      "qMr": "[18 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"An eastern Assam-based environmental activist has reminded the Supreme Court–constituted Central Empowered Committee (CEC) to cont...\"?",
+      "optsEn": [
+        "Construction activities on Kaziranga wildlife corridors flagged",
+        "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "15th Finance Commission Special State Grant",
+        "Inter-State Council Constitutional Review Panel"
+      ],
+      "optsHi": [
+        "Construction activities on Kaziranga wildlife corridors flagged",
+        "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "15th Finance Commission Special State Grant",
+        "Inter-State Council Constitutional Review Panel"
+      ],
+      "optsMr": [
+        "Construction activities on Kaziranga wildlife corridors flagged",
+        "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "15th Finance Commission Special State Grant",
+        "Inter-State Council Constitutional Review Panel"
+      ],
+      "ans": 0,
+      "explanation": "<strong>1. Core Context & Background:</strong> An eastern Assam-based environmental activist has reminded the Supreme Court–constituted Central Empowered Committee (CEC) to continue construction activities on the wildlife corridors of Kaziranga National Park and Tiger Reserve.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Kaziranga has nine notified wildlife corridors and several dandis or animal pathways. Animals use these corridors and dandis mostly to escape to the hills of Karbi Anglong district when the park is flooded during the monsoon months.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Immediate intervention is therefore both necessary and imperative,” Mr."
+    },
+    {
+      "id": "gk_18 Nov 2026_3",
+      "cat": "🏛️ National & Polity",
+      "date": "18 Nov 2026",
+      "qEn": "[18 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"Pilgrims visiting the Kedarnath shrine generated 73 tonnes of waste during the 2026 Char Dham Yatra, more than three times the amo...\"?",
+      "qHi": "[18 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"Pilgrims visiting the Kedarnath shrine generated 73 tonnes of waste during the 2026 Char Dham Yatra, more than three times the amo...\"?",
+      "qMr": "[18 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"Pilgrims visiting the Kedarnath shrine generated 73 tonnes of waste during the 2026 Char Dham Yatra, more than three times the amo...\"?",
+      "optsEn": [
+        "Kedarnath generates 73 tonnes of waste during 2026 Char Dham Yatra",
+        "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "15th Finance Commission Special State Grant",
+        "Inter-State Council Constitutional Review Panel"
+      ],
+      "optsHi": [
+        "Kedarnath generates 73 tonnes of waste during 2026 Char Dham Yatra",
+        "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "15th Finance Commission Special State Grant",
+        "Inter-State Council Constitutional Review Panel"
+      ],
+      "optsMr": [
+        "Kedarnath generates 73 tonnes of waste during 2026 Char Dham Yatra",
+        "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "15th Finance Commission Special State Grant",
+        "Inter-State Council Constitutional Review Panel"
+      ],
+      "ans": 0,
+      "explanation": "<strong>1. Core Context & Background:</strong> Pilgrims visiting the Kedarnath shrine generated 73 tonnes of waste during the 2026 Char Dham Yatra, more than three times the amount recorded last year.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> The yatra, which ended on Monday (November 16, 2026) with the closure of the Badrinath shrine portals, witnessed a record 65.65 lakh pilgrims this year. According to data shared by the civic body at Kedarnath, the 73 tonnes of waste comprised plastic bottles, food packets, Tetra Pak, and cardboard.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> He stressed that Uttarakhand must move beyond the pursuit of record-breaking pilgrim numbers and focus on carrying capacity, pilgrim health, sustainability and the long-term future of the Char Dham Yatra."
+    },
+    {
+      "id": "gk_18 Nov 2026_4",
       "cat": "🏛️ National & Polity",
       "date": "18 Nov 2026",
       "qEn": "[18 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"Jammu and Kashmir Chief Minister Omar Abdullah on Tuesday (November 17, 2026) said that companies from the outside must hire local...\"?",
       "qHi": "[18 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"Jammu and Kashmir Chief Minister Omar Abdullah on Tuesday (November 17, 2026) said that companies from the outside must hire local...\"?",
       "qMr": "[18 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"Jammu and Kashmir Chief Minister Omar Abdullah on Tuesday (November 17, 2026) said that companies from the outside must hire local...\"?",
       "optsEn": [
-        "Won’t allow hiring of outsiders, hire locals: J&K CM Omar Abdullah to outside comp...",
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
         "15th Finance Commission Special State Grant",
+        "Won’t allow hiring of outsiders, hire locals: J&K CM Omar Abdullah to outside comp...",
         "Inter-State Council Constitutional Review Panel"
       ],
       "optsHi": [
-        "Won’t allow hiring of outsiders, hire locals: J&K CM Omar Abdullah to outside comp...",
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
         "15th Finance Commission Special State Grant",
+        "Won’t allow hiring of outsiders, hire locals: J&K CM Omar Abdullah to outside comp...",
         "Inter-State Council Constitutional Review Panel"
       ],
       "optsMr": [
-        "Won’t allow hiring of outsiders, hire locals: J&K CM Omar Abdullah to outside comp...",
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
         "15th Finance Commission Special State Grant",
+        "Won’t allow hiring of outsiders, hire locals: J&K CM Omar Abdullah to outside comp...",
         "Inter-State Council Constitutional Review Panel"
       ],
-      "ans": 0,
+      "ans": 2,
       "explanation": "<strong>1. Core Context & Background:</strong> Jammu and Kashmir Chief Minister Omar Abdullah on Tuesday (November 17, 2026) said that companies from the outside must hire locals and that hiring outsiders will not be allowed.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> “The excuse that trained youths are not available will not work. We will provide you (companies) six months or one year and prepare our youths.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> However, I am not someone who makes excuses based on the prevailing circumstances.”"
     },
     {
-      "id": "gk_18 Nov 2026_3",
+      "id": "gk_18 Nov 2026_5",
       "cat": "🏛️ National & Polity",
       "date": "18 Nov 2026",
       "qEn": "[18 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"A ruckus erupted between supporters of the Students’ Federation of India (SFI), the student wing of the Communist Party of India (...\"?",
       "qHi": "[18 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"A ruckus erupted between supporters of the Students’ Federation of India (SFI), the student wing of the Communist Party of India (...\"?",
       "qMr": "[18 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"A ruckus erupted between supporters of the Students’ Federation of India (SFI), the student wing of the Communist Party of India (...\"?",
       "optsEn": [
-        "Ruckus erupts between SFI activists and police over setting up bookstalls near Cal...",
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
         "15th Finance Commission Special State Grant",
+        "Ruckus erupts between SFI activists and police over setting up bookstalls near Cal...",
         "Inter-State Council Constitutional Review Panel"
       ],
       "optsHi": [
-        "Ruckus erupts between SFI activists and police over setting up bookstalls near Cal...",
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
         "15th Finance Commission Special State Grant",
+        "Ruckus erupts between SFI activists and police over setting up bookstalls near Cal...",
         "Inter-State Council Constitutional Review Panel"
       ],
       "optsMr": [
-        "Ruckus erupts between SFI activists and police over setting up bookstalls near Cal...",
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
         "15th Finance Commission Special State Grant",
+        "Ruckus erupts between SFI activists and police over setting up bookstalls near Cal...",
         "Inter-State Council Constitutional Review Panel"
       ],
-      "ans": 0,
+      "ans": 2,
       "explanation": "<strong>1. Core Context & Background:</strong> A ruckus erupted between supporters of the Students’ Federation of India (SFI), the student wing of the Communist Party of India (Marxist), and police near the University of Kolkata for setting up a book stall.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> After the clash, police detained several SFI supporters, including the SFI State secretary, Debanjan Dey. The SFI leadership said that they sought permission from the Kolkata Police to set up a book stall at a makeshift stall on the footpath of College Street.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Chief Minister Suvendu Adhikari had described Left party supporters as “atheist” and declared that they would not be allowed to set up their book stalls near puja pandals, where such stalls have been a fixture for decades."
     },
     {
-      "id": "gk_18 Nov 2026_4",
+      "id": "gk_18 Nov 2026_6",
       "cat": "🏛️ National & Polity",
       "date": "18 Nov 2026",
       "qEn": "[18 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"The witness examination in the alleged human sacrifice case in Elanthoor, Pathanamthitta, is nearing its final stage....\"?",
       "qHi": "[18 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"The witness examination in the alleged human sacrifice case in Elanthoor, Pathanamthitta, is nearing its final stage....\"?",
       "qMr": "[18 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"The witness examination in the alleged human sacrifice case in Elanthoor, Pathanamthitta, is nearing its final stage....\"?",
       "optsEn": [
-        "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "15th Finance Commission Special State Grant",
         "Elanthoor human sacrifice case: witness examination nearing final stage",
-        "Inter-State Council Constitutional Review Panel"
-      ],
-      "optsHi": [
-        "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "15th Finance Commission Special State Grant",
-        "Elanthoor human sacrifice case: witness examination nearing final stage",
-        "Inter-State Council Constitutional Review Panel"
-      ],
-      "optsMr": [
-        "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "15th Finance Commission Special State Grant",
-        "Elanthoor human sacrifice case: witness examination nearing final stage",
-        "Inter-State Council Constitutional Review Panel"
-      ],
-      "ans": 2,
-      "explanation": "<strong>1. Core Context & Background:</strong> The witness examination in the alleged human sacrifice case in Elanthoor, Pathanamthitta, is nearing its final stage.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> The trial, which got under way at the Ernakulam Additional Sessions Court in March, is expected to be completed by February 2027. The investigating officers, forensic experts, and other key witnesses remain to be examined.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> The accused in the case are Mohammed Shafi, 56, a native of Perumbavoor, and Bhagaval Singh, 72, of Elanthoor, Pathanamthitta, along with his wife Laila."
-    },
-    {
-      "id": "gk_18 Nov 2026_5",
-      "cat": "🏛️ National & Polity",
-      "date": "18 Nov 2026",
-      "qEn": "[18 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"A meeting of the council of Maharaja’s College, Kochi, held on Tuesday accepted an inquiry committee report that indicted activist...\"?",
-      "qHi": "[18 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"A meeting of the council of Maharaja’s College, Kochi, held on Tuesday accepted an inquiry committee report that indicted activist...\"?",
-      "qMr": "[18 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"A meeting of the council of Maharaja’s College, Kochi, held on Tuesday accepted an inquiry committee report that indicted activist...\"?",
-      "optsEn": [
-        "Convocation ceremony row: Maharaja’s College council asks suspended students to ac...",
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
         "15th Finance Commission Special State Grant",
         "Inter-State Council Constitutional Review Panel"
       ],
       "optsHi": [
-        "Convocation ceremony row: Maharaja’s College council asks suspended students to ac...",
+        "Elanthoor human sacrifice case: witness examination nearing final stage",
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
         "15th Finance Commission Special State Grant",
         "Inter-State Council Constitutional Review Panel"
       ],
       "optsMr": [
-        "Convocation ceremony row: Maharaja’s College council asks suspended students to ac...",
+        "Elanthoor human sacrifice case: witness examination nearing final stage",
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
         "15th Finance Commission Special State Grant",
         "Inter-State Council Constitutional Review Panel"
       ],
       "ans": 0,
-      "explanation": "<strong>1. Core Context & Background:</strong> A meeting of the council of Maharaja’s College, Kochi, held on Tuesday accepted an inquiry committee report that indicted activists of the Students’ Federation of India (SFI) for disrupting a convocation ceremony attended by Minister for Higher Education Roji M.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Praneel Raj, chairperson, and Nafeesathul Misriya, vice-chairperson of the college union, who were suspended in connection with the incident on November 2, submit an apology admitting their mistake. The inquiry committee report found that the incident had caused disrepute to the image of the institution in the public domain, according to sources.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> John had to leave the function midway."
-    },
-    {
-      "id": "gk_18 Nov 2026_6",
-      "cat": "🏛️ National & Polity",
-      "date": "18 Nov 2026",
-      "qEn": "[18 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"The Kochi City cyber police have registered a case after a 36-year-old woman was allegedly cheated of nearly ₹90,000 on the pretex...\"?",
-      "qHi": "[18 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"The Kochi City cyber police have registered a case after a 36-year-old woman was allegedly cheated of nearly ₹90,000 on the pretex...\"?",
-      "qMr": "[18 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"The Kochi City cyber police have registered a case after a 36-year-old woman was allegedly cheated of nearly ₹90,000 on the pretex...\"?",
-      "optsEn": [
-        "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "Kochi woman loses ₹90,000 in credit card activation scam",
-        "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel"
-      ],
-      "optsHi": [
-        "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "Kochi woman loses ₹90,000 in credit card activation scam",
-        "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel"
-      ],
-      "optsMr": [
-        "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "Kochi woman loses ₹90,000 in credit card activation scam",
-        "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel"
-      ],
-      "ans": 1,
-      "explanation": "<strong>1. Core Context & Background:</strong> The Kochi City cyber police have registered a case after a 36-year-old woman was allegedly cheated of nearly ₹90,000 on the pretext of activating a credit card.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> The complainant, a resident of Mulavukad, was allegedly cheated by an unidentified person who contacted her over the phone, promising to activate a credit card issued by a private sector bank. On November 2, the accused convinced her to share a one-time password (OTP) to activate the card using another credit card she owns.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> The police have registered a case of cheating under Section 318 of the Bharatiya Nyaya Sanhita."
+      "explanation": "<strong>1. Core Context & Background:</strong> The witness examination in the alleged human sacrifice case in Elanthoor, Pathanamthitta, is nearing its final stage.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> The trial, which got under way at the Ernakulam Additional Sessions Court in March, is expected to be completed by February 2027. The investigating officers, forensic experts, and other key witnesses remain to be examined.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> The accused in the case are Mohammed Shafi, 56, a native of Perumbavoor, and Bhagaval Singh, 72, of Elanthoor, Pathanamthitta, along with his wife Laila."
     },
     {
       "id": "gk_18 Nov 2026_7",
