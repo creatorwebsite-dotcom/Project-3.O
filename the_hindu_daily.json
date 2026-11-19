@@ -1,12 +1,12 @@
 {
-  "updatedAt": "20 Nov 2026, 01:57 AM IST",
+  "updatedAt": "20 Nov 2026, 02:57 AM IST",
   "currentDateIso": "2026-11-20",
   "currentDateDisplay": "20 Nov 2026",
   "availableDates": [
     {
       "dateIso": "2026-11-20",
       "dateDisplay": "20 Nov 2026",
-      "updatedAt": "20 Nov 2026, 01:57 AM IST",
+      "updatedAt": "20 Nov 2026, 02:57 AM IST",
       "articleCount": 30
     },
     {
@@ -23,9 +23,108 @@
     }
   ],
   "hookLine1": "The Hindu Printed Broadsheet & Editorial Digest (20 Nov 2026)",
-  "hookLine2": "100% In-App Full Newspaper Pages & Deep Editorial Analysis • Updated: 20 Nov 2026, 01:57 AM IST",
+  "hookLine2": "100% In-App Full Newspaper Pages & Deep Editorial Analysis • Updated: 20 Nov 2026, 02:57 AM IST",
   "totalArticles": 30,
   "articles": [
+    {
+      "category": "national",
+      "categoryLabel": "🏛️ National & Polity",
+      "title": "FIR against two former Bengal Ministers over sexual assault charges",
+      "link": "https://www.thehindu.com/news/national/west-bengal/fir-against-two-former-bengal-ministers-over-sexual-assault-charges/article71721081.ece",
+      "pubDate": "Fri, 20 Nov 2026 02:05:27 +0530",
+      "dateIso": "2026-11-20",
+      "dateDisplay": "20 Nov 2026",
+      "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
+      "imageUrl": "https://www.thehindu.com/theme/images/og-image.png",
+      "fullParagraphs": [
+        "A First Information Report (FIR) has been lodged against two former Ministers in the West Bengal government, Indranil Sen and Bratya Basu, along with several senior government officials, over multiple charges, including sexual assault.",
+        "The FIR was lodged at Baguiati Police Station under the Bidhannagar Commissionerate by social activist Rajib Sarkar on behalf of multiple women who have either been artists or employed by the West Bengal Information and Cultural Affairs Department.",
+        "The two Ministers have been accused of rape, wrongful confinement, extortion, criminal breach of trust, cheating, repeated sexual assault, corruption and criminal conspiracy.",
+        "“Several women approached me and levelled serious allegations against the two ministers. They have been threatened, harassed, and tortured when they asked for what they deserved. They should now get justice,” said Mr. Sarkar, speaking to the media.",
+        "A zero FIR has been registered against 40 accused individuals, including the two former Ministers, he said.",
+        "Mr. Basu, an actor and playwright, served as the Education Minister in the previous Trinamool Congress government led by then Chief Minister Mamata Banerjee. Mr. Sen, a singer-turned-politician, served as the Minister of State with independent charge for the Cultural Affairs and Tourism Departments. Mr. Sen was arrested by the Kolkata Police on October 28, 2026, in connection with a Durga Puja ticket scam case by the Enforcement Directorate.",
+        "Five former Ministers, who had been part of Mamata Banerjee’s cabinet, have been arrested since the Bharatiya Janata Party (BJP) government came to power in May 2026.",
+        "The arrests of former ministers began with former state Fire Services Minister Sujit Bose. Three other former ministers were subsequently arrested: Dilip Mondal, who served as Minister of State for Transport; Ujjal Biswas, the former Correctional Services Minister; and Udayana Guha, who held the North Bengal Development portfolio. Ujjwal Biswas, who was out on bail, passed away on November 11, triggering strong reactions from Mamata Banerjee, who claimed political vendetta behind the arrests."
+      ],
+      "deepExplanation": "<strong>1. Core Context & Background:</strong> A First Information Report (FIR) has been lodged against two former Ministers in the West Bengal government, Indranil Sen and Bratya Basu, along with several senior government officials, over multiple charges, including sexual assault.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> The FIR was lodged at Baguiati Police Station under the Bidhannagar Commissionerate by social activist Rajib Sarkar on behalf of multiple women who have either been artists or employed by the West Bengal Information and Cultural Affairs Department. The two Ministers have been accused of rape, wrongful confinement, extortion, criminal breach of trust, cheating, repeated sexual assault, corruption and criminal conspiracy.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Ujjwal Biswas, who was out on bail, passed away on November 11, triggering strong reactions from Mamata Banerjee, who claimed political vendetta behind the arrests.",
+      "vocabList": [
+        "Information",
+        "Ministers",
+        "Indranil",
+        "Officials",
+        "Multiple",
+        "Baguiati"
+      ],
+      "summary": "A First Information Report (FIR) has been lodged against two former Ministers in the West Bengal government, Indranil Sen and Bratya Basu, along with several senior government officials, over multiple charges, including sexual assault.",
+      "keyPoints": "• A First Information Report (FIR) has been lodged against two former Ministers in the West Bengal government, Indranil Sen and Bratya Basu, along with several senior government officials, over multiple charges, including sexual assault.<br>• The FIR was lodged at Baguiati Police Station under the Bidhannagar Commissionerate by social activist Rajib Sarkar on behalf of multiple women who have either been artists or employed by the West Bengal Information and Cultural Affairs Department.<br>• The two Ministers have been accused of rape, wrongful confinement, extortion, criminal breach of trust, cheating, repeated sexual assault, corruption and criminal conspiracy."
+    },
+    {
+      "category": "national",
+      "categoryLabel": "🏛️ National & Polity",
+      "title": "Cyclone ‘Akvan’ updates: Three lakh evacuated, 423 rescue teams deployed as cyclone heads to Odisha",
+      "link": "https://www.thehindu.com/news/national/cyclone-akwan-tracker-live-updates-odisha-andhra-pradesh-landfall-imd-map-location-puri-vizag-bay-of-bengal/article71718788.ece",
+      "pubDate": "Fri, 20 Nov 2026 01:43:37 +0530",
+      "dateIso": "2026-11-20",
+      "dateDisplay": "20 Nov 2026",
+      "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
+      "imageUrl": "https://th-i.thgim.com/public/incoming/ctdcyd/article71721246.ece/alternates/LANDSCAPE_1200/PTI11_19_2026_000374A.jpg",
+      "fullParagraphs": [
+        "The Disaster Management Unit of Union Ministry of Communications has instructed telecom service providers to activate Intra Circle Roaming facility in Ganjam, Gajapati, Puri, Kendrapara, Jagatsinghpur and Khordha district on November 20.",
+        "As per information provided by Odisha Space Applications Centre, as many as 941 places have been identified as landslip prone areas including 211 in Gajapati district, Ganjam (169), Rayagada (169), Kandhamal (163) Koraput (151) and Malkangiri (78), said Mr. Pujari while reviewing preparation for cyclone “Akvan” on November 19, 2026.",
+        "Ghat roads (hill passes) such as Kalinga and Gajalbadi connecting Ganjam and Kandhamal districts have been barricaded, apprehending landslides. Red warning for heavy to very heavy rainfall has been issued for districts such as Kendrapada, Jagatsinghpur, Puri, Ganjam, Gajapati, and Kandhamal.",
+        "“Water Resources Department has started depleting reservoirs in districts to be affected by the cyclone. Engineers are continuously monitoring situation while technical teams have been deployed. Two gates of major dam and 23 gates of different medium irrigation dams are kept opened,” said Odisha Chief Secretary Anu Garg. - Satyasundar Barik",
+        "Severe Cyclonic Storm ‘Akvan’ over the westcentral Bay of Bengal moved northwards at a speed of 13 kmph during the past six hours and was centred over the same region at 5.30 p.m. on November 19, 2026, according to the India Meteorological Department (IMD).",
+        "The cyclone is likely to move north-northwestwards and cross North Andhra Pradesh and South Odisha coasts close to Gopalpur by noon on November 20.",
+        "Revenue and Disaster Management Minister Suresh Pujari informed that senior bureaucrats were assigned different districts to monitor rescue-and-restoration activities, besides monitoring situations from State Emergency Operation Centres. In Ganjam and Gajapati districts, 17 satellite phones were provided to key persons to remain in contact if communication network is snapped due to cyclone.",
+        "As part of the preparedness measures, 70 Cell-on-Wheels (CoW) units, 197 Mobile Diesel Generator (DG) sets and 61 support teams have been deployed to strengthen telecom infrastructure and ensure continuity of communication during the cyclone. The Disaster Management Unit of Union Ministry of Communications has instructed telecom service providers to activate Intra Circle Roaming facility in Ganjam, Gajapati, Puri, Kendrapara, Jagatsinghpur and Khordha district on November 20. - Satyasundar Barik",
+        "Odisha on Thursday (November 19, 2026) geared up to tackle Severe Cyclonic Storm ‘Akvan’, which is expected to cross the State’s coast near Gopalpur by noon on November 20, with heavy rain and maximum sustained wind speeds of 90-100 kmph, gusting to 110 kmph. The State shifted close to three lakh people to safer places by evening.",
+        "As many as 60 units Odisha Disaster Rapid Action Force, 14 units of National Disaster Response Force and 221 teams of State fire services have been positioned at vulnerable areas to carry out rescue and restoration operation soon after ‘Akvan’ passed through the State.",
+        "“The severe cyclonic storm “Akvan” over the westcentral Bay of Bengal moved northwards with the speed of 13 kmph during past six hours and lay centered over the same region about 270 km south-southeast of Kalingapatnam (Andhra Pradesh), 350 km south of Gopalpur (Odisha), 380 km east of Narsapur (Andhra Pradesh), 420 km south of Puri (Odisha) and 640 km east-northeast of Chennai (Tamil Nadu),” said India Meteorological Department in its 8 p.m. bulletin on Thursday.",
+        "“It is likely to move north-northwestward and cross North Andhra Pradesh and South Odisha coasts close to Gopalpur, by noon of November 20, 2026 with the maximum sustained wind speed of 90-100 kmph gusting to 110 kmph,” it said."
+      ],
+      "deepExplanation": "<strong>1. Core Context & Background:</strong> The Disaster Management Unit of Union Ministry of Communications has instructed telecom service providers to activate Intra Circle Roaming facility in Ganjam, Gajapati, Puri, Kendrapara, Jagatsinghpur and Khordha district on November 20.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> As per information provided by Odisha Space Applications Centre, as many as 941 places have been identified as landslip prone areas including 211 in Gajapati district, Ganjam (169), Rayagada (169), Kandhamal (163) Koraput (151) and Malkangiri (78), said Mr. Pujari while reviewing preparation for cyclone “Akvan” on November 19, 2026.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> “It is likely to move north-northwestward and cross North Andhra Pradesh and South Odisha coasts close to Gopalpur, by noon of November 20, 2026 with the maximum sustained wind speed of 90-100 kmph gusting to 110 kmph,” it said.",
+      "vocabList": [
+        "Disaster",
+        "Management",
+        "Ministry",
+        "Communications",
+        "Instructed",
+        "Providers"
+      ],
+      "summary": "The Disaster Management Unit of Union Ministry of Communications has instructed telecom service providers to activate Intra Circle Roaming facility in Ganjam, Gajapati, Puri, Kendrapara, Jagatsinghpur and Khordha district on November 20.",
+      "keyPoints": "• The Disaster Management Unit of Union Ministry of Communications has instructed telecom service providers to activate Intra Circle Roaming facility in Ganjam, Gajapati, Puri, Kendrapara, Jagatsinghpur and Khordha district on November 20.<br>• As per information provided by Odisha Space Applications Centre, as many as 941 places have been identified as landslip prone areas including 211 in Gajapati district, Ganjam (169), Rayagada (169), Kandhamal (163) Koraput (151) and Malkangiri (78), said Mr. Pujari while reviewing preparation for cyclone “Akvan” on November 19, 2026.<br>• Ghat roads (hill passes) such as Kalinga and Gajalbadi connecting Ganjam and Kandhamal districts have been barricaded, apprehending landslides. Red warning for heavy to very heavy rainfall has been issued for districts such as Kendrapada, Jagatsinghpur, Puri, Ganjam, Gajapati, and Kandhamal."
+    },
+    {
+      "category": "national",
+      "categoryLabel": "🏛️ National & Polity",
+      "title": "Trinamool party symbol row: Abhishek Banerjee says twin flower symbol will return in seven days",
+      "link": "https://www.thehindu.com/news/national/west-bengal/trinamool-party-symbol-row-abhishek-banerjee-says-twin-flower-symbol-will-return-in-seven-days/article71721362.ece",
+      "pubDate": "Fri, 20 Nov 2026 01:29:48 +0530",
+      "dateIso": "2026-11-20",
+      "dateDisplay": "20 Nov 2026",
+      "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
+      "imageUrl": "https://th-i.thgim.com/public/incoming/au3c8f/article71721777.ece/alternates/LANDSCAPE_1200/20261105505L.jpg",
+      "fullParagraphs": [
+        "The two rival factions of the Trinamool Congress have become embroiled in a war of words over the party’s twin-flower symbol that has been frozen by the Election Commission of India (ECI). Diamond Harbour MP Abhishek Banerjee and Mamata All India Trinamool Congress on November 18 said that the original electoral symbol of the party will ultimately remain with Mamata Banerjee.",
+        "“The original name and electoral symbol had always been with Mamata Banerjee and will continue to remain so in the future. Just wait for seven days. We will prove how manipulations were made in filing affidavits to establish the right over the original party name and original electoral symbol. We will display that on the big screen,” Mr. Banerjee told media persons.",
+        "Mr. Banerjee has claimed that the faction of the party led by Ritabrata Banerjee filed affidavits with the help of the West Bengal Police. The Diamond Harbour MP had claimed that the alleged attack on his residence on November 7 was intended to interfere with the filing of affidavits, staking a claim over the affidavits.",
+        "Leader of the Opposition in the West Bengal Assembly Ritabrata Banerjee said that the symbol does not belong to either faction and Mr. Banerjee will not be able to stake claim over the symbol in seven births.",
+        "“He has said that they will get the symbol in seven days, they will not get the symbol in seven births,” the LOP, which represents the Democratic Trinamool Congress, said.",
+        "The ECI on September 17, 2026, had barred both factions, the Mamata Banerjee-led faction and the Ritabrata Banerjee-led faction of the party, from using the party symbol and name in the bypolls in Nandigram and Rejinagar in West Bengal which were scheduled on October 6. The very next day, on September 18, the Mamata faction got the name ‘Mamata All India Trinamool Congress’ with ‘football player’ as its symbol , while the Ritabrata grouping was allotted the name ‘Democratic Trinamool Congress’ with the symbol ‘envelope’.",
+        "Both the factions of the Trinamool Congress have submitted truckloads of affidavits to the ECI, which includes support by party members, MPs and MLAs. Ritabrata Banerjee claims support of 65 of the 80 MLAs of the party. The faction of Mamata Banerjee has the support of a handful of MLAs and MPs who have not defected to NCPI or joined the BJP after the West Bengal Assembly polls of 2026."
+      ],
+      "deepExplanation": "<strong>1. Core Context & Background:</strong> The two rival factions of the Trinamool Congress have become embroiled in a war of words over the party’s twin-flower symbol that has been frozen by the Election Commission of India (ECI).<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Diamond Harbour MP Abhishek Banerjee and Mamata All India Trinamool Congress on November 18 said that the original electoral symbol of the party will ultimately remain with Mamata Banerjee. “The original name and electoral symbol had always been with Mamata Banerjee and will continue to remain so in the future.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> The faction of Mamata Banerjee has the support of a handful of MLAs and MPs who have not defected to NCPI or joined the BJP after the West Bengal Assembly polls of 2026.",
+      "vocabList": [
+        "Factions",
+        "Trinamool",
+        "Congress",
+        "Embroiled",
+        "Election",
+        "Commission"
+      ],
+      "summary": "The two rival factions of the Trinamool Congress have become embroiled in a war of words over the party’s twin-flower symbol that has been frozen by the Election Commission of India (ECI). Diamond Harbour MP Abhishek Banerjee and Mamata All India Trinamool Congress on November 18 said that the original electoral symbol of the party will ultimately remain with Mamata Banerjee.",
+      "keyPoints": "• The two rival factions of the Trinamool Congress have become embroiled in a war of words over the party’s twin-flower symbol that has been frozen by the Election Commission of India (ECI). Diamond Harbour MP Abhishek Banerjee and Mamata All India Trinamool Congress on November 18 said that the original electoral symbol of the party will ultimately remain with Mamata Banerjee.<br>• “The original name and electoral symbol had always been with Mamata Banerjee and will continue to remain so in the future. Just wait for seven days. We will prove how manipulations were made in filing affidavits to establish the right over the original party name and original electoral symbol. We will display that on the big screen,” Mr. Banerjee told media persons.<br>• Mr. Banerjee has claimed that the faction of the party led by Ritabrata Banerjee filed affidavits with the help of the West Bengal Police. The Diamond Harbour MP had claimed that the alleged attack on his residence on November 7 was intended to interfere with the filing of affidavits, staking a claim over the affidavits."
+    },
     {
       "category": "national",
       "categoryLabel": "🏛️ National & Polity",
@@ -113,98 +212,6 @@
       ],
       "summary": "A 19-year-old B.Tech student of Vellore Institute of Technology Chennai, was found dead in the bathroom of the boy’s hostel, early on Thursday. The police are investigating whether it is a case of suicide.",
       "keyPoints": "• A 19-year-old B.Tech student of Vellore Institute of Technology Chennai, was found dead in the bathroom of the boy’s hostel, early on Thursday. The police are investigating whether it is a case of suicide.<br>• He was reportedly rushed to Tagore Medical College and Hospital, where the doctors declared him dead on arrival. The police registered a case and have sent the body for a post-mortem.<br>• The student was allegedly caught indulging in malpractice during an exam on Wednesday, a police note accessed by The Hindu said."
-    },
-    {
-      "category": "national",
-      "categoryLabel": "🏛️ National & Polity",
-      "title": "Set aside differences and oppose Mekedatu dam, says TNCC president",
-      "link": "https://www.thehindu.com/news/national/tamil-nadu/set-aside-differences-and-oppose-mekedatu-dam-says-tncc-president/article71720861.ece",
-      "pubDate": "Fri, 20 Nov 2026 00:46:32 +0530",
-      "dateIso": "2026-11-20",
-      "dateDisplay": "20 Nov 2026",
-      "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
-      "imageUrl": "https://th-i.thgim.com/public/incoming/xw5d8x/article71721734.ece/alternates/LANDSCAPE_1200/DSC_4024.JPG",
-      "fullParagraphs": [
-        "Tamil Nadu Congress Committee (TNCC) president B. Manickam Tagore on Thursday said the party would oppose the proposed Mekedatu dam across the Cauvery and called for all political parties in Tamil Nadu to unite against the project instead of indulging in mutual accusations.",
-        "He said the project could spell a death knell for the Cauvery delta and turn the region drought-prone. The Congress was clear that it would not compromise on Tamil Nadu’s legitimate rights, he said.",
-        "Calling for a united stand, he urged Chief Minister C. Joseph Vijay and former Chief Ministers M.K. Stalin, Edappadi K. Palaniswami, and O. Panneerselvam to join hands in opposing the project. He also questioned Prime Minister Narendra Modi’s silence when Karnataka Chief Minister D.K. Shivakumar spoke in favour of the project in his presence.",
-        "Referring to the recent meeting between three Tamil Nadu Ministers and Union Minister C.R. Paatil, Mr. Tagore said the State government should share the outcome of the discussions with the Assembly, its alliance partners, and the people.",
-        "Mr. Tagore also criticised the AIADMK for not participating in the all-party meeting and meeting of MPs convened by the Tamil Nadu government on delimitation, while subsequently supporting the Assembly resolution on the issue.",
-        "On the Congress-TVK relationship, he said the prominence given to Mr. Vijay at Sonia Gandhi’s book launch in Delhi reflected the strong and long-term ties between the two parties. He added that the Congress was committed to helping the government fulfil its promise of building a strong and drug-free Tamil Nadu."
-      ],
-      "deepExplanation": "<strong>1. Core Context & Background:</strong> Tamil Nadu Congress Committee (TNCC) president B.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Manickam Tagore on Thursday said the party would oppose the proposed Mekedatu dam across the Cauvery and called for all political parties in Tamil Nadu to unite against the project instead of indulging in mutual accusations. He said the project could spell a death knell for the Cauvery delta and turn the region drought-prone.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> He added that the Congress was committed to helping the government fulfil its promise of building a strong and drug-free Tamil Nadu.",
-      "vocabList": [
-        "Congress",
-        "President",
-        "Manickam",
-        "Thursday",
-        "Proposed",
-        "Mekedatu"
-      ],
-      "summary": "Tamil Nadu Congress Committee (TNCC) president B. Manickam Tagore on Thursday said the party would oppose the proposed Mekedatu dam across the Cauvery and called for all political parties in Tamil Nadu to unite against the project instead of indulging in mutual accusations.",
-      "keyPoints": "• Tamil Nadu Congress Committee (TNCC) president B. Manickam Tagore on Thursday said the party would oppose the proposed Mekedatu dam across the Cauvery and called for all political parties in Tamil Nadu to unite against the project instead of indulging in mutual accusations.<br>• He said the project could spell a death knell for the Cauvery delta and turn the region drought-prone. The Congress was clear that it would not compromise on Tamil Nadu’s legitimate rights, he said.<br>• Calling for a united stand, he urged Chief Minister C. Joseph Vijay and former Chief Ministers M.K. Stalin, Edappadi K. Palaniswami, and O. Panneerselvam to join hands in opposing the project. He also questioned Prime Minister Narendra Modi’s silence when Karnataka Chief Minister D.K. Shivakumar spoke in favour of the project in his presence."
-    },
-    {
-      "category": "national",
-      "categoryLabel": "🏛️ National & Polity",
-      "title": "Assam medical college department withdraws ‘defer marriage’ order for trainees after backlash",
-      "link": "https://www.thehindu.com/news/national/assam/assam-medical-college-department-withdraws-defer-marriage-order-for-trainees-after-backlash/article71721405.ece",
-      "pubDate": "Fri, 20 Nov 2026 00:45:02 +0530",
-      "dateIso": "2026-11-20",
-      "dateDisplay": "20 Nov 2026",
-      "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
-      "imageUrl": "https://www.thehindu.com/theme/images/og-image.png",
-      "fullParagraphs": [
-        "The Department of Medicine at Assam Medical College and Hospital in eastern Assam’s Dibrugarh has withdrawn an order advising postgraduate trainees (PGTs) of general medicine to defer “personal milestones such as marriage” until they complete their residency tenure.",
-        "Prasanta Dihingia, the Head of the Department, withdrew the order hours after issuing it on Wednesday (November 18, 2026). The withdrawal followed a backlash from a doctors’ body.",
-        "“With reference to the Order No.MED/2026/5700; Dtd. 18.11.2026, regarding the advisory issued to the PGTs of Deptt. of Medicine concerning personal milestones during their residency tenure, it is hereby notified that the Office Order is withdrawn with immediate effect,” the order read.",
-        "“Accordingly, the above-mentioned order is cancelled and treated as withdrawn from the date of issuance of this notice. All concerned are hereby informed to take note of the same,” it further read.",
-        "Earlier, the Federation of All India Medical Association (FAIMA) condemned the “unreasonable advisory” and demanded its immediate withdrawal.",
-        "“What’s next? NOC from the HOD for marriage and family planning? By the same logic, HODs should stay in the hospital 24×7 until retirement. After all, commitment to patient care should apply equally to everyone!” FAIMA posted on X, sharing the controversial order.",
-        "The association advised administrators to regulate duty hours, not the resident doctors’ personal lives.",
-        "“Residency is a postgraduate course, not a vow of celibacy!” it stated."
-      ],
-      "deepExplanation": "<strong>1. Core Context & Background:</strong> The Department of Medicine at Assam Medical College and Hospital in eastern Assam’s Dibrugarh has withdrawn an order advising postgraduate trainees (PGTs) of general medicine to defer “personal milestones such as marriage” until they complete their residency tenure.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Prasanta Dihingia, the Head of the Department, withdrew the order hours after issuing it on Wednesday (November 18, 2026). The withdrawal followed a backlash from a doctors’ body.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> “Residency is a postgraduate course, not a vow of celibacy!” it stated.",
-      "vocabList": [
-        "Medicine",
-        "Hospital",
-        "Dibrugarh",
-        "Withdrawn",
-        "Advising",
-        "Postgraduate"
-      ],
-      "summary": "The Department of Medicine at Assam Medical College and Hospital in eastern Assam’s Dibrugarh has withdrawn an order advising postgraduate trainees (PGTs) of general medicine to defer “personal milestones such as marriage” until they complete their residency tenure.",
-      "keyPoints": "• The Department of Medicine at Assam Medical College and Hospital in eastern Assam’s Dibrugarh has withdrawn an order advising postgraduate trainees (PGTs) of general medicine to defer “personal milestones such as marriage” until they complete their residency tenure.<br>• Prasanta Dihingia, the Head of the Department, withdrew the order hours after issuing it on Wednesday (November 18, 2026). The withdrawal followed a backlash from a doctors’ body.<br>• “With reference to the Order No.MED/2026/5700; Dtd. 18.11.2026, regarding the advisory issued to the PGTs of Deptt. of Medicine concerning personal milestones during their residency tenure, it is hereby notified that the Office Order is withdrawn with immediate effect,” the order read."
-    },
-    {
-      "category": "national",
-      "categoryLabel": "🏛️ National & Polity",
-      "title": "Cheran, the poet who chronicled Eelam’s war and memory, passes away at 68",
-      "link": "https://www.thehindu.com/news/national/tamil-nadu/cheran-the-poet-who-chronicled-eelams-war-and-memory-passes-away-at-68/article71721105.ece",
-      "pubDate": "Fri, 20 Nov 2026 00:28:28 +0530",
-      "dateIso": "2026-11-20",
-      "dateDisplay": "20 Nov 2026",
-      "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
-      "imageUrl": "https://th-i.thgim.com/public/incoming/gc2kfy/article71721218.ece/alternates/LANDSCAPE_1200/KALASUVADU_BOOK_LAUNCH_1.jpg",
-      "fullParagraphs": [
-        "Eelam Tamil poet, essayist, and academic Rudhramoorthy Cheran passed away in Canada on Wednesday. At the time of his passing, he was a professor in the Department of Sociology and Criminology at the University of Windsor. He was 68.",
-        "Hailing from Alaveddy in Jaffna, Cheran was a multifaceted artist — a poet, short story writer, essayist, and painter. After beginning his literary career in the late 1970s, he emerged as a central figure in the Eelam Tamil literary movement during the 1980s. Alongside his poetry, he frequently contributed essays in both Tamil and English to various journals.",
-        "Although he started writing in the 1970s, his debut poetry collection, Irandavathu Sooriya Uthayam (The Second Sunrise), was published in 1983. Reflecting on Cheran’s literary significance, poet and Kalachuvadu executive editor Sukumaran notes: “Having begun writing in the 70s, Cheran bore witness to the Eelam war as it intensified in the 80s. He chronicled that tragic, war-shattered existence in his verse. He came to be recognised as a leading voice of Eelam poetry, wartime literature, and the diasporic experience. Cheran documented four to five decades of Eelam Tamil life and brought their reality to the world stage.”",
-        "Cheran’s poetry has been compiled into several acclaimed collections, including Nee Ippothu Irangum Aaru , Kaadaatru , Meendum Kadalukku , Thinaimayakkam , Anjar , and Kaanchi . His essays are collected in Uyir Kollum Vaarthaigal , while his interviews were published under the title Kadavulum Pisaasum Kavignanum .",
-        "Though classical Tamil poetics is traditionally categorised into five thinais (poetic landscapes), poet Perundevi observes that Cheran treated “traumatic memory” as a sixth thinai . “His poem Irandavathu Sooriya Uthayam was written in response to the burning of the Jaffna Public Library. Similarly, he wrote about the Tirunelveli attack and Black July. Ultimately, Cheran’s poetry seeks to transcend the profound losses suffered by Eelam Tamils through war and genocide by anchoring those memories to the land.”",
-        "His works have also been translated into several other languages, including Bengali, Spanish, Dutch, and Sinhala. He is survived by his wife, a son, and a daughter."
-      ],
-      "deepExplanation": "<strong>1. Core Context & Background:</strong> Eelam Tamil poet, essayist, and academic Rudhramoorthy Cheran passed away in Canada on Wednesday.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> At the time of his passing, he was a professor in the Department of Sociology and Criminology at the University of Windsor. Hailing from Alaveddy in Jaffna, Cheran was a multifaceted artist — a poet, short story writer, essayist, and painter.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> He is survived by his wife, a son, and a daughter.",
-      "vocabList": [
-        "Essayist",
-        "Academic",
-        "Rudhramoorthy",
-        "Wednesday",
-        "Professor",
-        "Sociology"
-      ],
-      "summary": "Eelam Tamil poet, essayist, and academic Rudhramoorthy Cheran passed away in Canada on Wednesday. At the time of his passing, he was a professor in the Department of Sociology and Criminology at the University of Windsor. He was 68.",
-      "keyPoints": "• Eelam Tamil poet, essayist, and academic Rudhramoorthy Cheran passed away in Canada on Wednesday. At the time of his passing, he was a professor in the Department of Sociology and Criminology at the University of Windsor. He was 68.<br>• Hailing from Alaveddy in Jaffna, Cheran was a multifaceted artist — a poet, short story writer, essayist, and painter. After beginning his literary career in the late 1970s, he emerged as a central figure in the Eelam Tamil literary movement during the 1980s. Alongside his poetry, he frequently contributed essays in both Tamil and English to various journals.<br>• Although he started writing in the 1970s, his debut poetry collection, Irandavathu Sooriya Uthayam (The Second Sunrise), was published in 1983. Reflecting on Cheran’s literary significance, poet and Kalachuvadu executive editor Sukumaran notes: “Having begun writing in the 70s, Cheran bore witness to the Eelam war as it intensified in the 80s. He chronicled that tragic, war-shattered existence in his verse. He came to be recognised as a leading voice of Eelam poetry, wartime literature, and the diasporic experience. Cheran documented four to five decades of Eelam Tamil life and brought their reality to the world stage.”"
     },
     {
       "category": "economy",
@@ -405,38 +412,70 @@
     {
       "category": "ir",
       "categoryLabel": "🌐 International Relations",
-      "title": "Anthropic soars in Wall Street debut despite AI jitters",
+      "title": "Anthropic shares close 17% higher on first day of trading",
       "link": "https://www.thehindu.com/business/markets/ai-firm-anthropic-shares-wall-streets-nasdaq-debut/article71721723.ece",
-      "pubDate": "Fri, 20 Nov 2026 00:46:06 +0530",
+      "pubDate": "Fri, 20 Nov 2026 02:46:25 +0530",
       "dateIso": "2026-11-20",
       "dateDisplay": "20 Nov 2026",
       "examRelevance": "GS Paper-II & Current Affairs: Bilateral Agreements, Foreign Visits & UN/G20/BRICS",
       "imageUrl": "https://th-i.thgim.com/public/incoming/yxpacp/article71721737.ece/alternates/LANDSCAPE_1200/2026-11-19T185133Z_834393249_RC21ROA35LC1_RTRMADP_3_ANTHROPIC-IPO-DEBUT.JPG",
       "fullParagraphs": [
-        "Anthropic shares opened 34% higher in their Nasdaq debut on Thursday (November 19, 2026), briefly valuing the AI giant around $2 trillion, as investors shrugged off the Nvidia spy scandal and fears of a tech bubble.",
-        "The shares opened at $111.50 before settling minutes into trading at around $98, up 18% from the $83 at which the company priced its shares on Wednesday (November 18, 2026), already above its expected range.",
-        "Anthropic raised a record $81.3 billion in the offering. The IPO price valued the maker of the Claude chatbot at about $1.5 trillion, including employee stock options and restricted shares. At around $98 a share, the company was worth about $1.8 trillion.",
+        "Anthropic shares closed about 17% higher on their first day of trading on Thursday (November 19, 2026), as investors shrugged off the Nvidia spy scandal and fears of a tech bubble to snap up the AI giant’s stock after a record-breaking IPO.",
+        "The shares ended the session at around $97, up from an IPO price of $83, after opening at $111.50 and briefly valuing the maker of the Claude chatbot at about $2 trillion.",
         "The debut marks a milestone in the AI boom. A company founded five years ago by OpenAI defectors worried about AI safety has become the first of the leading model developers to list on Wall Street, at a valuation rivalling decades-old tech brands.",
         "The listing, under the ticker “ANT,” gives ordinary investors their first chance to bet directly on a stand-alone AI giant.",
-        "“Today puts the company in a stronger financial position, and in doing so, only strengthens our resolve to do the right thing,” chief executive Dario Amodei said at the Nasdaq in New York’s Times Square, underlining the company’s priority of promoting safe AI.",
-        "The offering surpasses the $75 billion that Elon Musk’s SpaceX raised in its June IPO at a valuation of $1.77 trillion.",
         "SpaceX’s total ultimately rose to $86 billion after its underwriters exercised an option to buy additional shares. Anthropic has granted its underwriters a similar option, which would lift its total to about $93.5 billion.",
         "“This may be the breath of fresh air that the tech trade needed to move beyond the fog of artificial intelligence that we’ve been living in for the last couple of weeks,” Art Hogan of B. Riley Wealth Management told AFP .",
         "The strong demand comes even as AI stocks have swung sharply, with investors questioning whether heavy spending on the technology will pay off.",
         "Nvidia, the chip giant at the centre of the AI investment boom and an investor in Anthropic and dozens of other AI companies, has been shaken by the resignation of chief executive Jensen Huang after a reported affair with a woman suspected by U.S. intelligence to be a Chinese spy.",
-        "Anthropic’s Claude models are among the most powerful in the world, hailed for their problem-solving potential but also feared for their capacity to destabilise societies and replace human workers."
+        "Anthropic’s Claude models are among the most powerful in the world, hailed for their problem-solving potential but also feared for their capacity to destabilise societies and replace human workers.",
+        "The five-year-old company’s revenue has surged at a pace few U.S. companies have ever matched, reaching $17 billion in the third quarter, up from $1.4 billion a year earlier.",
+        "Much of that revenue comes from customers paying to use its AI models for computer coding. Its massive computing costs remain a major question for investors.",
+        "Anthropic has disclosed about $900 billion in commitments for computing capacity and warned in its filing that it must make many of those payments even if demand falls short."
       ],
-      "deepExplanation": "<strong>1. Core Context & Background:</strong> Anthropic shares opened 34% higher in their Nasdaq debut on Thursday (November 19, 2026), briefly valuing the AI giant around $2 trillion, as investors shrugged off the Nvidia spy scandal and fears of a tech bubble.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> The shares opened at $111.50 before settling minutes into trading at around $98, up 18% from the $83 at which the company priced its shares on Wednesday (November 18, 2026), already above its expected range. Anthropic raised a record $81.3 billion in the offering.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Anthropic’s Claude models are among the most powerful in the world, hailed for their problem-solving potential but also feared for their capacity to destabilise societies and replace human workers.",
+      "deepExplanation": "<strong>1. Core Context & Background:</strong> Anthropic shares closed about 17% higher on their first day of trading on Thursday (November 19, 2026), as investors shrugged off the Nvidia spy scandal and fears of a tech bubble to snap up the AI giant’s stock after a record-breaking IPO.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> The shares ended the session at around $97, up from an IPO price of $83, after opening at $111.50 and briefly valuing the maker of the Claude chatbot at about $2 trillion. The debut marks a milestone in the AI boom.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Anthropic has disclosed about $900 billion in commitments for computing capacity and warned in its filing that it must make many of those payments even if demand falls short.",
       "vocabList": [
         "Anthropic",
         "Thursday",
         "November",
-        "Trillion",
         "Investors",
-        "Shrugged"
+        "Shrugged",
+        "Breaking"
       ],
-      "summary": "Anthropic shares opened 34% higher in their Nasdaq debut on Thursday (November 19, 2026), briefly valuing the AI giant around $2 trillion, as investors shrugged off the Nvidia spy scandal and fears of a tech bubble.",
-      "keyPoints": "• Anthropic shares opened 34% higher in their Nasdaq debut on Thursday (November 19, 2026), briefly valuing the AI giant around $2 trillion, as investors shrugged off the Nvidia spy scandal and fears of a tech bubble.<br>• The shares opened at $111.50 before settling minutes into trading at around $98, up 18% from the $83 at which the company priced its shares on Wednesday (November 18, 2026), already above its expected range.<br>• Anthropic raised a record $81.3 billion in the offering. The IPO price valued the maker of the Claude chatbot at about $1.5 trillion, including employee stock options and restricted shares. At around $98 a share, the company was worth about $1.8 trillion."
+      "summary": "Anthropic shares closed about 17% higher on their first day of trading on Thursday (November 19, 2026), as investors shrugged off the Nvidia spy scandal and fears of a tech bubble to snap up the AI giant’s stock after a record-breaking IPO.",
+      "keyPoints": "• Anthropic shares closed about 17% higher on their first day of trading on Thursday (November 19, 2026), as investors shrugged off the Nvidia spy scandal and fears of a tech bubble to snap up the AI giant’s stock after a record-breaking IPO.<br>• The shares ended the session at around $97, up from an IPO price of $83, after opening at $111.50 and briefly valuing the maker of the Claude chatbot at about $2 trillion.<br>• The debut marks a milestone in the AI boom. A company founded five years ago by OpenAI defectors worried about AI safety has become the first of the leading model developers to list on Wall Street, at a valuation rivalling decades-old tech brands."
+    },
+    {
+      "category": "ir",
+      "categoryLabel": "🌐 International Relations",
+      "title": "Draft of COP31 cover text drops references to fossil fuel phase-out, net zero dates",
+      "link": "https://www.thehindu.com/news/international/cop31-negotiators-publish-revised-deal-draft-with-no-mention-of-fossil-fuels/article71721240.ece",
+      "pubDate": "Fri, 20 Nov 2026 01:01:16 +0530",
+      "dateIso": "2026-11-20",
+      "dateDisplay": "20 Nov 2026",
+      "examRelevance": "GS Paper-II & Current Affairs: Bilateral Agreements, Foreign Visits & UN/G20/BRICS",
+      "imageUrl": "https://th-i.thgim.com/public/incoming/geub04/article71721745.ece/alternates/LANDSCAPE_1200/2026-11-19T105448Z_776698160_RC2XQOAXCYO6_RTRMADP_3_CLIMATE-COP31.JPG",
+      "fullParagraphs": [
+        "The latest iteration of the COP 31 draft cover text has eliminated references to fossil fuel phase-out and net-zero dates but has also deleted references to a firm $120 billion adaptation-finance target that developing countries have been asking for as “legally binding financial obligations” on developed countries. This suggests that the most ambitious demands of both the developed and developing country blocs have been eliminated.",
+        "A cover text is an overarching political decision that frames the outcome of a climate conference rather than settling any single agenda item. It is usually finalised last, and like every outcome it needs the consensus of all Parties. The Presidency has said earlier drafts were not meant to reflect consensus.",
+        "The COP31 Presidency’s revised draft cover decision, dated November 19, has 80 paragraphs, down from 144 in the November 16 version. The summit officially ends on November 20, though negotiations frequently overshoot into the weekend.",
+        "A major concern raised by developing countries, of phasing out unilateral trade measures such as the CBAM (Carbon Border Adjustment Mechanism) by 2027, that was present in the earlier draft has also been eliminated.",
+        "However, a widely expected outcome of raising electricity’s share in final energy consumption to 35% by 2035, scaling up the use of carbon capture utilisation technologies and making early warning systems universal by 2027, continue to find mention in the text. A broad commitment to triple adaptation finance also remains.",
+        "“ The draft cover text weaves the 35% electricity in final energy consumption by 2035, alongside tripling renewable energy capacity and doubling the rate of energy efficiency improvement by 2030, ” Ajay Mathur, India’s lead negotiator at Paris COP and former DG, International Solar Alliance, said in a statement. The electricity use in India went up by 13% in 2025 due to the Hormuz crisis alone. It will be an ambitious goal for India to achieve 35% electrification by 2035, but due to the increasing amount of renewable energy in the Indian energy mix, we will be near the 32-34% mark by 2035. ”",
+        "“We’re down to the wire at COP31, and the latest texts are alarmingly far from ambitious or equitable,” said Rachel Cleetus, Climate Program director at the Union of Concerned Scientists (UCS) in a statement. “Rich nations, most notably the EU nations, are still holding a harsh line against committing to tripling adaptation finance to at least $120 billion annually by 2035. Instead of reaching agreement on urgently needed climate finance, some countries seem willing to push negotiations toward failure.”",
+        "United Nations / climate change / climate change (politics) / United Nations (climate change)"
+      ],
+      "deepExplanation": "<strong>1. Core Context & Background:</strong> The latest iteration of the COP 31 draft cover text has eliminated references to fossil fuel phase-out and net-zero dates but has also deleted references to a firm $120 billion adaptation-finance target that developing countries have been asking for as “legally binding financial obligations” on developed countries.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> This suggests that the most ambitious demands of both the developed and developing country blocs have been eliminated. A cover text is an overarching political decision that frames the outcome of a climate conference rather than settling any single agenda item.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Instead of reaching agreement on urgently needed climate finance, some countries seem willing to push negotiations toward failure.” United Nations / climate change / climate change (politics) / United Nations (climate change)",
+      "vocabList": [
+        "Iteration",
+        "Eliminated",
+        "References",
+        "Adaptation",
+        "Developing",
+        "Financial"
+      ],
+      "summary": "The latest iteration of the COP 31 draft cover text has eliminated references to fossil fuel phase-out and net-zero dates but has also deleted references to a firm $120 billion adaptation-finance target that developing countries have been asking for as “legally binding financial obligations” on developed countries. This suggests that the most ambitious demands of both the developed and developing country blocs have been eliminated.",
+      "keyPoints": "• The latest iteration of the COP 31 draft cover text has eliminated references to fossil fuel phase-out and net-zero dates but has also deleted references to a firm $120 billion adaptation-finance target that developing countries have been asking for as “legally binding financial obligations” on developed countries. This suggests that the most ambitious demands of both the developed and developing country blocs have been eliminated.<br>• A cover text is an overarching political decision that frames the outcome of a climate conference rather than settling any single agenda item. It is usually finalised last, and like every outcome it needs the consensus of all Parties. The Presidency has said earlier drafts were not meant to reflect consensus.<br>• The COP31 Presidency’s revised draft cover decision, dated November 19, has 80 paragraphs, down from 144 in the November 16 version. The summit officially ends on November 20, though negotiations frequently overshoot into the weekend."
     },
     {
       "category": "ir",
@@ -472,38 +511,6 @@
       ],
       "summary": "Israel's military said that a ground operation involving tanks in central Gaza that began the previous day despite a U.S.-brokered ceasefire had come to an end on Thursday (November 19, 2026).",
       "keyPoints": "• Israel's military said that a ground operation involving tanks in central Gaza that began the previous day despite a U.S.-brokered ceasefire had come to an end on Thursday (November 19, 2026).<br>• The Defence Ministry's body in charge of civilian affairs in Palestinian territories, Coordinator of Government Activities in the Territories (COGAT), said in a statement that Palestinians would again be free to move in the targeted areas near the Al-Bureij and Nuseirat refugee camps.<br>• \"We would like to inform you that the activity has ended, and the Salah al-Din axis has been reopened,\" COGAT said in an Arabic-language statement on Facebook, referring to the war-shattered territory's main thoroughfare."
-    },
-    {
-      "category": "ir",
-      "categoryLabel": "🌐 International Relations",
-      "title": "COP31 negotiators publish revised deal draft with no mention of fossil fuels",
-      "link": "https://www.thehindu.com/news/international/cop31-negotiators-publish-revised-deal-draft-with-no-mention-of-fossil-fuels/article71721240.ece",
-      "pubDate": "Thu, 19 Nov 2026 23:02:26 +0530",
-      "dateIso": "2026-11-20",
-      "dateDisplay": "20 Nov 2026",
-      "examRelevance": "GS Paper-II & Current Affairs: Bilateral Agreements, Foreign Visits & UN/G20/BRICS",
-      "imageUrl": "https://th-i.thgim.com/public/incoming/geub04/article71721745.ece/alternates/LANDSCAPE_1200/2026-11-19T105448Z_776698160_RC2XQOAXCYO6_RTRMADP_3_CLIMATE-COP31.JPG",
-      "fullParagraphs": [
-        "The latest iteration of the COP 31 draft cover text has eliminated references to fossil fuel phase-out and net-zero dates but has also deleted references to a firm $120 billion adaptation-finance target that developing countries have been asking for as “legally binding financial obligations” on developed countries. This suggests that the most ambitious demands of both the developed and developing country blocs have been eliminated.",
-        "A cover text is an overarching political decision that frames the outcome of a climate conference rather than settling any single agenda item. It is usually finalised last, and like every outcome it needs the consensus of all Parties. The Presidency has said earlier drafts were not meant to reflect consensus.",
-        "The COP31 Presidency’s revised draft cover decision, dated November 19, has 80 paragraphs, down from 144 in the November 16 version. The summit officially ends on November 20, though negotiations frequently overshoot into the weekend.",
-        "A major concern raised by developing countries, of phasing out unilateral trade measures such as the CBAM (Carbon Border Adjustment Mechanism) by 2027, that was present in the earlier draft has also been eliminated.",
-        "However, a widely expected outcome of raising electricity’s share in final energy consumption to 35% by 2035, scaling up the use of carbon capture utilisation technologies and making early warning systems universal by 2027, continue to find mention in the text. A broad commitment to triple adaptation finance also remains.",
-        "“ The draft cover text weaves the 35% electricity in final energy consumption by 2035, alongside tripling renewable energy capacity and doubling the rate of energy efficiency improvement by 2030, ” Ajay Mathur, India’s lead negotiator at Paris COP and former DG, International Solar Alliance, said in a statement. The electricity use in India went up by 13% in 2025 due to the Hormuz crisis alone. It will be an ambitious goal for India to achieve 35% electrification by 2035, but due to the increasing amount of renewable energy in the Indian energy mix, we will be near the 32-34% mark by 2035. ”",
-        "“We’re down to the wire at COP31, and the latest texts are alarmingly far from ambitious or equitable,” said Rachel Cleetus, Climate Program director at the Union of Concerned Scientists (UCS) in a statement. “Rich nations, most notably the EU nations, are still holding a harsh line against committing to tripling adaptation finance to at least $120 billion annually by 2035. Instead of reaching agreement on urgently needed climate finance, some countries seem willing to push negotiations toward failure.”",
-        "United Nations / climate change / climate change (politics) / United Nations (climate change)"
-      ],
-      "deepExplanation": "<strong>1. Core Context & Background:</strong> The latest iteration of the COP 31 draft cover text has eliminated references to fossil fuel phase-out and net-zero dates but has also deleted references to a firm $120 billion adaptation-finance target that developing countries have been asking for as “legally binding financial obligations” on developed countries.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> This suggests that the most ambitious demands of both the developed and developing country blocs have been eliminated. A cover text is an overarching political decision that frames the outcome of a climate conference rather than settling any single agenda item.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Instead of reaching agreement on urgently needed climate finance, some countries seem willing to push negotiations toward failure.” United Nations / climate change / climate change (politics) / United Nations (climate change)",
-      "vocabList": [
-        "Iteration",
-        "Eliminated",
-        "References",
-        "Adaptation",
-        "Developing",
-        "Financial"
-      ],
-      "summary": "The latest iteration of the COP 31 draft cover text has eliminated references to fossil fuel phase-out and net-zero dates but has also deleted references to a firm $120 billion adaptation-finance target that developing countries have been asking for as “legally binding financial obligations” on developed countries. This suggests that the most ambitious demands of both the developed and developing country blocs have been eliminated.",
-      "keyPoints": "• The latest iteration of the COP 31 draft cover text has eliminated references to fossil fuel phase-out and net-zero dates but has also deleted references to a firm $120 billion adaptation-finance target that developing countries have been asking for as “legally binding financial obligations” on developed countries. This suggests that the most ambitious demands of both the developed and developing country blocs have been eliminated.<br>• A cover text is an overarching political decision that frames the outcome of a climate conference rather than settling any single agenda item. It is usually finalised last, and like every outcome it needs the consensus of all Parties. The Presidency has said earlier drafts were not meant to reflect consensus.<br>• The COP31 Presidency’s revised draft cover decision, dated November 19, has 80 paragraphs, down from 144 in the November 16 version. The summit officially ends on November 20, though negotiations frequently overshoot into the weekend."
     },
     {
       "category": "ir",
@@ -616,38 +623,70 @@
     {
       "category": "scitech",
       "categoryLabel": "🚀 Science, Tech & Environment",
-      "title": "Anthropic soars in Wall Street debut despite AI jitters",
+      "title": "Anthropic shares close 17% higher on first day of trading",
       "link": "https://www.thehindu.com/business/markets/ai-firm-anthropic-shares-wall-streets-nasdaq-debut/article71721723.ece",
-      "pubDate": "Fri, 20 Nov 2026 00:46:06 +0530",
+      "pubDate": "Fri, 20 Nov 2026 02:46:25 +0530",
       "dateIso": "2026-11-20",
       "dateDisplay": "20 Nov 2026",
       "examRelevance": "GS Paper-III & Prelims: ISRO/NASA Missions, Defense Updates, Tech & Climate Reports",
       "imageUrl": "https://th-i.thgim.com/public/incoming/yxpacp/article71721737.ece/alternates/LANDSCAPE_1200/2026-11-19T185133Z_834393249_RC21ROA35LC1_RTRMADP_3_ANTHROPIC-IPO-DEBUT.JPG",
       "fullParagraphs": [
-        "Anthropic shares opened 34% higher in their Nasdaq debut on Thursday (November 19, 2026), briefly valuing the AI giant around $2 trillion, as investors shrugged off the Nvidia spy scandal and fears of a tech bubble.",
-        "The shares opened at $111.50 before settling minutes into trading at around $98, up 18% from the $83 at which the company priced its shares on Wednesday (November 18, 2026), already above its expected range.",
-        "Anthropic raised a record $81.3 billion in the offering. The IPO price valued the maker of the Claude chatbot at about $1.5 trillion, including employee stock options and restricted shares. At around $98 a share, the company was worth about $1.8 trillion.",
+        "Anthropic shares closed about 17% higher on their first day of trading on Thursday (November 19, 2026), as investors shrugged off the Nvidia spy scandal and fears of a tech bubble to snap up the AI giant’s stock after a record-breaking IPO.",
+        "The shares ended the session at around $97, up from an IPO price of $83, after opening at $111.50 and briefly valuing the maker of the Claude chatbot at about $2 trillion.",
         "The debut marks a milestone in the AI boom. A company founded five years ago by OpenAI defectors worried about AI safety has become the first of the leading model developers to list on Wall Street, at a valuation rivalling decades-old tech brands.",
         "The listing, under the ticker “ANT,” gives ordinary investors their first chance to bet directly on a stand-alone AI giant.",
-        "“Today puts the company in a stronger financial position, and in doing so, only strengthens our resolve to do the right thing,” chief executive Dario Amodei said at the Nasdaq in New York’s Times Square, underlining the company’s priority of promoting safe AI.",
-        "The offering surpasses the $75 billion that Elon Musk’s SpaceX raised in its June IPO at a valuation of $1.77 trillion.",
         "SpaceX’s total ultimately rose to $86 billion after its underwriters exercised an option to buy additional shares. Anthropic has granted its underwriters a similar option, which would lift its total to about $93.5 billion.",
         "“This may be the breath of fresh air that the tech trade needed to move beyond the fog of artificial intelligence that we’ve been living in for the last couple of weeks,” Art Hogan of B. Riley Wealth Management told AFP .",
         "The strong demand comes even as AI stocks have swung sharply, with investors questioning whether heavy spending on the technology will pay off.",
         "Nvidia, the chip giant at the centre of the AI investment boom and an investor in Anthropic and dozens of other AI companies, has been shaken by the resignation of chief executive Jensen Huang after a reported affair with a woman suspected by U.S. intelligence to be a Chinese spy.",
-        "Anthropic’s Claude models are among the most powerful in the world, hailed for their problem-solving potential but also feared for their capacity to destabilise societies and replace human workers."
+        "Anthropic’s Claude models are among the most powerful in the world, hailed for their problem-solving potential but also feared for their capacity to destabilise societies and replace human workers.",
+        "The five-year-old company’s revenue has surged at a pace few U.S. companies have ever matched, reaching $17 billion in the third quarter, up from $1.4 billion a year earlier.",
+        "Much of that revenue comes from customers paying to use its AI models for computer coding. Its massive computing costs remain a major question for investors.",
+        "Anthropic has disclosed about $900 billion in commitments for computing capacity and warned in its filing that it must make many of those payments even if demand falls short."
       ],
-      "deepExplanation": "<strong>1. Core Context & Background:</strong> Anthropic shares opened 34% higher in their Nasdaq debut on Thursday (November 19, 2026), briefly valuing the AI giant around $2 trillion, as investors shrugged off the Nvidia spy scandal and fears of a tech bubble.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> The shares opened at $111.50 before settling minutes into trading at around $98, up 18% from the $83 at which the company priced its shares on Wednesday (November 18, 2026), already above its expected range. Anthropic raised a record $81.3 billion in the offering.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Anthropic’s Claude models are among the most powerful in the world, hailed for their problem-solving potential but also feared for their capacity to destabilise societies and replace human workers.",
+      "deepExplanation": "<strong>1. Core Context & Background:</strong> Anthropic shares closed about 17% higher on their first day of trading on Thursday (November 19, 2026), as investors shrugged off the Nvidia spy scandal and fears of a tech bubble to snap up the AI giant’s stock after a record-breaking IPO.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> The shares ended the session at around $97, up from an IPO price of $83, after opening at $111.50 and briefly valuing the maker of the Claude chatbot at about $2 trillion. The debut marks a milestone in the AI boom.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Anthropic has disclosed about $900 billion in commitments for computing capacity and warned in its filing that it must make many of those payments even if demand falls short.",
       "vocabList": [
         "Anthropic",
         "Thursday",
         "November",
-        "Trillion",
         "Investors",
-        "Shrugged"
+        "Shrugged",
+        "Breaking"
       ],
-      "summary": "Anthropic shares opened 34% higher in their Nasdaq debut on Thursday (November 19, 2026), briefly valuing the AI giant around $2 trillion, as investors shrugged off the Nvidia spy scandal and fears of a tech bubble.",
-      "keyPoints": "• Anthropic shares opened 34% higher in their Nasdaq debut on Thursday (November 19, 2026), briefly valuing the AI giant around $2 trillion, as investors shrugged off the Nvidia spy scandal and fears of a tech bubble.<br>• The shares opened at $111.50 before settling minutes into trading at around $98, up 18% from the $83 at which the company priced its shares on Wednesday (November 18, 2026), already above its expected range.<br>• Anthropic raised a record $81.3 billion in the offering. The IPO price valued the maker of the Claude chatbot at about $1.5 trillion, including employee stock options and restricted shares. At around $98 a share, the company was worth about $1.8 trillion."
+      "summary": "Anthropic shares closed about 17% higher on their first day of trading on Thursday (November 19, 2026), as investors shrugged off the Nvidia spy scandal and fears of a tech bubble to snap up the AI giant’s stock after a record-breaking IPO.",
+      "keyPoints": "• Anthropic shares closed about 17% higher on their first day of trading on Thursday (November 19, 2026), as investors shrugged off the Nvidia spy scandal and fears of a tech bubble to snap up the AI giant’s stock after a record-breaking IPO.<br>• The shares ended the session at around $97, up from an IPO price of $83, after opening at $111.50 and briefly valuing the maker of the Claude chatbot at about $2 trillion.<br>• The debut marks a milestone in the AI boom. A company founded five years ago by OpenAI defectors worried about AI safety has become the first of the leading model developers to list on Wall Street, at a valuation rivalling decades-old tech brands."
+    },
+    {
+      "category": "scitech",
+      "categoryLabel": "🚀 Science, Tech & Environment",
+      "title": "Draft of COP31 cover text drops references to fossil fuel phase-out, net zero dates",
+      "link": "https://www.thehindu.com/news/international/cop31-negotiators-publish-revised-deal-draft-with-no-mention-of-fossil-fuels/article71721240.ece",
+      "pubDate": "Fri, 20 Nov 2026 01:01:16 +0530",
+      "dateIso": "2026-11-20",
+      "dateDisplay": "20 Nov 2026",
+      "examRelevance": "GS Paper-III & Prelims: ISRO/NASA Missions, Defense Updates, Tech & Climate Reports",
+      "imageUrl": "https://th-i.thgim.com/public/incoming/geub04/article71721745.ece/alternates/LANDSCAPE_1200/2026-11-19T105448Z_776698160_RC2XQOAXCYO6_RTRMADP_3_CLIMATE-COP31.JPG",
+      "fullParagraphs": [
+        "The latest iteration of the COP 31 draft cover text has eliminated references to fossil fuel phase-out and net-zero dates but has also deleted references to a firm $120 billion adaptation-finance target that developing countries have been asking for as “legally binding financial obligations” on developed countries. This suggests that the most ambitious demands of both the developed and developing country blocs have been eliminated.",
+        "A cover text is an overarching political decision that frames the outcome of a climate conference rather than settling any single agenda item. It is usually finalised last, and like every outcome it needs the consensus of all Parties. The Presidency has said earlier drafts were not meant to reflect consensus.",
+        "The COP31 Presidency’s revised draft cover decision, dated November 19, has 80 paragraphs, down from 144 in the November 16 version. The summit officially ends on November 20, though negotiations frequently overshoot into the weekend.",
+        "A major concern raised by developing countries, of phasing out unilateral trade measures such as the CBAM (Carbon Border Adjustment Mechanism) by 2027, that was present in the earlier draft has also been eliminated.",
+        "However, a widely expected outcome of raising electricity’s share in final energy consumption to 35% by 2035, scaling up the use of carbon capture utilisation technologies and making early warning systems universal by 2027, continue to find mention in the text. A broad commitment to triple adaptation finance also remains.",
+        "“ The draft cover text weaves the 35% electricity in final energy consumption by 2035, alongside tripling renewable energy capacity and doubling the rate of energy efficiency improvement by 2030, ” Ajay Mathur, India’s lead negotiator at Paris COP and former DG, International Solar Alliance, said in a statement. The electricity use in India went up by 13% in 2025 due to the Hormuz crisis alone. It will be an ambitious goal for India to achieve 35% electrification by 2035, but due to the increasing amount of renewable energy in the Indian energy mix, we will be near the 32-34% mark by 2035. ”",
+        "“We’re down to the wire at COP31, and the latest texts are alarmingly far from ambitious or equitable,” said Rachel Cleetus, Climate Program director at the Union of Concerned Scientists (UCS) in a statement. “Rich nations, most notably the EU nations, are still holding a harsh line against committing to tripling adaptation finance to at least $120 billion annually by 2035. Instead of reaching agreement on urgently needed climate finance, some countries seem willing to push negotiations toward failure.”",
+        "United Nations / climate change / climate change (politics) / United Nations (climate change)"
+      ],
+      "deepExplanation": "<strong>1. Core Context & Background:</strong> The latest iteration of the COP 31 draft cover text has eliminated references to fossil fuel phase-out and net-zero dates but has also deleted references to a firm $120 billion adaptation-finance target that developing countries have been asking for as “legally binding financial obligations” on developed countries.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> This suggests that the most ambitious demands of both the developed and developing country blocs have been eliminated. A cover text is an overarching political decision that frames the outcome of a climate conference rather than settling any single agenda item.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Instead of reaching agreement on urgently needed climate finance, some countries seem willing to push negotiations toward failure.” United Nations / climate change / climate change (politics) / United Nations (climate change)",
+      "vocabList": [
+        "Iteration",
+        "Eliminated",
+        "References",
+        "Adaptation",
+        "Developing",
+        "Financial"
+      ],
+      "summary": "The latest iteration of the COP 31 draft cover text has eliminated references to fossil fuel phase-out and net-zero dates but has also deleted references to a firm $120 billion adaptation-finance target that developing countries have been asking for as “legally binding financial obligations” on developed countries. This suggests that the most ambitious demands of both the developed and developing country blocs have been eliminated.",
+      "keyPoints": "• The latest iteration of the COP 31 draft cover text has eliminated references to fossil fuel phase-out and net-zero dates but has also deleted references to a firm $120 billion adaptation-finance target that developing countries have been asking for as “legally binding financial obligations” on developed countries. This suggests that the most ambitious demands of both the developed and developing country blocs have been eliminated.<br>• A cover text is an overarching political decision that frames the outcome of a climate conference rather than settling any single agenda item. It is usually finalised last, and like every outcome it needs the consensus of all Parties. The Presidency has said earlier drafts were not meant to reflect consensus.<br>• The COP31 Presidency’s revised draft cover decision, dated November 19, has 80 paragraphs, down from 144 in the November 16 version. The summit officially ends on November 20, though negotiations frequently overshoot into the weekend."
     },
     {
       "category": "scitech",
@@ -775,34 +814,6 @@
       ],
       "summary": "Imagine having a medicine that could help manage your child’s rare genetic condition, but being unable to afford it because a year’s treatment costs as much as ₹9 crore. For seven families in India, that situation could soon change.",
       "keyPoints": "• Imagine having a medicine that could help manage your child’s rare genetic condition, but being unable to afford it because a year’s treatment costs as much as ₹9 crore. For seven families in India, that situation could soon change.<br>• Seven children diagnosed with Allan-Herndon-Dudley syndrome (AHDS), a rare genetic disorder, are set to receive a year’s supply of the medicine tiratricol free of cost on November 30, following an initiative led by Hyderabad-based paediatrician Dr. Sivaranjani Santosh and Access to Medicines India.<br>• The development is significant not just because the families will receive the medicine without paying for it, but also because its cost has been brought down through pharmaceutical compounding in the Netherlands. While the commercial version of the drug costs approximately ₹4.68 crore to ₹9 crore per child annually, the compounded formulation is estimated to cost just ₹2.5 lakh per child for a year."
-    },
-    {
-      "category": "scitech",
-      "categoryLabel": "🚀 Science, Tech & Environment",
-      "title": "Sellas’ cancer vaccine extends survival in blood cancer trial, company says",
-      "link": "https://www.thehindu.com/sci-tech/health/sellas-cancer-vaccine-extends-survival-in-blood-cancer-trial-company-says/article71719791.ece",
-      "pubDate": "Thu, 19 Nov 2026 17:42:34 +0530",
-      "dateIso": "2026-11-20",
-      "dateDisplay": "20 Nov 2026",
-      "examRelevance": "GS Paper-III & Prelims: ISRO/NASA Missions, Defense Updates, Tech & Climate Reports",
-      "imageUrl": "https://th-i.thgim.com/public/incoming/i6ejd1/article71719871.ece/alternates/LANDSCAPE_1200/iStock-962823676.jpg",
-      "fullParagraphs": [
-        "Sellas Life ‌Sciences said on Tuesday, November 17, 2026 that its ​experimental ⁠vaccine helped patients with a type of blood ‌cancer live longer in ‌a late-stage ‌trial.",
-        "The ⁠vaccine, called galinpepimut-S ⁠or GPS, was tested in patients with acute ​myeloid ‌leukaemia, a fast-growing cancer of the blood and bone marrow.",
-        "Patients ‌who received ​GPS lived a median of ⁠24 months, compared to 14.7 months ‌for those given the best available treatment, Sellas said.",
-        "The company plans to talk ‌to the U.S. Food ​and Drug Administration about seeking approval ⁠for the vaccine. ⁠Its shares were halted in premarket ‌trading."
-      ],
-      "deepExplanation": "<strong>1. Core Context & Background:</strong> Sellas Life ‌Sciences said on Tuesday, November 17, 2026 that its ​experimental ⁠vaccine helped patients with a type of blood ‌cancer live longer in ‌a late-stage ‌trial.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> The ⁠vaccine, called galinpepimut-S ⁠or GPS, was tested in patients with acute ​myeloid ‌leukaemia, a fast-growing cancer of the blood and bone marrow. Patients ‌who received ​GPS lived a median of ⁠24 months, compared to 14.7 months ‌for those given the best available treatment, Sellas said.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> ⁠Its shares were halted in premarket ‌trading.",
-      "vocabList": [
-        "Sciences",
-        "November",
-        "Experimental",
-        "Patients",
-        "Galinpepimut",
-        "Leukaemia"
-      ],
-      "summary": "Sellas Life ‌Sciences said on Tuesday, November 17, 2026 that its ​experimental ⁠vaccine helped patients with a type of blood ‌cancer live longer in ‌a late-stage ‌trial.",
-      "keyPoints": "• Sellas Life ‌Sciences said on Tuesday, November 17, 2026 that its ​experimental ⁠vaccine helped patients with a type of blood ‌cancer live longer in ‌a late-stage ‌trial.<br>• The ⁠vaccine, called galinpepimut-S ⁠or GPS, was tested in patients with acute ​myeloid ‌leukaemia, a fast-growing cancer of the blood and bone marrow.<br>• Patients ‌who received ​GPS lived a median of ⁠24 months, compared to 14.7 months ‌for those given the best available treatment, Sellas said."
     },
     {
       "category": "editorial",
@@ -967,8 +978,107 @@
     "2026-11-20": {
       "dateIso": "2026-11-20",
       "dateDisplay": "20 Nov 2026",
-      "updatedAt": "20 Nov 2026, 01:57 AM IST",
+      "updatedAt": "20 Nov 2026, 02:57 AM IST",
       "articles": [
+        {
+          "category": "national",
+          "categoryLabel": "🏛️ National & Polity",
+          "title": "FIR against two former Bengal Ministers over sexual assault charges",
+          "link": "https://www.thehindu.com/news/national/west-bengal/fir-against-two-former-bengal-ministers-over-sexual-assault-charges/article71721081.ece",
+          "pubDate": "Fri, 20 Nov 2026 02:05:27 +0530",
+          "dateIso": "2026-11-20",
+          "dateDisplay": "20 Nov 2026",
+          "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
+          "imageUrl": "https://www.thehindu.com/theme/images/og-image.png",
+          "fullParagraphs": [
+            "A First Information Report (FIR) has been lodged against two former Ministers in the West Bengal government, Indranil Sen and Bratya Basu, along with several senior government officials, over multiple charges, including sexual assault.",
+            "The FIR was lodged at Baguiati Police Station under the Bidhannagar Commissionerate by social activist Rajib Sarkar on behalf of multiple women who have either been artists or employed by the West Bengal Information and Cultural Affairs Department.",
+            "The two Ministers have been accused of rape, wrongful confinement, extortion, criminal breach of trust, cheating, repeated sexual assault, corruption and criminal conspiracy.",
+            "“Several women approached me and levelled serious allegations against the two ministers. They have been threatened, harassed, and tortured when they asked for what they deserved. They should now get justice,” said Mr. Sarkar, speaking to the media.",
+            "A zero FIR has been registered against 40 accused individuals, including the two former Ministers, he said.",
+            "Mr. Basu, an actor and playwright, served as the Education Minister in the previous Trinamool Congress government led by then Chief Minister Mamata Banerjee. Mr. Sen, a singer-turned-politician, served as the Minister of State with independent charge for the Cultural Affairs and Tourism Departments. Mr. Sen was arrested by the Kolkata Police on October 28, 2026, in connection with a Durga Puja ticket scam case by the Enforcement Directorate.",
+            "Five former Ministers, who had been part of Mamata Banerjee’s cabinet, have been arrested since the Bharatiya Janata Party (BJP) government came to power in May 2026.",
+            "The arrests of former ministers began with former state Fire Services Minister Sujit Bose. Three other former ministers were subsequently arrested: Dilip Mondal, who served as Minister of State for Transport; Ujjal Biswas, the former Correctional Services Minister; and Udayana Guha, who held the North Bengal Development portfolio. Ujjwal Biswas, who was out on bail, passed away on November 11, triggering strong reactions from Mamata Banerjee, who claimed political vendetta behind the arrests."
+          ],
+          "deepExplanation": "<strong>1. Core Context & Background:</strong> A First Information Report (FIR) has been lodged against two former Ministers in the West Bengal government, Indranil Sen and Bratya Basu, along with several senior government officials, over multiple charges, including sexual assault.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> The FIR was lodged at Baguiati Police Station under the Bidhannagar Commissionerate by social activist Rajib Sarkar on behalf of multiple women who have either been artists or employed by the West Bengal Information and Cultural Affairs Department. The two Ministers have been accused of rape, wrongful confinement, extortion, criminal breach of trust, cheating, repeated sexual assault, corruption and criminal conspiracy.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Ujjwal Biswas, who was out on bail, passed away on November 11, triggering strong reactions from Mamata Banerjee, who claimed political vendetta behind the arrests.",
+          "vocabList": [
+            "Information",
+            "Ministers",
+            "Indranil",
+            "Officials",
+            "Multiple",
+            "Baguiati"
+          ],
+          "summary": "A First Information Report (FIR) has been lodged against two former Ministers in the West Bengal government, Indranil Sen and Bratya Basu, along with several senior government officials, over multiple charges, including sexual assault.",
+          "keyPoints": "• A First Information Report (FIR) has been lodged against two former Ministers in the West Bengal government, Indranil Sen and Bratya Basu, along with several senior government officials, over multiple charges, including sexual assault.<br>• The FIR was lodged at Baguiati Police Station under the Bidhannagar Commissionerate by social activist Rajib Sarkar on behalf of multiple women who have either been artists or employed by the West Bengal Information and Cultural Affairs Department.<br>• The two Ministers have been accused of rape, wrongful confinement, extortion, criminal breach of trust, cheating, repeated sexual assault, corruption and criminal conspiracy."
+        },
+        {
+          "category": "national",
+          "categoryLabel": "🏛️ National & Polity",
+          "title": "Cyclone ‘Akvan’ updates: Three lakh evacuated, 423 rescue teams deployed as cyclone heads to Odisha",
+          "link": "https://www.thehindu.com/news/national/cyclone-akwan-tracker-live-updates-odisha-andhra-pradesh-landfall-imd-map-location-puri-vizag-bay-of-bengal/article71718788.ece",
+          "pubDate": "Fri, 20 Nov 2026 01:43:37 +0530",
+          "dateIso": "2026-11-20",
+          "dateDisplay": "20 Nov 2026",
+          "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/ctdcyd/article71721246.ece/alternates/LANDSCAPE_1200/PTI11_19_2026_000374A.jpg",
+          "fullParagraphs": [
+            "The Disaster Management Unit of Union Ministry of Communications has instructed telecom service providers to activate Intra Circle Roaming facility in Ganjam, Gajapati, Puri, Kendrapara, Jagatsinghpur and Khordha district on November 20.",
+            "As per information provided by Odisha Space Applications Centre, as many as 941 places have been identified as landslip prone areas including 211 in Gajapati district, Ganjam (169), Rayagada (169), Kandhamal (163) Koraput (151) and Malkangiri (78), said Mr. Pujari while reviewing preparation for cyclone “Akvan” on November 19, 2026.",
+            "Ghat roads (hill passes) such as Kalinga and Gajalbadi connecting Ganjam and Kandhamal districts have been barricaded, apprehending landslides. Red warning for heavy to very heavy rainfall has been issued for districts such as Kendrapada, Jagatsinghpur, Puri, Ganjam, Gajapati, and Kandhamal.",
+            "“Water Resources Department has started depleting reservoirs in districts to be affected by the cyclone. Engineers are continuously monitoring situation while technical teams have been deployed. Two gates of major dam and 23 gates of different medium irrigation dams are kept opened,” said Odisha Chief Secretary Anu Garg. - Satyasundar Barik",
+            "Severe Cyclonic Storm ‘Akvan’ over the westcentral Bay of Bengal moved northwards at a speed of 13 kmph during the past six hours and was centred over the same region at 5.30 p.m. on November 19, 2026, according to the India Meteorological Department (IMD).",
+            "The cyclone is likely to move north-northwestwards and cross North Andhra Pradesh and South Odisha coasts close to Gopalpur by noon on November 20.",
+            "Revenue and Disaster Management Minister Suresh Pujari informed that senior bureaucrats were assigned different districts to monitor rescue-and-restoration activities, besides monitoring situations from State Emergency Operation Centres. In Ganjam and Gajapati districts, 17 satellite phones were provided to key persons to remain in contact if communication network is snapped due to cyclone.",
+            "As part of the preparedness measures, 70 Cell-on-Wheels (CoW) units, 197 Mobile Diesel Generator (DG) sets and 61 support teams have been deployed to strengthen telecom infrastructure and ensure continuity of communication during the cyclone. The Disaster Management Unit of Union Ministry of Communications has instructed telecom service providers to activate Intra Circle Roaming facility in Ganjam, Gajapati, Puri, Kendrapara, Jagatsinghpur and Khordha district on November 20. - Satyasundar Barik",
+            "Odisha on Thursday (November 19, 2026) geared up to tackle Severe Cyclonic Storm ‘Akvan’, which is expected to cross the State’s coast near Gopalpur by noon on November 20, with heavy rain and maximum sustained wind speeds of 90-100 kmph, gusting to 110 kmph. The State shifted close to three lakh people to safer places by evening.",
+            "As many as 60 units Odisha Disaster Rapid Action Force, 14 units of National Disaster Response Force and 221 teams of State fire services have been positioned at vulnerable areas to carry out rescue and restoration operation soon after ‘Akvan’ passed through the State.",
+            "“The severe cyclonic storm “Akvan” over the westcentral Bay of Bengal moved northwards with the speed of 13 kmph during past six hours and lay centered over the same region about 270 km south-southeast of Kalingapatnam (Andhra Pradesh), 350 km south of Gopalpur (Odisha), 380 km east of Narsapur (Andhra Pradesh), 420 km south of Puri (Odisha) and 640 km east-northeast of Chennai (Tamil Nadu),” said India Meteorological Department in its 8 p.m. bulletin on Thursday.",
+            "“It is likely to move north-northwestward and cross North Andhra Pradesh and South Odisha coasts close to Gopalpur, by noon of November 20, 2026 with the maximum sustained wind speed of 90-100 kmph gusting to 110 kmph,” it said."
+          ],
+          "deepExplanation": "<strong>1. Core Context & Background:</strong> The Disaster Management Unit of Union Ministry of Communications has instructed telecom service providers to activate Intra Circle Roaming facility in Ganjam, Gajapati, Puri, Kendrapara, Jagatsinghpur and Khordha district on November 20.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> As per information provided by Odisha Space Applications Centre, as many as 941 places have been identified as landslip prone areas including 211 in Gajapati district, Ganjam (169), Rayagada (169), Kandhamal (163) Koraput (151) and Malkangiri (78), said Mr. Pujari while reviewing preparation for cyclone “Akvan” on November 19, 2026.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> “It is likely to move north-northwestward and cross North Andhra Pradesh and South Odisha coasts close to Gopalpur, by noon of November 20, 2026 with the maximum sustained wind speed of 90-100 kmph gusting to 110 kmph,” it said.",
+          "vocabList": [
+            "Disaster",
+            "Management",
+            "Ministry",
+            "Communications",
+            "Instructed",
+            "Providers"
+          ],
+          "summary": "The Disaster Management Unit of Union Ministry of Communications has instructed telecom service providers to activate Intra Circle Roaming facility in Ganjam, Gajapati, Puri, Kendrapara, Jagatsinghpur and Khordha district on November 20.",
+          "keyPoints": "• The Disaster Management Unit of Union Ministry of Communications has instructed telecom service providers to activate Intra Circle Roaming facility in Ganjam, Gajapati, Puri, Kendrapara, Jagatsinghpur and Khordha district on November 20.<br>• As per information provided by Odisha Space Applications Centre, as many as 941 places have been identified as landslip prone areas including 211 in Gajapati district, Ganjam (169), Rayagada (169), Kandhamal (163) Koraput (151) and Malkangiri (78), said Mr. Pujari while reviewing preparation for cyclone “Akvan” on November 19, 2026.<br>• Ghat roads (hill passes) such as Kalinga and Gajalbadi connecting Ganjam and Kandhamal districts have been barricaded, apprehending landslides. Red warning for heavy to very heavy rainfall has been issued for districts such as Kendrapada, Jagatsinghpur, Puri, Ganjam, Gajapati, and Kandhamal."
+        },
+        {
+          "category": "national",
+          "categoryLabel": "🏛️ National & Polity",
+          "title": "Trinamool party symbol row: Abhishek Banerjee says twin flower symbol will return in seven days",
+          "link": "https://www.thehindu.com/news/national/west-bengal/trinamool-party-symbol-row-abhishek-banerjee-says-twin-flower-symbol-will-return-in-seven-days/article71721362.ece",
+          "pubDate": "Fri, 20 Nov 2026 01:29:48 +0530",
+          "dateIso": "2026-11-20",
+          "dateDisplay": "20 Nov 2026",
+          "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/au3c8f/article71721777.ece/alternates/LANDSCAPE_1200/20261105505L.jpg",
+          "fullParagraphs": [
+            "The two rival factions of the Trinamool Congress have become embroiled in a war of words over the party’s twin-flower symbol that has been frozen by the Election Commission of India (ECI). Diamond Harbour MP Abhishek Banerjee and Mamata All India Trinamool Congress on November 18 said that the original electoral symbol of the party will ultimately remain with Mamata Banerjee.",
+            "“The original name and electoral symbol had always been with Mamata Banerjee and will continue to remain so in the future. Just wait for seven days. We will prove how manipulations were made in filing affidavits to establish the right over the original party name and original electoral symbol. We will display that on the big screen,” Mr. Banerjee told media persons.",
+            "Mr. Banerjee has claimed that the faction of the party led by Ritabrata Banerjee filed affidavits with the help of the West Bengal Police. The Diamond Harbour MP had claimed that the alleged attack on his residence on November 7 was intended to interfere with the filing of affidavits, staking a claim over the affidavits.",
+            "Leader of the Opposition in the West Bengal Assembly Ritabrata Banerjee said that the symbol does not belong to either faction and Mr. Banerjee will not be able to stake claim over the symbol in seven births.",
+            "“He has said that they will get the symbol in seven days, they will not get the symbol in seven births,” the LOP, which represents the Democratic Trinamool Congress, said.",
+            "The ECI on September 17, 2026, had barred both factions, the Mamata Banerjee-led faction and the Ritabrata Banerjee-led faction of the party, from using the party symbol and name in the bypolls in Nandigram and Rejinagar in West Bengal which were scheduled on October 6. The very next day, on September 18, the Mamata faction got the name ‘Mamata All India Trinamool Congress’ with ‘football player’ as its symbol , while the Ritabrata grouping was allotted the name ‘Democratic Trinamool Congress’ with the symbol ‘envelope’.",
+            "Both the factions of the Trinamool Congress have submitted truckloads of affidavits to the ECI, which includes support by party members, MPs and MLAs. Ritabrata Banerjee claims support of 65 of the 80 MLAs of the party. The faction of Mamata Banerjee has the support of a handful of MLAs and MPs who have not defected to NCPI or joined the BJP after the West Bengal Assembly polls of 2026."
+          ],
+          "deepExplanation": "<strong>1. Core Context & Background:</strong> The two rival factions of the Trinamool Congress have become embroiled in a war of words over the party’s twin-flower symbol that has been frozen by the Election Commission of India (ECI).<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Diamond Harbour MP Abhishek Banerjee and Mamata All India Trinamool Congress on November 18 said that the original electoral symbol of the party will ultimately remain with Mamata Banerjee. “The original name and electoral symbol had always been with Mamata Banerjee and will continue to remain so in the future.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> The faction of Mamata Banerjee has the support of a handful of MLAs and MPs who have not defected to NCPI or joined the BJP after the West Bengal Assembly polls of 2026.",
+          "vocabList": [
+            "Factions",
+            "Trinamool",
+            "Congress",
+            "Embroiled",
+            "Election",
+            "Commission"
+          ],
+          "summary": "The two rival factions of the Trinamool Congress have become embroiled in a war of words over the party’s twin-flower symbol that has been frozen by the Election Commission of India (ECI). Diamond Harbour MP Abhishek Banerjee and Mamata All India Trinamool Congress on November 18 said that the original electoral symbol of the party will ultimately remain with Mamata Banerjee.",
+          "keyPoints": "• The two rival factions of the Trinamool Congress have become embroiled in a war of words over the party’s twin-flower symbol that has been frozen by the Election Commission of India (ECI). Diamond Harbour MP Abhishek Banerjee and Mamata All India Trinamool Congress on November 18 said that the original electoral symbol of the party will ultimately remain with Mamata Banerjee.<br>• “The original name and electoral symbol had always been with Mamata Banerjee and will continue to remain so in the future. Just wait for seven days. We will prove how manipulations were made in filing affidavits to establish the right over the original party name and original electoral symbol. We will display that on the big screen,” Mr. Banerjee told media persons.<br>• Mr. Banerjee has claimed that the faction of the party led by Ritabrata Banerjee filed affidavits with the help of the West Bengal Police. The Diamond Harbour MP had claimed that the alleged attack on his residence on November 7 was intended to interfere with the filing of affidavits, staking a claim over the affidavits."
+        },
         {
           "category": "national",
           "categoryLabel": "🏛️ National & Polity",
@@ -1056,98 +1166,6 @@
           ],
           "summary": "A 19-year-old B.Tech student of Vellore Institute of Technology Chennai, was found dead in the bathroom of the boy’s hostel, early on Thursday. The police are investigating whether it is a case of suicide.",
           "keyPoints": "• A 19-year-old B.Tech student of Vellore Institute of Technology Chennai, was found dead in the bathroom of the boy’s hostel, early on Thursday. The police are investigating whether it is a case of suicide.<br>• He was reportedly rushed to Tagore Medical College and Hospital, where the doctors declared him dead on arrival. The police registered a case and have sent the body for a post-mortem.<br>• The student was allegedly caught indulging in malpractice during an exam on Wednesday, a police note accessed by The Hindu said."
-        },
-        {
-          "category": "national",
-          "categoryLabel": "🏛️ National & Polity",
-          "title": "Set aside differences and oppose Mekedatu dam, says TNCC president",
-          "link": "https://www.thehindu.com/news/national/tamil-nadu/set-aside-differences-and-oppose-mekedatu-dam-says-tncc-president/article71720861.ece",
-          "pubDate": "Fri, 20 Nov 2026 00:46:32 +0530",
-          "dateIso": "2026-11-20",
-          "dateDisplay": "20 Nov 2026",
-          "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
-          "imageUrl": "https://th-i.thgim.com/public/incoming/xw5d8x/article71721734.ece/alternates/LANDSCAPE_1200/DSC_4024.JPG",
-          "fullParagraphs": [
-            "Tamil Nadu Congress Committee (TNCC) president B. Manickam Tagore on Thursday said the party would oppose the proposed Mekedatu dam across the Cauvery and called for all political parties in Tamil Nadu to unite against the project instead of indulging in mutual accusations.",
-            "He said the project could spell a death knell for the Cauvery delta and turn the region drought-prone. The Congress was clear that it would not compromise on Tamil Nadu’s legitimate rights, he said.",
-            "Calling for a united stand, he urged Chief Minister C. Joseph Vijay and former Chief Ministers M.K. Stalin, Edappadi K. Palaniswami, and O. Panneerselvam to join hands in opposing the project. He also questioned Prime Minister Narendra Modi’s silence when Karnataka Chief Minister D.K. Shivakumar spoke in favour of the project in his presence.",
-            "Referring to the recent meeting between three Tamil Nadu Ministers and Union Minister C.R. Paatil, Mr. Tagore said the State government should share the outcome of the discussions with the Assembly, its alliance partners, and the people.",
-            "Mr. Tagore also criticised the AIADMK for not participating in the all-party meeting and meeting of MPs convened by the Tamil Nadu government on delimitation, while subsequently supporting the Assembly resolution on the issue.",
-            "On the Congress-TVK relationship, he said the prominence given to Mr. Vijay at Sonia Gandhi’s book launch in Delhi reflected the strong and long-term ties between the two parties. He added that the Congress was committed to helping the government fulfil its promise of building a strong and drug-free Tamil Nadu."
-          ],
-          "deepExplanation": "<strong>1. Core Context & Background:</strong> Tamil Nadu Congress Committee (TNCC) president B.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Manickam Tagore on Thursday said the party would oppose the proposed Mekedatu dam across the Cauvery and called for all political parties in Tamil Nadu to unite against the project instead of indulging in mutual accusations. He said the project could spell a death knell for the Cauvery delta and turn the region drought-prone.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> He added that the Congress was committed to helping the government fulfil its promise of building a strong and drug-free Tamil Nadu.",
-          "vocabList": [
-            "Congress",
-            "President",
-            "Manickam",
-            "Thursday",
-            "Proposed",
-            "Mekedatu"
-          ],
-          "summary": "Tamil Nadu Congress Committee (TNCC) president B. Manickam Tagore on Thursday said the party would oppose the proposed Mekedatu dam across the Cauvery and called for all political parties in Tamil Nadu to unite against the project instead of indulging in mutual accusations.",
-          "keyPoints": "• Tamil Nadu Congress Committee (TNCC) president B. Manickam Tagore on Thursday said the party would oppose the proposed Mekedatu dam across the Cauvery and called for all political parties in Tamil Nadu to unite against the project instead of indulging in mutual accusations.<br>• He said the project could spell a death knell for the Cauvery delta and turn the region drought-prone. The Congress was clear that it would not compromise on Tamil Nadu’s legitimate rights, he said.<br>• Calling for a united stand, he urged Chief Minister C. Joseph Vijay and former Chief Ministers M.K. Stalin, Edappadi K. Palaniswami, and O. Panneerselvam to join hands in opposing the project. He also questioned Prime Minister Narendra Modi’s silence when Karnataka Chief Minister D.K. Shivakumar spoke in favour of the project in his presence."
-        },
-        {
-          "category": "national",
-          "categoryLabel": "🏛️ National & Polity",
-          "title": "Assam medical college department withdraws ‘defer marriage’ order for trainees after backlash",
-          "link": "https://www.thehindu.com/news/national/assam/assam-medical-college-department-withdraws-defer-marriage-order-for-trainees-after-backlash/article71721405.ece",
-          "pubDate": "Fri, 20 Nov 2026 00:45:02 +0530",
-          "dateIso": "2026-11-20",
-          "dateDisplay": "20 Nov 2026",
-          "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
-          "imageUrl": "https://www.thehindu.com/theme/images/og-image.png",
-          "fullParagraphs": [
-            "The Department of Medicine at Assam Medical College and Hospital in eastern Assam’s Dibrugarh has withdrawn an order advising postgraduate trainees (PGTs) of general medicine to defer “personal milestones such as marriage” until they complete their residency tenure.",
-            "Prasanta Dihingia, the Head of the Department, withdrew the order hours after issuing it on Wednesday (November 18, 2026). The withdrawal followed a backlash from a doctors’ body.",
-            "“With reference to the Order No.MED/2026/5700; Dtd. 18.11.2026, regarding the advisory issued to the PGTs of Deptt. of Medicine concerning personal milestones during their residency tenure, it is hereby notified that the Office Order is withdrawn with immediate effect,” the order read.",
-            "“Accordingly, the above-mentioned order is cancelled and treated as withdrawn from the date of issuance of this notice. All concerned are hereby informed to take note of the same,” it further read.",
-            "Earlier, the Federation of All India Medical Association (FAIMA) condemned the “unreasonable advisory” and demanded its immediate withdrawal.",
-            "“What’s next? NOC from the HOD for marriage and family planning? By the same logic, HODs should stay in the hospital 24×7 until retirement. After all, commitment to patient care should apply equally to everyone!” FAIMA posted on X, sharing the controversial order.",
-            "The association advised administrators to regulate duty hours, not the resident doctors’ personal lives.",
-            "“Residency is a postgraduate course, not a vow of celibacy!” it stated."
-          ],
-          "deepExplanation": "<strong>1. Core Context & Background:</strong> The Department of Medicine at Assam Medical College and Hospital in eastern Assam’s Dibrugarh has withdrawn an order advising postgraduate trainees (PGTs) of general medicine to defer “personal milestones such as marriage” until they complete their residency tenure.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Prasanta Dihingia, the Head of the Department, withdrew the order hours after issuing it on Wednesday (November 18, 2026). The withdrawal followed a backlash from a doctors’ body.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> “Residency is a postgraduate course, not a vow of celibacy!” it stated.",
-          "vocabList": [
-            "Medicine",
-            "Hospital",
-            "Dibrugarh",
-            "Withdrawn",
-            "Advising",
-            "Postgraduate"
-          ],
-          "summary": "The Department of Medicine at Assam Medical College and Hospital in eastern Assam’s Dibrugarh has withdrawn an order advising postgraduate trainees (PGTs) of general medicine to defer “personal milestones such as marriage” until they complete their residency tenure.",
-          "keyPoints": "• The Department of Medicine at Assam Medical College and Hospital in eastern Assam’s Dibrugarh has withdrawn an order advising postgraduate trainees (PGTs) of general medicine to defer “personal milestones such as marriage” until they complete their residency tenure.<br>• Prasanta Dihingia, the Head of the Department, withdrew the order hours after issuing it on Wednesday (November 18, 2026). The withdrawal followed a backlash from a doctors’ body.<br>• “With reference to the Order No.MED/2026/5700; Dtd. 18.11.2026, regarding the advisory issued to the PGTs of Deptt. of Medicine concerning personal milestones during their residency tenure, it is hereby notified that the Office Order is withdrawn with immediate effect,” the order read."
-        },
-        {
-          "category": "national",
-          "categoryLabel": "🏛️ National & Polity",
-          "title": "Cheran, the poet who chronicled Eelam’s war and memory, passes away at 68",
-          "link": "https://www.thehindu.com/news/national/tamil-nadu/cheran-the-poet-who-chronicled-eelams-war-and-memory-passes-away-at-68/article71721105.ece",
-          "pubDate": "Fri, 20 Nov 2026 00:28:28 +0530",
-          "dateIso": "2026-11-20",
-          "dateDisplay": "20 Nov 2026",
-          "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
-          "imageUrl": "https://th-i.thgim.com/public/incoming/gc2kfy/article71721218.ece/alternates/LANDSCAPE_1200/KALASUVADU_BOOK_LAUNCH_1.jpg",
-          "fullParagraphs": [
-            "Eelam Tamil poet, essayist, and academic Rudhramoorthy Cheran passed away in Canada on Wednesday. At the time of his passing, he was a professor in the Department of Sociology and Criminology at the University of Windsor. He was 68.",
-            "Hailing from Alaveddy in Jaffna, Cheran was a multifaceted artist — a poet, short story writer, essayist, and painter. After beginning his literary career in the late 1970s, he emerged as a central figure in the Eelam Tamil literary movement during the 1980s. Alongside his poetry, he frequently contributed essays in both Tamil and English to various journals.",
-            "Although he started writing in the 1970s, his debut poetry collection, Irandavathu Sooriya Uthayam (The Second Sunrise), was published in 1983. Reflecting on Cheran’s literary significance, poet and Kalachuvadu executive editor Sukumaran notes: “Having begun writing in the 70s, Cheran bore witness to the Eelam war as it intensified in the 80s. He chronicled that tragic, war-shattered existence in his verse. He came to be recognised as a leading voice of Eelam poetry, wartime literature, and the diasporic experience. Cheran documented four to five decades of Eelam Tamil life and brought their reality to the world stage.”",
-            "Cheran’s poetry has been compiled into several acclaimed collections, including Nee Ippothu Irangum Aaru , Kaadaatru , Meendum Kadalukku , Thinaimayakkam , Anjar , and Kaanchi . His essays are collected in Uyir Kollum Vaarthaigal , while his interviews were published under the title Kadavulum Pisaasum Kavignanum .",
-            "Though classical Tamil poetics is traditionally categorised into five thinais (poetic landscapes), poet Perundevi observes that Cheran treated “traumatic memory” as a sixth thinai . “His poem Irandavathu Sooriya Uthayam was written in response to the burning of the Jaffna Public Library. Similarly, he wrote about the Tirunelveli attack and Black July. Ultimately, Cheran’s poetry seeks to transcend the profound losses suffered by Eelam Tamils through war and genocide by anchoring those memories to the land.”",
-            "His works have also been translated into several other languages, including Bengali, Spanish, Dutch, and Sinhala. He is survived by his wife, a son, and a daughter."
-          ],
-          "deepExplanation": "<strong>1. Core Context & Background:</strong> Eelam Tamil poet, essayist, and academic Rudhramoorthy Cheran passed away in Canada on Wednesday.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> At the time of his passing, he was a professor in the Department of Sociology and Criminology at the University of Windsor. Hailing from Alaveddy in Jaffna, Cheran was a multifaceted artist — a poet, short story writer, essayist, and painter.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> He is survived by his wife, a son, and a daughter.",
-          "vocabList": [
-            "Essayist",
-            "Academic",
-            "Rudhramoorthy",
-            "Wednesday",
-            "Professor",
-            "Sociology"
-          ],
-          "summary": "Eelam Tamil poet, essayist, and academic Rudhramoorthy Cheran passed away in Canada on Wednesday. At the time of his passing, he was a professor in the Department of Sociology and Criminology at the University of Windsor. He was 68.",
-          "keyPoints": "• Eelam Tamil poet, essayist, and academic Rudhramoorthy Cheran passed away in Canada on Wednesday. At the time of his passing, he was a professor in the Department of Sociology and Criminology at the University of Windsor. He was 68.<br>• Hailing from Alaveddy in Jaffna, Cheran was a multifaceted artist — a poet, short story writer, essayist, and painter. After beginning his literary career in the late 1970s, he emerged as a central figure in the Eelam Tamil literary movement during the 1980s. Alongside his poetry, he frequently contributed essays in both Tamil and English to various journals.<br>• Although he started writing in the 1970s, his debut poetry collection, Irandavathu Sooriya Uthayam (The Second Sunrise), was published in 1983. Reflecting on Cheran’s literary significance, poet and Kalachuvadu executive editor Sukumaran notes: “Having begun writing in the 70s, Cheran bore witness to the Eelam war as it intensified in the 80s. He chronicled that tragic, war-shattered existence in his verse. He came to be recognised as a leading voice of Eelam poetry, wartime literature, and the diasporic experience. Cheran documented four to five decades of Eelam Tamil life and brought their reality to the world stage.”"
         },
         {
           "category": "economy",
@@ -1348,38 +1366,70 @@
         {
           "category": "ir",
           "categoryLabel": "🌐 International Relations",
-          "title": "Anthropic soars in Wall Street debut despite AI jitters",
+          "title": "Anthropic shares close 17% higher on first day of trading",
           "link": "https://www.thehindu.com/business/markets/ai-firm-anthropic-shares-wall-streets-nasdaq-debut/article71721723.ece",
-          "pubDate": "Fri, 20 Nov 2026 00:46:06 +0530",
+          "pubDate": "Fri, 20 Nov 2026 02:46:25 +0530",
           "dateIso": "2026-11-20",
           "dateDisplay": "20 Nov 2026",
           "examRelevance": "GS Paper-II & Current Affairs: Bilateral Agreements, Foreign Visits & UN/G20/BRICS",
           "imageUrl": "https://th-i.thgim.com/public/incoming/yxpacp/article71721737.ece/alternates/LANDSCAPE_1200/2026-11-19T185133Z_834393249_RC21ROA35LC1_RTRMADP_3_ANTHROPIC-IPO-DEBUT.JPG",
           "fullParagraphs": [
-            "Anthropic shares opened 34% higher in their Nasdaq debut on Thursday (November 19, 2026), briefly valuing the AI giant around $2 trillion, as investors shrugged off the Nvidia spy scandal and fears of a tech bubble.",
-            "The shares opened at $111.50 before settling minutes into trading at around $98, up 18% from the $83 at which the company priced its shares on Wednesday (November 18, 2026), already above its expected range.",
-            "Anthropic raised a record $81.3 billion in the offering. The IPO price valued the maker of the Claude chatbot at about $1.5 trillion, including employee stock options and restricted shares. At around $98 a share, the company was worth about $1.8 trillion.",
+            "Anthropic shares closed about 17% higher on their first day of trading on Thursday (November 19, 2026), as investors shrugged off the Nvidia spy scandal and fears of a tech bubble to snap up the AI giant’s stock after a record-breaking IPO.",
+            "The shares ended the session at around $97, up from an IPO price of $83, after opening at $111.50 and briefly valuing the maker of the Claude chatbot at about $2 trillion.",
             "The debut marks a milestone in the AI boom. A company founded five years ago by OpenAI defectors worried about AI safety has become the first of the leading model developers to list on Wall Street, at a valuation rivalling decades-old tech brands.",
             "The listing, under the ticker “ANT,” gives ordinary investors their first chance to bet directly on a stand-alone AI giant.",
-            "“Today puts the company in a stronger financial position, and in doing so, only strengthens our resolve to do the right thing,” chief executive Dario Amodei said at the Nasdaq in New York’s Times Square, underlining the company’s priority of promoting safe AI.",
-            "The offering surpasses the $75 billion that Elon Musk’s SpaceX raised in its June IPO at a valuation of $1.77 trillion.",
             "SpaceX’s total ultimately rose to $86 billion after its underwriters exercised an option to buy additional shares. Anthropic has granted its underwriters a similar option, which would lift its total to about $93.5 billion.",
             "“This may be the breath of fresh air that the tech trade needed to move beyond the fog of artificial intelligence that we’ve been living in for the last couple of weeks,” Art Hogan of B. Riley Wealth Management told AFP .",
             "The strong demand comes even as AI stocks have swung sharply, with investors questioning whether heavy spending on the technology will pay off.",
             "Nvidia, the chip giant at the centre of the AI investment boom and an investor in Anthropic and dozens of other AI companies, has been shaken by the resignation of chief executive Jensen Huang after a reported affair with a woman suspected by U.S. intelligence to be a Chinese spy.",
-            "Anthropic’s Claude models are among the most powerful in the world, hailed for their problem-solving potential but also feared for their capacity to destabilise societies and replace human workers."
+            "Anthropic’s Claude models are among the most powerful in the world, hailed for their problem-solving potential but also feared for their capacity to destabilise societies and replace human workers.",
+            "The five-year-old company’s revenue has surged at a pace few U.S. companies have ever matched, reaching $17 billion in the third quarter, up from $1.4 billion a year earlier.",
+            "Much of that revenue comes from customers paying to use its AI models for computer coding. Its massive computing costs remain a major question for investors.",
+            "Anthropic has disclosed about $900 billion in commitments for computing capacity and warned in its filing that it must make many of those payments even if demand falls short."
           ],
-          "deepExplanation": "<strong>1. Core Context & Background:</strong> Anthropic shares opened 34% higher in their Nasdaq debut on Thursday (November 19, 2026), briefly valuing the AI giant around $2 trillion, as investors shrugged off the Nvidia spy scandal and fears of a tech bubble.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> The shares opened at $111.50 before settling minutes into trading at around $98, up 18% from the $83 at which the company priced its shares on Wednesday (November 18, 2026), already above its expected range. Anthropic raised a record $81.3 billion in the offering.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Anthropic’s Claude models are among the most powerful in the world, hailed for their problem-solving potential but also feared for their capacity to destabilise societies and replace human workers.",
+          "deepExplanation": "<strong>1. Core Context & Background:</strong> Anthropic shares closed about 17% higher on their first day of trading on Thursday (November 19, 2026), as investors shrugged off the Nvidia spy scandal and fears of a tech bubble to snap up the AI giant’s stock after a record-breaking IPO.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> The shares ended the session at around $97, up from an IPO price of $83, after opening at $111.50 and briefly valuing the maker of the Claude chatbot at about $2 trillion. The debut marks a milestone in the AI boom.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Anthropic has disclosed about $900 billion in commitments for computing capacity and warned in its filing that it must make many of those payments even if demand falls short.",
           "vocabList": [
             "Anthropic",
             "Thursday",
             "November",
-            "Trillion",
             "Investors",
-            "Shrugged"
+            "Shrugged",
+            "Breaking"
           ],
-          "summary": "Anthropic shares opened 34% higher in their Nasdaq debut on Thursday (November 19, 2026), briefly valuing the AI giant around $2 trillion, as investors shrugged off the Nvidia spy scandal and fears of a tech bubble.",
-          "keyPoints": "• Anthropic shares opened 34% higher in their Nasdaq debut on Thursday (November 19, 2026), briefly valuing the AI giant around $2 trillion, as investors shrugged off the Nvidia spy scandal and fears of a tech bubble.<br>• The shares opened at $111.50 before settling minutes into trading at around $98, up 18% from the $83 at which the company priced its shares on Wednesday (November 18, 2026), already above its expected range.<br>• Anthropic raised a record $81.3 billion in the offering. The IPO price valued the maker of the Claude chatbot at about $1.5 trillion, including employee stock options and restricted shares. At around $98 a share, the company was worth about $1.8 trillion."
+          "summary": "Anthropic shares closed about 17% higher on their first day of trading on Thursday (November 19, 2026), as investors shrugged off the Nvidia spy scandal and fears of a tech bubble to snap up the AI giant’s stock after a record-breaking IPO.",
+          "keyPoints": "• Anthropic shares closed about 17% higher on their first day of trading on Thursday (November 19, 2026), as investors shrugged off the Nvidia spy scandal and fears of a tech bubble to snap up the AI giant’s stock after a record-breaking IPO.<br>• The shares ended the session at around $97, up from an IPO price of $83, after opening at $111.50 and briefly valuing the maker of the Claude chatbot at about $2 trillion.<br>• The debut marks a milestone in the AI boom. A company founded five years ago by OpenAI defectors worried about AI safety has become the first of the leading model developers to list on Wall Street, at a valuation rivalling decades-old tech brands."
+        },
+        {
+          "category": "ir",
+          "categoryLabel": "🌐 International Relations",
+          "title": "Draft of COP31 cover text drops references to fossil fuel phase-out, net zero dates",
+          "link": "https://www.thehindu.com/news/international/cop31-negotiators-publish-revised-deal-draft-with-no-mention-of-fossil-fuels/article71721240.ece",
+          "pubDate": "Fri, 20 Nov 2026 01:01:16 +0530",
+          "dateIso": "2026-11-20",
+          "dateDisplay": "20 Nov 2026",
+          "examRelevance": "GS Paper-II & Current Affairs: Bilateral Agreements, Foreign Visits & UN/G20/BRICS",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/geub04/article71721745.ece/alternates/LANDSCAPE_1200/2026-11-19T105448Z_776698160_RC2XQOAXCYO6_RTRMADP_3_CLIMATE-COP31.JPG",
+          "fullParagraphs": [
+            "The latest iteration of the COP 31 draft cover text has eliminated references to fossil fuel phase-out and net-zero dates but has also deleted references to a firm $120 billion adaptation-finance target that developing countries have been asking for as “legally binding financial obligations” on developed countries. This suggests that the most ambitious demands of both the developed and developing country blocs have been eliminated.",
+            "A cover text is an overarching political decision that frames the outcome of a climate conference rather than settling any single agenda item. It is usually finalised last, and like every outcome it needs the consensus of all Parties. The Presidency has said earlier drafts were not meant to reflect consensus.",
+            "The COP31 Presidency’s revised draft cover decision, dated November 19, has 80 paragraphs, down from 144 in the November 16 version. The summit officially ends on November 20, though negotiations frequently overshoot into the weekend.",
+            "A major concern raised by developing countries, of phasing out unilateral trade measures such as the CBAM (Carbon Border Adjustment Mechanism) by 2027, that was present in the earlier draft has also been eliminated.",
+            "However, a widely expected outcome of raising electricity’s share in final energy consumption to 35% by 2035, scaling up the use of carbon capture utilisation technologies and making early warning systems universal by 2027, continue to find mention in the text. A broad commitment to triple adaptation finance also remains.",
+            "“ The draft cover text weaves the 35% electricity in final energy consumption by 2035, alongside tripling renewable energy capacity and doubling the rate of energy efficiency improvement by 2030, ” Ajay Mathur, India’s lead negotiator at Paris COP and former DG, International Solar Alliance, said in a statement. The electricity use in India went up by 13% in 2025 due to the Hormuz crisis alone. It will be an ambitious goal for India to achieve 35% electrification by 2035, but due to the increasing amount of renewable energy in the Indian energy mix, we will be near the 32-34% mark by 2035. ”",
+            "“We’re down to the wire at COP31, and the latest texts are alarmingly far from ambitious or equitable,” said Rachel Cleetus, Climate Program director at the Union of Concerned Scientists (UCS) in a statement. “Rich nations, most notably the EU nations, are still holding a harsh line against committing to tripling adaptation finance to at least $120 billion annually by 2035. Instead of reaching agreement on urgently needed climate finance, some countries seem willing to push negotiations toward failure.”",
+            "United Nations / climate change / climate change (politics) / United Nations (climate change)"
+          ],
+          "deepExplanation": "<strong>1. Core Context & Background:</strong> The latest iteration of the COP 31 draft cover text has eliminated references to fossil fuel phase-out and net-zero dates but has also deleted references to a firm $120 billion adaptation-finance target that developing countries have been asking for as “legally binding financial obligations” on developed countries.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> This suggests that the most ambitious demands of both the developed and developing country blocs have been eliminated. A cover text is an overarching political decision that frames the outcome of a climate conference rather than settling any single agenda item.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Instead of reaching agreement on urgently needed climate finance, some countries seem willing to push negotiations toward failure.” United Nations / climate change / climate change (politics) / United Nations (climate change)",
+          "vocabList": [
+            "Iteration",
+            "Eliminated",
+            "References",
+            "Adaptation",
+            "Developing",
+            "Financial"
+          ],
+          "summary": "The latest iteration of the COP 31 draft cover text has eliminated references to fossil fuel phase-out and net-zero dates but has also deleted references to a firm $120 billion adaptation-finance target that developing countries have been asking for as “legally binding financial obligations” on developed countries. This suggests that the most ambitious demands of both the developed and developing country blocs have been eliminated.",
+          "keyPoints": "• The latest iteration of the COP 31 draft cover text has eliminated references to fossil fuel phase-out and net-zero dates but has also deleted references to a firm $120 billion adaptation-finance target that developing countries have been asking for as “legally binding financial obligations” on developed countries. This suggests that the most ambitious demands of both the developed and developing country blocs have been eliminated.<br>• A cover text is an overarching political decision that frames the outcome of a climate conference rather than settling any single agenda item. It is usually finalised last, and like every outcome it needs the consensus of all Parties. The Presidency has said earlier drafts were not meant to reflect consensus.<br>• The COP31 Presidency’s revised draft cover decision, dated November 19, has 80 paragraphs, down from 144 in the November 16 version. The summit officially ends on November 20, though negotiations frequently overshoot into the weekend."
         },
         {
           "category": "ir",
@@ -1415,38 +1465,6 @@
           ],
           "summary": "Israel's military said that a ground operation involving tanks in central Gaza that began the previous day despite a U.S.-brokered ceasefire had come to an end on Thursday (November 19, 2026).",
           "keyPoints": "• Israel's military said that a ground operation involving tanks in central Gaza that began the previous day despite a U.S.-brokered ceasefire had come to an end on Thursday (November 19, 2026).<br>• The Defence Ministry's body in charge of civilian affairs in Palestinian territories, Coordinator of Government Activities in the Territories (COGAT), said in a statement that Palestinians would again be free to move in the targeted areas near the Al-Bureij and Nuseirat refugee camps.<br>• \"We would like to inform you that the activity has ended, and the Salah al-Din axis has been reopened,\" COGAT said in an Arabic-language statement on Facebook, referring to the war-shattered territory's main thoroughfare."
-        },
-        {
-          "category": "ir",
-          "categoryLabel": "🌐 International Relations",
-          "title": "COP31 negotiators publish revised deal draft with no mention of fossil fuels",
-          "link": "https://www.thehindu.com/news/international/cop31-negotiators-publish-revised-deal-draft-with-no-mention-of-fossil-fuels/article71721240.ece",
-          "pubDate": "Thu, 19 Nov 2026 23:02:26 +0530",
-          "dateIso": "2026-11-20",
-          "dateDisplay": "20 Nov 2026",
-          "examRelevance": "GS Paper-II & Current Affairs: Bilateral Agreements, Foreign Visits & UN/G20/BRICS",
-          "imageUrl": "https://th-i.thgim.com/public/incoming/geub04/article71721745.ece/alternates/LANDSCAPE_1200/2026-11-19T105448Z_776698160_RC2XQOAXCYO6_RTRMADP_3_CLIMATE-COP31.JPG",
-          "fullParagraphs": [
-            "The latest iteration of the COP 31 draft cover text has eliminated references to fossil fuel phase-out and net-zero dates but has also deleted references to a firm $120 billion adaptation-finance target that developing countries have been asking for as “legally binding financial obligations” on developed countries. This suggests that the most ambitious demands of both the developed and developing country blocs have been eliminated.",
-            "A cover text is an overarching political decision that frames the outcome of a climate conference rather than settling any single agenda item. It is usually finalised last, and like every outcome it needs the consensus of all Parties. The Presidency has said earlier drafts were not meant to reflect consensus.",
-            "The COP31 Presidency’s revised draft cover decision, dated November 19, has 80 paragraphs, down from 144 in the November 16 version. The summit officially ends on November 20, though negotiations frequently overshoot into the weekend.",
-            "A major concern raised by developing countries, of phasing out unilateral trade measures such as the CBAM (Carbon Border Adjustment Mechanism) by 2027, that was present in the earlier draft has also been eliminated.",
-            "However, a widely expected outcome of raising electricity’s share in final energy consumption to 35% by 2035, scaling up the use of carbon capture utilisation technologies and making early warning systems universal by 2027, continue to find mention in the text. A broad commitment to triple adaptation finance also remains.",
-            "“ The draft cover text weaves the 35% electricity in final energy consumption by 2035, alongside tripling renewable energy capacity and doubling the rate of energy efficiency improvement by 2030, ” Ajay Mathur, India’s lead negotiator at Paris COP and former DG, International Solar Alliance, said in a statement. The electricity use in India went up by 13% in 2025 due to the Hormuz crisis alone. It will be an ambitious goal for India to achieve 35% electrification by 2035, but due to the increasing amount of renewable energy in the Indian energy mix, we will be near the 32-34% mark by 2035. ”",
-            "“We’re down to the wire at COP31, and the latest texts are alarmingly far from ambitious or equitable,” said Rachel Cleetus, Climate Program director at the Union of Concerned Scientists (UCS) in a statement. “Rich nations, most notably the EU nations, are still holding a harsh line against committing to tripling adaptation finance to at least $120 billion annually by 2035. Instead of reaching agreement on urgently needed climate finance, some countries seem willing to push negotiations toward failure.”",
-            "United Nations / climate change / climate change (politics) / United Nations (climate change)"
-          ],
-          "deepExplanation": "<strong>1. Core Context & Background:</strong> The latest iteration of the COP 31 draft cover text has eliminated references to fossil fuel phase-out and net-zero dates but has also deleted references to a firm $120 billion adaptation-finance target that developing countries have been asking for as “legally binding financial obligations” on developed countries.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> This suggests that the most ambitious demands of both the developed and developing country blocs have been eliminated. A cover text is an overarching political decision that frames the outcome of a climate conference rather than settling any single agenda item.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Instead of reaching agreement on urgently needed climate finance, some countries seem willing to push negotiations toward failure.” United Nations / climate change / climate change (politics) / United Nations (climate change)",
-          "vocabList": [
-            "Iteration",
-            "Eliminated",
-            "References",
-            "Adaptation",
-            "Developing",
-            "Financial"
-          ],
-          "summary": "The latest iteration of the COP 31 draft cover text has eliminated references to fossil fuel phase-out and net-zero dates but has also deleted references to a firm $120 billion adaptation-finance target that developing countries have been asking for as “legally binding financial obligations” on developed countries. This suggests that the most ambitious demands of both the developed and developing country blocs have been eliminated.",
-          "keyPoints": "• The latest iteration of the COP 31 draft cover text has eliminated references to fossil fuel phase-out and net-zero dates but has also deleted references to a firm $120 billion adaptation-finance target that developing countries have been asking for as “legally binding financial obligations” on developed countries. This suggests that the most ambitious demands of both the developed and developing country blocs have been eliminated.<br>• A cover text is an overarching political decision that frames the outcome of a climate conference rather than settling any single agenda item. It is usually finalised last, and like every outcome it needs the consensus of all Parties. The Presidency has said earlier drafts were not meant to reflect consensus.<br>• The COP31 Presidency’s revised draft cover decision, dated November 19, has 80 paragraphs, down from 144 in the November 16 version. The summit officially ends on November 20, though negotiations frequently overshoot into the weekend."
         },
         {
           "category": "ir",
@@ -1559,38 +1577,70 @@
         {
           "category": "scitech",
           "categoryLabel": "🚀 Science, Tech & Environment",
-          "title": "Anthropic soars in Wall Street debut despite AI jitters",
+          "title": "Anthropic shares close 17% higher on first day of trading",
           "link": "https://www.thehindu.com/business/markets/ai-firm-anthropic-shares-wall-streets-nasdaq-debut/article71721723.ece",
-          "pubDate": "Fri, 20 Nov 2026 00:46:06 +0530",
+          "pubDate": "Fri, 20 Nov 2026 02:46:25 +0530",
           "dateIso": "2026-11-20",
           "dateDisplay": "20 Nov 2026",
           "examRelevance": "GS Paper-III & Prelims: ISRO/NASA Missions, Defense Updates, Tech & Climate Reports",
           "imageUrl": "https://th-i.thgim.com/public/incoming/yxpacp/article71721737.ece/alternates/LANDSCAPE_1200/2026-11-19T185133Z_834393249_RC21ROA35LC1_RTRMADP_3_ANTHROPIC-IPO-DEBUT.JPG",
           "fullParagraphs": [
-            "Anthropic shares opened 34% higher in their Nasdaq debut on Thursday (November 19, 2026), briefly valuing the AI giant around $2 trillion, as investors shrugged off the Nvidia spy scandal and fears of a tech bubble.",
-            "The shares opened at $111.50 before settling minutes into trading at around $98, up 18% from the $83 at which the company priced its shares on Wednesday (November 18, 2026), already above its expected range.",
-            "Anthropic raised a record $81.3 billion in the offering. The IPO price valued the maker of the Claude chatbot at about $1.5 trillion, including employee stock options and restricted shares. At around $98 a share, the company was worth about $1.8 trillion.",
+            "Anthropic shares closed about 17% higher on their first day of trading on Thursday (November 19, 2026), as investors shrugged off the Nvidia spy scandal and fears of a tech bubble to snap up the AI giant’s stock after a record-breaking IPO.",
+            "The shares ended the session at around $97, up from an IPO price of $83, after opening at $111.50 and briefly valuing the maker of the Claude chatbot at about $2 trillion.",
             "The debut marks a milestone in the AI boom. A company founded five years ago by OpenAI defectors worried about AI safety has become the first of the leading model developers to list on Wall Street, at a valuation rivalling decades-old tech brands.",
             "The listing, under the ticker “ANT,” gives ordinary investors their first chance to bet directly on a stand-alone AI giant.",
-            "“Today puts the company in a stronger financial position, and in doing so, only strengthens our resolve to do the right thing,” chief executive Dario Amodei said at the Nasdaq in New York’s Times Square, underlining the company’s priority of promoting safe AI.",
-            "The offering surpasses the $75 billion that Elon Musk’s SpaceX raised in its June IPO at a valuation of $1.77 trillion.",
             "SpaceX’s total ultimately rose to $86 billion after its underwriters exercised an option to buy additional shares. Anthropic has granted its underwriters a similar option, which would lift its total to about $93.5 billion.",
             "“This may be the breath of fresh air that the tech trade needed to move beyond the fog of artificial intelligence that we’ve been living in for the last couple of weeks,” Art Hogan of B. Riley Wealth Management told AFP .",
             "The strong demand comes even as AI stocks have swung sharply, with investors questioning whether heavy spending on the technology will pay off.",
             "Nvidia, the chip giant at the centre of the AI investment boom and an investor in Anthropic and dozens of other AI companies, has been shaken by the resignation of chief executive Jensen Huang after a reported affair with a woman suspected by U.S. intelligence to be a Chinese spy.",
-            "Anthropic’s Claude models are among the most powerful in the world, hailed for their problem-solving potential but also feared for their capacity to destabilise societies and replace human workers."
+            "Anthropic’s Claude models are among the most powerful in the world, hailed for their problem-solving potential but also feared for their capacity to destabilise societies and replace human workers.",
+            "The five-year-old company’s revenue has surged at a pace few U.S. companies have ever matched, reaching $17 billion in the third quarter, up from $1.4 billion a year earlier.",
+            "Much of that revenue comes from customers paying to use its AI models for computer coding. Its massive computing costs remain a major question for investors.",
+            "Anthropic has disclosed about $900 billion in commitments for computing capacity and warned in its filing that it must make many of those payments even if demand falls short."
           ],
-          "deepExplanation": "<strong>1. Core Context & Background:</strong> Anthropic shares opened 34% higher in their Nasdaq debut on Thursday (November 19, 2026), briefly valuing the AI giant around $2 trillion, as investors shrugged off the Nvidia spy scandal and fears of a tech bubble.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> The shares opened at $111.50 before settling minutes into trading at around $98, up 18% from the $83 at which the company priced its shares on Wednesday (November 18, 2026), already above its expected range. Anthropic raised a record $81.3 billion in the offering.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Anthropic’s Claude models are among the most powerful in the world, hailed for their problem-solving potential but also feared for their capacity to destabilise societies and replace human workers.",
+          "deepExplanation": "<strong>1. Core Context & Background:</strong> Anthropic shares closed about 17% higher on their first day of trading on Thursday (November 19, 2026), as investors shrugged off the Nvidia spy scandal and fears of a tech bubble to snap up the AI giant’s stock after a record-breaking IPO.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> The shares ended the session at around $97, up from an IPO price of $83, after opening at $111.50 and briefly valuing the maker of the Claude chatbot at about $2 trillion. The debut marks a milestone in the AI boom.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Anthropic has disclosed about $900 billion in commitments for computing capacity and warned in its filing that it must make many of those payments even if demand falls short.",
           "vocabList": [
             "Anthropic",
             "Thursday",
             "November",
-            "Trillion",
             "Investors",
-            "Shrugged"
+            "Shrugged",
+            "Breaking"
           ],
-          "summary": "Anthropic shares opened 34% higher in their Nasdaq debut on Thursday (November 19, 2026), briefly valuing the AI giant around $2 trillion, as investors shrugged off the Nvidia spy scandal and fears of a tech bubble.",
-          "keyPoints": "• Anthropic shares opened 34% higher in their Nasdaq debut on Thursday (November 19, 2026), briefly valuing the AI giant around $2 trillion, as investors shrugged off the Nvidia spy scandal and fears of a tech bubble.<br>• The shares opened at $111.50 before settling minutes into trading at around $98, up 18% from the $83 at which the company priced its shares on Wednesday (November 18, 2026), already above its expected range.<br>• Anthropic raised a record $81.3 billion in the offering. The IPO price valued the maker of the Claude chatbot at about $1.5 trillion, including employee stock options and restricted shares. At around $98 a share, the company was worth about $1.8 trillion."
+          "summary": "Anthropic shares closed about 17% higher on their first day of trading on Thursday (November 19, 2026), as investors shrugged off the Nvidia spy scandal and fears of a tech bubble to snap up the AI giant’s stock after a record-breaking IPO.",
+          "keyPoints": "• Anthropic shares closed about 17% higher on their first day of trading on Thursday (November 19, 2026), as investors shrugged off the Nvidia spy scandal and fears of a tech bubble to snap up the AI giant’s stock after a record-breaking IPO.<br>• The shares ended the session at around $97, up from an IPO price of $83, after opening at $111.50 and briefly valuing the maker of the Claude chatbot at about $2 trillion.<br>• The debut marks a milestone in the AI boom. A company founded five years ago by OpenAI defectors worried about AI safety has become the first of the leading model developers to list on Wall Street, at a valuation rivalling decades-old tech brands."
+        },
+        {
+          "category": "scitech",
+          "categoryLabel": "🚀 Science, Tech & Environment",
+          "title": "Draft of COP31 cover text drops references to fossil fuel phase-out, net zero dates",
+          "link": "https://www.thehindu.com/news/international/cop31-negotiators-publish-revised-deal-draft-with-no-mention-of-fossil-fuels/article71721240.ece",
+          "pubDate": "Fri, 20 Nov 2026 01:01:16 +0530",
+          "dateIso": "2026-11-20",
+          "dateDisplay": "20 Nov 2026",
+          "examRelevance": "GS Paper-III & Prelims: ISRO/NASA Missions, Defense Updates, Tech & Climate Reports",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/geub04/article71721745.ece/alternates/LANDSCAPE_1200/2026-11-19T105448Z_776698160_RC2XQOAXCYO6_RTRMADP_3_CLIMATE-COP31.JPG",
+          "fullParagraphs": [
+            "The latest iteration of the COP 31 draft cover text has eliminated references to fossil fuel phase-out and net-zero dates but has also deleted references to a firm $120 billion adaptation-finance target that developing countries have been asking for as “legally binding financial obligations” on developed countries. This suggests that the most ambitious demands of both the developed and developing country blocs have been eliminated.",
+            "A cover text is an overarching political decision that frames the outcome of a climate conference rather than settling any single agenda item. It is usually finalised last, and like every outcome it needs the consensus of all Parties. The Presidency has said earlier drafts were not meant to reflect consensus.",
+            "The COP31 Presidency’s revised draft cover decision, dated November 19, has 80 paragraphs, down from 144 in the November 16 version. The summit officially ends on November 20, though negotiations frequently overshoot into the weekend.",
+            "A major concern raised by developing countries, of phasing out unilateral trade measures such as the CBAM (Carbon Border Adjustment Mechanism) by 2027, that was present in the earlier draft has also been eliminated.",
+            "However, a widely expected outcome of raising electricity’s share in final energy consumption to 35% by 2035, scaling up the use of carbon capture utilisation technologies and making early warning systems universal by 2027, continue to find mention in the text. A broad commitment to triple adaptation finance also remains.",
+            "“ The draft cover text weaves the 35% electricity in final energy consumption by 2035, alongside tripling renewable energy capacity and doubling the rate of energy efficiency improvement by 2030, ” Ajay Mathur, India’s lead negotiator at Paris COP and former DG, International Solar Alliance, said in a statement. The electricity use in India went up by 13% in 2025 due to the Hormuz crisis alone. It will be an ambitious goal for India to achieve 35% electrification by 2035, but due to the increasing amount of renewable energy in the Indian energy mix, we will be near the 32-34% mark by 2035. ”",
+            "“We’re down to the wire at COP31, and the latest texts are alarmingly far from ambitious or equitable,” said Rachel Cleetus, Climate Program director at the Union of Concerned Scientists (UCS) in a statement. “Rich nations, most notably the EU nations, are still holding a harsh line against committing to tripling adaptation finance to at least $120 billion annually by 2035. Instead of reaching agreement on urgently needed climate finance, some countries seem willing to push negotiations toward failure.”",
+            "United Nations / climate change / climate change (politics) / United Nations (climate change)"
+          ],
+          "deepExplanation": "<strong>1. Core Context & Background:</strong> The latest iteration of the COP 31 draft cover text has eliminated references to fossil fuel phase-out and net-zero dates but has also deleted references to a firm $120 billion adaptation-finance target that developing countries have been asking for as “legally binding financial obligations” on developed countries.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> This suggests that the most ambitious demands of both the developed and developing country blocs have been eliminated. A cover text is an overarching political decision that frames the outcome of a climate conference rather than settling any single agenda item.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Instead of reaching agreement on urgently needed climate finance, some countries seem willing to push negotiations toward failure.” United Nations / climate change / climate change (politics) / United Nations (climate change)",
+          "vocabList": [
+            "Iteration",
+            "Eliminated",
+            "References",
+            "Adaptation",
+            "Developing",
+            "Financial"
+          ],
+          "summary": "The latest iteration of the COP 31 draft cover text has eliminated references to fossil fuel phase-out and net-zero dates but has also deleted references to a firm $120 billion adaptation-finance target that developing countries have been asking for as “legally binding financial obligations” on developed countries. This suggests that the most ambitious demands of both the developed and developing country blocs have been eliminated.",
+          "keyPoints": "• The latest iteration of the COP 31 draft cover text has eliminated references to fossil fuel phase-out and net-zero dates but has also deleted references to a firm $120 billion adaptation-finance target that developing countries have been asking for as “legally binding financial obligations” on developed countries. This suggests that the most ambitious demands of both the developed and developing country blocs have been eliminated.<br>• A cover text is an overarching political decision that frames the outcome of a climate conference rather than settling any single agenda item. It is usually finalised last, and like every outcome it needs the consensus of all Parties. The Presidency has said earlier drafts were not meant to reflect consensus.<br>• The COP31 Presidency’s revised draft cover decision, dated November 19, has 80 paragraphs, down from 144 in the November 16 version. The summit officially ends on November 20, though negotiations frequently overshoot into the weekend."
         },
         {
           "category": "scitech",
@@ -1718,34 +1768,6 @@
           ],
           "summary": "Imagine having a medicine that could help manage your child’s rare genetic condition, but being unable to afford it because a year’s treatment costs as much as ₹9 crore. For seven families in India, that situation could soon change.",
           "keyPoints": "• Imagine having a medicine that could help manage your child’s rare genetic condition, but being unable to afford it because a year’s treatment costs as much as ₹9 crore. For seven families in India, that situation could soon change.<br>• Seven children diagnosed with Allan-Herndon-Dudley syndrome (AHDS), a rare genetic disorder, are set to receive a year’s supply of the medicine tiratricol free of cost on November 30, following an initiative led by Hyderabad-based paediatrician Dr. Sivaranjani Santosh and Access to Medicines India.<br>• The development is significant not just because the families will receive the medicine without paying for it, but also because its cost has been brought down through pharmaceutical compounding in the Netherlands. While the commercial version of the drug costs approximately ₹4.68 crore to ₹9 crore per child annually, the compounded formulation is estimated to cost just ₹2.5 lakh per child for a year."
-        },
-        {
-          "category": "scitech",
-          "categoryLabel": "🚀 Science, Tech & Environment",
-          "title": "Sellas’ cancer vaccine extends survival in blood cancer trial, company says",
-          "link": "https://www.thehindu.com/sci-tech/health/sellas-cancer-vaccine-extends-survival-in-blood-cancer-trial-company-says/article71719791.ece",
-          "pubDate": "Thu, 19 Nov 2026 17:42:34 +0530",
-          "dateIso": "2026-11-20",
-          "dateDisplay": "20 Nov 2026",
-          "examRelevance": "GS Paper-III & Prelims: ISRO/NASA Missions, Defense Updates, Tech & Climate Reports",
-          "imageUrl": "https://th-i.thgim.com/public/incoming/i6ejd1/article71719871.ece/alternates/LANDSCAPE_1200/iStock-962823676.jpg",
-          "fullParagraphs": [
-            "Sellas Life ‌Sciences said on Tuesday, November 17, 2026 that its ​experimental ⁠vaccine helped patients with a type of blood ‌cancer live longer in ‌a late-stage ‌trial.",
-            "The ⁠vaccine, called galinpepimut-S ⁠or GPS, was tested in patients with acute ​myeloid ‌leukaemia, a fast-growing cancer of the blood and bone marrow.",
-            "Patients ‌who received ​GPS lived a median of ⁠24 months, compared to 14.7 months ‌for those given the best available treatment, Sellas said.",
-            "The company plans to talk ‌to the U.S. Food ​and Drug Administration about seeking approval ⁠for the vaccine. ⁠Its shares were halted in premarket ‌trading."
-          ],
-          "deepExplanation": "<strong>1. Core Context & Background:</strong> Sellas Life ‌Sciences said on Tuesday, November 17, 2026 that its ​experimental ⁠vaccine helped patients with a type of blood ‌cancer live longer in ‌a late-stage ‌trial.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> The ⁠vaccine, called galinpepimut-S ⁠or GPS, was tested in patients with acute ​myeloid ‌leukaemia, a fast-growing cancer of the blood and bone marrow. Patients ‌who received ​GPS lived a median of ⁠24 months, compared to 14.7 months ‌for those given the best available treatment, Sellas said.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> ⁠Its shares were halted in premarket ‌trading.",
-          "vocabList": [
-            "Sciences",
-            "November",
-            "Experimental",
-            "Patients",
-            "Galinpepimut",
-            "Leukaemia"
-          ],
-          "summary": "Sellas Life ‌Sciences said on Tuesday, November 17, 2026 that its ​experimental ⁠vaccine helped patients with a type of blood ‌cancer live longer in ‌a late-stage ‌trial.",
-          "keyPoints": "• Sellas Life ‌Sciences said on Tuesday, November 17, 2026 that its ​experimental ⁠vaccine helped patients with a type of blood ‌cancer live longer in ‌a late-stage ‌trial.<br>• The ⁠vaccine, called galinpepimut-S ⁠or GPS, was tested in patients with acute ​myeloid ‌leukaemia, a fast-growing cancer of the blood and bone marrow.<br>• Patients ‌who received ​GPS lived a median of ⁠24 months, compared to 14.7 months ‌for those given the best available treatment, Sellas said."
         },
         {
           "category": "editorial",
@@ -3823,169 +3845,169 @@
       "id": "gk_20 Nov 2026_1",
       "cat": "🏛️ National & Polity",
       "date": "20 Nov 2026",
+      "qEn": "[20 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"A First Information Report (FIR) has been lodged against two former Ministers in the West Bengal government, Indranil Sen and Brat...\"?",
+      "qHi": "[20 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"A First Information Report (FIR) has been lodged against two former Ministers in the West Bengal government, Indranil Sen and Brat...\"?",
+      "qMr": "[20 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"A First Information Report (FIR) has been lodged against two former Ministers in the West Bengal government, Indranil Sen and Brat...\"?",
+      "optsEn": [
+        "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "15th Finance Commission Special State Grant",
+        "Inter-State Council Constitutional Review Panel",
+        "FIR against two former Bengal Ministers over sexual assault charges"
+      ],
+      "optsHi": [
+        "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "15th Finance Commission Special State Grant",
+        "Inter-State Council Constitutional Review Panel",
+        "FIR against two former Bengal Ministers over sexual assault charges"
+      ],
+      "optsMr": [
+        "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "15th Finance Commission Special State Grant",
+        "Inter-State Council Constitutional Review Panel",
+        "FIR against two former Bengal Ministers over sexual assault charges"
+      ],
+      "ans": 3,
+      "explanation": "<strong>1. Core Context & Background:</strong> A First Information Report (FIR) has been lodged against two former Ministers in the West Bengal government, Indranil Sen and Bratya Basu, along with several senior government officials, over multiple charges, including sexual assault.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> The FIR was lodged at Baguiati Police Station under the Bidhannagar Commissionerate by social activist Rajib Sarkar on behalf of multiple women who have either been artists or employed by the West Bengal Information and Cultural Affairs Department. The two Ministers have been accused of rape, wrongful confinement, extortion, criminal breach of trust, cheating, repeated sexual assault, corruption and criminal conspiracy.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Ujjwal Biswas, who was out on bail, passed away on November 11, triggering strong reactions from Mamata Banerjee, who claimed political vendetta behind the arrests."
+    },
+    {
+      "id": "gk_20 Nov 2026_2",
+      "cat": "🏛️ National & Polity",
+      "date": "20 Nov 2026",
+      "qEn": "[20 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"The Disaster Management Unit of Union Ministry of Communications has instructed telecom service providers to activate Intra Circle...\"?",
+      "qHi": "[20 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"The Disaster Management Unit of Union Ministry of Communications has instructed telecom service providers to activate Intra Circle...\"?",
+      "qMr": "[20 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"The Disaster Management Unit of Union Ministry of Communications has instructed telecom service providers to activate Intra Circle...\"?",
+      "optsEn": [
+        "Cyclone ‘Akvan’ updates: Three lakh evacuated, 423 rescue teams deployed as cyclon...",
+        "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "15th Finance Commission Special State Grant",
+        "Inter-State Council Constitutional Review Panel"
+      ],
+      "optsHi": [
+        "Cyclone ‘Akvan’ updates: Three lakh evacuated, 423 rescue teams deployed as cyclon...",
+        "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "15th Finance Commission Special State Grant",
+        "Inter-State Council Constitutional Review Panel"
+      ],
+      "optsMr": [
+        "Cyclone ‘Akvan’ updates: Three lakh evacuated, 423 rescue teams deployed as cyclon...",
+        "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "15th Finance Commission Special State Grant",
+        "Inter-State Council Constitutional Review Panel"
+      ],
+      "ans": 0,
+      "explanation": "<strong>1. Core Context & Background:</strong> The Disaster Management Unit of Union Ministry of Communications has instructed telecom service providers to activate Intra Circle Roaming facility in Ganjam, Gajapati, Puri, Kendrapara, Jagatsinghpur and Khordha district on November 20.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> As per information provided by Odisha Space Applications Centre, as many as 941 places have been identified as landslip prone areas including 211 in Gajapati district, Ganjam (169), Rayagada (169), Kandhamal (163) Koraput (151) and Malkangiri (78), said Mr. Pujari while reviewing preparation for cyclone “Akvan” on November 19, 2026.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> “It is likely to move north-northwestward and cross North Andhra Pradesh and South Odisha coasts close to Gopalpur, by noon of November 20, 2026 with the maximum sustained wind speed of 90-100 kmph gusting to 110 kmph,” it said."
+    },
+    {
+      "id": "gk_20 Nov 2026_3",
+      "cat": "🏛️ National & Polity",
+      "date": "20 Nov 2026",
+      "qEn": "[20 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"The two rival factions of the Trinamool Congress have become embroiled in a war of words over the party’s twin-flower symbol that ...\"?",
+      "qHi": "[20 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"The two rival factions of the Trinamool Congress have become embroiled in a war of words over the party’s twin-flower symbol that ...\"?",
+      "qMr": "[20 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"The two rival factions of the Trinamool Congress have become embroiled in a war of words over the party’s twin-flower symbol that ...\"?",
+      "optsEn": [
+        "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "Trinamool party symbol row: Abhishek Banerjee says twin flower symbol will return ...",
+        "15th Finance Commission Special State Grant",
+        "Inter-State Council Constitutional Review Panel"
+      ],
+      "optsHi": [
+        "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "Trinamool party symbol row: Abhishek Banerjee says twin flower symbol will return ...",
+        "15th Finance Commission Special State Grant",
+        "Inter-State Council Constitutional Review Panel"
+      ],
+      "optsMr": [
+        "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "Trinamool party symbol row: Abhishek Banerjee says twin flower symbol will return ...",
+        "15th Finance Commission Special State Grant",
+        "Inter-State Council Constitutional Review Panel"
+      ],
+      "ans": 1,
+      "explanation": "<strong>1. Core Context & Background:</strong> The two rival factions of the Trinamool Congress have become embroiled in a war of words over the party’s twin-flower symbol that has been frozen by the Election Commission of India (ECI).<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Diamond Harbour MP Abhishek Banerjee and Mamata All India Trinamool Congress on November 18 said that the original electoral symbol of the party will ultimately remain with Mamata Banerjee. “The original name and electoral symbol had always been with Mamata Banerjee and will continue to remain so in the future.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> The faction of Mamata Banerjee has the support of a handful of MLAs and MPs who have not defected to NCPI or joined the BJP after the West Bengal Assembly polls of 2026."
+    },
+    {
+      "id": "gk_20 Nov 2026_4",
+      "cat": "🏛️ National & Polity",
+      "date": "20 Nov 2026",
       "qEn": "[20 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"Advocates, traders and residents staged a protest near a bus terminus in Vaniyambadi town on Thursday, demanding an additional dis...\"?",
       "qHi": "[20 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"Advocates, traders and residents staged a protest near a bus terminus in Vaniyambadi town on Thursday, demanding an additional dis...\"?",
       "qMr": "[20 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"Advocates, traders and residents staged a protest near a bus terminus in Vaniyambadi town on Thursday, demanding an additional dis...\"?",
       "optsEn": [
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
         "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel",
-        "Advocates, traders protest in Vaniyambadi for additional district court"
+        "Advocates, traders protest in Vaniyambadi for additional district court",
+        "Inter-State Council Constitutional Review Panel"
       ],
       "optsHi": [
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
         "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel",
-        "Advocates, traders protest in Vaniyambadi for additional district court"
+        "Advocates, traders protest in Vaniyambadi for additional district court",
+        "Inter-State Council Constitutional Review Panel"
       ],
       "optsMr": [
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
         "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel",
-        "Advocates, traders protest in Vaniyambadi for additional district court"
+        "Advocates, traders protest in Vaniyambadi for additional district court",
+        "Inter-State Council Constitutional Review Panel"
       ],
-      "ans": 3,
+      "ans": 2,
       "explanation": "<strong>1. Core Context & Background:</strong> Advocates, traders and residents staged a protest near a bus terminus in Vaniyambadi town on Thursday, demanding an additional district court and a permanent building for the court complex.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> The protest was held in the wake of the onset of the Northeast monsoon, when it could be risky to conduct court proceedings at the dilapidated Judicial Magistrate court. “Work to build a permanent court complex should be expedited.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> As a result, many litigants wait for long hours or leave as they are unsure about whether their case has been called."
     },
     {
-      "id": "gk_20 Nov 2026_2",
+      "id": "gk_20 Nov 2026_5",
       "cat": "🏛️ National & Polity",
       "date": "20 Nov 2026",
       "qEn": "[20 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"A Division Bench of the Kerala High Court on Thursday disposed of all public interest litigations (PILs) related to the reconstitu...\"?",
       "qHi": "[20 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"A Division Bench of the Kerala High Court on Thursday disposed of all public interest litigations (PILs) related to the reconstitu...\"?",
       "qMr": "[20 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"A Division Bench of the Kerala High Court on Thursday disposed of all public interest litigations (PILs) related to the reconstitu...\"?",
       "optsEn": [
-        "Kerala High Court disposes of PILs against reconstitution of Waqf Board",
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
         "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel"
+        "Inter-State Council Constitutional Review Panel",
+        "Kerala High Court disposes of PILs against reconstitution of Waqf Board"
       ],
       "optsHi": [
-        "Kerala High Court disposes of PILs against reconstitution of Waqf Board",
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
         "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel"
+        "Inter-State Council Constitutional Review Panel",
+        "Kerala High Court disposes of PILs against reconstitution of Waqf Board"
       ],
       "optsMr": [
-        "Kerala High Court disposes of PILs against reconstitution of Waqf Board",
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
         "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel"
+        "Inter-State Council Constitutional Review Panel",
+        "Kerala High Court disposes of PILs against reconstitution of Waqf Board"
       ],
-      "ans": 0,
+      "ans": 3,
       "explanation": "<strong>1. Core Context & Background:</strong> A Division Bench of the Kerala High Court on Thursday disposed of all public interest litigations (PILs) related to the reconstitution of the Kerala State Waqf Board.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> The Bench observed that the reconstitution of the board had given rise to a fresh cause of action, following which the aggrieved parties had filed writ petitions. It said the petitions were required to be heard by a Single Judge in accordance with the roster.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> The State had reconstituted the board on October 16 and nominated nine new members."
     },
     {
-      "id": "gk_20 Nov 2026_3",
+      "id": "gk_20 Nov 2026_6",
       "cat": "🏛️ National & Polity",
       "date": "20 Nov 2026",
       "qEn": "[20 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"A 19-year-old B.Tech student of Vellore Institute of Technology Chennai, was found dead in the bathroom of the boy’s hostel, early...\"?",
       "qHi": "[20 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"A 19-year-old B.Tech student of Vellore Institute of Technology Chennai, was found dead in the bathroom of the boy’s hostel, early...\"?",
       "qMr": "[20 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"A 19-year-old B.Tech student of Vellore Institute of Technology Chennai, was found dead in the bathroom of the boy’s hostel, early...\"?",
       "optsEn": [
-        "19-year-old B.Tech student found dead at hostel in VIT",
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
         "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel"
+        "Inter-State Council Constitutional Review Panel",
+        "19-year-old B.Tech student found dead at hostel in VIT"
       ],
       "optsHi": [
-        "19-year-old B.Tech student found dead at hostel in VIT",
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
         "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel"
+        "Inter-State Council Constitutional Review Panel",
+        "19-year-old B.Tech student found dead at hostel in VIT"
       ],
       "optsMr": [
-        "19-year-old B.Tech student found dead at hostel in VIT",
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
         "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel"
+        "Inter-State Council Constitutional Review Panel",
+        "19-year-old B.Tech student found dead at hostel in VIT"
       ],
-      "ans": 0,
+      "ans": 3,
       "explanation": "<strong>1. Core Context & Background:</strong> A 19-year-old B.Tech student of Vellore Institute of Technology Chennai, was found dead in the bathroom of the boy’s hostel, early on Thursday.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> The police are investigating whether it is a case of suicide. He was reportedly rushed to Tagore Medical College and Hospital, where the doctors declared him dead on arrival.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> (Assistance for overcoming suicidal thoughts is available on State’s health helpline 104 Tele-MANAS 14416 and Sneha’s suicide prevention helpline 044-24640050)"
-    },
-    {
-      "id": "gk_20 Nov 2026_4",
-      "cat": "🏛️ National & Polity",
-      "date": "20 Nov 2026",
-      "qEn": "[20 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"Tamil Nadu Congress Committee (TNCC) president B. Manickam Tagore on Thursday said the party would oppose the proposed Mekedatu da...\"?",
-      "qHi": "[20 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"Tamil Nadu Congress Committee (TNCC) president B. Manickam Tagore on Thursday said the party would oppose the proposed Mekedatu da...\"?",
-      "qMr": "[20 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"Tamil Nadu Congress Committee (TNCC) president B. Manickam Tagore on Thursday said the party would oppose the proposed Mekedatu da...\"?",
-      "optsEn": [
-        "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "Set aside differences and oppose Mekedatu dam, says TNCC president",
-        "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel"
-      ],
-      "optsHi": [
-        "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "Set aside differences and oppose Mekedatu dam, says TNCC president",
-        "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel"
-      ],
-      "optsMr": [
-        "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "Set aside differences and oppose Mekedatu dam, says TNCC president",
-        "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel"
-      ],
-      "ans": 1,
-      "explanation": "<strong>1. Core Context & Background:</strong> Tamil Nadu Congress Committee (TNCC) president B.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Manickam Tagore on Thursday said the party would oppose the proposed Mekedatu dam across the Cauvery and called for all political parties in Tamil Nadu to unite against the project instead of indulging in mutual accusations. He said the project could spell a death knell for the Cauvery delta and turn the region drought-prone.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> He added that the Congress was committed to helping the government fulfil its promise of building a strong and drug-free Tamil Nadu."
-    },
-    {
-      "id": "gk_20 Nov 2026_5",
-      "cat": "🏛️ National & Polity",
-      "date": "20 Nov 2026",
-      "qEn": "[20 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"The Department of Medicine at Assam Medical College and Hospital in eastern Assam’s Dibrugarh has withdrawn an order advising post...\"?",
-      "qHi": "[20 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"The Department of Medicine at Assam Medical College and Hospital in eastern Assam’s Dibrugarh has withdrawn an order advising post...\"?",
-      "qMr": "[20 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"The Department of Medicine at Assam Medical College and Hospital in eastern Assam’s Dibrugarh has withdrawn an order advising post...\"?",
-      "optsEn": [
-        "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "Assam medical college department withdraws ‘defer marriage’ order for trainees aft...",
-        "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel"
-      ],
-      "optsHi": [
-        "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "Assam medical college department withdraws ‘defer marriage’ order for trainees aft...",
-        "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel"
-      ],
-      "optsMr": [
-        "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "Assam medical college department withdraws ‘defer marriage’ order for trainees aft...",
-        "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel"
-      ],
-      "ans": 1,
-      "explanation": "<strong>1. Core Context & Background:</strong> The Department of Medicine at Assam Medical College and Hospital in eastern Assam’s Dibrugarh has withdrawn an order advising postgraduate trainees (PGTs) of general medicine to defer “personal milestones such as marriage” until they complete their residency tenure.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Prasanta Dihingia, the Head of the Department, withdrew the order hours after issuing it on Wednesday (November 18, 2026). The withdrawal followed a backlash from a doctors’ body.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> “Residency is a postgraduate course, not a vow of celibacy!” it stated."
-    },
-    {
-      "id": "gk_20 Nov 2026_6",
-      "cat": "🏛️ National & Polity",
-      "date": "20 Nov 2026",
-      "qEn": "[20 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"Eelam Tamil poet, essayist, and academic Rudhramoorthy Cheran passed away in Canada on Wednesday. At the time of his passing, he w...\"?",
-      "qHi": "[20 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"Eelam Tamil poet, essayist, and academic Rudhramoorthy Cheran passed away in Canada on Wednesday. At the time of his passing, he w...\"?",
-      "qMr": "[20 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"Eelam Tamil poet, essayist, and academic Rudhramoorthy Cheran passed away in Canada on Wednesday. At the time of his passing, he w...\"?",
-      "optsEn": [
-        "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "15th Finance Commission Special State Grant",
-        "Cheran, the poet who chronicled Eelam’s war and memory, passes away at 68",
-        "Inter-State Council Constitutional Review Panel"
-      ],
-      "optsHi": [
-        "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "15th Finance Commission Special State Grant",
-        "Cheran, the poet who chronicled Eelam’s war and memory, passes away at 68",
-        "Inter-State Council Constitutional Review Panel"
-      ],
-      "optsMr": [
-        "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "15th Finance Commission Special State Grant",
-        "Cheran, the poet who chronicled Eelam’s war and memory, passes away at 68",
-        "Inter-State Council Constitutional Review Panel"
-      ],
-      "ans": 2,
-      "explanation": "<strong>1. Core Context & Background:</strong> Eelam Tamil poet, essayist, and academic Rudhramoorthy Cheran passed away in Canada on Wednesday.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> At the time of his passing, he was a professor in the Department of Sociology and Criminology at the University of Windsor. Hailing from Alaveddy in Jaffna, Cheran was a multifaceted artist — a poet, short story writer, essayist, and painter.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> He is survived by his wife, a son, and a daughter."
     },
     {
       "id": "gk_20 Nov 2026_7",
