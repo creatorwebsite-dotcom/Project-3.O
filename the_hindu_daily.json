@@ -1,12 +1,12 @@
 {
-  "updatedAt": "21 Nov 2026, 01:29 AM IST",
+  "updatedAt": "21 Nov 2026, 02:32 AM IST",
   "currentDateIso": "2026-11-21",
   "currentDateDisplay": "21 Nov 2026",
   "availableDates": [
     {
       "dateIso": "2026-11-21",
       "dateDisplay": "21 Nov 2026",
-      "updatedAt": "21 Nov 2026, 01:29 AM IST",
+      "updatedAt": "21 Nov 2026, 02:32 AM IST",
       "articleCount": 30
     },
     {
@@ -23,9 +23,109 @@
     }
   ],
   "hookLine1": "The Hindu Printed Broadsheet & Editorial Digest (21 Nov 2026)",
-  "hookLine2": "100% In-App Full Newspaper Pages & Deep Editorial Analysis • Updated: 21 Nov 2026, 01:29 AM IST",
+  "hookLine2": "100% In-App Full Newspaper Pages & Deep Editorial Analysis • Updated: 21 Nov 2026, 02:32 AM IST",
   "totalArticles": 30,
   "articles": [
+    {
+      "category": "national",
+      "categoryLabel": "🏛️ National & Polity",
+      "title": "West Bengal CEO office postpones SSR due to unavoidable circumstances",
+      "link": "https://www.thehindu.com/news/national/west-bengal/west-bengal-special-summary-revision-of-electoral-rolls-postponed/article71724439.ece",
+      "pubDate": "Sat, 21 Nov 2026 01:41:35 +0530",
+      "dateIso": "2026-11-21",
+      "dateDisplay": "21 Nov 2026",
+      "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
+      "imageUrl": "https://th-i.thgim.com/public/incoming/gvn1nc/article71724459.ece/alternates/LANDSCAPE_1200/4col_Lead_StoryGJOF4H9NR.3.jpg.jpg",
+      "fullParagraphs": [
+        "The West Bengal Chief Electoral Officer’s (CEO) office announced on Friday (November 20, 2026) the postponement of the Special Summary Revision (SSR) of the Photo Electoral Roll, 2027, which was scheduled to commence on November 23. The CEO’s office, in a statement, added that the decision has been taken due to “unavoidable circumstances.” The revised schedule for the exercise will be intimated subsequently, the statement said.",
+        "Editorial | Incomplete remedies: On Special Summary Revision of electoral rolls",
+        "“The upcoming programme of Special Summary Revision of Photo Electoral Roll, which was scheduled from 23 November 2026 onwards, is hereby postponed due to some unavoidable circumstances,” the press statement said. As per the SSR schedule announced in the State, the publication of final electoral rolls is scheduled for January 2027.",
+        "The SSR, an annual exercise, usually seeks to enrol eligible voters—particularly young and first-time electors—and facilitate advance applications from those who will become eligible on April 1, July 1, and October 1, 2027. However, it had not been carried out after the SIR was launched last year.",
+        "The development comes ahead of pending civic elections in West Bengal. The state government is keen to hold elections to the civic bodies of Howrah and Kolkata. The Calcutta High Court had stayed elections to the Kolkata Municipal Corporation on the grounds that the challenge to the delimitation of wards of the civic body should be addressed by the Court before elections are declared.",
+        "The SSR will not come to the aid of the 38 lakh electors whose fate is pending before SIR tribunals after their names were removed from the voter list. According to an affidavit filed by the ECI in September earlier this year, of the 27 lakh electors who were excluded from the electoral rolls on the ground of “logical discrepancies,” 22 lakh voters have filed appeals before the tribunal challenging their exclusion. The EC’s affidavit also added that 16.10 lakh appeals have been filed against inclusions during SIR. This puts the total number of appeals of 38 lakh electors pending before the SIR tribunals."
+      ],
+      "deepExplanation": "<strong>1. Core Context & Background:</strong> The West Bengal Chief Electoral Officer’s (CEO) office announced on Friday (November 20, 2026) the postponement of the Special Summary Revision (SSR) of the Photo Electoral Roll, 2027, which was scheduled to commence on November 23.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> The CEO’s office, in a statement, added that the decision has been taken due to “unavoidable circumstances.” The revised schedule for the exercise will be intimated subsequently, the statement said. Editorial | Incomplete remedies: On Special Summary Revision of electoral rolls “The upcoming programme of Special Summary Revision of Photo Electoral Roll, which was scheduled from 23 November 2026 onwards, is hereby postponed due to some unavoidable circumstances,” the press statement said.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> This puts the total number of appeals of 38 lakh electors pending before the SIR tribunals.",
+      "vocabList": [
+        "Electoral",
+        "Announced",
+        "November",
+        "Postponement",
+        "Revision",
+        "Scheduled"
+      ],
+      "summary": "The West Bengal Chief Electoral Officer’s (CEO) office announced on Friday (November 20, 2026) the postponement of the Special Summary Revision (SSR) of the Photo Electoral Roll, 2027, which was scheduled to commence on November 23. The CEO’s office, in a statement, added that the decision has been taken due to “unavoidable circumstances.” The revised schedule for the exercise will be intimated subsequently, the statement said.",
+      "keyPoints": "• The West Bengal Chief Electoral Officer’s (CEO) office announced on Friday (November 20, 2026) the postponement of the Special Summary Revision (SSR) of the Photo Electoral Roll, 2027, which was scheduled to commence on November 23. The CEO’s office, in a statement, added that the decision has been taken due to “unavoidable circumstances.” The revised schedule for the exercise will be intimated subsequently, the statement said.<br>• Editorial | Incomplete remedies: On Special Summary Revision of electoral rolls<br>• “The upcoming programme of Special Summary Revision of Photo Electoral Roll, which was scheduled from 23 November 2026 onwards, is hereby postponed due to some unavoidable circumstances,” the press statement said. As per the SSR schedule announced in the State, the publication of final electoral rolls is scheduled for January 2027."
+    },
+    {
+      "category": "national",
+      "categoryLabel": "🏛️ National & Polity",
+      "title": "Congress proposes four-point formula for delimitation, says INDIA bloc on board",
+      "link": "https://www.thehindu.com/news/national/congress-wants-consultation-on-delimitation-issue-accuses-government-of-not-reaching-out/article71724511.ece",
+      "pubDate": "Sat, 21 Nov 2026 01:25:46 +0530",
+      "dateIso": "2026-11-21",
+      "dateDisplay": "21 Nov 2026",
+      "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
+      "imageUrl": "https://th-i.thgim.com/public/incoming/k51zxz/article71724718.ece/alternates/LANDSCAPE_1200/16TH-VIJAITA-ABG4LGQDCDT.3.jpg.jpg",
+      "fullParagraphs": [
+        "The Congress party on Friday said it favoured resolving the issue of delimitation through consultations with all political parties, but accused the government of making no effort to engage the Opposition on the matter.",
+        "Congress general secretary Jairam Ramesh said the party’s position was guided by a four-point formula: retaining the existing strength of 543 seats in the Lok Sabha; maintaining the present State-wise distribution of seats; reserving one-third (182) of the existing seats for women; and imposing a 25-year freeze on all three arrangements.",
+        "Mr. Ramesh said the need for an early consensus on the issue had become more pressing in view of of the fact that Article 82 of the Constitution will come into force and delimitation would be held once the results of the ongoing Census exercise are out early next year.",
+        "This could be unfavourable to some southern states – which have made progress in population control – and hence not feasible, he added.",
+        "Mr. Ramesh said the Congress was not opposed to delimitation as such, but believed that the exercise should not place any State at a disadvantage.",
+        "The Congress leader claimed that all parties in the INDIA bloc, including the Dravida Munnetra Kazhagam (DMK) and the Nationalist Congress Party (Sharadchandra Pawar), were on the same page on the four-point formula.",
+        "The DMK, he said, was also party to a resolution opposing any change in the number of Lok Sabha seats and seeking safeguards to ensure that Tamil Nadu was not disadvantaged by delimitation.",
+        "The Congress leader said seeking consultation was necessary because the government had not initiated any meaningful engagement with the Opposition.",
+        "He claimed that as per his information, the government has not shared a concrete proposal on delimitation even with constituents of the National Democratic Alliance.",
+        "The Congress wanted the matter to be discussed with all political parties and stakeholders to arrive at a consensus, Mr. Ramesh added.",
+        "The Monsoon session of Parliament has remained unprorogued since both Houses were adjourned sine die on August 13.",
+        "The decision has fuelled speculation about the possibility of the government convening Parliament at short notice to consider the proposed constitutional changes linked to women’s reservation and delimitation."
+      ],
+      "deepExplanation": "<strong>1. Core Context & Background:</strong> The Congress party on Friday said it favoured resolving the issue of delimitation through consultations with all political parties, but accused the government of making no effort to engage the Opposition on the matter.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Congress general secretary Jairam Ramesh said the party’s position was guided by a four-point formula: retaining the existing strength of 543 seats in the Lok Sabha; maintaining the present State-wise distribution of seats; reserving one-third (182) of the existing seats for women; and imposing a 25-year freeze on all three arrangements. Ramesh said the need for an early consensus on the issue had become more pressing in view of of the fact that Article 82 of the Constitution will come into force and delimitation would be held once the results of the ongoing Census exercise are out early next year.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> The decision has fuelled speculation about the possibility of the government convening Parliament at short notice to consider the proposed constitutional changes linked to women’s reservation and delimitation.",
+      "vocabList": [
+        "Congress",
+        "Favoured",
+        "Resolving",
+        "Delimitation",
+        "Consultations",
+        "Political"
+      ],
+      "summary": "The Congress party on Friday said it favoured resolving the issue of delimitation through consultations with all political parties, but accused the government of making no effort to engage the Opposition on the matter.",
+      "keyPoints": "• The Congress party on Friday said it favoured resolving the issue of delimitation through consultations with all political parties, but accused the government of making no effort to engage the Opposition on the matter.<br>• Congress general secretary Jairam Ramesh said the party’s position was guided by a four-point formula: retaining the existing strength of 543 seats in the Lok Sabha; maintaining the present State-wise distribution of seats; reserving one-third (182) of the existing seats for women; and imposing a 25-year freeze on all three arrangements.<br>• Mr. Ramesh said the need for an early consensus on the issue had become more pressing in view of of the fact that Article 82 of the Constitution will come into force and delimitation would be held once the results of the ongoing Census exercise are out early next year."
+    },
+    {
+      "category": "national",
+      "categoryLabel": "🏛️ National & Polity",
+      "title": "Patna High Court quashes dismissal of teachers and staff of Sanskrit Colleges",
+      "link": "https://www.thehindu.com/news/national/bihar/patna-high-court-quashes-dismissal-of-teachers-and-staff-of-sanskrit-colleges/article71725090.ece",
+      "pubDate": "Sat, 21 Nov 2026 01:25:15 +0530",
+      "dateIso": "2026-11-21",
+      "dateDisplay": "21 Nov 2026",
+      "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
+      "imageUrl": "https://th-i.thgim.com/public/incoming/1wnf0o/article65970066.ece/alternates/LANDSCAPE_1200/PTI09_24_2022_000098A.jpg",
+      "fullParagraphs": [
+        "Principals, teachers, and non-teaching staff of various Sanskrit colleges affiliated with Kameshwar Singh Darbhanga Sanskrit University (KSDSU) received relief from the Patna High Court on Friday (November 20, 2026).",
+        "A single-judge bench presided over by Justice Kumar Manish, while hearing 12 connected petitions (lead case: Birendra Prasad Thakur v. State of Bihar, CWJC No. 13475/2022), quashed all dismissal orders issued by the Director of Higher Education and the university.",
+        "The petitioners were appointed between 2008 and 2015 in various affiliated and “deficit grant-in-aid” Sanskrit colleges located in Supaul, West Champaran, East Champaran, Patna, Saran, and Jehanabad, following due process involving public advertisements and selection committees.",
+        "Despite the university’s Syndicate confirming their services, the Director of Higher Education cited the absence of prior approval from the State Government, as required under Section 35(2) of the Bihar State Universities Act, 1976, and rejected these appointments on April 21, 2022, and November 2, 2022. Subsequently, the university issued directives to terminate their services.",
+        "In its judgment, the High Court cited the ruling of a Full Bench in Braj Kishore Singh v. State of Bihar (1997). The Court clarified that, when posts have already been created and sanctioned (under an established ‘staffing pattern’) pursuant to the State Government’s resolution dated October 18, 1976, separate ‘prior approval’ from the government is not mandatory for appointments to those posts made through a valid selection process.",
+        "“Dismissing an employee on technical grounds after more than a decade of service constitutes a violation of Articles 14, 16, and 21 of the Constitution,” the court observed.",
+        "Expressing concern over the proliferation of unnecessary litigation in cases of a similar nature, the court cited Clause 4(C)(1) of the Bihar State Litigation Policy, 2011.",
+        "The court directed that a copy of the order be sent to the Chief Secretary and the Advocate General. The court emphasised that such similar cases should be resolved at the departmental level.",
+        "Declaring the service of all the petitioners to be valid, the court has directed the Bihar Education Department to release the grant-in-aid to the university within three months of receiving a copy of the order.",
+        "“This is to ensure that the petitioners receive their regular current salaries, as well as all outstanding salary arrears accrued from the date of their initial appointment,” the court said."
+      ],
+      "deepExplanation": "<strong>1. Core Context & Background:</strong> Principals, teachers, and non-teaching staff of various Sanskrit colleges affiliated with Kameshwar Singh Darbhanga Sanskrit University (KSDSU) received relief from the Patna High Court on Friday (November 20, 2026).<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> A single-judge bench presided over by Justice Kumar Manish, while hearing 12 connected petitions (lead case: Birendra Prasad Thakur v. 13475/2022), quashed all dismissal orders issued by the Director of Higher Education and the university.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> “This is to ensure that the petitioners receive their regular current salaries, as well as all outstanding salary arrears accrued from the date of their initial appointment,” the court said.",
+      "vocabList": [
+        "Principals",
+        "Teachers",
+        "Teaching",
+        "Sanskrit",
+        "Colleges",
+        "Affiliated"
+      ],
+      "summary": "Principals, teachers, and non-teaching staff of various Sanskrit colleges affiliated with Kameshwar Singh Darbhanga Sanskrit University (KSDSU) received relief from the Patna High Court on Friday (November 20, 2026).",
+      "keyPoints": "• Principals, teachers, and non-teaching staff of various Sanskrit colleges affiliated with Kameshwar Singh Darbhanga Sanskrit University (KSDSU) received relief from the Patna High Court on Friday (November 20, 2026).<br>• A single-judge bench presided over by Justice Kumar Manish, while hearing 12 connected petitions (lead case: Birendra Prasad Thakur v. State of Bihar, CWJC No. 13475/2022), quashed all dismissal orders issued by the Director of Higher Education and the university.<br>• The petitioners were appointed between 2008 and 2015 in various affiliated and “deficit grant-in-aid” Sanskrit colleges located in Supaul, West Champaran, East Champaran, Patna, Saran, and Jehanabad, following due process involving public advertisements and selection committees."
+    },
     {
       "category": "national",
       "categoryLabel": "🏛️ National & Polity",
@@ -113,114 +213,6 @@
       ],
       "summary": "As many as 53 vendors, including 45 MSME firms, participated in a Vendor-Buyer Meet organised by the Madras Regional Purchase and Stores Unit (MRPSU) of the Department of Atomic Energy (DAE) at the DAE Nodal Facility Centre in Pallavaram.",
       "keyPoints": "• As many as 53 vendors, including 45 MSME firms, participated in a Vendor-Buyer Meet organised by the Madras Regional Purchase and Stores Unit (MRPSU) of the Department of Atomic Energy (DAE) at the DAE Nodal Facility Centre in Pallavaram.<br>• The meet was to familiarise the vendors with the process of their registration on the Government e-Marketplace portal and the recent developments and updates on the portal.<br>• Sreekumar G. Pillai, Director, Indira Gandhi Centre for Atomic Research; Vimal Kumar, Director, Directorate of Purchase and Stores, DAE; and Kitheri Joseph, Regional Director, MRPSU, were among the speakers."
-    },
-    {
-      "category": "national",
-      "categoryLabel": "🏛️ National & Polity",
-      "title": "Infra push and low base effect pushes core sector growth to series-high of 10.9% in October 2026",
-      "link": "https://www.thehindu.com/business/Economy/infra-push-and-low-base-effect-pushes-core-sector-growth-to-series-high-in-october-2026/article71724481.ece",
-      "pubDate": "Sat, 21 Nov 2026 01:18:11 +0530",
-      "dateIso": "2026-11-21",
-      "dateDisplay": "21 Nov 2026",
-      "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
-      "imageUrl": "https://th-i.thgim.com/public/incoming/o973v5/article71724645.ece/alternates/LANDSCAPE_1200/Govt-targets-50GMSGLAHG9.5.jpg.jpg",
-      "fullParagraphs": [
-        "Growth in the core industrial sectors of the economy climbed to a series-high of 10.9% in October 2026, driven by a surge in electricity generation, and coal, cement, and iron ore production, and a low base effect, official data released on Friday (November 20, 2026) showed.",
-        "Data released by the Ministry of Commerce and Industry on the Index of Core Industries shows that growth in October surpassed the 8.2% in September, the previous series high. The new index, released this year with a base year of 2022-23, has data that goes back only up to April 2024.",
-        "However, the data also shows that the strong growth figure in October was also likely aided by the fact that the index grew a relatively poor 0.8% in October last year.",
-        "“While core output surged by 10.9% in October 2026, the fastest pace in the new series, this was supported by a low base related to the shift in the festive calendar, with output having expanded by a marginal 0.8% in the year ago month,” Aditi Nayar, chief economist at ICRA said.",
-        "“While the growth print for October 2026 signals a strong start for the third quarter of FY2027, this is largely optical,” Ms. Nayar added. “The average performance for October-November 2026 would provide a better assessment, as this would adjust for festive base effects.”",
-        "Within the index, the coal sector saw growth accelerating to 23.05% in October 2026, far faster than the 10.7% registered in September. October’s performance, however, is likely also due to low base effect, since the sector contracted 8.4% in October last year.",
-        "The growth in the index, however, is in line with what the industry itself has reported. Coal India, the country’s largest coal company, reported that production increased about 19% to 67.2 million tonnes (MT) in October.",
-        "A major reason for the growth in coal production was likely demand from the power sector, which saw electricity generation jump by 21.6% in October 2026, up from 12.6% in the previous month. However, this sector too could have benefited from a low base effect, since it contracted nearly 7% in October 2025.",
-        "Within the index, the infrastructure-related sectors were the only ones that grew strongly without the aid of a statistical low base effect.",
-        "The iron ore sector, for example, grew at a three-month high of 23.4% in October 2026, compared to 18.4% in September and 8.7% in October last year. One of the factors driving this strong growth was that steel production grew at 7.3% in October, the fastest rate in seven months.",
-        "The cement sector also grew at a series-high of 15.4% in October 2026, compared to 10.1% in September, and 5.2% in October last year.",
-        "The fuel-related sectors in the Index other than coal continued to perform relatively poorly."
-      ],
-      "deepExplanation": "<strong>1. Core Context & Background:</strong> Growth in the core industrial sectors of the economy climbed to a series-high of 10.9% in October 2026, driven by a surge in electricity generation, and coal, cement, and iron ore production, and a low base effect, official data released on Friday (November 20, 2026) showed.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Data released by the Ministry of Commerce and Industry on the Index of Core Industries shows that growth in October surpassed the 8.2% in September, the previous series high. The new index, released this year with a base year of 2022-23, has data that goes back only up to April 2024.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> The fuel-related sectors in the Index other than coal continued to perform relatively poorly.",
-      "vocabList": [
-        "Industrial",
-        "Electricity",
-        "Generation",
-        "Production",
-        "Released",
-        "November"
-      ],
-      "summary": "Growth in the core industrial sectors of the economy climbed to a series-high of 10.9% in October 2026, driven by a surge in electricity generation, and coal, cement, and iron ore production, and a low base effect, official data released on Friday (November 20, 2026) showed.",
-      "keyPoints": "• Growth in the core industrial sectors of the economy climbed to a series-high of 10.9% in October 2026, driven by a surge in electricity generation, and coal, cement, and iron ore production, and a low base effect, official data released on Friday (November 20, 2026) showed.<br>• Data released by the Ministry of Commerce and Industry on the Index of Core Industries shows that growth in October surpassed the 8.2% in September, the previous series high. The new index, released this year with a base year of 2022-23, has data that goes back only up to April 2024.<br>• However, the data also shows that the strong growth figure in October was also likely aided by the fact that the index grew a relatively poor 0.8% in October last year."
-    },
-    {
-      "category": "national",
-      "categoryLabel": "🏛️ National & Polity",
-      "title": "Following Cyclone Akvan, monsoon rain to resume over T.N. from tomorrow",
-      "link": "https://www.thehindu.com/news/national/tamil-nadu/following-cyclone-akvan-monsoon-rain-to-resume-over-tn-from-tomorrow/article71724527.ece",
-      "pubDate": "Sat, 21 Nov 2026 01:16:09 +0530",
-      "dateIso": "2026-11-21",
-      "dateDisplay": "21 Nov 2026",
-      "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
-      "imageUrl": "https://th-i.thgim.com/public/incoming/x8cubl/article71725709.ece/alternates/LANDSCAPE_1200/Rain%20Clouds%202.JPG",
-      "fullParagraphs": [
-        "Following Cyclone Akvan’s passage on Friday morning, most parts of Tamil Nadu are likely to experience a brief break in monsoon activity, accompanied by a dip in night-time temperatures. Wet weather is expected to return on Sunday and intensify over the subsequent days.",
-        "The break in rainfall is expected to raise day temperatures by two or three degrees Celsius in a few pockets of the State.",
-        "The Regional Meteorological Centre (RMC) has also forecast ground frost at isolated places in the Nilgiris and Kodaikanal till Sunday.",
-        "The absence of widespread rainfall has pushed various districts, including Tiruvarur, Thanjavur, Madurai, Salem, and Chengalpattu, into the rainfall deficit category. The State has so far received nearly 26 cm of monsoon rainfall, which is 14% lower than its seasonal share since October 1.",
-        "RMC officials said Cyclone Akvan was expected to weaken into a depression on Friday, and gradually fade away.",
-        "V.R. Durai, Head, Regional Weather Forecasting Centre, RMC, said dry and cold northwesterly winds and the absence of cloud cover and rainfall led to a rise in day temperatures and drop in minimum temperatures over most parts of the State.",
-        "A trough in the easterly wave is likely to revive rainfall activity from Sunday and bring intense rainfall from Monday as it moves across the State. While coastal districts are expected to benefit more, interior Tamil Nadu is also likely to receive moderate rainfall till November 26.",
-        "“We are expecting wet weather in the State till December first week, with a low pressure area likely to form then. The sustained rainfall activity may narrow rainfall deficit,” he said.",
-        "The RMC has forecast moderate rainfall over coastal districts, including Chennai, Cuddalore, and Nagapattinam, on Sunday and mild rainfall over areas adjoining coastal districts.",
-        "On Monday, rainfall is expected to intensify over 10 coastal districts, including Cuddalore, Thoothukudi, and Kanniyakumari.",
-        "While the wet spell would cover the entire State, intensity of rainfall would vary. For instance, districts such as Chennai, Ranipet, Villupuram, and Karur would receive moderate rainfall.",
-        "For November 24, the RMC has issued yellow alert to coastal districts from Tiruvallur to Kanniyakumari, indicating heavy rainfall, with wind speeds of up to 50 kmph. Interior and Western Ghats districts are expected to receive moderate rainfall."
-      ],
-      "deepExplanation": "<strong>1. Core Context & Background:</strong> Following Cyclone Akvan’s passage on Friday morning, most parts of Tamil Nadu are likely to experience a brief break in monsoon activity, accompanied by a dip in night-time temperatures.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Wet weather is expected to return on Sunday and intensify over the subsequent days. The break in rainfall is expected to raise day temperatures by two or three degrees Celsius in a few pockets of the State.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Interior and Western Ghats districts are expected to receive moderate rainfall.",
-      "vocabList": [
-        "Following",
-        "Experience",
-        "Activity",
-        "Accompanied",
-        "Temperatures",
-        "Expected"
-      ],
-      "summary": "Following Cyclone Akvan’s passage on Friday morning, most parts of Tamil Nadu are likely to experience a brief break in monsoon activity, accompanied by a dip in night-time temperatures. Wet weather is expected to return on Sunday and intensify over the subsequent days.",
-      "keyPoints": "• Following Cyclone Akvan’s passage on Friday morning, most parts of Tamil Nadu are likely to experience a brief break in monsoon activity, accompanied by a dip in night-time temperatures. Wet weather is expected to return on Sunday and intensify over the subsequent days.<br>• The break in rainfall is expected to raise day temperatures by two or three degrees Celsius in a few pockets of the State.<br>• The Regional Meteorological Centre (RMC) has also forecast ground frost at isolated places in the Nilgiris and Kodaikanal till Sunday."
-    },
-    {
-      "category": "national",
-      "categoryLabel": "🏛️ National & Polity",
-      "title": "Lawyer seeks to probate will left behind by former DGP’s wife: Madras High Court orders CB-CID probe after suspecting its genuineness",
-      "link": "https://www.thehindu.com/news/national/tamil-nadu/lawyer-seeks-to-probate-will-left-behind-by-former-dgps-wife-madras-high-court-orders-cb-cid-probe-after-suspecting-its-genuineness/article71725560.ece",
-      "pubDate": "Sat, 21 Nov 2026 01:14:48 +0530",
-      "dateIso": "2026-11-21",
-      "dateDisplay": "21 Nov 2026",
-      "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
-      "imageUrl": "https://th-i.thgim.com/public/incoming/smum1y/article71726025.ece/alternates/LANDSCAPE_1200/Tamil-Nadu-goveGFMGQINUG.3.jpg.jpg",
-      "fullParagraphs": [
-        "The Madras High Court has ordered a Crime Branch-Criminal Investigation Department (CB-CID) probe into a claim made by a lawyer that former Director General of Police K. Ravindran’s wife Rani Ravindran alias Rani Pushpalatha Ravindran had appointed him as the executor of a will left behind by her bequeathing all her valuable properties in Chennai and New Delhi to her personal assistant.",
-        "A Division Bench of Justices N. Sathish Kumar and G.K. Muthukumaar directed the incumbent Director General of Police/Head of Police Force (DGP/HoPF) Mahesh Kumar Aggarwal to ensure that the CB-CID registers a First Information Report (FIR) regarding the claim made by advocate E. Paramasivan, conducts an investigation and files a status report before the court by December 14, 2026.",
-        "The judges asked Additional Public Prosecutor M. Mohamed Riyaz to convey their order to the DGP/HoPF forthwith so that the investigation could commence as early as possible. “Prima facie, we are satisfied that this is nothing but a clear case of land grabbing by the lawyers, particularly against elderly persons whose legal heirs are not residing in the city,” the judges wrote.",
-        "Advocate C.K. Chandrasekar, representing the Administrator General and Official Trustee (AG&OT) of Tamil Nadu told the court that the deceased woman’s grandson was living in Australia but that fact had been suppressed in a petition filed before a single judge of the High Court last year seeking probate of a supposed will. The Bench directed the AG&OT to take possession of all properties and communicate it to the legal heirs.",
-        "The directions were issued on an appeal preferred by Mr. Paramasivan against the refusal of Justice A.D. Maria Clete to grant probate after suspecting the genuineness of the supposed will. The judge had taken note that the former DGP had died in 2021 and his wife had passed away in Chennai on May 2, 2025. Mr. Paramasivan had approached the court claiming that the couple were issueless.",
-        "He also claimed that the deceased woman had executed a will bequeathing all her properties in the name of her caretaker S. Dilip Kumar and had appointed the petitioner as the executor of the will. However, Justice Clete found that the undated will did not contain the testatrix’s signature but only a thumb impression on each page and no other document was produced in court to compare the thumb impressions.",
-        "Though the petitioner had claimed to be the deceased woman’s lawyer for about 10 years, he had failed to produce any material to prove the claimed professional relationship. “On the contrary, he admitted that the testatrix had no litigation pending before any court in Chennai and that he had never represented her in any legal proceedings,” the judge highlighted.",
-        "“In the absence of any evidence regarding the nature of the legal services rendered by the petitioner, it remains unexplained how he came to be appointed as the sole executor under the will. Ordinarily, the appointment of an executor reflects a relationship of confidence, trust, or close association between the testator and the executor,” the judge said.",
-        "She was also not convinced with the explanation given by Mr. Paramasivan for the existence of the words ‘Drafted by Self’ on the last page of the will though he claimed to have drafted the document. The lawyer said, those words were included because the Registration department always insists such a mention in a will before accepting it for registration.",
-        "“The above explanation is unconvincing. There is no legal provision or established practice that prohibits an advocate or a licensed document writer from mentioning their name in a will they have drafted. On the contrary, it is common for the scribe of a will, whether an advocate or a document writer, to disclose their identity and sign the document,” the judge said.",
-        "Justice Clete also found that though the deceased woman owned a residential flat in New Delhi too apart from owning immovable properties in Kotturpuram, Neelankarai and Padur in Chennai, the probate petitioner had curiously not sought probate in respect of the entire estate covered by the will. On the contrary, he had prayed for probating the will only with respect to properties in Tamil Nadu.",
-        "“The omission to include one of the properties covered by the will, coupled with a specific prayer restricting the operation of probate to Tamil Nadu, without assigning any reason, is an unusual circumstance. The unexplained territorial restriction raises a legitimate doubt regarding the bona fides of the petitioner,” the judge said and listed out several other suspicious circumstances too."
-      ],
-      "deepExplanation": "<strong>1. Core Context & Background:</strong> The Madras High Court has ordered a Crime Branch-Criminal Investigation Department (CB-CID) probe into a claim made by a lawyer that former Director General of Police K.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Ravindran’s wife Rani Ravindran alias Rani Pushpalatha Ravindran had appointed him as the executor of a will left behind by her bequeathing all her valuable properties in Chennai and New Delhi to her personal assistant. Muthukumaar directed the incumbent Director General of Police/Head of Police Force (DGP/HoPF) Mahesh Kumar Aggarwal to ensure that the CB-CID registers a First Information Report (FIR) regarding the claim made by advocate E.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> The unexplained territorial restriction raises a legitimate doubt regarding the bona fides of the petitioner,” the judge said and listed out several other suspicious circumstances too.",
-      "vocabList": [
-        "Criminal",
-        "Investigation",
-        "Director",
-        "Ravindran",
-        "Pushpalatha",
-        "Appointed"
-      ],
-      "summary": "The Madras High Court has ordered a Crime Branch-Criminal Investigation Department (CB-CID) probe into a claim made by a lawyer that former Director General of Police K. Ravindran’s wife Rani Ravindran alias Rani Pushpalatha Ravindran had appointed him as the executor of a will left behind by her bequeathing all her valuable properties in Chennai and New Delhi to her personal assistant.",
-      "keyPoints": "• The Madras High Court has ordered a Crime Branch-Criminal Investigation Department (CB-CID) probe into a claim made by a lawyer that former Director General of Police K. Ravindran’s wife Rani Ravindran alias Rani Pushpalatha Ravindran had appointed him as the executor of a will left behind by her bequeathing all her valuable properties in Chennai and New Delhi to her personal assistant.<br>• A Division Bench of Justices N. Sathish Kumar and G.K. Muthukumaar directed the incumbent Director General of Police/Head of Police Force (DGP/HoPF) Mahesh Kumar Aggarwal to ensure that the CB-CID registers a First Information Report (FIR) regarding the claim made by advocate E. Paramasivan, conducts an investigation and files a status report before the court by December 14, 2026.<br>• The judges asked Additional Public Prosecutor M. Mohamed Riyaz to convey their order to the DGP/HoPF forthwith so that the investigation could commence as early as possible. “Prima facie, we are satisfied that this is nothing but a clear case of land grabbing by the lawyers, particularly against elderly persons whose legal heirs are not residing in the city,” the judges wrote."
     },
     {
       "category": "economy",
@@ -964,8 +956,108 @@
     "2026-11-21": {
       "dateIso": "2026-11-21",
       "dateDisplay": "21 Nov 2026",
-      "updatedAt": "21 Nov 2026, 01:29 AM IST",
+      "updatedAt": "21 Nov 2026, 02:32 AM IST",
       "articles": [
+        {
+          "category": "national",
+          "categoryLabel": "🏛️ National & Polity",
+          "title": "West Bengal CEO office postpones SSR due to unavoidable circumstances",
+          "link": "https://www.thehindu.com/news/national/west-bengal/west-bengal-special-summary-revision-of-electoral-rolls-postponed/article71724439.ece",
+          "pubDate": "Sat, 21 Nov 2026 01:41:35 +0530",
+          "dateIso": "2026-11-21",
+          "dateDisplay": "21 Nov 2026",
+          "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/gvn1nc/article71724459.ece/alternates/LANDSCAPE_1200/4col_Lead_StoryGJOF4H9NR.3.jpg.jpg",
+          "fullParagraphs": [
+            "The West Bengal Chief Electoral Officer’s (CEO) office announced on Friday (November 20, 2026) the postponement of the Special Summary Revision (SSR) of the Photo Electoral Roll, 2027, which was scheduled to commence on November 23. The CEO’s office, in a statement, added that the decision has been taken due to “unavoidable circumstances.” The revised schedule for the exercise will be intimated subsequently, the statement said.",
+            "Editorial | Incomplete remedies: On Special Summary Revision of electoral rolls",
+            "“The upcoming programme of Special Summary Revision of Photo Electoral Roll, which was scheduled from 23 November 2026 onwards, is hereby postponed due to some unavoidable circumstances,” the press statement said. As per the SSR schedule announced in the State, the publication of final electoral rolls is scheduled for January 2027.",
+            "The SSR, an annual exercise, usually seeks to enrol eligible voters—particularly young and first-time electors—and facilitate advance applications from those who will become eligible on April 1, July 1, and October 1, 2027. However, it had not been carried out after the SIR was launched last year.",
+            "The development comes ahead of pending civic elections in West Bengal. The state government is keen to hold elections to the civic bodies of Howrah and Kolkata. The Calcutta High Court had stayed elections to the Kolkata Municipal Corporation on the grounds that the challenge to the delimitation of wards of the civic body should be addressed by the Court before elections are declared.",
+            "The SSR will not come to the aid of the 38 lakh electors whose fate is pending before SIR tribunals after their names were removed from the voter list. According to an affidavit filed by the ECI in September earlier this year, of the 27 lakh electors who were excluded from the electoral rolls on the ground of “logical discrepancies,” 22 lakh voters have filed appeals before the tribunal challenging their exclusion. The EC’s affidavit also added that 16.10 lakh appeals have been filed against inclusions during SIR. This puts the total number of appeals of 38 lakh electors pending before the SIR tribunals."
+          ],
+          "deepExplanation": "<strong>1. Core Context & Background:</strong> The West Bengal Chief Electoral Officer’s (CEO) office announced on Friday (November 20, 2026) the postponement of the Special Summary Revision (SSR) of the Photo Electoral Roll, 2027, which was scheduled to commence on November 23.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> The CEO’s office, in a statement, added that the decision has been taken due to “unavoidable circumstances.” The revised schedule for the exercise will be intimated subsequently, the statement said. Editorial | Incomplete remedies: On Special Summary Revision of electoral rolls “The upcoming programme of Special Summary Revision of Photo Electoral Roll, which was scheduled from 23 November 2026 onwards, is hereby postponed due to some unavoidable circumstances,” the press statement said.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> This puts the total number of appeals of 38 lakh electors pending before the SIR tribunals.",
+          "vocabList": [
+            "Electoral",
+            "Announced",
+            "November",
+            "Postponement",
+            "Revision",
+            "Scheduled"
+          ],
+          "summary": "The West Bengal Chief Electoral Officer’s (CEO) office announced on Friday (November 20, 2026) the postponement of the Special Summary Revision (SSR) of the Photo Electoral Roll, 2027, which was scheduled to commence on November 23. The CEO’s office, in a statement, added that the decision has been taken due to “unavoidable circumstances.” The revised schedule for the exercise will be intimated subsequently, the statement said.",
+          "keyPoints": "• The West Bengal Chief Electoral Officer’s (CEO) office announced on Friday (November 20, 2026) the postponement of the Special Summary Revision (SSR) of the Photo Electoral Roll, 2027, which was scheduled to commence on November 23. The CEO’s office, in a statement, added that the decision has been taken due to “unavoidable circumstances.” The revised schedule for the exercise will be intimated subsequently, the statement said.<br>• Editorial | Incomplete remedies: On Special Summary Revision of electoral rolls<br>• “The upcoming programme of Special Summary Revision of Photo Electoral Roll, which was scheduled from 23 November 2026 onwards, is hereby postponed due to some unavoidable circumstances,” the press statement said. As per the SSR schedule announced in the State, the publication of final electoral rolls is scheduled for January 2027."
+        },
+        {
+          "category": "national",
+          "categoryLabel": "🏛️ National & Polity",
+          "title": "Congress proposes four-point formula for delimitation, says INDIA bloc on board",
+          "link": "https://www.thehindu.com/news/national/congress-wants-consultation-on-delimitation-issue-accuses-government-of-not-reaching-out/article71724511.ece",
+          "pubDate": "Sat, 21 Nov 2026 01:25:46 +0530",
+          "dateIso": "2026-11-21",
+          "dateDisplay": "21 Nov 2026",
+          "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/k51zxz/article71724718.ece/alternates/LANDSCAPE_1200/16TH-VIJAITA-ABG4LGQDCDT.3.jpg.jpg",
+          "fullParagraphs": [
+            "The Congress party on Friday said it favoured resolving the issue of delimitation through consultations with all political parties, but accused the government of making no effort to engage the Opposition on the matter.",
+            "Congress general secretary Jairam Ramesh said the party’s position was guided by a four-point formula: retaining the existing strength of 543 seats in the Lok Sabha; maintaining the present State-wise distribution of seats; reserving one-third (182) of the existing seats for women; and imposing a 25-year freeze on all three arrangements.",
+            "Mr. Ramesh said the need for an early consensus on the issue had become more pressing in view of of the fact that Article 82 of the Constitution will come into force and delimitation would be held once the results of the ongoing Census exercise are out early next year.",
+            "This could be unfavourable to some southern states – which have made progress in population control – and hence not feasible, he added.",
+            "Mr. Ramesh said the Congress was not opposed to delimitation as such, but believed that the exercise should not place any State at a disadvantage.",
+            "The Congress leader claimed that all parties in the INDIA bloc, including the Dravida Munnetra Kazhagam (DMK) and the Nationalist Congress Party (Sharadchandra Pawar), were on the same page on the four-point formula.",
+            "The DMK, he said, was also party to a resolution opposing any change in the number of Lok Sabha seats and seeking safeguards to ensure that Tamil Nadu was not disadvantaged by delimitation.",
+            "The Congress leader said seeking consultation was necessary because the government had not initiated any meaningful engagement with the Opposition.",
+            "He claimed that as per his information, the government has not shared a concrete proposal on delimitation even with constituents of the National Democratic Alliance.",
+            "The Congress wanted the matter to be discussed with all political parties and stakeholders to arrive at a consensus, Mr. Ramesh added.",
+            "The Monsoon session of Parliament has remained unprorogued since both Houses were adjourned sine die on August 13.",
+            "The decision has fuelled speculation about the possibility of the government convening Parliament at short notice to consider the proposed constitutional changes linked to women’s reservation and delimitation."
+          ],
+          "deepExplanation": "<strong>1. Core Context & Background:</strong> The Congress party on Friday said it favoured resolving the issue of delimitation through consultations with all political parties, but accused the government of making no effort to engage the Opposition on the matter.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Congress general secretary Jairam Ramesh said the party’s position was guided by a four-point formula: retaining the existing strength of 543 seats in the Lok Sabha; maintaining the present State-wise distribution of seats; reserving one-third (182) of the existing seats for women; and imposing a 25-year freeze on all three arrangements. Ramesh said the need for an early consensus on the issue had become more pressing in view of of the fact that Article 82 of the Constitution will come into force and delimitation would be held once the results of the ongoing Census exercise are out early next year.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> The decision has fuelled speculation about the possibility of the government convening Parliament at short notice to consider the proposed constitutional changes linked to women’s reservation and delimitation.",
+          "vocabList": [
+            "Congress",
+            "Favoured",
+            "Resolving",
+            "Delimitation",
+            "Consultations",
+            "Political"
+          ],
+          "summary": "The Congress party on Friday said it favoured resolving the issue of delimitation through consultations with all political parties, but accused the government of making no effort to engage the Opposition on the matter.",
+          "keyPoints": "• The Congress party on Friday said it favoured resolving the issue of delimitation through consultations with all political parties, but accused the government of making no effort to engage the Opposition on the matter.<br>• Congress general secretary Jairam Ramesh said the party’s position was guided by a four-point formula: retaining the existing strength of 543 seats in the Lok Sabha; maintaining the present State-wise distribution of seats; reserving one-third (182) of the existing seats for women; and imposing a 25-year freeze on all three arrangements.<br>• Mr. Ramesh said the need for an early consensus on the issue had become more pressing in view of of the fact that Article 82 of the Constitution will come into force and delimitation would be held once the results of the ongoing Census exercise are out early next year."
+        },
+        {
+          "category": "national",
+          "categoryLabel": "🏛️ National & Polity",
+          "title": "Patna High Court quashes dismissal of teachers and staff of Sanskrit Colleges",
+          "link": "https://www.thehindu.com/news/national/bihar/patna-high-court-quashes-dismissal-of-teachers-and-staff-of-sanskrit-colleges/article71725090.ece",
+          "pubDate": "Sat, 21 Nov 2026 01:25:15 +0530",
+          "dateIso": "2026-11-21",
+          "dateDisplay": "21 Nov 2026",
+          "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/1wnf0o/article65970066.ece/alternates/LANDSCAPE_1200/PTI09_24_2022_000098A.jpg",
+          "fullParagraphs": [
+            "Principals, teachers, and non-teaching staff of various Sanskrit colleges affiliated with Kameshwar Singh Darbhanga Sanskrit University (KSDSU) received relief from the Patna High Court on Friday (November 20, 2026).",
+            "A single-judge bench presided over by Justice Kumar Manish, while hearing 12 connected petitions (lead case: Birendra Prasad Thakur v. State of Bihar, CWJC No. 13475/2022), quashed all dismissal orders issued by the Director of Higher Education and the university.",
+            "The petitioners were appointed between 2008 and 2015 in various affiliated and “deficit grant-in-aid” Sanskrit colleges located in Supaul, West Champaran, East Champaran, Patna, Saran, and Jehanabad, following due process involving public advertisements and selection committees.",
+            "Despite the university’s Syndicate confirming their services, the Director of Higher Education cited the absence of prior approval from the State Government, as required under Section 35(2) of the Bihar State Universities Act, 1976, and rejected these appointments on April 21, 2022, and November 2, 2022. Subsequently, the university issued directives to terminate their services.",
+            "In its judgment, the High Court cited the ruling of a Full Bench in Braj Kishore Singh v. State of Bihar (1997). The Court clarified that, when posts have already been created and sanctioned (under an established ‘staffing pattern’) pursuant to the State Government’s resolution dated October 18, 1976, separate ‘prior approval’ from the government is not mandatory for appointments to those posts made through a valid selection process.",
+            "“Dismissing an employee on technical grounds after more than a decade of service constitutes a violation of Articles 14, 16, and 21 of the Constitution,” the court observed.",
+            "Expressing concern over the proliferation of unnecessary litigation in cases of a similar nature, the court cited Clause 4(C)(1) of the Bihar State Litigation Policy, 2011.",
+            "The court directed that a copy of the order be sent to the Chief Secretary and the Advocate General. The court emphasised that such similar cases should be resolved at the departmental level.",
+            "Declaring the service of all the petitioners to be valid, the court has directed the Bihar Education Department to release the grant-in-aid to the university within three months of receiving a copy of the order.",
+            "“This is to ensure that the petitioners receive their regular current salaries, as well as all outstanding salary arrears accrued from the date of their initial appointment,” the court said."
+          ],
+          "deepExplanation": "<strong>1. Core Context & Background:</strong> Principals, teachers, and non-teaching staff of various Sanskrit colleges affiliated with Kameshwar Singh Darbhanga Sanskrit University (KSDSU) received relief from the Patna High Court on Friday (November 20, 2026).<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> A single-judge bench presided over by Justice Kumar Manish, while hearing 12 connected petitions (lead case: Birendra Prasad Thakur v. 13475/2022), quashed all dismissal orders issued by the Director of Higher Education and the university.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> “This is to ensure that the petitioners receive their regular current salaries, as well as all outstanding salary arrears accrued from the date of their initial appointment,” the court said.",
+          "vocabList": [
+            "Principals",
+            "Teachers",
+            "Teaching",
+            "Sanskrit",
+            "Colleges",
+            "Affiliated"
+          ],
+          "summary": "Principals, teachers, and non-teaching staff of various Sanskrit colleges affiliated with Kameshwar Singh Darbhanga Sanskrit University (KSDSU) received relief from the Patna High Court on Friday (November 20, 2026).",
+          "keyPoints": "• Principals, teachers, and non-teaching staff of various Sanskrit colleges affiliated with Kameshwar Singh Darbhanga Sanskrit University (KSDSU) received relief from the Patna High Court on Friday (November 20, 2026).<br>• A single-judge bench presided over by Justice Kumar Manish, while hearing 12 connected petitions (lead case: Birendra Prasad Thakur v. State of Bihar, CWJC No. 13475/2022), quashed all dismissal orders issued by the Director of Higher Education and the university.<br>• The petitioners were appointed between 2008 and 2015 in various affiliated and “deficit grant-in-aid” Sanskrit colleges located in Supaul, West Champaran, East Champaran, Patna, Saran, and Jehanabad, following due process involving public advertisements and selection committees."
+        },
         {
           "category": "national",
           "categoryLabel": "🏛️ National & Polity",
@@ -1053,114 +1145,6 @@
           ],
           "summary": "As many as 53 vendors, including 45 MSME firms, participated in a Vendor-Buyer Meet organised by the Madras Regional Purchase and Stores Unit (MRPSU) of the Department of Atomic Energy (DAE) at the DAE Nodal Facility Centre in Pallavaram.",
           "keyPoints": "• As many as 53 vendors, including 45 MSME firms, participated in a Vendor-Buyer Meet organised by the Madras Regional Purchase and Stores Unit (MRPSU) of the Department of Atomic Energy (DAE) at the DAE Nodal Facility Centre in Pallavaram.<br>• The meet was to familiarise the vendors with the process of their registration on the Government e-Marketplace portal and the recent developments and updates on the portal.<br>• Sreekumar G. Pillai, Director, Indira Gandhi Centre for Atomic Research; Vimal Kumar, Director, Directorate of Purchase and Stores, DAE; and Kitheri Joseph, Regional Director, MRPSU, were among the speakers."
-        },
-        {
-          "category": "national",
-          "categoryLabel": "🏛️ National & Polity",
-          "title": "Infra push and low base effect pushes core sector growth to series-high of 10.9% in October 2026",
-          "link": "https://www.thehindu.com/business/Economy/infra-push-and-low-base-effect-pushes-core-sector-growth-to-series-high-in-october-2026/article71724481.ece",
-          "pubDate": "Sat, 21 Nov 2026 01:18:11 +0530",
-          "dateIso": "2026-11-21",
-          "dateDisplay": "21 Nov 2026",
-          "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
-          "imageUrl": "https://th-i.thgim.com/public/incoming/o973v5/article71724645.ece/alternates/LANDSCAPE_1200/Govt-targets-50GMSGLAHG9.5.jpg.jpg",
-          "fullParagraphs": [
-            "Growth in the core industrial sectors of the economy climbed to a series-high of 10.9% in October 2026, driven by a surge in electricity generation, and coal, cement, and iron ore production, and a low base effect, official data released on Friday (November 20, 2026) showed.",
-            "Data released by the Ministry of Commerce and Industry on the Index of Core Industries shows that growth in October surpassed the 8.2% in September, the previous series high. The new index, released this year with a base year of 2022-23, has data that goes back only up to April 2024.",
-            "However, the data also shows that the strong growth figure in October was also likely aided by the fact that the index grew a relatively poor 0.8% in October last year.",
-            "“While core output surged by 10.9% in October 2026, the fastest pace in the new series, this was supported by a low base related to the shift in the festive calendar, with output having expanded by a marginal 0.8% in the year ago month,” Aditi Nayar, chief economist at ICRA said.",
-            "“While the growth print for October 2026 signals a strong start for the third quarter of FY2027, this is largely optical,” Ms. Nayar added. “The average performance for October-November 2026 would provide a better assessment, as this would adjust for festive base effects.”",
-            "Within the index, the coal sector saw growth accelerating to 23.05% in October 2026, far faster than the 10.7% registered in September. October’s performance, however, is likely also due to low base effect, since the sector contracted 8.4% in October last year.",
-            "The growth in the index, however, is in line with what the industry itself has reported. Coal India, the country’s largest coal company, reported that production increased about 19% to 67.2 million tonnes (MT) in October.",
-            "A major reason for the growth in coal production was likely demand from the power sector, which saw electricity generation jump by 21.6% in October 2026, up from 12.6% in the previous month. However, this sector too could have benefited from a low base effect, since it contracted nearly 7% in October 2025.",
-            "Within the index, the infrastructure-related sectors were the only ones that grew strongly without the aid of a statistical low base effect.",
-            "The iron ore sector, for example, grew at a three-month high of 23.4% in October 2026, compared to 18.4% in September and 8.7% in October last year. One of the factors driving this strong growth was that steel production grew at 7.3% in October, the fastest rate in seven months.",
-            "The cement sector also grew at a series-high of 15.4% in October 2026, compared to 10.1% in September, and 5.2% in October last year.",
-            "The fuel-related sectors in the Index other than coal continued to perform relatively poorly."
-          ],
-          "deepExplanation": "<strong>1. Core Context & Background:</strong> Growth in the core industrial sectors of the economy climbed to a series-high of 10.9% in October 2026, driven by a surge in electricity generation, and coal, cement, and iron ore production, and a low base effect, official data released on Friday (November 20, 2026) showed.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Data released by the Ministry of Commerce and Industry on the Index of Core Industries shows that growth in October surpassed the 8.2% in September, the previous series high. The new index, released this year with a base year of 2022-23, has data that goes back only up to April 2024.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> The fuel-related sectors in the Index other than coal continued to perform relatively poorly.",
-          "vocabList": [
-            "Industrial",
-            "Electricity",
-            "Generation",
-            "Production",
-            "Released",
-            "November"
-          ],
-          "summary": "Growth in the core industrial sectors of the economy climbed to a series-high of 10.9% in October 2026, driven by a surge in electricity generation, and coal, cement, and iron ore production, and a low base effect, official data released on Friday (November 20, 2026) showed.",
-          "keyPoints": "• Growth in the core industrial sectors of the economy climbed to a series-high of 10.9% in October 2026, driven by a surge in electricity generation, and coal, cement, and iron ore production, and a low base effect, official data released on Friday (November 20, 2026) showed.<br>• Data released by the Ministry of Commerce and Industry on the Index of Core Industries shows that growth in October surpassed the 8.2% in September, the previous series high. The new index, released this year with a base year of 2022-23, has data that goes back only up to April 2024.<br>• However, the data also shows that the strong growth figure in October was also likely aided by the fact that the index grew a relatively poor 0.8% in October last year."
-        },
-        {
-          "category": "national",
-          "categoryLabel": "🏛️ National & Polity",
-          "title": "Following Cyclone Akvan, monsoon rain to resume over T.N. from tomorrow",
-          "link": "https://www.thehindu.com/news/national/tamil-nadu/following-cyclone-akvan-monsoon-rain-to-resume-over-tn-from-tomorrow/article71724527.ece",
-          "pubDate": "Sat, 21 Nov 2026 01:16:09 +0530",
-          "dateIso": "2026-11-21",
-          "dateDisplay": "21 Nov 2026",
-          "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
-          "imageUrl": "https://th-i.thgim.com/public/incoming/x8cubl/article71725709.ece/alternates/LANDSCAPE_1200/Rain%20Clouds%202.JPG",
-          "fullParagraphs": [
-            "Following Cyclone Akvan’s passage on Friday morning, most parts of Tamil Nadu are likely to experience a brief break in monsoon activity, accompanied by a dip in night-time temperatures. Wet weather is expected to return on Sunday and intensify over the subsequent days.",
-            "The break in rainfall is expected to raise day temperatures by two or three degrees Celsius in a few pockets of the State.",
-            "The Regional Meteorological Centre (RMC) has also forecast ground frost at isolated places in the Nilgiris and Kodaikanal till Sunday.",
-            "The absence of widespread rainfall has pushed various districts, including Tiruvarur, Thanjavur, Madurai, Salem, and Chengalpattu, into the rainfall deficit category. The State has so far received nearly 26 cm of monsoon rainfall, which is 14% lower than its seasonal share since October 1.",
-            "RMC officials said Cyclone Akvan was expected to weaken into a depression on Friday, and gradually fade away.",
-            "V.R. Durai, Head, Regional Weather Forecasting Centre, RMC, said dry and cold northwesterly winds and the absence of cloud cover and rainfall led to a rise in day temperatures and drop in minimum temperatures over most parts of the State.",
-            "A trough in the easterly wave is likely to revive rainfall activity from Sunday and bring intense rainfall from Monday as it moves across the State. While coastal districts are expected to benefit more, interior Tamil Nadu is also likely to receive moderate rainfall till November 26.",
-            "“We are expecting wet weather in the State till December first week, with a low pressure area likely to form then. The sustained rainfall activity may narrow rainfall deficit,” he said.",
-            "The RMC has forecast moderate rainfall over coastal districts, including Chennai, Cuddalore, and Nagapattinam, on Sunday and mild rainfall over areas adjoining coastal districts.",
-            "On Monday, rainfall is expected to intensify over 10 coastal districts, including Cuddalore, Thoothukudi, and Kanniyakumari.",
-            "While the wet spell would cover the entire State, intensity of rainfall would vary. For instance, districts such as Chennai, Ranipet, Villupuram, and Karur would receive moderate rainfall.",
-            "For November 24, the RMC has issued yellow alert to coastal districts from Tiruvallur to Kanniyakumari, indicating heavy rainfall, with wind speeds of up to 50 kmph. Interior and Western Ghats districts are expected to receive moderate rainfall."
-          ],
-          "deepExplanation": "<strong>1. Core Context & Background:</strong> Following Cyclone Akvan’s passage on Friday morning, most parts of Tamil Nadu are likely to experience a brief break in monsoon activity, accompanied by a dip in night-time temperatures.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Wet weather is expected to return on Sunday and intensify over the subsequent days. The break in rainfall is expected to raise day temperatures by two or three degrees Celsius in a few pockets of the State.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Interior and Western Ghats districts are expected to receive moderate rainfall.",
-          "vocabList": [
-            "Following",
-            "Experience",
-            "Activity",
-            "Accompanied",
-            "Temperatures",
-            "Expected"
-          ],
-          "summary": "Following Cyclone Akvan’s passage on Friday morning, most parts of Tamil Nadu are likely to experience a brief break in monsoon activity, accompanied by a dip in night-time temperatures. Wet weather is expected to return on Sunday and intensify over the subsequent days.",
-          "keyPoints": "• Following Cyclone Akvan’s passage on Friday morning, most parts of Tamil Nadu are likely to experience a brief break in monsoon activity, accompanied by a dip in night-time temperatures. Wet weather is expected to return on Sunday and intensify over the subsequent days.<br>• The break in rainfall is expected to raise day temperatures by two or three degrees Celsius in a few pockets of the State.<br>• The Regional Meteorological Centre (RMC) has also forecast ground frost at isolated places in the Nilgiris and Kodaikanal till Sunday."
-        },
-        {
-          "category": "national",
-          "categoryLabel": "🏛️ National & Polity",
-          "title": "Lawyer seeks to probate will left behind by former DGP’s wife: Madras High Court orders CB-CID probe after suspecting its genuineness",
-          "link": "https://www.thehindu.com/news/national/tamil-nadu/lawyer-seeks-to-probate-will-left-behind-by-former-dgps-wife-madras-high-court-orders-cb-cid-probe-after-suspecting-its-genuineness/article71725560.ece",
-          "pubDate": "Sat, 21 Nov 2026 01:14:48 +0530",
-          "dateIso": "2026-11-21",
-          "dateDisplay": "21 Nov 2026",
-          "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
-          "imageUrl": "https://th-i.thgim.com/public/incoming/smum1y/article71726025.ece/alternates/LANDSCAPE_1200/Tamil-Nadu-goveGFMGQINUG.3.jpg.jpg",
-          "fullParagraphs": [
-            "The Madras High Court has ordered a Crime Branch-Criminal Investigation Department (CB-CID) probe into a claim made by a lawyer that former Director General of Police K. Ravindran’s wife Rani Ravindran alias Rani Pushpalatha Ravindran had appointed him as the executor of a will left behind by her bequeathing all her valuable properties in Chennai and New Delhi to her personal assistant.",
-            "A Division Bench of Justices N. Sathish Kumar and G.K. Muthukumaar directed the incumbent Director General of Police/Head of Police Force (DGP/HoPF) Mahesh Kumar Aggarwal to ensure that the CB-CID registers a First Information Report (FIR) regarding the claim made by advocate E. Paramasivan, conducts an investigation and files a status report before the court by December 14, 2026.",
-            "The judges asked Additional Public Prosecutor M. Mohamed Riyaz to convey their order to the DGP/HoPF forthwith so that the investigation could commence as early as possible. “Prima facie, we are satisfied that this is nothing but a clear case of land grabbing by the lawyers, particularly against elderly persons whose legal heirs are not residing in the city,” the judges wrote.",
-            "Advocate C.K. Chandrasekar, representing the Administrator General and Official Trustee (AG&OT) of Tamil Nadu told the court that the deceased woman’s grandson was living in Australia but that fact had been suppressed in a petition filed before a single judge of the High Court last year seeking probate of a supposed will. The Bench directed the AG&OT to take possession of all properties and communicate it to the legal heirs.",
-            "The directions were issued on an appeal preferred by Mr. Paramasivan against the refusal of Justice A.D. Maria Clete to grant probate after suspecting the genuineness of the supposed will. The judge had taken note that the former DGP had died in 2021 and his wife had passed away in Chennai on May 2, 2025. Mr. Paramasivan had approached the court claiming that the couple were issueless.",
-            "He also claimed that the deceased woman had executed a will bequeathing all her properties in the name of her caretaker S. Dilip Kumar and had appointed the petitioner as the executor of the will. However, Justice Clete found that the undated will did not contain the testatrix’s signature but only a thumb impression on each page and no other document was produced in court to compare the thumb impressions.",
-            "Though the petitioner had claimed to be the deceased woman’s lawyer for about 10 years, he had failed to produce any material to prove the claimed professional relationship. “On the contrary, he admitted that the testatrix had no litigation pending before any court in Chennai and that he had never represented her in any legal proceedings,” the judge highlighted.",
-            "“In the absence of any evidence regarding the nature of the legal services rendered by the petitioner, it remains unexplained how he came to be appointed as the sole executor under the will. Ordinarily, the appointment of an executor reflects a relationship of confidence, trust, or close association between the testator and the executor,” the judge said.",
-            "She was also not convinced with the explanation given by Mr. Paramasivan for the existence of the words ‘Drafted by Self’ on the last page of the will though he claimed to have drafted the document. The lawyer said, those words were included because the Registration department always insists such a mention in a will before accepting it for registration.",
-            "“The above explanation is unconvincing. There is no legal provision or established practice that prohibits an advocate or a licensed document writer from mentioning their name in a will they have drafted. On the contrary, it is common for the scribe of a will, whether an advocate or a document writer, to disclose their identity and sign the document,” the judge said.",
-            "Justice Clete also found that though the deceased woman owned a residential flat in New Delhi too apart from owning immovable properties in Kotturpuram, Neelankarai and Padur in Chennai, the probate petitioner had curiously not sought probate in respect of the entire estate covered by the will. On the contrary, he had prayed for probating the will only with respect to properties in Tamil Nadu.",
-            "“The omission to include one of the properties covered by the will, coupled with a specific prayer restricting the operation of probate to Tamil Nadu, without assigning any reason, is an unusual circumstance. The unexplained territorial restriction raises a legitimate doubt regarding the bona fides of the petitioner,” the judge said and listed out several other suspicious circumstances too."
-          ],
-          "deepExplanation": "<strong>1. Core Context & Background:</strong> The Madras High Court has ordered a Crime Branch-Criminal Investigation Department (CB-CID) probe into a claim made by a lawyer that former Director General of Police K.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Ravindran’s wife Rani Ravindran alias Rani Pushpalatha Ravindran had appointed him as the executor of a will left behind by her bequeathing all her valuable properties in Chennai and New Delhi to her personal assistant. Muthukumaar directed the incumbent Director General of Police/Head of Police Force (DGP/HoPF) Mahesh Kumar Aggarwal to ensure that the CB-CID registers a First Information Report (FIR) regarding the claim made by advocate E.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> The unexplained territorial restriction raises a legitimate doubt regarding the bona fides of the petitioner,” the judge said and listed out several other suspicious circumstances too.",
-          "vocabList": [
-            "Criminal",
-            "Investigation",
-            "Director",
-            "Ravindran",
-            "Pushpalatha",
-            "Appointed"
-          ],
-          "summary": "The Madras High Court has ordered a Crime Branch-Criminal Investigation Department (CB-CID) probe into a claim made by a lawyer that former Director General of Police K. Ravindran’s wife Rani Ravindran alias Rani Pushpalatha Ravindran had appointed him as the executor of a will left behind by her bequeathing all her valuable properties in Chennai and New Delhi to her personal assistant.",
-          "keyPoints": "• The Madras High Court has ordered a Crime Branch-Criminal Investigation Department (CB-CID) probe into a claim made by a lawyer that former Director General of Police K. Ravindran’s wife Rani Ravindran alias Rani Pushpalatha Ravindran had appointed him as the executor of a will left behind by her bequeathing all her valuable properties in Chennai and New Delhi to her personal assistant.<br>• A Division Bench of Justices N. Sathish Kumar and G.K. Muthukumaar directed the incumbent Director General of Police/Head of Police Force (DGP/HoPF) Mahesh Kumar Aggarwal to ensure that the CB-CID registers a First Information Report (FIR) regarding the claim made by advocate E. Paramasivan, conducts an investigation and files a status report before the court by December 14, 2026.<br>• The judges asked Additional Public Prosecutor M. Mohamed Riyaz to convey their order to the DGP/HoPF forthwith so that the investigation could commence as early as possible. “Prima facie, we are satisfied that this is nothing but a clear case of land grabbing by the lawyers, particularly against elderly persons whose legal heirs are not residing in the city,” the judges wrote."
         },
         {
           "category": "economy",
@@ -3810,169 +3794,169 @@
       "id": "gk_21 Nov 2026_1",
       "cat": "🏛️ National & Polity",
       "date": "21 Nov 2026",
-      "qEn": "[21 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"After a nine-year wait and unsuccessful fertility treatment at private hospitals, a couple welcomed triplet boys following treatme...\"?",
-      "qHi": "[21 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"After a nine-year wait and unsuccessful fertility treatment at private hospitals, a couple welcomed triplet boys following treatme...\"?",
-      "qMr": "[21 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"After a nine-year wait and unsuccessful fertility treatment at private hospitals, a couple welcomed triplet boys following treatme...\"?",
+      "qEn": "[21 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"The West Bengal Chief Electoral Officer’s (CEO) office announced on Friday (November 20, 2026) the postponement of the Special Sum...\"?",
+      "qHi": "[21 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"The West Bengal Chief Electoral Officer’s (CEO) office announced on Friday (November 20, 2026) the postponement of the Special Sum...\"?",
+      "qMr": "[21 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"The West Bengal Chief Electoral Officer’s (CEO) office announced on Friday (November 20, 2026) the postponement of the Special Sum...\"?",
       "optsEn": [
-        "Woman delivers triplets after non-ART treatment at Telangana govt. hospital; prema...",
+        "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "West Bengal CEO office postpones SSR due to unavoidable circumstances",
+        "15th Finance Commission Special State Grant",
+        "Inter-State Council Constitutional Review Panel"
+      ],
+      "optsHi": [
+        "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "West Bengal CEO office postpones SSR due to unavoidable circumstances",
+        "15th Finance Commission Special State Grant",
+        "Inter-State Council Constitutional Review Panel"
+      ],
+      "optsMr": [
+        "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "West Bengal CEO office postpones SSR due to unavoidable circumstances",
+        "15th Finance Commission Special State Grant",
+        "Inter-State Council Constitutional Review Panel"
+      ],
+      "ans": 1,
+      "explanation": "<strong>1. Core Context & Background:</strong> The West Bengal Chief Electoral Officer’s (CEO) office announced on Friday (November 20, 2026) the postponement of the Special Summary Revision (SSR) of the Photo Electoral Roll, 2027, which was scheduled to commence on November 23.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> The CEO’s office, in a statement, added that the decision has been taken due to “unavoidable circumstances.” The revised schedule for the exercise will be intimated subsequently, the statement said. Editorial | Incomplete remedies: On Special Summary Revision of electoral rolls “The upcoming programme of Special Summary Revision of Photo Electoral Roll, which was scheduled from 23 November 2026 onwards, is hereby postponed due to some unavoidable circumstances,” the press statement said.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> This puts the total number of appeals of 38 lakh electors pending before the SIR tribunals."
+    },
+    {
+      "id": "gk_21 Nov 2026_2",
+      "cat": "🏛️ National & Polity",
+      "date": "21 Nov 2026",
+      "qEn": "[21 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"The Congress party on Friday said it favoured resolving the issue of delimitation through consultations with all political parties...\"?",
+      "qHi": "[21 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"The Congress party on Friday said it favoured resolving the issue of delimitation through consultations with all political parties...\"?",
+      "qMr": "[21 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"The Congress party on Friday said it favoured resolving the issue of delimitation through consultations with all political parties...\"?",
+      "optsEn": [
+        "Congress proposes four-point formula for delimitation, says INDIA bloc on board",
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
         "15th Finance Commission Special State Grant",
         "Inter-State Council Constitutional Review Panel"
       ],
       "optsHi": [
-        "Woman delivers triplets after non-ART treatment at Telangana govt. hospital; prema...",
+        "Congress proposes four-point formula for delimitation, says INDIA bloc on board",
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
         "15th Finance Commission Special State Grant",
         "Inter-State Council Constitutional Review Panel"
       ],
       "optsMr": [
-        "Woman delivers triplets after non-ART treatment at Telangana govt. hospital; prema...",
+        "Congress proposes four-point formula for delimitation, says INDIA bloc on board",
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
         "15th Finance Commission Special State Grant",
         "Inter-State Council Constitutional Review Panel"
       ],
       "ans": 0,
+      "explanation": "<strong>1. Core Context & Background:</strong> The Congress party on Friday said it favoured resolving the issue of delimitation through consultations with all political parties, but accused the government of making no effort to engage the Opposition on the matter.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Congress general secretary Jairam Ramesh said the party’s position was guided by a four-point formula: retaining the existing strength of 543 seats in the Lok Sabha; maintaining the present State-wise distribution of seats; reserving one-third (182) of the existing seats for women; and imposing a 25-year freeze on all three arrangements. Ramesh said the need for an early consensus on the issue had become more pressing in view of of the fact that Article 82 of the Constitution will come into force and delimitation would be held once the results of the ongoing Census exercise are out early next year.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> The decision has fuelled speculation about the possibility of the government convening Parliament at short notice to consider the proposed constitutional changes linked to women’s reservation and delimitation."
+    },
+    {
+      "id": "gk_21 Nov 2026_3",
+      "cat": "🏛️ National & Polity",
+      "date": "21 Nov 2026",
+      "qEn": "[21 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"Principals, teachers, and non-teaching staff of various Sanskrit colleges affiliated with Kameshwar Singh Darbhanga Sanskrit Unive...\"?",
+      "qHi": "[21 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"Principals, teachers, and non-teaching staff of various Sanskrit colleges affiliated with Kameshwar Singh Darbhanga Sanskrit Unive...\"?",
+      "qMr": "[21 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"Principals, teachers, and non-teaching staff of various Sanskrit colleges affiliated with Kameshwar Singh Darbhanga Sanskrit Unive...\"?",
+      "optsEn": [
+        "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "15th Finance Commission Special State Grant",
+        "Inter-State Council Constitutional Review Panel",
+        "Patna High Court quashes dismissal of teachers and staff of Sanskrit Colleges"
+      ],
+      "optsHi": [
+        "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "15th Finance Commission Special State Grant",
+        "Inter-State Council Constitutional Review Panel",
+        "Patna High Court quashes dismissal of teachers and staff of Sanskrit Colleges"
+      ],
+      "optsMr": [
+        "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "15th Finance Commission Special State Grant",
+        "Inter-State Council Constitutional Review Panel",
+        "Patna High Court quashes dismissal of teachers and staff of Sanskrit Colleges"
+      ],
+      "ans": 3,
+      "explanation": "<strong>1. Core Context & Background:</strong> Principals, teachers, and non-teaching staff of various Sanskrit colleges affiliated with Kameshwar Singh Darbhanga Sanskrit University (KSDSU) received relief from the Patna High Court on Friday (November 20, 2026).<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> A single-judge bench presided over by Justice Kumar Manish, while hearing 12 connected petitions (lead case: Birendra Prasad Thakur v. 13475/2022), quashed all dismissal orders issued by the Director of Higher Education and the university.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> “This is to ensure that the petitioners receive their regular current salaries, as well as all outstanding salary arrears accrued from the date of their initial appointment,” the court said."
+    },
+    {
+      "id": "gk_21 Nov 2026_4",
+      "cat": "🏛️ National & Polity",
+      "date": "21 Nov 2026",
+      "qEn": "[21 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"After a nine-year wait and unsuccessful fertility treatment at private hospitals, a couple welcomed triplet boys following treatme...\"?",
+      "qHi": "[21 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"After a nine-year wait and unsuccessful fertility treatment at private hospitals, a couple welcomed triplet boys following treatme...\"?",
+      "qMr": "[21 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"After a nine-year wait and unsuccessful fertility treatment at private hospitals, a couple welcomed triplet boys following treatme...\"?",
+      "optsEn": [
+        "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "15th Finance Commission Special State Grant",
+        "Inter-State Council Constitutional Review Panel",
+        "Woman delivers triplets after non-ART treatment at Telangana govt. hospital; prema..."
+      ],
+      "optsHi": [
+        "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "15th Finance Commission Special State Grant",
+        "Inter-State Council Constitutional Review Panel",
+        "Woman delivers triplets after non-ART treatment at Telangana govt. hospital; prema..."
+      ],
+      "optsMr": [
+        "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "15th Finance Commission Special State Grant",
+        "Inter-State Council Constitutional Review Panel",
+        "Woman delivers triplets after non-ART treatment at Telangana govt. hospital; prema..."
+      ],
+      "ans": 3,
       "explanation": "<strong>1. Core Context & Background:</strong> After a nine-year wait and unsuccessful fertility treatment at private hospitals, a couple welcomed triplet boys following treatment at Gandhi Hospital’s IVF Centre.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> The premature babies, who weighed between 1.4 kg and 1.5 kg at birth, spent over a month in the hospital’s Neonatal Intensive Care Unit (NICU). They were discharged along with their 32-year-old mother after responding well to treatment.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Currently, over 500 couples have rolled for treatments at the government hospitals IVF centre."
     },
     {
-      "id": "gk_21 Nov 2026_2",
+      "id": "gk_21 Nov 2026_5",
       "cat": "🏛️ National & Polity",
       "date": "21 Nov 2026",
       "qEn": "[21 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"The Indo-Japan Chamber of Commerce and Industry (IJCCI) organised a business networking meeting with a 16-member business delegati...\"?",
       "qHi": "[21 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"The Indo-Japan Chamber of Commerce and Industry (IJCCI) organised a business networking meeting with a 16-member business delegati...\"?",
       "qMr": "[21 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"The Indo-Japan Chamber of Commerce and Industry (IJCCI) organised a business networking meeting with a 16-member business delegati...\"?",
       "optsEn": [
-        "IJCCI to lead business delegation to Japan from Nov. 30",
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
         "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel"
+        "Inter-State Council Constitutional Review Panel",
+        "IJCCI to lead business delegation to Japan from Nov. 30"
       ],
       "optsHi": [
-        "IJCCI to lead business delegation to Japan from Nov. 30",
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
         "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel"
+        "Inter-State Council Constitutional Review Panel",
+        "IJCCI to lead business delegation to Japan from Nov. 30"
       ],
       "optsMr": [
-        "IJCCI to lead business delegation to Japan from Nov. 30",
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
         "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel"
+        "Inter-State Council Constitutional Review Panel",
+        "IJCCI to lead business delegation to Japan from Nov. 30"
       ],
-      "ans": 0,
+      "ans": 3,
       "explanation": "<strong>1. Core Context & Background:</strong> The Indo-Japan Chamber of Commerce and Industry (IJCCI) organised a business networking meeting with a 16-member business delegation from Osaka, Japan, to strengthen bilateral business ties and explore opportunities for trade, investment, and industrial collaboration between India and Japan.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> The delegation was led by Hiromitsu Morishima, Chairperson, International Business Committee, Osaka Chamber of Commerce and Industry, and Yasushi Ninomiya, Director-General, JETRO Osaka. The companies spoke about their products and business opportunities.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> He further said that Indian companies can benefit from Japanese technology, management practices, and innovation."
     },
     {
-      "id": "gk_21 Nov 2026_3",
+      "id": "gk_21 Nov 2026_6",
       "cat": "🏛️ National & Polity",
       "date": "21 Nov 2026",
       "qEn": "[21 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"As many as 53 vendors, including 45 MSME firms, participated in a Vendor-Buyer Meet organised by the Madras Regional Purchase and ...\"?",
       "qHi": "[21 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"As many as 53 vendors, including 45 MSME firms, participated in a Vendor-Buyer Meet organised by the Madras Regional Purchase and ...\"?",
       "qMr": "[21 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"As many as 53 vendors, including 45 MSME firms, participated in a Vendor-Buyer Meet organised by the Madras Regional Purchase and ...\"?",
       "optsEn": [
-        "53 vendors participate in Atomic Energy Department’s Vendor-Buyer Meet",
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
         "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel"
+        "Inter-State Council Constitutional Review Panel",
+        "53 vendors participate in Atomic Energy Department’s Vendor-Buyer Meet"
       ],
       "optsHi": [
-        "53 vendors participate in Atomic Energy Department’s Vendor-Buyer Meet",
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
         "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel"
+        "Inter-State Council Constitutional Review Panel",
+        "53 vendors participate in Atomic Energy Department’s Vendor-Buyer Meet"
       ],
       "optsMr": [
-        "53 vendors participate in Atomic Energy Department’s Vendor-Buyer Meet",
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
         "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel"
+        "Inter-State Council Constitutional Review Panel",
+        "53 vendors participate in Atomic Energy Department’s Vendor-Buyer Meet"
       ],
-      "ans": 0,
+      "ans": 3,
       "explanation": "<strong>1. Core Context & Background:</strong> As many as 53 vendors, including 45 MSME firms, participated in a Vendor-Buyer Meet organised by the Madras Regional Purchase and Stores Unit (MRPSU) of the Department of Atomic Energy (DAE) at the DAE Nodal Facility Centre in Pallavaram.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> The meet was to familiarise the vendors with the process of their registration on the Government e-Marketplace portal and the recent developments and updates on the portal. Pillai, Director, Indira Gandhi Centre for Atomic Research; Vimal Kumar, Director, Directorate of Purchase and Stores, DAE; and Kitheri Joseph, Regional Director, MRPSU, were among the speakers.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Pillai, Director, Indira Gandhi Centre for Atomic Research; Vimal Kumar, Director, Directorate of Purchase and Stores, DAE; and Kitheri Joseph, Regional Director, MRPSU, were among the speakers."
-    },
-    {
-      "id": "gk_21 Nov 2026_4",
-      "cat": "🏛️ National & Polity",
-      "date": "21 Nov 2026",
-      "qEn": "[21 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"Growth in the core industrial sectors of the economy climbed to a series-high of 10.9% in October 2026, driven by a surge in elect...\"?",
-      "qHi": "[21 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"Growth in the core industrial sectors of the economy climbed to a series-high of 10.9% in October 2026, driven by a surge in elect...\"?",
-      "qMr": "[21 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"Growth in the core industrial sectors of the economy climbed to a series-high of 10.9% in October 2026, driven by a surge in elect...\"?",
-      "optsEn": [
-        "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel",
-        "Infra push and low base effect pushes core sector growth to series-high of 10.9% i..."
-      ],
-      "optsHi": [
-        "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel",
-        "Infra push and low base effect pushes core sector growth to series-high of 10.9% i..."
-      ],
-      "optsMr": [
-        "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel",
-        "Infra push and low base effect pushes core sector growth to series-high of 10.9% i..."
-      ],
-      "ans": 3,
-      "explanation": "<strong>1. Core Context & Background:</strong> Growth in the core industrial sectors of the economy climbed to a series-high of 10.9% in October 2026, driven by a surge in electricity generation, and coal, cement, and iron ore production, and a low base effect, official data released on Friday (November 20, 2026) showed.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Data released by the Ministry of Commerce and Industry on the Index of Core Industries shows that growth in October surpassed the 8.2% in September, the previous series high. The new index, released this year with a base year of 2022-23, has data that goes back only up to April 2024.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> The fuel-related sectors in the Index other than coal continued to perform relatively poorly."
-    },
-    {
-      "id": "gk_21 Nov 2026_5",
-      "cat": "🏛️ National & Polity",
-      "date": "21 Nov 2026",
-      "qEn": "[21 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"Following Cyclone Akvan’s passage on Friday morning, most parts of Tamil Nadu are likely to experience a brief break in monsoon ac...\"?",
-      "qHi": "[21 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"Following Cyclone Akvan’s passage on Friday morning, most parts of Tamil Nadu are likely to experience a brief break in monsoon ac...\"?",
-      "qMr": "[21 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"Following Cyclone Akvan’s passage on Friday morning, most parts of Tamil Nadu are likely to experience a brief break in monsoon ac...\"?",
-      "optsEn": [
-        "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel",
-        "Following Cyclone Akvan, monsoon rain to resume over T.N. from tomorrow"
-      ],
-      "optsHi": [
-        "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel",
-        "Following Cyclone Akvan, monsoon rain to resume over T.N. from tomorrow"
-      ],
-      "optsMr": [
-        "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel",
-        "Following Cyclone Akvan, monsoon rain to resume over T.N. from tomorrow"
-      ],
-      "ans": 3,
-      "explanation": "<strong>1. Core Context & Background:</strong> Following Cyclone Akvan’s passage on Friday morning, most parts of Tamil Nadu are likely to experience a brief break in monsoon activity, accompanied by a dip in night-time temperatures.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Wet weather is expected to return on Sunday and intensify over the subsequent days. The break in rainfall is expected to raise day temperatures by two or three degrees Celsius in a few pockets of the State.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Interior and Western Ghats districts are expected to receive moderate rainfall."
-    },
-    {
-      "id": "gk_21 Nov 2026_6",
-      "cat": "🏛️ National & Polity",
-      "date": "21 Nov 2026",
-      "qEn": "[21 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"The Madras High Court has ordered a Crime Branch-Criminal Investigation Department (CB-CID) probe into a claim made by a lawyer th...\"?",
-      "qHi": "[21 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"The Madras High Court has ordered a Crime Branch-Criminal Investigation Department (CB-CID) probe into a claim made by a lawyer th...\"?",
-      "qMr": "[21 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"The Madras High Court has ordered a Crime Branch-Criminal Investigation Department (CB-CID) probe into a claim made by a lawyer th...\"?",
-      "optsEn": [
-        "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "15th Finance Commission Special State Grant",
-        "Lawyer seeks to probate will left behind by former DGP’s wife: Madras High Court o...",
-        "Inter-State Council Constitutional Review Panel"
-      ],
-      "optsHi": [
-        "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "15th Finance Commission Special State Grant",
-        "Lawyer seeks to probate will left behind by former DGP’s wife: Madras High Court o...",
-        "Inter-State Council Constitutional Review Panel"
-      ],
-      "optsMr": [
-        "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "15th Finance Commission Special State Grant",
-        "Lawyer seeks to probate will left behind by former DGP’s wife: Madras High Court o...",
-        "Inter-State Council Constitutional Review Panel"
-      ],
-      "ans": 2,
-      "explanation": "<strong>1. Core Context & Background:</strong> The Madras High Court has ordered a Crime Branch-Criminal Investigation Department (CB-CID) probe into a claim made by a lawyer that former Director General of Police K.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Ravindran’s wife Rani Ravindran alias Rani Pushpalatha Ravindran had appointed him as the executor of a will left behind by her bequeathing all her valuable properties in Chennai and New Delhi to her personal assistant. Muthukumaar directed the incumbent Director General of Police/Head of Police Force (DGP/HoPF) Mahesh Kumar Aggarwal to ensure that the CB-CID registers a First Information Report (FIR) regarding the claim made by advocate E.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> The unexplained territorial restriction raises a legitimate doubt regarding the bona fides of the petitioner,” the judge said and listed out several other suspicious circumstances too."
     },
     {
       "id": "gk_21 Nov 2026_7",
