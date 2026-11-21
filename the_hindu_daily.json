@@ -1,12 +1,12 @@
 {
-  "updatedAt": "22 Nov 2026, 01:33 AM IST",
+  "updatedAt": "22 Nov 2026, 02:39 AM IST",
   "currentDateIso": "2026-11-22",
   "currentDateDisplay": "22 Nov 2026",
   "availableDates": [
     {
       "dateIso": "2026-11-22",
       "dateDisplay": "22 Nov 2026",
-      "updatedAt": "22 Nov 2026, 01:33 AM IST",
+      "updatedAt": "22 Nov 2026, 02:39 AM IST",
       "articleCount": 30
     },
     {
@@ -23,9 +23,45 @@
     }
   ],
   "hookLine1": "The Hindu Printed Broadsheet & Editorial Digest (22 Nov 2026)",
-  "hookLine2": "100% In-App Full Newspaper Pages & Deep Editorial Analysis • Updated: 22 Nov 2026, 01:33 AM IST",
+  "hookLine2": "100% In-App Full Newspaper Pages & Deep Editorial Analysis • Updated: 22 Nov 2026, 02:39 AM IST",
   "totalArticles": 30,
   "articles": [
+    {
+      "category": "national",
+      "categoryLabel": "🏛️ National & Polity",
+      "title": "Amid cold wave, students’ indefinite strike against J&K recruitment board scam gathers steam",
+      "link": "https://www.thehindu.com/news/national/amid-cold-wave-students-indefinite-strike-against-jk-recruitment-board-scam-gathers-steam/article71729167.ece",
+      "pubDate": "Sun, 22 Nov 2026 01:19:20 +0530",
+      "dateIso": "2026-11-22",
+      "dateDisplay": "22 Nov 2026",
+      "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
+      "imageUrl": "https://th-i.thgim.com/public/incoming/g6r47s/article71729177.ece/alternates/LANDSCAPE_1200/20261121210L.jpg",
+      "fullParagraphs": [
+        "Protesting government job aspirants on Saturday (November 21, 2026) launched an indefinite strike in Srinagar amid a cold wave over the government’s failure to act against the J&K Service Selection Board (JKSSB), the main recruitment agency of J&K that has become mired in a cheating scam that has led to 16 arrests so far.",
+        "While former Member of Parliament (MP) Aga Syed Ruhullah joined the protesters in Srinagar, other regional parties also demanded the cancellation of all examinations held by the Board and called for “fixing the responsibility”.",
+        "The peaceful sit-in was forcibly broken up by police on Saturday night (November 21), said the protesters. “Students and Aga sahib were removed from the site against their will. The demand stands: a fair probe into the alleged FAA [Finance Accounts Assistant] rigging. This fight isn’t over,” said one protester.",
+        "Speaking at the Sher-i-Kashmir Park earlier, Mr. Ruhullah said the protest is a “rare effort to open up space where youth could fight for their rights”.",
+        "“We demand that heads must roll. We have the elected government and an unelected government ruling J&K. Both share responsibility for it. Unfortunately, there is a sense of complacency. The examinations should be postponed, responsibility for the irregularities fixed and reforms carried out. The administration should engage students and address their concerns,” said Mr. Ruhullah.",
+        "Mr. Ruhullah joined scores of students and aspirants who held a sit-in all day in Srinagar. With evening temperature dipping, a spokesman of Mr. Ruhullah said, “There was no food or blankets. No entry. Students on a peaceful sit-in are being frozen out on a bitter Srinagar night. Their only crime is asking for justice over the alleged Finance Accounts Assistant recruitment rigging.”",
+        "The night temperature has dipped to around zero degrees Celsius in Srinagar amid a severe cold wave.",
+        "On November 15, the J&K Police busted four “cheating modules” in Jammu during the Board’s examination for the FAA posts.",
+        "Nearly 1.62 lakh aspirants had appeared for around 600 posts across J&K. Besides 16 arrests made in the case, the police said it filed three First Information Reports (FIRs) and recovered eight wireless devices, 22 mobile phones and four vehicles of the accused.",
+        "However, Board chairman Shrikant Balasaheb Suse said the “examination was not compromised by a paper leak or mass malpractice” and announced that the upcoming exams will be held “as per the schedule”.",
+        "Facing a growing public outcry, J&K Education Minister Shamim Firdous said strict action should be taken “if any irregularities or rigging are found”.",
+        "“Students, who have worked hard, deserve justice. We have already ordered an inquiry to identify the irregularities, and action will follow if evidence is found,” said Ms. Firdous."
+      ],
+      "deepExplanation": "<strong>1. Core Context & Background:</strong> Protesting government job aspirants on Saturday (November 21, 2026) launched an indefinite strike in Srinagar amid a cold wave over the government’s failure to act against the J&K Service Selection Board (JKSSB), the main recruitment agency of J&K that has become mired in a cheating scam that has led to 16 arrests so far.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> While former Member of Parliament (MP) Aga Syed Ruhullah joined the protesters in Srinagar, other regional parties also demanded the cancellation of all examinations held by the Board and called for “fixing the responsibility”. The peaceful sit-in was forcibly broken up by police on Saturday night (November 21), said the protesters.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> We have already ordered an inquiry to identify the irregularities, and action will follow if evidence is found,” said Ms.",
+      "vocabList": [
+        "Protesting",
+        "Aspirants",
+        "Saturday",
+        "November",
+        "Launched",
+        "Indefinite"
+      ],
+      "summary": "Protesting government job aspirants on Saturday (November 21, 2026) launched an indefinite strike in Srinagar amid a cold wave over the government’s failure to act against the J&K Service Selection Board (JKSSB), the main recruitment agency of J&K that has become mired in a cheating scam that has led to 16 arrests so far.",
+      "keyPoints": "• Protesting government job aspirants on Saturday (November 21, 2026) launched an indefinite strike in Srinagar amid a cold wave over the government’s failure to act against the J&K Service Selection Board (JKSSB), the main recruitment agency of J&K that has become mired in a cheating scam that has led to 16 arrests so far.<br>• While former Member of Parliament (MP) Aga Syed Ruhullah joined the protesters in Srinagar, other regional parties also demanded the cancellation of all examinations held by the Board and called for “fixing the responsibility”.<br>• The peaceful sit-in was forcibly broken up by police on Saturday night (November 21), said the protesters. “Students and Aga sahib were removed from the site against their will. The demand stands: a fair probe into the alleged FAA [Finance Accounts Assistant] rigging. This fight isn’t over,” said one protester."
+    },
     {
       "category": "national",
       "categoryLabel": "🏛️ National & Polity",
@@ -179,38 +215,6 @@
       ],
       "summary": "Tamil Nadu, which has 10,000 MW-11,000 MW of installed solar energy capacity, may see a slowdown in solar energy installations in 2027, according to industry representatives.",
       "keyPoints": "• Tamil Nadu, which has 10,000 MW-11,000 MW of installed solar energy capacity, may see a slowdown in solar energy installations in 2027, according to industry representatives.<br>• The single window system for obtaining approvals is not functioning effectively, finer details based on the recently-announced Battery Energy Storage System (BESS) Policy should be notified by the Tamil Nadu Electricity Regulatory Commission, and costs are escalating, say solar energy investors.<br>• “No approvals have been granted for solar energy projects for almost six months now. Only now has the government started accepting the applications. Even if they are approved now, it is difficult to commission the projects by March 2027. From April next year, it is mandatory for all new projects to have BESS, and this will push the costs up,” said one of the solar energy investors in Coimbatore."
-    },
-    {
-      "category": "national",
-      "categoryLabel": "🏛️ National & Polity",
-      "title": "Raja Ravi Varma Gallery of Oleographs and Chromo Lithographs inaugurated in Chennai",
-      "link": "https://www.thehindu.com/news/cities/chennai/raja-ravi-varma-gallery-of-oleographs-and-chromo-lithographs-inaugurated-in-chennai/article71729335.ece",
-      "pubDate": "Sun, 22 Nov 2026 01:12:07 +0530",
-      "dateIso": "2026-11-22",
-      "dateDisplay": "22 Nov 2026",
-      "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
-      "imageUrl": "https://th-i.thgim.com/public/incoming/6geo70/article71729374.ece/alternates/LANDSCAPE_1200/_DSC6829.JPG",
-      "fullParagraphs": [
-        "Congress Member of Parliament Shashi Tharoor on Saturday inaugurated the Raja Ravi Varma Gallery of Oleographs and Chromo Lithographs at the C. P. Ramaswami Aiyar Foundation (CPRAF) to mark the institution’s 60th anniversary.",
-        "He also released two books, Heritage, Education and Nature – 60 years of the C.P.Ramaswami Aiyar Foundation, and A catalogue of Ravi Varma’s Oleographs and Chomo Lithographs. Speaking during the launch, Mr. Tharoor, a long-time friend of the family, said as an MP for Thiruvananthapuram, he represented a city and a region whose history is closely connected with both Sir C.P. Ramaswamy Iyer and Raja Ravi Varma. To find their legacies brought together here in Chennai in an institution that has spent 60 years serving the wider public, is a particularly happy conjunction of history.",
-        "He said the lithographs of Raja Ravi Varma, while becoming familiar objects across the country, also allowed the many who were barred from entering temples to worship the deities as well.",
-        "One of the most significant reforms associated with Sir C.P.’s term as Dewan of Travancore was the temple entry proclamation, he added. He praised the work of the various schools run by the Foundation. including the Saraswathi Kendra in Chennai that was the city’s first school for children with autism, dyslexia and learning disabilities.",
-        "Former Madras High Court judge P. N. Prakash, who received the first copies of the books, said that Sir C.P. had a magnetic personality, was a tennis player, and a polyglot who could speak several languages including, French and Latin; and he was the youngest Advocate General of Madras High court.",
-        "Chairman and managing director of Seshasayee Paper & Boards Ltd., N. Gopalaratnam, said that Sir C.P. was very close to the Sesashayee Brothers and had helped them to put up FACT, PCC and many other industries. He was instrumental in starting hydroelectric projects including Pykara, Lower Bhavani Scheme and the one at Mettur Dam. “As a schoolboy, I have had the opportunity to watch him speak on two occasions. Though I did not understand everything that he spoke, his image as a majestic, well-dressed man lingers in my mind.”",
-        "Elaborating on the work done by the Foundation over the past 60 years, its president Nanditha Krishna said that the C.P. Art Gallery was established as the city’s first craft gallery to creeate a bridge between ancient craftsmanship and contemporary society. The Foundation introduced puppetry as a teaching aid, and trained and encouraged women. It established The Grove School, Rangammal Vidyalaya in Kancheepuram and the Sir C.P. Ramaswamy Aiyar Memorial School in Kumbakonam. Its Each One Teach One Initiative, launched by Shakuntala Jagannathan, in 1997, provides scholarships to children.",
-        "Prashanth Krishna, director of CPRAF and senior advocate and grandson of Sir C.P., Aryama Sundaram spoke."
-      ],
-      "deepExplanation": "<strong>1. Core Context & Background:</strong> Congress Member of Parliament Shashi Tharoor on Saturday inaugurated the Raja Ravi Varma Gallery of Oleographs and Chromo Lithographs at the C.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Ramaswami Aiyar Foundation (CPRAF) to mark the institution’s 60th anniversary. He also released two books, Heritage, Education and Nature – 60 years of the C.P.Ramaswami Aiyar Foundation, and A catalogue of Ravi Varma’s Oleographs and Chomo Lithographs.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Prashanth Krishna, director of CPRAF and senior advocate and grandson of Sir C.P., Aryama Sundaram spoke.",
-      "vocabList": [
-        "Congress",
-        "Parliament",
-        "Saturday",
-        "Inaugurated",
-        "Oleographs",
-        "Lithographs"
-      ],
-      "summary": "Congress Member of Parliament Shashi Tharoor on Saturday inaugurated the Raja Ravi Varma Gallery of Oleographs and Chromo Lithographs at the C. P. Ramaswami Aiyar Foundation (CPRAF) to mark the institution’s 60th anniversary.",
-      "keyPoints": "• Congress Member of Parliament Shashi Tharoor on Saturday inaugurated the Raja Ravi Varma Gallery of Oleographs and Chromo Lithographs at the C. P. Ramaswami Aiyar Foundation (CPRAF) to mark the institution’s 60th anniversary.<br>• He also released two books, Heritage, Education and Nature – 60 years of the C.P.Ramaswami Aiyar Foundation, and A catalogue of Ravi Varma’s Oleographs and Chomo Lithographs. Speaking during the launch, Mr. Tharoor, a long-time friend of the family, said as an MP for Thiruvananthapuram, he represented a city and a region whose history is closely connected with both Sir C.P. Ramaswamy Iyer and Raja Ravi Varma. To find their legacies brought together here in Chennai in an institution that has spent 60 years serving the wider public, is a particularly happy conjunction of history.<br>• He said the lithographs of Raja Ravi Varma, while becoming familiar objects across the country, also allowed the many who were barred from entering temples to worship the deities as well."
     },
     {
       "category": "economy",
@@ -409,6 +413,35 @@
     {
       "category": "ir",
       "categoryLabel": "🌐 International Relations",
+      "title": "The Rohingya | Vindication for a persecuted people",
+      "link": "https://www.thehindu.com/news/international/the-rohingya-vindication-for-a-persecuted-people/article71729370.ece",
+      "pubDate": "Sat, 21 Nov 2026 23:50:18 +0530",
+      "dateIso": "2026-11-22",
+      "dateDisplay": "22 Nov 2026",
+      "examRelevance": "GS Paper-II & Current Affairs: Bilateral Agreements, Foreign Visits & UN/G20/BRICS",
+      "imageUrl": "https://th-i.thgim.com/public/incoming/a15j58/article71729365.ece/alternates/LANDSCAPE_1200/2026-11-19T101513Z_1144479296_RC2WQOADW602_RTRMADP_3_MYANMAR-ROHINGYA-WORLD-COURT.JPG",
+      "fullParagraphs": [
+        "In a first of a kind ruling, the International Court of Justice held on November 19 that Myanmar committed genocide against the Rohingya in northern Rakhine State during the military’s “clearance operations” in 2017. This was the first time the ICJ found a state responsible for committing genocide. Nine judges against six voted in favour of the ruling, in a case brought in 2019 by The Gambia.",
+        "The court also found that Myanmar failed to prevent genocide by civilians who joined its forces, failed to punish the perpetrators, never enacted the laws that the Genocide Convention requires, and destroyed evidence in breach of the court’s 2020 interim order. It also rejected, by 14 votes to one, the charge that Myanmar directly and publicly incited private persons to commit genocide, but declined to order citizenship for the Rohingya.",
+        "The judgment holds the state of Myanmar to account but does not convict any individual. It is final and cannot be appealed. The court ordered Myanmar to investigate and, if warranted, prosecute those responsible, guarantee that the violations will not recur, allow the “safe, voluntary and dignified” return of the displaced, restore their property and compensate the Rohingya. The amount of compensation is to be fixed later, after Myanmar reports back to the court within two years.",
+        "The Rohingya are a predominantly Muslim people who speak an Indo-Aryan language close to the Chittagonian dialect. The 2014 Census in Myanmar estimated over a million Rohingya in the country, concentrated in Maungdaw, Buthidaung and Rathedaung along the Bangladesh border. Muslims have lived in Rakhine or Arakan from the time of the Mrauk U kingdom (15th to 18th century). In 1799, the British physician Francis Buchanan recorded that Muslims “long settled in Arakan” called themselves the “Rooinga”.",
+        "Many joined them, coming from Chittagong during colonial rule. Historian Jacques Leider has said the “Rohingya” took on a political and ethnic meaning in the late 1950s, when Muslim leaders adopted it to claim the status of a “national race”. In 1961, Brig. Aung Gyi of the Burmese Army publicly accepted them as an ethnic group. But this was before the coup by General Ne Win in 1962 which heralded decades of rule by the military junta in the country."
+      ],
+      "deepExplanation": "<strong>1. Core Context & Background:</strong> In a first of a kind ruling, the International Court of Justice held on November 19 that Myanmar committed genocide against the Rohingya in northern Rakhine State during the military’s “clearance operations” in 2017.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> This was the first time the ICJ found a state responsible for committing genocide. Nine judges against six voted in favour of the ruling, in a case brought in 2019 by The Gambia.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> But this was before the coup by General Ne Win in 1962 which heralded decades of rule by the military junta in the country.",
+      "vocabList": [
+        "November",
+        "Committed",
+        "Genocide",
+        "Rohingya",
+        "Northern",
+        "Military"
+      ],
+      "summary": "In a first of a kind ruling, the International Court of Justice held on November 19 that Myanmar committed genocide against the Rohingya in northern Rakhine State during the military’s “clearance operations” in 2017. This was the first time the ICJ found a state responsible for committing genocide. Nine judges against six voted in favour of the ruling, in a case brought in 2019 by The Gambia.",
+      "keyPoints": "• In a first of a kind ruling, the International Court of Justice held on November 19 that Myanmar committed genocide against the Rohingya in northern Rakhine State during the military’s “clearance operations” in 2017. This was the first time the ICJ found a state responsible for committing genocide. Nine judges against six voted in favour of the ruling, in a case brought in 2019 by The Gambia.<br>• The court also found that Myanmar failed to prevent genocide by civilians who joined its forces, failed to punish the perpetrators, never enacted the laws that the Genocide Convention requires, and destroyed evidence in breach of the court’s 2020 interim order. It also rejected, by 14 votes to one, the charge that Myanmar directly and publicly incited private persons to commit genocide, but declined to order citizenship for the Rohingya.<br>• The judgment holds the state of Myanmar to account but does not convict any individual. It is final and cannot be appealed. The court ordered Myanmar to investigate and, if warranted, prosecute those responsible, guarantee that the violations will not recur, allow the “safe, voluntary and dignified” return of the displaced, restore their property and compensate the Rohingya. The amount of compensation is to be fixed later, after Myanmar reports back to the court within two years."
+    },
+    {
+      "category": "ir",
+      "categoryLabel": "🌐 International Relations",
       "title": "Iran wants diplomacy to end war, says Araghchi as U.S. rejects terms",
       "link": "https://www.thehindu.com/news/international/iran-wants-diplomacy-to-end-war-says-araghchi-as-us-rejects-terms/article71729396.ece",
       "pubDate": "Sat, 21 Nov 2026 23:23:45 +0530",
@@ -582,42 +615,6 @@
       ],
       "summary": "A cargo ship bound for Russia's Baltic exclave ‌of Kaliningrad was struck by drones in international waters in ​the Gulf of Finland on Saturday, Russian and Finnish authorities ⁠said, prompting Finland to tighten security measures in the area.",
       "keyPoints": "• A cargo ship bound for Russia's Baltic exclave ‌of Kaliningrad was struck by drones in international waters in ​the Gulf of Finland on Saturday, Russian and Finnish authorities ⁠said, prompting Finland to tighten security measures in the area.<br>• The vessel was damaged west of Russia's Gogland island, caught fire and later drifted into Finnish territorial waters, Finland's Defence ‌Forces said, corroborating an earlier account by Russian officials.<br>• Leningrad region Governor Aleksandr Drozdenko said the vessel had been attacked by two ‌drones in international waters about three nautical miles from Russia's border. ‌The ⁠crew was being evacuated and the extent of the damage ⁠was being assessed, he said."
-    },
-    {
-      "category": "ir",
-      "categoryLabel": "🌐 International Relations",
-      "title": "Ballistic missile attack on Zelenskyy's hometown kills 2",
-      "link": "https://www.thehindu.com/news/international/ballistic-missile-attack-on-zelenskyys-hometown-kills-2/article71729235.ece",
-      "pubDate": "Sat, 21 Nov 2026 22:08:21 +0530",
-      "dateIso": "2026-11-22",
-      "dateDisplay": "22 Nov 2026",
-      "examRelevance": "GS Paper-II & Current Affairs: Bilateral Agreements, Foreign Visits & UN/G20/BRICS",
-      "imageUrl": "https://th-i.thgim.com/public/incoming/g1e932/article71729256.ece/alternates/LANDSCAPE_1200/2026-11-21T105032Z_271557673_RC2ASOAJ9RKM_RTRMADP_3_UKRAINE-CRISIS-ATTACK-KYIV.JPG",
-      "fullParagraphs": [
-        "A Russian strike on the centre of Ukrainian President Volodymyr Zelenskyy's hometown, Kryvyi Rih, killed two people and wounded 60 others, local officials said Saturday (November 21, 2026).",
-        "Meanwhile, a Russian cargo ship bound for Kaliningrad caught fire in the Gulf of Finland on Saturday (November 21, 2026) after it was hit by drones, Finnish and Russian officials said. The Finnish Prime Minister warned that the war was spilling into the region.",
-        "A 7-year-old boy and a 20-year-old woman were killed in the attack Friday (November 20, 2026) night on Kryvyi Rih in central Ukraine, Oleksandr Vilkul, the head of the city administration, wrote on Telegram. Oleksandr Hanzha, head of the regional military administration, said 60 people were wounded, including six children.",
-        "The strike caused four fires and damaged about 25 apartment buildings, a hospital, schools and an industrial facility, as well as businesses and vehicles, Mr. Vilkul said.",
-        "Video footage published by the regional branch of the Ukrainian State Emergency Service appeared to show further strikes while ambulance and firefighting crews were responding at the scene, as fires burned around them.",
-        "“First, two ballistic missiles. And then, when the emergency and rescue operation began, three more rockets hit doctors, rescuers, and utility workers,” Mr. Vilkul wrote on Telegram.",
-        "The attack added to uncertainty about the prospects for ongoing talks brokered by Washington. It also came hours after two Russian missiles and a suspected drone came down in Poland, in what its Prime Minister said was likely a provocation timed to coincide with European military exercises in his country for a possible postwar mission in Ukraine.",
-        "European troops were taking part on Friday (November 21, 2026) in an unprecedented two-week military exercise that began on November 9 in southeastern Poland. Forces are preparing for a possible postwar mission in Ukraine aimed at helping to stabilise the country and rebuild its military. European countries have previously expressed alarm at what they deem to be Russia's attempts to destabilise the continent.",
-        "At a meeting with U.K. Defence Secretary Wes Streeting in Kyiv, Mr. Zelenskyy said on Saturday (November 21, 2026) that Ukraine's repeated attacks on the Kerch Bridge linking occupied Crimea with the Russian mainland were a “fair response” to scores of Russian attacks on Ukrainian bridges.",
-        "Mr. Zelenskyy said on Saturday (November 21, 2026) that “Putin attacked Ukrainian bridges 109 times.”",
-        "“Not the number of missiles — the number of attacks,” he said. “This is important, that's why it's our absolutely fair response.”",
-        "The Ukrainian leader said that Mr. Putin “doesn't want to stop the war” and is looking to escalate. He also rejected Mr. Putin's claim that the Kerch bridge is used exclusively by civilian traffic."
-      ],
-      "deepExplanation": "<strong>1. Core Context & Background:</strong> A Russian strike on the centre of Ukrainian President Volodymyr Zelenskyy's hometown, Kryvyi Rih, killed two people and wounded 60 others, local officials said Saturday (November 21, 2026).<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Meanwhile, a Russian cargo ship bound for Kaliningrad caught fire in the Gulf of Finland on Saturday (November 21, 2026) after it was hit by drones, Finnish and Russian officials said. The Finnish Prime Minister warned that the war was spilling into the region.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Putin's claim that the Kerch bridge is used exclusively by civilian traffic.",
-      "vocabList": [
-        "Ukrainian",
-        "President",
-        "Volodymyr",
-        "Zelenskyy",
-        "Hometown",
-        "Officials"
-      ],
-      "summary": "A Russian strike on the centre of Ukrainian President Volodymyr Zelenskyy's hometown, Kryvyi Rih, killed two people and wounded 60 others, local officials said Saturday (November 21, 2026).",
-      "keyPoints": "• A Russian strike on the centre of Ukrainian President Volodymyr Zelenskyy's hometown, Kryvyi Rih, killed two people and wounded 60 others, local officials said Saturday (November 21, 2026).<br>• Meanwhile, a Russian cargo ship bound for Kaliningrad caught fire in the Gulf of Finland on Saturday (November 21, 2026) after it was hit by drones, Finnish and Russian officials said. The Finnish Prime Minister warned that the war was spilling into the region.<br>• A 7-year-old boy and a 20-year-old woman were killed in the attack Friday (November 20, 2026) night on Kryvyi Rih in central Ukraine, Oleksandr Vilkul, the head of the city administration, wrote on Telegram. Oleksandr Hanzha, head of the regional military administration, said 60 people were wounded, including six children."
     },
     {
       "category": "scitech",
@@ -978,8 +975,44 @@
     "2026-11-22": {
       "dateIso": "2026-11-22",
       "dateDisplay": "22 Nov 2026",
-      "updatedAt": "22 Nov 2026, 01:33 AM IST",
+      "updatedAt": "22 Nov 2026, 02:39 AM IST",
       "articles": [
+        {
+          "category": "national",
+          "categoryLabel": "🏛️ National & Polity",
+          "title": "Amid cold wave, students’ indefinite strike against J&K recruitment board scam gathers steam",
+          "link": "https://www.thehindu.com/news/national/amid-cold-wave-students-indefinite-strike-against-jk-recruitment-board-scam-gathers-steam/article71729167.ece",
+          "pubDate": "Sun, 22 Nov 2026 01:19:20 +0530",
+          "dateIso": "2026-11-22",
+          "dateDisplay": "22 Nov 2026",
+          "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/g6r47s/article71729177.ece/alternates/LANDSCAPE_1200/20261121210L.jpg",
+          "fullParagraphs": [
+            "Protesting government job aspirants on Saturday (November 21, 2026) launched an indefinite strike in Srinagar amid a cold wave over the government’s failure to act against the J&K Service Selection Board (JKSSB), the main recruitment agency of J&K that has become mired in a cheating scam that has led to 16 arrests so far.",
+            "While former Member of Parliament (MP) Aga Syed Ruhullah joined the protesters in Srinagar, other regional parties also demanded the cancellation of all examinations held by the Board and called for “fixing the responsibility”.",
+            "The peaceful sit-in was forcibly broken up by police on Saturday night (November 21), said the protesters. “Students and Aga sahib were removed from the site against their will. The demand stands: a fair probe into the alleged FAA [Finance Accounts Assistant] rigging. This fight isn’t over,” said one protester.",
+            "Speaking at the Sher-i-Kashmir Park earlier, Mr. Ruhullah said the protest is a “rare effort to open up space where youth could fight for their rights”.",
+            "“We demand that heads must roll. We have the elected government and an unelected government ruling J&K. Both share responsibility for it. Unfortunately, there is a sense of complacency. The examinations should be postponed, responsibility for the irregularities fixed and reforms carried out. The administration should engage students and address their concerns,” said Mr. Ruhullah.",
+            "Mr. Ruhullah joined scores of students and aspirants who held a sit-in all day in Srinagar. With evening temperature dipping, a spokesman of Mr. Ruhullah said, “There was no food or blankets. No entry. Students on a peaceful sit-in are being frozen out on a bitter Srinagar night. Their only crime is asking for justice over the alleged Finance Accounts Assistant recruitment rigging.”",
+            "The night temperature has dipped to around zero degrees Celsius in Srinagar amid a severe cold wave.",
+            "On November 15, the J&K Police busted four “cheating modules” in Jammu during the Board’s examination for the FAA posts.",
+            "Nearly 1.62 lakh aspirants had appeared for around 600 posts across J&K. Besides 16 arrests made in the case, the police said it filed three First Information Reports (FIRs) and recovered eight wireless devices, 22 mobile phones and four vehicles of the accused.",
+            "However, Board chairman Shrikant Balasaheb Suse said the “examination was not compromised by a paper leak or mass malpractice” and announced that the upcoming exams will be held “as per the schedule”.",
+            "Facing a growing public outcry, J&K Education Minister Shamim Firdous said strict action should be taken “if any irregularities or rigging are found”.",
+            "“Students, who have worked hard, deserve justice. We have already ordered an inquiry to identify the irregularities, and action will follow if evidence is found,” said Ms. Firdous."
+          ],
+          "deepExplanation": "<strong>1. Core Context & Background:</strong> Protesting government job aspirants on Saturday (November 21, 2026) launched an indefinite strike in Srinagar amid a cold wave over the government’s failure to act against the J&K Service Selection Board (JKSSB), the main recruitment agency of J&K that has become mired in a cheating scam that has led to 16 arrests so far.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> While former Member of Parliament (MP) Aga Syed Ruhullah joined the protesters in Srinagar, other regional parties also demanded the cancellation of all examinations held by the Board and called for “fixing the responsibility”. The peaceful sit-in was forcibly broken up by police on Saturday night (November 21), said the protesters.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> We have already ordered an inquiry to identify the irregularities, and action will follow if evidence is found,” said Ms.",
+          "vocabList": [
+            "Protesting",
+            "Aspirants",
+            "Saturday",
+            "November",
+            "Launched",
+            "Indefinite"
+          ],
+          "summary": "Protesting government job aspirants on Saturday (November 21, 2026) launched an indefinite strike in Srinagar amid a cold wave over the government’s failure to act against the J&K Service Selection Board (JKSSB), the main recruitment agency of J&K that has become mired in a cheating scam that has led to 16 arrests so far.",
+          "keyPoints": "• Protesting government job aspirants on Saturday (November 21, 2026) launched an indefinite strike in Srinagar amid a cold wave over the government’s failure to act against the J&K Service Selection Board (JKSSB), the main recruitment agency of J&K that has become mired in a cheating scam that has led to 16 arrests so far.<br>• While former Member of Parliament (MP) Aga Syed Ruhullah joined the protesters in Srinagar, other regional parties also demanded the cancellation of all examinations held by the Board and called for “fixing the responsibility”.<br>• The peaceful sit-in was forcibly broken up by police on Saturday night (November 21), said the protesters. “Students and Aga sahib were removed from the site against their will. The demand stands: a fair probe into the alleged FAA [Finance Accounts Assistant] rigging. This fight isn’t over,” said one protester."
+        },
         {
           "category": "national",
           "categoryLabel": "🏛️ National & Polity",
@@ -1133,38 +1166,6 @@
           ],
           "summary": "Tamil Nadu, which has 10,000 MW-11,000 MW of installed solar energy capacity, may see a slowdown in solar energy installations in 2027, according to industry representatives.",
           "keyPoints": "• Tamil Nadu, which has 10,000 MW-11,000 MW of installed solar energy capacity, may see a slowdown in solar energy installations in 2027, according to industry representatives.<br>• The single window system for obtaining approvals is not functioning effectively, finer details based on the recently-announced Battery Energy Storage System (BESS) Policy should be notified by the Tamil Nadu Electricity Regulatory Commission, and costs are escalating, say solar energy investors.<br>• “No approvals have been granted for solar energy projects for almost six months now. Only now has the government started accepting the applications. Even if they are approved now, it is difficult to commission the projects by March 2027. From April next year, it is mandatory for all new projects to have BESS, and this will push the costs up,” said one of the solar energy investors in Coimbatore."
-        },
-        {
-          "category": "national",
-          "categoryLabel": "🏛️ National & Polity",
-          "title": "Raja Ravi Varma Gallery of Oleographs and Chromo Lithographs inaugurated in Chennai",
-          "link": "https://www.thehindu.com/news/cities/chennai/raja-ravi-varma-gallery-of-oleographs-and-chromo-lithographs-inaugurated-in-chennai/article71729335.ece",
-          "pubDate": "Sun, 22 Nov 2026 01:12:07 +0530",
-          "dateIso": "2026-11-22",
-          "dateDisplay": "22 Nov 2026",
-          "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
-          "imageUrl": "https://th-i.thgim.com/public/incoming/6geo70/article71729374.ece/alternates/LANDSCAPE_1200/_DSC6829.JPG",
-          "fullParagraphs": [
-            "Congress Member of Parliament Shashi Tharoor on Saturday inaugurated the Raja Ravi Varma Gallery of Oleographs and Chromo Lithographs at the C. P. Ramaswami Aiyar Foundation (CPRAF) to mark the institution’s 60th anniversary.",
-            "He also released two books, Heritage, Education and Nature – 60 years of the C.P.Ramaswami Aiyar Foundation, and A catalogue of Ravi Varma’s Oleographs and Chomo Lithographs. Speaking during the launch, Mr. Tharoor, a long-time friend of the family, said as an MP for Thiruvananthapuram, he represented a city and a region whose history is closely connected with both Sir C.P. Ramaswamy Iyer and Raja Ravi Varma. To find their legacies brought together here in Chennai in an institution that has spent 60 years serving the wider public, is a particularly happy conjunction of history.",
-            "He said the lithographs of Raja Ravi Varma, while becoming familiar objects across the country, also allowed the many who were barred from entering temples to worship the deities as well.",
-            "One of the most significant reforms associated with Sir C.P.’s term as Dewan of Travancore was the temple entry proclamation, he added. He praised the work of the various schools run by the Foundation. including the Saraswathi Kendra in Chennai that was the city’s first school for children with autism, dyslexia and learning disabilities.",
-            "Former Madras High Court judge P. N. Prakash, who received the first copies of the books, said that Sir C.P. had a magnetic personality, was a tennis player, and a polyglot who could speak several languages including, French and Latin; and he was the youngest Advocate General of Madras High court.",
-            "Chairman and managing director of Seshasayee Paper & Boards Ltd., N. Gopalaratnam, said that Sir C.P. was very close to the Sesashayee Brothers and had helped them to put up FACT, PCC and many other industries. He was instrumental in starting hydroelectric projects including Pykara, Lower Bhavani Scheme and the one at Mettur Dam. “As a schoolboy, I have had the opportunity to watch him speak on two occasions. Though I did not understand everything that he spoke, his image as a majestic, well-dressed man lingers in my mind.”",
-            "Elaborating on the work done by the Foundation over the past 60 years, its president Nanditha Krishna said that the C.P. Art Gallery was established as the city’s first craft gallery to creeate a bridge between ancient craftsmanship and contemporary society. The Foundation introduced puppetry as a teaching aid, and trained and encouraged women. It established The Grove School, Rangammal Vidyalaya in Kancheepuram and the Sir C.P. Ramaswamy Aiyar Memorial School in Kumbakonam. Its Each One Teach One Initiative, launched by Shakuntala Jagannathan, in 1997, provides scholarships to children.",
-            "Prashanth Krishna, director of CPRAF and senior advocate and grandson of Sir C.P., Aryama Sundaram spoke."
-          ],
-          "deepExplanation": "<strong>1. Core Context & Background:</strong> Congress Member of Parliament Shashi Tharoor on Saturday inaugurated the Raja Ravi Varma Gallery of Oleographs and Chromo Lithographs at the C.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Ramaswami Aiyar Foundation (CPRAF) to mark the institution’s 60th anniversary. He also released two books, Heritage, Education and Nature – 60 years of the C.P.Ramaswami Aiyar Foundation, and A catalogue of Ravi Varma’s Oleographs and Chomo Lithographs.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Prashanth Krishna, director of CPRAF and senior advocate and grandson of Sir C.P., Aryama Sundaram spoke.",
-          "vocabList": [
-            "Congress",
-            "Parliament",
-            "Saturday",
-            "Inaugurated",
-            "Oleographs",
-            "Lithographs"
-          ],
-          "summary": "Congress Member of Parliament Shashi Tharoor on Saturday inaugurated the Raja Ravi Varma Gallery of Oleographs and Chromo Lithographs at the C. P. Ramaswami Aiyar Foundation (CPRAF) to mark the institution’s 60th anniversary.",
-          "keyPoints": "• Congress Member of Parliament Shashi Tharoor on Saturday inaugurated the Raja Ravi Varma Gallery of Oleographs and Chromo Lithographs at the C. P. Ramaswami Aiyar Foundation (CPRAF) to mark the institution’s 60th anniversary.<br>• He also released two books, Heritage, Education and Nature – 60 years of the C.P.Ramaswami Aiyar Foundation, and A catalogue of Ravi Varma’s Oleographs and Chomo Lithographs. Speaking during the launch, Mr. Tharoor, a long-time friend of the family, said as an MP for Thiruvananthapuram, he represented a city and a region whose history is closely connected with both Sir C.P. Ramaswamy Iyer and Raja Ravi Varma. To find their legacies brought together here in Chennai in an institution that has spent 60 years serving the wider public, is a particularly happy conjunction of history.<br>• He said the lithographs of Raja Ravi Varma, while becoming familiar objects across the country, also allowed the many who were barred from entering temples to worship the deities as well."
         },
         {
           "category": "economy",
@@ -1363,6 +1364,35 @@
         {
           "category": "ir",
           "categoryLabel": "🌐 International Relations",
+          "title": "The Rohingya | Vindication for a persecuted people",
+          "link": "https://www.thehindu.com/news/international/the-rohingya-vindication-for-a-persecuted-people/article71729370.ece",
+          "pubDate": "Sat, 21 Nov 2026 23:50:18 +0530",
+          "dateIso": "2026-11-22",
+          "dateDisplay": "22 Nov 2026",
+          "examRelevance": "GS Paper-II & Current Affairs: Bilateral Agreements, Foreign Visits & UN/G20/BRICS",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/a15j58/article71729365.ece/alternates/LANDSCAPE_1200/2026-11-19T101513Z_1144479296_RC2WQOADW602_RTRMADP_3_MYANMAR-ROHINGYA-WORLD-COURT.JPG",
+          "fullParagraphs": [
+            "In a first of a kind ruling, the International Court of Justice held on November 19 that Myanmar committed genocide against the Rohingya in northern Rakhine State during the military’s “clearance operations” in 2017. This was the first time the ICJ found a state responsible for committing genocide. Nine judges against six voted in favour of the ruling, in a case brought in 2019 by The Gambia.",
+            "The court also found that Myanmar failed to prevent genocide by civilians who joined its forces, failed to punish the perpetrators, never enacted the laws that the Genocide Convention requires, and destroyed evidence in breach of the court’s 2020 interim order. It also rejected, by 14 votes to one, the charge that Myanmar directly and publicly incited private persons to commit genocide, but declined to order citizenship for the Rohingya.",
+            "The judgment holds the state of Myanmar to account but does not convict any individual. It is final and cannot be appealed. The court ordered Myanmar to investigate and, if warranted, prosecute those responsible, guarantee that the violations will not recur, allow the “safe, voluntary and dignified” return of the displaced, restore their property and compensate the Rohingya. The amount of compensation is to be fixed later, after Myanmar reports back to the court within two years.",
+            "The Rohingya are a predominantly Muslim people who speak an Indo-Aryan language close to the Chittagonian dialect. The 2014 Census in Myanmar estimated over a million Rohingya in the country, concentrated in Maungdaw, Buthidaung and Rathedaung along the Bangladesh border. Muslims have lived in Rakhine or Arakan from the time of the Mrauk U kingdom (15th to 18th century). In 1799, the British physician Francis Buchanan recorded that Muslims “long settled in Arakan” called themselves the “Rooinga”.",
+            "Many joined them, coming from Chittagong during colonial rule. Historian Jacques Leider has said the “Rohingya” took on a political and ethnic meaning in the late 1950s, when Muslim leaders adopted it to claim the status of a “national race”. In 1961, Brig. Aung Gyi of the Burmese Army publicly accepted them as an ethnic group. But this was before the coup by General Ne Win in 1962 which heralded decades of rule by the military junta in the country."
+          ],
+          "deepExplanation": "<strong>1. Core Context & Background:</strong> In a first of a kind ruling, the International Court of Justice held on November 19 that Myanmar committed genocide against the Rohingya in northern Rakhine State during the military’s “clearance operations” in 2017.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> This was the first time the ICJ found a state responsible for committing genocide. Nine judges against six voted in favour of the ruling, in a case brought in 2019 by The Gambia.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> But this was before the coup by General Ne Win in 1962 which heralded decades of rule by the military junta in the country.",
+          "vocabList": [
+            "November",
+            "Committed",
+            "Genocide",
+            "Rohingya",
+            "Northern",
+            "Military"
+          ],
+          "summary": "In a first of a kind ruling, the International Court of Justice held on November 19 that Myanmar committed genocide against the Rohingya in northern Rakhine State during the military’s “clearance operations” in 2017. This was the first time the ICJ found a state responsible for committing genocide. Nine judges against six voted in favour of the ruling, in a case brought in 2019 by The Gambia.",
+          "keyPoints": "• In a first of a kind ruling, the International Court of Justice held on November 19 that Myanmar committed genocide against the Rohingya in northern Rakhine State during the military’s “clearance operations” in 2017. This was the first time the ICJ found a state responsible for committing genocide. Nine judges against six voted in favour of the ruling, in a case brought in 2019 by The Gambia.<br>• The court also found that Myanmar failed to prevent genocide by civilians who joined its forces, failed to punish the perpetrators, never enacted the laws that the Genocide Convention requires, and destroyed evidence in breach of the court’s 2020 interim order. It also rejected, by 14 votes to one, the charge that Myanmar directly and publicly incited private persons to commit genocide, but declined to order citizenship for the Rohingya.<br>• The judgment holds the state of Myanmar to account but does not convict any individual. It is final and cannot be appealed. The court ordered Myanmar to investigate and, if warranted, prosecute those responsible, guarantee that the violations will not recur, allow the “safe, voluntary and dignified” return of the displaced, restore their property and compensate the Rohingya. The amount of compensation is to be fixed later, after Myanmar reports back to the court within two years."
+        },
+        {
+          "category": "ir",
+          "categoryLabel": "🌐 International Relations",
           "title": "Iran wants diplomacy to end war, says Araghchi as U.S. rejects terms",
           "link": "https://www.thehindu.com/news/international/iran-wants-diplomacy-to-end-war-says-araghchi-as-us-rejects-terms/article71729396.ece",
           "pubDate": "Sat, 21 Nov 2026 23:23:45 +0530",
@@ -1536,42 +1566,6 @@
           ],
           "summary": "A cargo ship bound for Russia's Baltic exclave ‌of Kaliningrad was struck by drones in international waters in ​the Gulf of Finland on Saturday, Russian and Finnish authorities ⁠said, prompting Finland to tighten security measures in the area.",
           "keyPoints": "• A cargo ship bound for Russia's Baltic exclave ‌of Kaliningrad was struck by drones in international waters in ​the Gulf of Finland on Saturday, Russian and Finnish authorities ⁠said, prompting Finland to tighten security measures in the area.<br>• The vessel was damaged west of Russia's Gogland island, caught fire and later drifted into Finnish territorial waters, Finland's Defence ‌Forces said, corroborating an earlier account by Russian officials.<br>• Leningrad region Governor Aleksandr Drozdenko said the vessel had been attacked by two ‌drones in international waters about three nautical miles from Russia's border. ‌The ⁠crew was being evacuated and the extent of the damage ⁠was being assessed, he said."
-        },
-        {
-          "category": "ir",
-          "categoryLabel": "🌐 International Relations",
-          "title": "Ballistic missile attack on Zelenskyy's hometown kills 2",
-          "link": "https://www.thehindu.com/news/international/ballistic-missile-attack-on-zelenskyys-hometown-kills-2/article71729235.ece",
-          "pubDate": "Sat, 21 Nov 2026 22:08:21 +0530",
-          "dateIso": "2026-11-22",
-          "dateDisplay": "22 Nov 2026",
-          "examRelevance": "GS Paper-II & Current Affairs: Bilateral Agreements, Foreign Visits & UN/G20/BRICS",
-          "imageUrl": "https://th-i.thgim.com/public/incoming/g1e932/article71729256.ece/alternates/LANDSCAPE_1200/2026-11-21T105032Z_271557673_RC2ASOAJ9RKM_RTRMADP_3_UKRAINE-CRISIS-ATTACK-KYIV.JPG",
-          "fullParagraphs": [
-            "A Russian strike on the centre of Ukrainian President Volodymyr Zelenskyy's hometown, Kryvyi Rih, killed two people and wounded 60 others, local officials said Saturday (November 21, 2026).",
-            "Meanwhile, a Russian cargo ship bound for Kaliningrad caught fire in the Gulf of Finland on Saturday (November 21, 2026) after it was hit by drones, Finnish and Russian officials said. The Finnish Prime Minister warned that the war was spilling into the region.",
-            "A 7-year-old boy and a 20-year-old woman were killed in the attack Friday (November 20, 2026) night on Kryvyi Rih in central Ukraine, Oleksandr Vilkul, the head of the city administration, wrote on Telegram. Oleksandr Hanzha, head of the regional military administration, said 60 people were wounded, including six children.",
-            "The strike caused four fires and damaged about 25 apartment buildings, a hospital, schools and an industrial facility, as well as businesses and vehicles, Mr. Vilkul said.",
-            "Video footage published by the regional branch of the Ukrainian State Emergency Service appeared to show further strikes while ambulance and firefighting crews were responding at the scene, as fires burned around them.",
-            "“First, two ballistic missiles. And then, when the emergency and rescue operation began, three more rockets hit doctors, rescuers, and utility workers,” Mr. Vilkul wrote on Telegram.",
-            "The attack added to uncertainty about the prospects for ongoing talks brokered by Washington. It also came hours after two Russian missiles and a suspected drone came down in Poland, in what its Prime Minister said was likely a provocation timed to coincide with European military exercises in his country for a possible postwar mission in Ukraine.",
-            "European troops were taking part on Friday (November 21, 2026) in an unprecedented two-week military exercise that began on November 9 in southeastern Poland. Forces are preparing for a possible postwar mission in Ukraine aimed at helping to stabilise the country and rebuild its military. European countries have previously expressed alarm at what they deem to be Russia's attempts to destabilise the continent.",
-            "At a meeting with U.K. Defence Secretary Wes Streeting in Kyiv, Mr. Zelenskyy said on Saturday (November 21, 2026) that Ukraine's repeated attacks on the Kerch Bridge linking occupied Crimea with the Russian mainland were a “fair response” to scores of Russian attacks on Ukrainian bridges.",
-            "Mr. Zelenskyy said on Saturday (November 21, 2026) that “Putin attacked Ukrainian bridges 109 times.”",
-            "“Not the number of missiles — the number of attacks,” he said. “This is important, that's why it's our absolutely fair response.”",
-            "The Ukrainian leader said that Mr. Putin “doesn't want to stop the war” and is looking to escalate. He also rejected Mr. Putin's claim that the Kerch bridge is used exclusively by civilian traffic."
-          ],
-          "deepExplanation": "<strong>1. Core Context & Background:</strong> A Russian strike on the centre of Ukrainian President Volodymyr Zelenskyy's hometown, Kryvyi Rih, killed two people and wounded 60 others, local officials said Saturday (November 21, 2026).<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Meanwhile, a Russian cargo ship bound for Kaliningrad caught fire in the Gulf of Finland on Saturday (November 21, 2026) after it was hit by drones, Finnish and Russian officials said. The Finnish Prime Minister warned that the war was spilling into the region.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Putin's claim that the Kerch bridge is used exclusively by civilian traffic.",
-          "vocabList": [
-            "Ukrainian",
-            "President",
-            "Volodymyr",
-            "Zelenskyy",
-            "Hometown",
-            "Officials"
-          ],
-          "summary": "A Russian strike on the centre of Ukrainian President Volodymyr Zelenskyy's hometown, Kryvyi Rih, killed two people and wounded 60 others, local officials said Saturday (November 21, 2026).",
-          "keyPoints": "• A Russian strike on the centre of Ukrainian President Volodymyr Zelenskyy's hometown, Kryvyi Rih, killed two people and wounded 60 others, local officials said Saturday (November 21, 2026).<br>• Meanwhile, a Russian cargo ship bound for Kaliningrad caught fire in the Gulf of Finland on Saturday (November 21, 2026) after it was hit by drones, Finnish and Russian officials said. The Finnish Prime Minister warned that the war was spilling into the region.<br>• A 7-year-old boy and a 20-year-old woman were killed in the attack Friday (November 20, 2026) night on Kryvyi Rih in central Ukraine, Oleksandr Vilkul, the head of the city administration, wrote on Telegram. Oleksandr Hanzha, head of the regional military administration, said 60 people were wounded, including six children."
         },
         {
           "category": "scitech",
@@ -3824,32 +3818,60 @@
       "id": "gk_22 Nov 2026_1",
       "cat": "🏛️ National & Polity",
       "date": "22 Nov 2026",
+      "qEn": "[22 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"Protesting government job aspirants on Saturday (November 21, 2026) launched an indefinite strike in Srinagar amid a cold wave ove...\"?",
+      "qHi": "[22 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"Protesting government job aspirants on Saturday (November 21, 2026) launched an indefinite strike in Srinagar amid a cold wave ove...\"?",
+      "qMr": "[22 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"Protesting government job aspirants on Saturday (November 21, 2026) launched an indefinite strike in Srinagar amid a cold wave ove...\"?",
+      "optsEn": [
+        "Amid cold wave, students’ indefinite strike against J&K recruitment board scam gat...",
+        "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "15th Finance Commission Special State Grant",
+        "Inter-State Council Constitutional Review Panel"
+      ],
+      "optsHi": [
+        "Amid cold wave, students’ indefinite strike against J&K recruitment board scam gat...",
+        "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "15th Finance Commission Special State Grant",
+        "Inter-State Council Constitutional Review Panel"
+      ],
+      "optsMr": [
+        "Amid cold wave, students’ indefinite strike against J&K recruitment board scam gat...",
+        "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "15th Finance Commission Special State Grant",
+        "Inter-State Council Constitutional Review Panel"
+      ],
+      "ans": 0,
+      "explanation": "<strong>1. Core Context & Background:</strong> Protesting government job aspirants on Saturday (November 21, 2026) launched an indefinite strike in Srinagar amid a cold wave over the government’s failure to act against the J&K Service Selection Board (JKSSB), the main recruitment agency of J&K that has become mired in a cheating scam that has led to 16 arrests so far.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> While former Member of Parliament (MP) Aga Syed Ruhullah joined the protesters in Srinagar, other regional parties also demanded the cancellation of all examinations held by the Board and called for “fixing the responsibility”. The peaceful sit-in was forcibly broken up by police on Saturday night (November 21), said the protesters.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> We have already ordered an inquiry to identify the irregularities, and action will follow if evidence is found,” said Ms."
+    },
+    {
+      "id": "gk_22 Nov 2026_2",
+      "cat": "🏛️ National & Polity",
+      "date": "22 Nov 2026",
       "qEn": "[22 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"Tamil Maanila Congress (Moopanar) president G.K. Vasan on Saturday urged the Cauvery Water Management Authority (CWMA) to direct t...\"?",
       "qHi": "[22 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"Tamil Maanila Congress (Moopanar) president G.K. Vasan on Saturday urged the Cauvery Water Management Authority (CWMA) to direct t...\"?",
       "qMr": "[22 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"Tamil Maanila Congress (Moopanar) president G.K. Vasan on Saturday urged the Cauvery Water Management Authority (CWMA) to direct t...\"?",
       "optsEn": [
+        "Vasan urges political parties to fight for Cauvery water rights",
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
         "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel",
-        "Vasan urges political parties to fight for Cauvery water rights"
+        "Inter-State Council Constitutional Review Panel"
       ],
       "optsHi": [
+        "Vasan urges political parties to fight for Cauvery water rights",
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
         "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel",
-        "Vasan urges political parties to fight for Cauvery water rights"
+        "Inter-State Council Constitutional Review Panel"
       ],
       "optsMr": [
+        "Vasan urges political parties to fight for Cauvery water rights",
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
         "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel",
-        "Vasan urges political parties to fight for Cauvery water rights"
+        "Inter-State Council Constitutional Review Panel"
       ],
-      "ans": 3,
+      "ans": 0,
       "explanation": "<strong>1. Core Context & Background:</strong> Tamil Maanila Congress (Moopanar) president G.K.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Vasan on Saturday urged the Cauvery Water Management Authority (CWMA) to direct the Karnataka government to release water due to Tamil Nadu. He also sought the cooperation of political parties in Tamil Nadu in securing the State’s rights by setting aside their differences.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> The Karnataka government should understand that the Cauvery water-sharing issue and the Mekedatu issue are not only river water disputes, but also the lifelines of the people of Tamil Nadu, Mr."
     },
     {
-      "id": "gk_22 Nov 2026_2",
+      "id": "gk_22 Nov 2026_3",
       "cat": "🏛️ National & Polity",
       "date": "22 Nov 2026",
       "qEn": "[22 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"The Tamil Nadu government has introduced online counselling for transfers and postings of employees in municipal corporations, mun...\"?",
@@ -3857,55 +3879,55 @@
       "qMr": "[22 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"The Tamil Nadu government has introduced online counselling for transfers and postings of employees in municipal corporations, mun...\"?",
       "optsEn": [
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "Municipal staff transfers to move online by Tamil Nadu govt., with vacancies displ...",
         "15th Finance Commission Special State Grant",
+        "Municipal staff transfers to move online by Tamil Nadu govt., with vacancies displ...",
         "Inter-State Council Constitutional Review Panel"
       ],
       "optsHi": [
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "Municipal staff transfers to move online by Tamil Nadu govt., with vacancies displ...",
         "15th Finance Commission Special State Grant",
+        "Municipal staff transfers to move online by Tamil Nadu govt., with vacancies displ...",
         "Inter-State Council Constitutional Review Panel"
       ],
       "optsMr": [
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "Municipal staff transfers to move online by Tamil Nadu govt., with vacancies displ...",
         "15th Finance Commission Special State Grant",
+        "Municipal staff transfers to move online by Tamil Nadu govt., with vacancies displ...",
         "Inter-State Council Constitutional Review Panel"
       ],
-      "ans": 1,
+      "ans": 2,
       "explanation": "<strong>1. Core Context & Background:</strong> The Tamil Nadu government has introduced online counselling for transfers and postings of employees in municipal corporations, municipal councils and town panchayats, covering employees in the lower and middle levels of the government pay structure, including posts such as assistants, junior assistants and superintendents.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> The guidelines were issued through two Government Orders (G.O.s) by the Municipal Administration and Water Supply Department dated November 19, 2026. The counselling will be based on vacancies and station seniority.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> The official said counselling for Executive Officers of town panchayats had already been conducted and postings issued based on it."
     },
     {
-      "id": "gk_22 Nov 2026_3",
+      "id": "gk_22 Nov 2026_4",
       "cat": "🏛️ National & Polity",
       "date": "22 Nov 2026",
       "qEn": "[22 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"The All India Professionals’ Congress (AIPC) Tamil Nadu chapter should function as a professional support network for micro, small...\"?",
       "qHi": "[22 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"The All India Professionals’ Congress (AIPC) Tamil Nadu chapter should function as a professional support network for micro, small...\"?",
       "qMr": "[22 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"The All India Professionals’ Congress (AIPC) Tamil Nadu chapter should function as a professional support network for micro, small...\"?",
       "optsEn": [
+        "AIPC Tamil Nadu to support MSMEs through professional network",
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
         "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel",
-        "AIPC Tamil Nadu to support MSMEs through professional network"
+        "Inter-State Council Constitutional Review Panel"
       ],
       "optsHi": [
+        "AIPC Tamil Nadu to support MSMEs through professional network",
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
         "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel",
-        "AIPC Tamil Nadu to support MSMEs through professional network"
+        "Inter-State Council Constitutional Review Panel"
       ],
       "optsMr": [
+        "AIPC Tamil Nadu to support MSMEs through professional network",
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
         "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel",
-        "AIPC Tamil Nadu to support MSMEs through professional network"
+        "Inter-State Council Constitutional Review Panel"
       ],
-      "ans": 3,
+      "ans": 0,
       "explanation": "<strong>1. Core Context & Background:</strong> The All India Professionals’ Congress (AIPC) Tamil Nadu chapter should function as a professional support network for micro, small and medium enterprises (MSMEs), helping them access legal, financial and technical expertise, said its national chairman Madhu Goud Yaskhi at the organisation’s annual summit in Chennai on Saturday.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Yaskhi proposed that chartered accountants, lawyers, engineers and IT professionals associated with the AIPC volunteer their time to help MSMEs with taxation, regulatory compliance, financial management and delayed payments. He said over ₹7 lakh crore owed to small enterprises across India remained stuck in delayed payments, with large companies often taking more than 120 days to clear dues despite the statutory 45-day limit.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Robert Bruce and Rajya Sabha MP Christopher Tilak were present."
     },
     {
-      "id": "gk_22 Nov 2026_4",
+      "id": "gk_22 Nov 2026_5",
       "cat": "🏛️ National & Polity",
       "date": "22 Nov 2026",
       "qEn": "[22 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"While early years after Independence in India saw excessive veneration of Gandhi, the recent trends have shifted to a “venomous de...\"?",
@@ -3914,79 +3936,51 @@
       "optsEn": [
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
         "15th Finance Commission Special State Grant",
-        "Gandhi is the core ideological enemy of the Sangh Parivar: Ramachandra Guha",
-        "Inter-State Council Constitutional Review Panel"
+        "Inter-State Council Constitutional Review Panel",
+        "Gandhi is the core ideological enemy of the Sangh Parivar: Ramachandra Guha"
       ],
       "optsHi": [
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
         "15th Finance Commission Special State Grant",
-        "Gandhi is the core ideological enemy of the Sangh Parivar: Ramachandra Guha",
-        "Inter-State Council Constitutional Review Panel"
+        "Inter-State Council Constitutional Review Panel",
+        "Gandhi is the core ideological enemy of the Sangh Parivar: Ramachandra Guha"
       ],
       "optsMr": [
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
         "15th Finance Commission Special State Grant",
-        "Gandhi is the core ideological enemy of the Sangh Parivar: Ramachandra Guha",
-        "Inter-State Council Constitutional Review Panel"
+        "Inter-State Council Constitutional Review Panel",
+        "Gandhi is the core ideological enemy of the Sangh Parivar: Ramachandra Guha"
       ],
-      "ans": 2,
+      "ans": 3,
       "explanation": "<strong>1. Core Context & Background:</strong> While early years after Independence in India saw excessive veneration of Gandhi, the recent trends have shifted to a “venomous detestation” of the man by the right-wing ecosystem led by the Sangh Parivar, historian Ramachandra Guha said here on Saturday while discussing his latest book Arguments with Gandhi.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> “When I was young, the ethos in India was excessive veneration of Gandhi. Now, it has become parricide,” he told the audience.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> If the book came out a few months later, he said he would have added a few paragraphs on the Cockroach Janata Party movement."
     },
     {
-      "id": "gk_22 Nov 2026_5",
+      "id": "gk_22 Nov 2026_6",
       "cat": "🏛️ National & Polity",
       "date": "22 Nov 2026",
       "qEn": "[22 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"Tamil Nadu, which has 10,000 MW-11,000 MW of installed solar energy capacity, may see a slowdown in solar energy installations in ...\"?",
       "qHi": "[22 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"Tamil Nadu, which has 10,000 MW-11,000 MW of installed solar energy capacity, may see a slowdown in solar energy installations in ...\"?",
       "qMr": "[22 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"Tamil Nadu, which has 10,000 MW-11,000 MW of installed solar energy capacity, may see a slowdown in solar energy installations in ...\"?",
       "optsEn": [
-        "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel",
-        "T.N. may see solar energy installations slowing down, say energy generators"
-      ],
-      "optsHi": [
-        "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel",
-        "T.N. may see solar energy installations slowing down, say energy generators"
-      ],
-      "optsMr": [
-        "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel",
-        "T.N. may see solar energy installations slowing down, say energy generators"
-      ],
-      "ans": 3,
-      "explanation": "<strong>1. Core Context & Background:</strong> Tamil Nadu, which has 10,000 MW-11,000 MW of installed solar energy capacity, may see a slowdown in solar energy installations in 2027, according to industry representatives.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> The single window system for obtaining approvals is not functioning effectively, finer details based on the recently-announced Battery Energy Storage System (BESS) Policy should be notified by the Tamil Nadu Electricity Regulatory Commission, and costs are escalating, say solar energy investors. “No approvals have been granted for solar energy projects for almost six months now.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Tamil Nadu / solar / environmental cleanup / renewable energy / electricity production and distribution"
-    },
-    {
-      "id": "gk_22 Nov 2026_6",
-      "cat": "🏛️ National & Polity",
-      "date": "22 Nov 2026",
-      "qEn": "[22 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"Congress Member of Parliament Shashi Tharoor on Saturday inaugurated the Raja Ravi Varma Gallery of Oleographs and Chromo Lithogra...\"?",
-      "qHi": "[22 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"Congress Member of Parliament Shashi Tharoor on Saturday inaugurated the Raja Ravi Varma Gallery of Oleographs and Chromo Lithogra...\"?",
-      "qMr": "[22 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"Congress Member of Parliament Shashi Tharoor on Saturday inaugurated the Raja Ravi Varma Gallery of Oleographs and Chromo Lithogra...\"?",
-      "optsEn": [
-        "Raja Ravi Varma Gallery of Oleographs and Chromo Lithographs inaugurated in Chennai",
+        "T.N. may see solar energy installations slowing down, say energy generators",
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
         "15th Finance Commission Special State Grant",
         "Inter-State Council Constitutional Review Panel"
       ],
       "optsHi": [
-        "Raja Ravi Varma Gallery of Oleographs and Chromo Lithographs inaugurated in Chennai",
+        "T.N. may see solar energy installations slowing down, say energy generators",
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
         "15th Finance Commission Special State Grant",
         "Inter-State Council Constitutional Review Panel"
       ],
       "optsMr": [
-        "Raja Ravi Varma Gallery of Oleographs and Chromo Lithographs inaugurated in Chennai",
+        "T.N. may see solar energy installations slowing down, say energy generators",
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
         "15th Finance Commission Special State Grant",
         "Inter-State Council Constitutional Review Panel"
       ],
       "ans": 0,
-      "explanation": "<strong>1. Core Context & Background:</strong> Congress Member of Parliament Shashi Tharoor on Saturday inaugurated the Raja Ravi Varma Gallery of Oleographs and Chromo Lithographs at the C.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Ramaswami Aiyar Foundation (CPRAF) to mark the institution’s 60th anniversary. He also released two books, Heritage, Education and Nature – 60 years of the C.P.Ramaswami Aiyar Foundation, and A catalogue of Ravi Varma’s Oleographs and Chomo Lithographs.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Prashanth Krishna, director of CPRAF and senior advocate and grandson of Sir C.P., Aryama Sundaram spoke."
+      "explanation": "<strong>1. Core Context & Background:</strong> Tamil Nadu, which has 10,000 MW-11,000 MW of installed solar energy capacity, may see a slowdown in solar energy installations in 2027, according to industry representatives.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> The single window system for obtaining approvals is not functioning effectively, finer details based on the recently-announced Battery Energy Storage System (BESS) Policy should be notified by the Tamil Nadu Electricity Regulatory Commission, and costs are escalating, say solar energy investors. “No approvals have been granted for solar energy projects for almost six months now.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Tamil Nadu / solar / environmental cleanup / renewable energy / electricity production and distribution"
     },
     {
       "id": "gk_22 Nov 2026_7",
