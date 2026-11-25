@@ -1,12 +1,12 @@
 {
-  "updatedAt": "26 Nov 2026, 03:05 AM IST",
+  "updatedAt": "26 Nov 2026, 03:58 AM IST",
   "currentDateIso": "2026-11-26",
   "currentDateDisplay": "26 Nov 2026",
   "availableDates": [
     {
       "dateIso": "2026-11-26",
       "dateDisplay": "26 Nov 2026",
-      "updatedAt": "26 Nov 2026, 03:05 AM IST",
+      "updatedAt": "26 Nov 2026, 03:58 AM IST",
       "articleCount": 30
     },
     {
@@ -23,9 +23,43 @@
     }
   ],
   "hookLine1": "The Hindu Printed Broadsheet & Editorial Digest (26 Nov 2026)",
-  "hookLine2": "100% In-App Full Newspaper Pages & Deep Editorial Analysis • Updated: 26 Nov 2026, 03:05 AM IST",
+  "hookLine2": "100% In-App Full Newspaper Pages & Deep Editorial Analysis • Updated: 26 Nov 2026, 03:58 AM IST",
   "totalArticles": 30,
   "articles": [
+    {
+      "category": "national",
+      "categoryLabel": "🏛️ National & Polity",
+      "title": "Supreme Court suggests referring KMC delimitation case back to High Court for fresh look",
+      "link": "https://www.thehindu.com/news/national/west-bengal/supreme-court-inclined-to-stay-calcutta-hc-order-deferring-kolkata-civic-polls-till-decision-on-ward-delimitation/article71741489.ece",
+      "pubDate": "Thu, 26 Nov 2026 02:48:50 +0530",
+      "dateIso": "2026-11-26",
+      "dateDisplay": "26 Nov 2026",
+      "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
+      "imageUrl": "https://th-i.thgim.com/public/incoming/58gn31/article71741500.ece/alternates/LANDSCAPE_1200/IMG_Suprem_Court_3_1_KGGCRNVB%201.jpg",
+      "fullParagraphs": [
+        "The Supreme Court indicated orally on Wednesday (November 25, 2026) its inclination to set aside a Calcutta High Court order that put on hold the Kolkata Municipal Corporation (KMC) elections over a delimitation exercise, and requested the High Court to hear the dispute afresh.",
+        "A Bench headed by Chief Justice of India Surya Kant made the suggestion while hearing an appeal filed by the West Bengal government against the High Court order of November 6. The High Court had directed the West Bengal State Election Commission to not notify the elections until a petition challenging the delimitation of municipal wards was decided.",
+        "Chief Justice Kant said the apex court was inclined to set aside the order of the High Court after taking into consideration pertinent legal and factual issues raised by the State government. The writ petition could also be transferred from the Single Judge Bench to a Division Bench, which would consider the entire dispute afresh and pass appropriate orders.",
+        "“And till the Division Bench forms a view the polls can be held off,” the court suggested orally.",
+        "The lawyers for both the State and former CPI(M) councillor Dipu Das, who had filed the petition in the High Court against the delimitation exercise, sought time to take instructions. The court listed the case for further hearing on November 30.",
+        "The Bench reasoned that its proposed “ad-hoc arrangement” would place both parties on an “even keel” without the Supreme Court expressing any opinion on the merits of the dispute.",
+        "The KMC had undertaken a revision of municipal ward boundaries ahead of the civic polls. As part of the plan, the number of wards in the civic body may rise to 209 from the current 144.",
+        "A Division Bench of the High Court had stopped the State Election Commission from issuing the election notification till the Single Judge Bench hearing Mr. Das’s petition decided the legality of the ward delimitation exercise.",
+        "Mr. Das had questioned the delimitation, arguing that the expansion of the municipal wards was void. He had sought a quashing of the September 11 gazette notification on expansion of wards as bad in law. He had contended that the delimitation happened on the basis of electoral rolls instead of the actual population, resulting in the alleged exclusion of a substantial number of residents.",
+        "After the Single Judge Bench had refused his pleas for an interim stay of the elections, Mr. Das had moved the High Court’s Division Bench."
+      ],
+      "deepExplanation": "<strong>1. Core Context & Background:</strong> The Supreme Court indicated orally on Wednesday (November 25, 2026) its inclination to set aside a Calcutta High Court order that put on hold the Kolkata Municipal Corporation (KMC) elections over a delimitation exercise, and requested the High Court to hear the dispute afresh.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> A Bench headed by Chief Justice of India Surya Kant made the suggestion while hearing an appeal filed by the West Bengal government against the High Court order of November 6. The High Court had directed the West Bengal State Election Commission to not notify the elections until a petition challenging the delimitation of municipal wards was decided.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Das had moved the High Court’s Division Bench.",
+      "vocabList": [
+        "Indicated",
+        "Wednesday",
+        "November",
+        "Inclination",
+        "Calcutta",
+        "Municipal"
+      ],
+      "summary": "The Supreme Court indicated orally on Wednesday (November 25, 2026) its inclination to set aside a Calcutta High Court order that put on hold the Kolkata Municipal Corporation (KMC) elections over a delimitation exercise, and requested the High Court to hear the dispute afresh.",
+      "keyPoints": "• The Supreme Court indicated orally on Wednesday (November 25, 2026) its inclination to set aside a Calcutta High Court order that put on hold the Kolkata Municipal Corporation (KMC) elections over a delimitation exercise, and requested the High Court to hear the dispute afresh.<br>• A Bench headed by Chief Justice of India Surya Kant made the suggestion while hearing an appeal filed by the West Bengal government against the High Court order of November 6. The High Court had directed the West Bengal State Election Commission to not notify the elections until a petition challenging the delimitation of municipal wards was decided.<br>• Chief Justice Kant said the apex court was inclined to set aside the order of the High Court after taking into consideration pertinent legal and factual issues raised by the State government. The writ petition could also be transferred from the Single Judge Bench to a Division Bench, which would consider the entire dispute afresh and pass appropriate orders."
+    },
     {
       "category": "national",
       "categoryLabel": "🏛️ National & Polity",
@@ -53,6 +87,36 @@
       ],
       "summary": "Governor Rajendra Vishwanath Arlekar on Wednesday sought a comprehensive report from Chief Minister C. Joseph Vijay on whether the State government had complied with the Supreme Court’s November 20 order on the lighting of the Karthigai Deepam.",
       "keyPoints": "• Governor Rajendra Vishwanath Arlekar on Wednesday sought a comprehensive report from Chief Minister C. Joseph Vijay on whether the State government had complied with the Supreme Court’s November 20 order on the lighting of the Karthigai Deepam.<br>• The move comes in the wake of the ceremonial lamp being lit only at the traditional spot — the Deepa Mandapam near the Uchchipilliyar Temple — on Tuesday, defying the Supreme Court’s direction to light it on the deepathoon atop the Thirupparankundram hillock as a “limited one-time arrangement”.<br>• Sources told The Hindu that the Governor had sought a report from the Chief Minister under Article 167(b) of the Constitution, detailing the action taken by the authorities on the Supreme Court’s directions."
+    },
+    {
+      "category": "national",
+      "categoryLabel": "🏛️ National & Polity",
+      "title": "Rajbanshi language to be included in Eighth Schedule of Constitution: Suvendu Adhikari",
+      "link": "https://www.thehindu.com/news/national/west-bengal/rajbanshi-languageto-be-included-ineighth-schedule-of-constitutionsuvendu-adhikari/article71742836.ece",
+      "pubDate": "Thu, 26 Nov 2026 01:53:32 +0530",
+      "dateIso": "2026-11-26",
+      "dateDisplay": "26 Nov 2026",
+      "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
+      "imageUrl": "https://th-i.thgim.com/public/incoming/zw3rw/article71744116.ece/alternates/LANDSCAPE_1200/20261117271L.jpg",
+      "fullParagraphs": [
+        "West Bengal Chief Minister Suvendu Adhikari on Wednesday (November 25, 2026) said that the Rajbanshi language will be included in the Eight Schedule of the Constitution, a promise that their party had made during their Assembly election campaign.",
+        "During the inauguration of a festival in West Bengal’s Cooch Behar district, Mr Adhikari said that their government is taking complete care of the Rajbanshi community, including their language, culture, political aspirations, and financial security.",
+        "He added that as promised in BJP’s West Bengal Assembly poll manifesto and reiterated by several top BJP leaders during the buildup to the elections, Rajbanshi language is set to be part of the Eight Schedule of the Constitution.",
+        "“We raised the issue during a meeting with the Union home minister and the home secretary on November 19 that was attended by me and the state’s chief secretary,” Mr Adhikari told reporters before the inauguration of Ras Utsav (annual celebration of Radha-Krishna) festivities in Cooch Behar.",
+        "At Cooch Behar, Mr Adhikari was greeted by Cabinet minister Nisith Pramanik, a member of the Rajbanshi community. Later, the CM also took part in the festivities in the local area. Mr Adhikari also added that the Rajbanshi community expressed their dissatisfaction over losing their land ownership in the region as he held the Left Front government responsible for it.",
+        "He also added that the previous governments in the State did not offer much participation of the Rajbanshi community in the cabinet and that their government has done more for the community since they came to power. The Rajbanshi community has always stood by us since 2019, Mr Adhikari added. In the recently concluded assembly polls, the BJP performed exceptionally well in north Bengal and won eight out of nine seats in the Cooch Behar district."
+      ],
+      "deepExplanation": "<strong>1. Core Context & Background:</strong> West Bengal Chief Minister Suvendu Adhikari on Wednesday (November 25, 2026) said that the Rajbanshi language will be included in the Eight Schedule of the Constitution, a promise that their party had made during their Assembly election campaign.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> During the inauguration of a festival in West Bengal’s Cooch Behar district, Mr Adhikari said that their government is taking complete care of the Rajbanshi community, including their language, culture, political aspirations, and financial security. He added that as promised in BJP’s West Bengal Assembly poll manifesto and reiterated by several top BJP leaders during the buildup to the elections, Rajbanshi language is set to be part of the Eight Schedule of the Constitution.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> In the recently concluded assembly polls, the BJP performed exceptionally well in north Bengal and won eight out of nine seats in the Cooch Behar district.",
+      "vocabList": [
+        "Adhikari",
+        "Wednesday",
+        "November",
+        "Rajbanshi",
+        "Language",
+        "Included"
+      ],
+      "summary": "West Bengal Chief Minister Suvendu Adhikari on Wednesday (November 25, 2026) said that the Rajbanshi language will be included in the Eight Schedule of the Constitution, a promise that their party had made during their Assembly election campaign.",
+      "keyPoints": "• West Bengal Chief Minister Suvendu Adhikari on Wednesday (November 25, 2026) said that the Rajbanshi language will be included in the Eight Schedule of the Constitution, a promise that their party had made during their Assembly election campaign.<br>• During the inauguration of a festival in West Bengal’s Cooch Behar district, Mr Adhikari said that their government is taking complete care of the Rajbanshi community, including their language, culture, political aspirations, and financial security.<br>• He added that as promised in BJP’s West Bengal Assembly poll manifesto and reiterated by several top BJP leaders during the buildup to the elections, Rajbanshi language is set to be part of the Eight Schedule of the Constitution."
     },
     {
       "category": "national",
@@ -151,67 +215,6 @@
       ],
       "summary": "No permission has been sought from the Delhi Police for a protest march against the Special Intensive Revision (SIR) of electoral rolls , scheduled for November 26 , senior New Delhi police officials said. The organisers, however, maintained that they had intimated the police about the proposed demonstration.",
       "keyPoints": "• No permission has been sought from the Delhi Police for a protest march against the Special Intensive Revision (SIR) of electoral rolls , scheduled for November 26 , senior New Delhi police officials said. The organisers, however, maintained that they had intimated the police about the proposed demonstration.<br>• The Delhi wing of the People Against SIR platform has called for a march on Constitution Day from Valmiki Sadan on Mandir Marg towards Jantar Mantar. The protesters are demanding the scrapping of SIR and the restoration of Jantar Mantar as a designated site for peaceful protests, among other demands.<br>• An email dated November 23, 2026, seen by The Hindu , was sent to the Delhi Police to inform them about the proposed programme. It stated: “This is to inform you that we, the Delhi People Against SIR, are going to observe Constitution Day as per the details given.”"
-    },
-    {
-      "category": "national",
-      "categoryLabel": "🏛️ National & Polity",
-      "title": "G.O. issued on CAS for teachers of aided arts and science colleges",
-      "link": "https://www.thehindu.com/news/national/tamil-nadu/go-issued-on-cas-for-teachers-of-aided-arts-and-science-colleges/article71743611.ece",
-      "pubDate": "Thu, 26 Nov 2026 00:52:41 +0530",
-      "dateIso": "2026-11-26",
-      "dateDisplay": "26 Nov 2026",
-      "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
-      "imageUrl": "https://www.thehindu.com/theme/images/og-image.png",
-      "fullParagraphs": [
-        "Keeping up with its announcement made during the demand for grant on August 24, the Tamil Nadu Higher Education Department issued a Government Order (G.O.) on Tuesday, awarding Career Advancement Scheme (CAS) monetary benefits to teachers of government-aided Arts and Science colleges.",
-        "According to the G.O., the government has sanctioned ₹11.75 crore as recurring monthly expenditure for awarding CAS to eligible teachers, with effect from September 1. A total of 6,116 teachers will benefit from the scheme.",
-        "According to the G.O., the eligibility criteria and procedures to be followed for CAS will be implemented “in strict adherence” to guidelines issued through a G.O. of January 11, 2021. The scheme would be implemented only after proper verification of the eligibility of each teacher.",
-        "A screening and selection committee will scrutinise promotion requests and applications, and the Regional Joint Director will forward the minutes and recommendations to the Director of Collegiate Education.",
-        "After being vetted, the files would be sent back to the Regional Joint Director who would forward the same, along with service records, to audit teams nominated by the Director-General of Audit.",
-        "After receiving the observations from the audit teams, the Regional Joint Director would issue relevant CAS orders.",
-        "The G.O. warns that the responsibility of any miscalculation or error would fall squarely on the officer who issues the CAS order. The excess amount paid will be recovered from the teacher, while action will be initiated against erring officials."
-      ],
-      "deepExplanation": "<strong>1. Core Context & Background:</strong> Keeping up with its announcement made during the demand for grant on August 24, the Tamil Nadu Higher Education Department issued a Government Order (G.O.) on Tuesday, awarding Career Advancement Scheme (CAS) monetary benefits to teachers of government-aided Arts and Science colleges.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> According to the G.O., the government has sanctioned ₹11.75 crore as recurring monthly expenditure for awarding CAS to eligible teachers, with effect from September 1. A total of 6,116 teachers will benefit from the scheme.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> The excess amount paid will be recovered from the teacher, while action will be initiated against erring officials.",
-      "vocabList": [
-        "Announcement",
-        "Awarding",
-        "Advancement",
-        "Monetary",
-        "Benefits",
-        "Teachers"
-      ],
-      "summary": "Keeping up with its announcement made during the demand for grant on August 24, the Tamil Nadu Higher Education Department issued a Government Order (G.O.) on Tuesday, awarding Career Advancement Scheme (CAS) monetary benefits to teachers of government-aided Arts and Science colleges.",
-      "keyPoints": "• Keeping up with its announcement made during the demand for grant on August 24, the Tamil Nadu Higher Education Department issued a Government Order (G.O.) on Tuesday, awarding Career Advancement Scheme (CAS) monetary benefits to teachers of government-aided Arts and Science colleges.<br>• According to the G.O., the government has sanctioned ₹11.75 crore as recurring monthly expenditure for awarding CAS to eligible teachers, with effect from September 1. A total of 6,116 teachers will benefit from the scheme.<br>• According to the G.O., the eligibility criteria and procedures to be followed for CAS will be implemented “in strict adherence” to guidelines issued through a G.O. of January 11, 2021. The scheme would be implemented only after proper verification of the eligibility of each teacher."
-    },
-    {
-      "category": "national",
-      "categoryLabel": "🏛️ National & Polity",
-      "title": "Man arrested for murdering his wife over family dispute",
-      "link": "https://www.thehindu.com/news/national/tamil-nadu/man-arrested-for-murdering-his-wife-over-family-dispute/article71742418.ece",
-      "pubDate": "Thu, 26 Nov 2026 00:35:56 +0530",
-      "dateIso": "2026-11-26",
-      "dateDisplay": "26 Nov 2026",
-      "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
-      "imageUrl": "https://www.thehindu.com/theme/images/og-image.png",
-      "fullParagraphs": [
-        "A 31-year-old man was arrested by the Sathuvachari police in Vellore on Wednesday for killing his wife over a family dispute.",
-        "Police identified the arrested person as K. Hariprasad. Initial inquiry revealed that Hariprasad was married to Krithika nearly a decade ago. The couple has two children.",
-        "Police said that Hariprasad was working as a driver. The couple reportedly fought repeatedly over poor income to maintain the family. In recent months, police said that Hariprasad was also irregular at work, forcing Krithika to meet the entire needs of the family on her own.",
-        "Police said that Krithika left her husband and stayed in her parents house with her children. Hariprasad repeatedly requested her live with him but she refused.",
-        "Police said on Wednesday, Hariprasad met her again and asked to come along with him to his house. As she refused, enraged Hariprasad stabbed Krithika, who collapsed in a pool of blood, police said.",
-        "Based on an alert from neighbours, the Sathuvachari police rushed to the spot and arrested Hariprasad. A case was registered and further probe is under way."
-      ],
-      "deepExplanation": "<strong>1. Core Context & Background:</strong> A 31-year-old man was arrested by the Sathuvachari police in Vellore on Wednesday for killing his wife over a family dispute.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Police identified the arrested person as K. Initial inquiry revealed that Hariprasad was married to Krithika nearly a decade ago.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> A case was registered and further probe is under way.",
-      "vocabList": [
-        "Arrested",
-        "Sathuvachari",
-        "Wednesday",
-        "Identified",
-        "Hariprasad",
-        "Revealed"
-      ],
-      "summary": "A 31-year-old man was arrested by the Sathuvachari police in Vellore on Wednesday for killing his wife over a family dispute.",
-      "keyPoints": "• A 31-year-old man was arrested by the Sathuvachari police in Vellore on Wednesday for killing his wife over a family dispute.<br>• Police identified the arrested person as K. Hariprasad. Initial inquiry revealed that Hariprasad was married to Krithika nearly a decade ago. The couple has two children.<br>• Police said that Hariprasad was working as a driver. The couple reportedly fought repeatedly over poor income to maintain the family. In recent months, police said that Hariprasad was also irregular at work, forcing Krithika to meet the entire needs of the family on her own."
     },
     {
       "category": "economy",
@@ -422,6 +425,39 @@
     {
       "category": "ir",
       "categoryLabel": "🌐 International Relations",
+      "title": "Fuel tanker crash ignites massive fire on highway surrounding Cairo, killing at least 30 people",
+      "link": "https://www.thehindu.com/news/international/fuel-tanker-crash-ignites-massive-fire-on-highway-surrounding-cairo/article71744262.ece",
+      "pubDate": "Thu, 26 Nov 2026 03:34:14 +0530",
+      "dateIso": "2026-11-26",
+      "dateDisplay": "26 Nov 2026",
+      "examRelevance": "GS Paper-II & Current Affairs: Bilateral Agreements, Foreign Visits & UN/G20/BRICS",
+      "imageUrl": "https://th-i.thgim.com/public/incoming/9rbidm/article71744263.ece/alternates/LANDSCAPE_1200/2026-11-25T214116Z_1731871822_RC29VOAKM2R4_RTRMADP_3_EGYPT-ACCIDENT-UGC.JPG",
+      "fullParagraphs": [
+        "A crash involving a fuel tanker ignited a massive fire on a major highway surrounding Cairo on Wednesday (November 25, 2026), killing at least 30 people, Egyptian authorities said.",
+        "The blaze on Ring Road, a key artery that encircles the Egyptian capital, also injured at least 25 people and left more than two dozen cars and motorcycles charred, the Public Prosecutor's office said in a statement.",
+        "The stretch of the highway where the crash occurred was in Waraq, a densely populated neighbourhood in Giza, part of the Greater Cairo area, according to the Health Ministry.",
+        "At the scene, rescue workers were pulling people out of burning cars. An Associated Press video shows firefighters working to put out the fire spreading amongst the cars. Hundreds of people gathered near the scene in the Warraq district of Imbaba, a Cairo suburb.",
+        "Egyptian President Abdel-Fattah el-Sissi expressed his condolences to the victims in a statement. The Public Prosecutor's office said DNA investigations were underway to identify the victims.",
+        "Health Minister Khaled Abdel Ghaffar said the injured were taken to nearby hospitals and that he would head to the scene himself. He said the death toll was preliminary, raising concerns it could rise further.",
+        "Deadly traffic accidents claim thousands of lives every year in Egypt, which has a poor transportation safety record. Speeding, bad roads and poor enforcement of traffic laws are the main reasons behind most of the crashes.",
+        "In January, 21 people were killed and 16 injured in a massive multicar pileup on a road near the southern province of Beni Suef.",
+        "Egypt / road accident / accident (general) / death / fire"
+      ],
+      "deepExplanation": "<strong>1. Core Context & Background:</strong> A crash involving a fuel tanker ignited a massive fire on a major highway surrounding Cairo on Wednesday (November 25, 2026), killing at least 30 people, Egyptian authorities said.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> The blaze on Ring Road, a key artery that encircles the Egyptian capital, also injured at least 25 people and left more than two dozen cars and motorcycles charred, the Public Prosecutor's office said in a statement. The stretch of the highway where the crash occurred was in Waraq, a densely populated neighbourhood in Giza, part of the Greater Cairo area, according to the Health Ministry.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Egypt / road accident / accident (general) / death / fire",
+      "vocabList": [
+        "Involving",
+        "Surrounding",
+        "Wednesday",
+        "November",
+        "Egyptian",
+        "Authorities"
+      ],
+      "summary": "A crash involving a fuel tanker ignited a massive fire on a major highway surrounding Cairo on Wednesday (November 25, 2026), killing at least 30 people, Egyptian authorities said.",
+      "keyPoints": "• A crash involving a fuel tanker ignited a massive fire on a major highway surrounding Cairo on Wednesday (November 25, 2026), killing at least 30 people, Egyptian authorities said.<br>• The blaze on Ring Road, a key artery that encircles the Egyptian capital, also injured at least 25 people and left more than two dozen cars and motorcycles charred, the Public Prosecutor's office said in a statement.<br>• The stretch of the highway where the crash occurred was in Waraq, a densely populated neighbourhood in Giza, part of the Greater Cairo area, according to the Health Ministry."
+    },
+    {
+      "category": "ir",
+      "categoryLabel": "🌐 International Relations",
       "title": "Ukraine says it struck two oil refineries in Russia's Samara region",
       "link": "https://www.thehindu.com/news/international/ukraine-says-it-struck-two-oil-refineries-in-russias-samara-region/article71743934.ece",
       "pubDate": "Wed, 25 Nov 2026 23:39:47 +0530",
@@ -561,42 +597,6 @@
       ],
       "summary": "The Trump administration is preparing a fresh tariff offensive targeting major trading partners including China, India and the European Union. Here’s what the investigation is about and what it could mean for global trade.",
       "keyPoints": "• The Trump administration is preparing a fresh tariff offensive targeting major trading partners including China, India and the European Union. Here’s what the investigation is about and what it could mean for global trade."
-    },
-    {
-      "category": "ir",
-      "categoryLabel": "🌐 International Relations",
-      "title": "U.S. announces new 25% tariffs on India, second-highest in the 14 countries against which action has been taken",
-      "link": "https://www.thehindu.com/news/international/donald-trump-tariffs-us-midterm-elections/article71743081.ece",
-      "pubDate": "Wed, 25 Nov 2026 23:08:36 +0530",
-      "dateIso": "2026-11-26",
-      "dateDisplay": "26 Nov 2026",
-      "examRelevance": "GS Paper-II & Current Affairs: Bilateral Agreements, Foreign Visits & UN/G20/BRICS",
-      "imageUrl": "https://th-i.thgim.com/public/incoming/x6kns7/article71743744.ece/alternates/LANDSCAPE_1200/2026-11-25T135439Z_732317319_RC21VOATCSR3_RTRMADP_3_USA-TRUMP-TARIFFS.JPG",
-      "fullParagraphs": [
-        "The U.S. government on Wednesday (November 25, 2026) announced a tariff of 25% on goods imported from India in response to India’s “unreasonable acts, policies, and practices” that “burden or restrict U.S. commerce”. This is the second-highest tariff among the 14 economies against which the latest action has been taken, second only to the 35% tariff levied on Vietnam.",
-        "However, the order by the office of the U.S. Trade Representative (USTR) also said that, should the U.S. and India reach an Agreement on Reciprocal Trade, the tariff imposed on India could drop to 17%.",
-        "ALSO WATCH U.S. midterm results could accelerate India trade deal but raise tariff risks",
-        "Further, while it says that the 25% tariffs would be net of existing tariffs levied on India, meaning they will not add to the 10% already in effect, the order also said that it remained for the USTR to decide whether these new tariffs would be adjusted keeping in mind those other tariffs.",
-        "The Indian government said it has taken note of the actions by the USTR and that its notice is currently under examination.",
-        "“India engaged constructively throughout this investigation,” the statement by the Ministry of Commerce and Industry said. “In response to the Notice of Initiation and in subsequent proceedings, the Department of Commerce stated that India does not have structural excess capacity in any sector.”",
-        "“India and the United States are engaged in negotiations for a Bilateral Trade Agreement,” it added. “It has been India’s position that any trade-related concerns should be addressed within the framework of these negotiations. Government of India remains committed to working closely with the United States towards the early conclusion of the India-U.S. Bilateral Trade Agreement, as announced on 2nd February 2026 and in accordance with the Joint Statement issued on 7th February 2026.”",
-        "The USTR had in March launched two separate investigations into American trade partners, including India, under Section 301 of the U.S. Trade Act. The first investigation related to forced labour resulted in a tariff of 10% levied on India. The new tariffs announced on Wednesday are a result of the second investigation into structural excess capacity.",
-        "Apart from this, the U.S. also levies a tariff of 50% on imports of aluminium and steel from all countries under Section 232 of its Trade Expansion Act. The new tariffs will not be added to these. Under the Lindsey O. Graham Sanctioning Russia and Iran Act of 2026, the U.S. government is also empowered to levy a tariff of up to 100% on countries, including India, that import large quantities of Russian oil. This tariff has been temporarily paused by U.S. President Donald Trump.",
-        "In its report on India, the USTR concluded that India’s acts, policies, and practices “create, sustain, or contribute to structural excess capacity” that burden or restrict U.S. commerce by harming U.S. producers and exporters through unfair competition and reduced commercial opportunities; harm the U.S. economy due to lost exports, trade deficits, and a diminished manufacturing sector; and create economic security risks for the U.S.",
-        "“The Trade Representative proposes that appropriate action to obtain the elimination of the acts, policies, and practices would include applying tariffs of up to 25% on all goods of India, net of existing Section 301 tariffs, with exemptions for certain goods,” the order by the USTR said.",
-        "However, the order also says that the USTR further proposes to consider whether the additional duties applied should be adjusted to account for duties applied under other existing Section 301 actions, duties applied under Section 232, “or were India to reach an Agreement on Reciprocal Trade with the United States that is responsive to the determinations in this investigation into the acts, policies, and practices of India, a tariff rate of 17%”."
-      ],
-      "deepExplanation": "<strong>1. Core Context & Background:</strong> government on Wednesday (November 25, 2026) announced a tariff of 25% on goods imported from India in response to India’s “unreasonable acts, policies, and practices” that “burden or restrict U.S.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> This is the second-highest tariff among the 14 economies against which the latest action has been taken, second only to the 35% tariff levied on Vietnam. However, the order by the office of the U.S.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> However, the order also says that the USTR further proposes to consider whether the additional duties applied should be adjusted to account for duties applied under other existing Section 301 actions, duties applied under Section 232, “or were India to reach an Agreement on Reciprocal Trade with the United States that is responsive to the determinations in this investigation into the acts, policies, and practices of India, a tariff rate of 17%”.",
-      "vocabList": [
-        "Wednesday",
-        "November",
-        "Announced",
-        "Imported",
-        "Response",
-        "Unreasonable"
-      ],
-      "summary": "The U.S. government on Wednesday (November 25, 2026) announced a tariff of 25% on goods imported from India in response to India’s “unreasonable acts, policies, and practices” that “burden or restrict U.S. commerce”. This is the second-highest tariff among the 14 economies against which the latest action has been taken, second only to the 35% tariff levied on Vietnam.",
-      "keyPoints": "• The U.S. government on Wednesday (November 25, 2026) announced a tariff of 25% on goods imported from India in response to India’s “unreasonable acts, policies, and practices” that “burden or restrict U.S. commerce”. This is the second-highest tariff among the 14 economies against which the latest action has been taken, second only to the 35% tariff levied on Vietnam.<br>• However, the order by the office of the U.S. Trade Representative (USTR) also said that, should the U.S. and India reach an Agreement on Reciprocal Trade, the tariff imposed on India could drop to 17%.<br>• ALSO WATCH U.S. midterm results could accelerate India trade deal but raise tariff risks"
     },
     {
       "category": "scitech",
@@ -968,8 +968,42 @@
     "2026-11-26": {
       "dateIso": "2026-11-26",
       "dateDisplay": "26 Nov 2026",
-      "updatedAt": "26 Nov 2026, 03:05 AM IST",
+      "updatedAt": "26 Nov 2026, 03:58 AM IST",
       "articles": [
+        {
+          "category": "national",
+          "categoryLabel": "🏛️ National & Polity",
+          "title": "Supreme Court suggests referring KMC delimitation case back to High Court for fresh look",
+          "link": "https://www.thehindu.com/news/national/west-bengal/supreme-court-inclined-to-stay-calcutta-hc-order-deferring-kolkata-civic-polls-till-decision-on-ward-delimitation/article71741489.ece",
+          "pubDate": "Thu, 26 Nov 2026 02:48:50 +0530",
+          "dateIso": "2026-11-26",
+          "dateDisplay": "26 Nov 2026",
+          "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/58gn31/article71741500.ece/alternates/LANDSCAPE_1200/IMG_Suprem_Court_3_1_KGGCRNVB%201.jpg",
+          "fullParagraphs": [
+            "The Supreme Court indicated orally on Wednesday (November 25, 2026) its inclination to set aside a Calcutta High Court order that put on hold the Kolkata Municipal Corporation (KMC) elections over a delimitation exercise, and requested the High Court to hear the dispute afresh.",
+            "A Bench headed by Chief Justice of India Surya Kant made the suggestion while hearing an appeal filed by the West Bengal government against the High Court order of November 6. The High Court had directed the West Bengal State Election Commission to not notify the elections until a petition challenging the delimitation of municipal wards was decided.",
+            "Chief Justice Kant said the apex court was inclined to set aside the order of the High Court after taking into consideration pertinent legal and factual issues raised by the State government. The writ petition could also be transferred from the Single Judge Bench to a Division Bench, which would consider the entire dispute afresh and pass appropriate orders.",
+            "“And till the Division Bench forms a view the polls can be held off,” the court suggested orally.",
+            "The lawyers for both the State and former CPI(M) councillor Dipu Das, who had filed the petition in the High Court against the delimitation exercise, sought time to take instructions. The court listed the case for further hearing on November 30.",
+            "The Bench reasoned that its proposed “ad-hoc arrangement” would place both parties on an “even keel” without the Supreme Court expressing any opinion on the merits of the dispute.",
+            "The KMC had undertaken a revision of municipal ward boundaries ahead of the civic polls. As part of the plan, the number of wards in the civic body may rise to 209 from the current 144.",
+            "A Division Bench of the High Court had stopped the State Election Commission from issuing the election notification till the Single Judge Bench hearing Mr. Das’s petition decided the legality of the ward delimitation exercise.",
+            "Mr. Das had questioned the delimitation, arguing that the expansion of the municipal wards was void. He had sought a quashing of the September 11 gazette notification on expansion of wards as bad in law. He had contended that the delimitation happened on the basis of electoral rolls instead of the actual population, resulting in the alleged exclusion of a substantial number of residents.",
+            "After the Single Judge Bench had refused his pleas for an interim stay of the elections, Mr. Das had moved the High Court’s Division Bench."
+          ],
+          "deepExplanation": "<strong>1. Core Context & Background:</strong> The Supreme Court indicated orally on Wednesday (November 25, 2026) its inclination to set aside a Calcutta High Court order that put on hold the Kolkata Municipal Corporation (KMC) elections over a delimitation exercise, and requested the High Court to hear the dispute afresh.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> A Bench headed by Chief Justice of India Surya Kant made the suggestion while hearing an appeal filed by the West Bengal government against the High Court order of November 6. The High Court had directed the West Bengal State Election Commission to not notify the elections until a petition challenging the delimitation of municipal wards was decided.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Das had moved the High Court’s Division Bench.",
+          "vocabList": [
+            "Indicated",
+            "Wednesday",
+            "November",
+            "Inclination",
+            "Calcutta",
+            "Municipal"
+          ],
+          "summary": "The Supreme Court indicated orally on Wednesday (November 25, 2026) its inclination to set aside a Calcutta High Court order that put on hold the Kolkata Municipal Corporation (KMC) elections over a delimitation exercise, and requested the High Court to hear the dispute afresh.",
+          "keyPoints": "• The Supreme Court indicated orally on Wednesday (November 25, 2026) its inclination to set aside a Calcutta High Court order that put on hold the Kolkata Municipal Corporation (KMC) elections over a delimitation exercise, and requested the High Court to hear the dispute afresh.<br>• A Bench headed by Chief Justice of India Surya Kant made the suggestion while hearing an appeal filed by the West Bengal government against the High Court order of November 6. The High Court had directed the West Bengal State Election Commission to not notify the elections until a petition challenging the delimitation of municipal wards was decided.<br>• Chief Justice Kant said the apex court was inclined to set aside the order of the High Court after taking into consideration pertinent legal and factual issues raised by the State government. The writ petition could also be transferred from the Single Judge Bench to a Division Bench, which would consider the entire dispute afresh and pass appropriate orders."
+        },
         {
           "category": "national",
           "categoryLabel": "🏛️ National & Polity",
@@ -997,6 +1031,36 @@
           ],
           "summary": "Governor Rajendra Vishwanath Arlekar on Wednesday sought a comprehensive report from Chief Minister C. Joseph Vijay on whether the State government had complied with the Supreme Court’s November 20 order on the lighting of the Karthigai Deepam.",
           "keyPoints": "• Governor Rajendra Vishwanath Arlekar on Wednesday sought a comprehensive report from Chief Minister C. Joseph Vijay on whether the State government had complied with the Supreme Court’s November 20 order on the lighting of the Karthigai Deepam.<br>• The move comes in the wake of the ceremonial lamp being lit only at the traditional spot — the Deepa Mandapam near the Uchchipilliyar Temple — on Tuesday, defying the Supreme Court’s direction to light it on the deepathoon atop the Thirupparankundram hillock as a “limited one-time arrangement”.<br>• Sources told The Hindu that the Governor had sought a report from the Chief Minister under Article 167(b) of the Constitution, detailing the action taken by the authorities on the Supreme Court’s directions."
+        },
+        {
+          "category": "national",
+          "categoryLabel": "🏛️ National & Polity",
+          "title": "Rajbanshi language to be included in Eighth Schedule of Constitution: Suvendu Adhikari",
+          "link": "https://www.thehindu.com/news/national/west-bengal/rajbanshi-languageto-be-included-ineighth-schedule-of-constitutionsuvendu-adhikari/article71742836.ece",
+          "pubDate": "Thu, 26 Nov 2026 01:53:32 +0530",
+          "dateIso": "2026-11-26",
+          "dateDisplay": "26 Nov 2026",
+          "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/zw3rw/article71744116.ece/alternates/LANDSCAPE_1200/20261117271L.jpg",
+          "fullParagraphs": [
+            "West Bengal Chief Minister Suvendu Adhikari on Wednesday (November 25, 2026) said that the Rajbanshi language will be included in the Eight Schedule of the Constitution, a promise that their party had made during their Assembly election campaign.",
+            "During the inauguration of a festival in West Bengal’s Cooch Behar district, Mr Adhikari said that their government is taking complete care of the Rajbanshi community, including their language, culture, political aspirations, and financial security.",
+            "He added that as promised in BJP’s West Bengal Assembly poll manifesto and reiterated by several top BJP leaders during the buildup to the elections, Rajbanshi language is set to be part of the Eight Schedule of the Constitution.",
+            "“We raised the issue during a meeting with the Union home minister and the home secretary on November 19 that was attended by me and the state’s chief secretary,” Mr Adhikari told reporters before the inauguration of Ras Utsav (annual celebration of Radha-Krishna) festivities in Cooch Behar.",
+            "At Cooch Behar, Mr Adhikari was greeted by Cabinet minister Nisith Pramanik, a member of the Rajbanshi community. Later, the CM also took part in the festivities in the local area. Mr Adhikari also added that the Rajbanshi community expressed their dissatisfaction over losing their land ownership in the region as he held the Left Front government responsible for it.",
+            "He also added that the previous governments in the State did not offer much participation of the Rajbanshi community in the cabinet and that their government has done more for the community since they came to power. The Rajbanshi community has always stood by us since 2019, Mr Adhikari added. In the recently concluded assembly polls, the BJP performed exceptionally well in north Bengal and won eight out of nine seats in the Cooch Behar district."
+          ],
+          "deepExplanation": "<strong>1. Core Context & Background:</strong> West Bengal Chief Minister Suvendu Adhikari on Wednesday (November 25, 2026) said that the Rajbanshi language will be included in the Eight Schedule of the Constitution, a promise that their party had made during their Assembly election campaign.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> During the inauguration of a festival in West Bengal’s Cooch Behar district, Mr Adhikari said that their government is taking complete care of the Rajbanshi community, including their language, culture, political aspirations, and financial security. He added that as promised in BJP’s West Bengal Assembly poll manifesto and reiterated by several top BJP leaders during the buildup to the elections, Rajbanshi language is set to be part of the Eight Schedule of the Constitution.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> In the recently concluded assembly polls, the BJP performed exceptionally well in north Bengal and won eight out of nine seats in the Cooch Behar district.",
+          "vocabList": [
+            "Adhikari",
+            "Wednesday",
+            "November",
+            "Rajbanshi",
+            "Language",
+            "Included"
+          ],
+          "summary": "West Bengal Chief Minister Suvendu Adhikari on Wednesday (November 25, 2026) said that the Rajbanshi language will be included in the Eight Schedule of the Constitution, a promise that their party had made during their Assembly election campaign.",
+          "keyPoints": "• West Bengal Chief Minister Suvendu Adhikari on Wednesday (November 25, 2026) said that the Rajbanshi language will be included in the Eight Schedule of the Constitution, a promise that their party had made during their Assembly election campaign.<br>• During the inauguration of a festival in West Bengal’s Cooch Behar district, Mr Adhikari said that their government is taking complete care of the Rajbanshi community, including their language, culture, political aspirations, and financial security.<br>• He added that as promised in BJP’s West Bengal Assembly poll manifesto and reiterated by several top BJP leaders during the buildup to the elections, Rajbanshi language is set to be part of the Eight Schedule of the Constitution."
         },
         {
           "category": "national",
@@ -1095,67 +1159,6 @@
           ],
           "summary": "No permission has been sought from the Delhi Police for a protest march against the Special Intensive Revision (SIR) of electoral rolls , scheduled for November 26 , senior New Delhi police officials said. The organisers, however, maintained that they had intimated the police about the proposed demonstration.",
           "keyPoints": "• No permission has been sought from the Delhi Police for a protest march against the Special Intensive Revision (SIR) of electoral rolls , scheduled for November 26 , senior New Delhi police officials said. The organisers, however, maintained that they had intimated the police about the proposed demonstration.<br>• The Delhi wing of the People Against SIR platform has called for a march on Constitution Day from Valmiki Sadan on Mandir Marg towards Jantar Mantar. The protesters are demanding the scrapping of SIR and the restoration of Jantar Mantar as a designated site for peaceful protests, among other demands.<br>• An email dated November 23, 2026, seen by The Hindu , was sent to the Delhi Police to inform them about the proposed programme. It stated: “This is to inform you that we, the Delhi People Against SIR, are going to observe Constitution Day as per the details given.”"
-        },
-        {
-          "category": "national",
-          "categoryLabel": "🏛️ National & Polity",
-          "title": "G.O. issued on CAS for teachers of aided arts and science colleges",
-          "link": "https://www.thehindu.com/news/national/tamil-nadu/go-issued-on-cas-for-teachers-of-aided-arts-and-science-colleges/article71743611.ece",
-          "pubDate": "Thu, 26 Nov 2026 00:52:41 +0530",
-          "dateIso": "2026-11-26",
-          "dateDisplay": "26 Nov 2026",
-          "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
-          "imageUrl": "https://www.thehindu.com/theme/images/og-image.png",
-          "fullParagraphs": [
-            "Keeping up with its announcement made during the demand for grant on August 24, the Tamil Nadu Higher Education Department issued a Government Order (G.O.) on Tuesday, awarding Career Advancement Scheme (CAS) monetary benefits to teachers of government-aided Arts and Science colleges.",
-            "According to the G.O., the government has sanctioned ₹11.75 crore as recurring monthly expenditure for awarding CAS to eligible teachers, with effect from September 1. A total of 6,116 teachers will benefit from the scheme.",
-            "According to the G.O., the eligibility criteria and procedures to be followed for CAS will be implemented “in strict adherence” to guidelines issued through a G.O. of January 11, 2021. The scheme would be implemented only after proper verification of the eligibility of each teacher.",
-            "A screening and selection committee will scrutinise promotion requests and applications, and the Regional Joint Director will forward the minutes and recommendations to the Director of Collegiate Education.",
-            "After being vetted, the files would be sent back to the Regional Joint Director who would forward the same, along with service records, to audit teams nominated by the Director-General of Audit.",
-            "After receiving the observations from the audit teams, the Regional Joint Director would issue relevant CAS orders.",
-            "The G.O. warns that the responsibility of any miscalculation or error would fall squarely on the officer who issues the CAS order. The excess amount paid will be recovered from the teacher, while action will be initiated against erring officials."
-          ],
-          "deepExplanation": "<strong>1. Core Context & Background:</strong> Keeping up with its announcement made during the demand for grant on August 24, the Tamil Nadu Higher Education Department issued a Government Order (G.O.) on Tuesday, awarding Career Advancement Scheme (CAS) monetary benefits to teachers of government-aided Arts and Science colleges.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> According to the G.O., the government has sanctioned ₹11.75 crore as recurring monthly expenditure for awarding CAS to eligible teachers, with effect from September 1. A total of 6,116 teachers will benefit from the scheme.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> The excess amount paid will be recovered from the teacher, while action will be initiated against erring officials.",
-          "vocabList": [
-            "Announcement",
-            "Awarding",
-            "Advancement",
-            "Monetary",
-            "Benefits",
-            "Teachers"
-          ],
-          "summary": "Keeping up with its announcement made during the demand for grant on August 24, the Tamil Nadu Higher Education Department issued a Government Order (G.O.) on Tuesday, awarding Career Advancement Scheme (CAS) monetary benefits to teachers of government-aided Arts and Science colleges.",
-          "keyPoints": "• Keeping up with its announcement made during the demand for grant on August 24, the Tamil Nadu Higher Education Department issued a Government Order (G.O.) on Tuesday, awarding Career Advancement Scheme (CAS) monetary benefits to teachers of government-aided Arts and Science colleges.<br>• According to the G.O., the government has sanctioned ₹11.75 crore as recurring monthly expenditure for awarding CAS to eligible teachers, with effect from September 1. A total of 6,116 teachers will benefit from the scheme.<br>• According to the G.O., the eligibility criteria and procedures to be followed for CAS will be implemented “in strict adherence” to guidelines issued through a G.O. of January 11, 2021. The scheme would be implemented only after proper verification of the eligibility of each teacher."
-        },
-        {
-          "category": "national",
-          "categoryLabel": "🏛️ National & Polity",
-          "title": "Man arrested for murdering his wife over family dispute",
-          "link": "https://www.thehindu.com/news/national/tamil-nadu/man-arrested-for-murdering-his-wife-over-family-dispute/article71742418.ece",
-          "pubDate": "Thu, 26 Nov 2026 00:35:56 +0530",
-          "dateIso": "2026-11-26",
-          "dateDisplay": "26 Nov 2026",
-          "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
-          "imageUrl": "https://www.thehindu.com/theme/images/og-image.png",
-          "fullParagraphs": [
-            "A 31-year-old man was arrested by the Sathuvachari police in Vellore on Wednesday for killing his wife over a family dispute.",
-            "Police identified the arrested person as K. Hariprasad. Initial inquiry revealed that Hariprasad was married to Krithika nearly a decade ago. The couple has two children.",
-            "Police said that Hariprasad was working as a driver. The couple reportedly fought repeatedly over poor income to maintain the family. In recent months, police said that Hariprasad was also irregular at work, forcing Krithika to meet the entire needs of the family on her own.",
-            "Police said that Krithika left her husband and stayed in her parents house with her children. Hariprasad repeatedly requested her live with him but she refused.",
-            "Police said on Wednesday, Hariprasad met her again and asked to come along with him to his house. As she refused, enraged Hariprasad stabbed Krithika, who collapsed in a pool of blood, police said.",
-            "Based on an alert from neighbours, the Sathuvachari police rushed to the spot and arrested Hariprasad. A case was registered and further probe is under way."
-          ],
-          "deepExplanation": "<strong>1. Core Context & Background:</strong> A 31-year-old man was arrested by the Sathuvachari police in Vellore on Wednesday for killing his wife over a family dispute.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Police identified the arrested person as K. Initial inquiry revealed that Hariprasad was married to Krithika nearly a decade ago.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> A case was registered and further probe is under way.",
-          "vocabList": [
-            "Arrested",
-            "Sathuvachari",
-            "Wednesday",
-            "Identified",
-            "Hariprasad",
-            "Revealed"
-          ],
-          "summary": "A 31-year-old man was arrested by the Sathuvachari police in Vellore on Wednesday for killing his wife over a family dispute.",
-          "keyPoints": "• A 31-year-old man was arrested by the Sathuvachari police in Vellore on Wednesday for killing his wife over a family dispute.<br>• Police identified the arrested person as K. Hariprasad. Initial inquiry revealed that Hariprasad was married to Krithika nearly a decade ago. The couple has two children.<br>• Police said that Hariprasad was working as a driver. The couple reportedly fought repeatedly over poor income to maintain the family. In recent months, police said that Hariprasad was also irregular at work, forcing Krithika to meet the entire needs of the family on her own."
         },
         {
           "category": "economy",
@@ -1366,6 +1369,39 @@
         {
           "category": "ir",
           "categoryLabel": "🌐 International Relations",
+          "title": "Fuel tanker crash ignites massive fire on highway surrounding Cairo, killing at least 30 people",
+          "link": "https://www.thehindu.com/news/international/fuel-tanker-crash-ignites-massive-fire-on-highway-surrounding-cairo/article71744262.ece",
+          "pubDate": "Thu, 26 Nov 2026 03:34:14 +0530",
+          "dateIso": "2026-11-26",
+          "dateDisplay": "26 Nov 2026",
+          "examRelevance": "GS Paper-II & Current Affairs: Bilateral Agreements, Foreign Visits & UN/G20/BRICS",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/9rbidm/article71744263.ece/alternates/LANDSCAPE_1200/2026-11-25T214116Z_1731871822_RC29VOAKM2R4_RTRMADP_3_EGYPT-ACCIDENT-UGC.JPG",
+          "fullParagraphs": [
+            "A crash involving a fuel tanker ignited a massive fire on a major highway surrounding Cairo on Wednesday (November 25, 2026), killing at least 30 people, Egyptian authorities said.",
+            "The blaze on Ring Road, a key artery that encircles the Egyptian capital, also injured at least 25 people and left more than two dozen cars and motorcycles charred, the Public Prosecutor's office said in a statement.",
+            "The stretch of the highway where the crash occurred was in Waraq, a densely populated neighbourhood in Giza, part of the Greater Cairo area, according to the Health Ministry.",
+            "At the scene, rescue workers were pulling people out of burning cars. An Associated Press video shows firefighters working to put out the fire spreading amongst the cars. Hundreds of people gathered near the scene in the Warraq district of Imbaba, a Cairo suburb.",
+            "Egyptian President Abdel-Fattah el-Sissi expressed his condolences to the victims in a statement. The Public Prosecutor's office said DNA investigations were underway to identify the victims.",
+            "Health Minister Khaled Abdel Ghaffar said the injured were taken to nearby hospitals and that he would head to the scene himself. He said the death toll was preliminary, raising concerns it could rise further.",
+            "Deadly traffic accidents claim thousands of lives every year in Egypt, which has a poor transportation safety record. Speeding, bad roads and poor enforcement of traffic laws are the main reasons behind most of the crashes.",
+            "In January, 21 people were killed and 16 injured in a massive multicar pileup on a road near the southern province of Beni Suef.",
+            "Egypt / road accident / accident (general) / death / fire"
+          ],
+          "deepExplanation": "<strong>1. Core Context & Background:</strong> A crash involving a fuel tanker ignited a massive fire on a major highway surrounding Cairo on Wednesday (November 25, 2026), killing at least 30 people, Egyptian authorities said.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> The blaze on Ring Road, a key artery that encircles the Egyptian capital, also injured at least 25 people and left more than two dozen cars and motorcycles charred, the Public Prosecutor's office said in a statement. The stretch of the highway where the crash occurred was in Waraq, a densely populated neighbourhood in Giza, part of the Greater Cairo area, according to the Health Ministry.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Egypt / road accident / accident (general) / death / fire",
+          "vocabList": [
+            "Involving",
+            "Surrounding",
+            "Wednesday",
+            "November",
+            "Egyptian",
+            "Authorities"
+          ],
+          "summary": "A crash involving a fuel tanker ignited a massive fire on a major highway surrounding Cairo on Wednesday (November 25, 2026), killing at least 30 people, Egyptian authorities said.",
+          "keyPoints": "• A crash involving a fuel tanker ignited a massive fire on a major highway surrounding Cairo on Wednesday (November 25, 2026), killing at least 30 people, Egyptian authorities said.<br>• The blaze on Ring Road, a key artery that encircles the Egyptian capital, also injured at least 25 people and left more than two dozen cars and motorcycles charred, the Public Prosecutor's office said in a statement.<br>• The stretch of the highway where the crash occurred was in Waraq, a densely populated neighbourhood in Giza, part of the Greater Cairo area, according to the Health Ministry."
+        },
+        {
+          "category": "ir",
+          "categoryLabel": "🌐 International Relations",
           "title": "Ukraine says it struck two oil refineries in Russia's Samara region",
           "link": "https://www.thehindu.com/news/international/ukraine-says-it-struck-two-oil-refineries-in-russias-samara-region/article71743934.ece",
           "pubDate": "Wed, 25 Nov 2026 23:39:47 +0530",
@@ -1505,42 +1541,6 @@
           ],
           "summary": "The Trump administration is preparing a fresh tariff offensive targeting major trading partners including China, India and the European Union. Here’s what the investigation is about and what it could mean for global trade.",
           "keyPoints": "• The Trump administration is preparing a fresh tariff offensive targeting major trading partners including China, India and the European Union. Here’s what the investigation is about and what it could mean for global trade."
-        },
-        {
-          "category": "ir",
-          "categoryLabel": "🌐 International Relations",
-          "title": "U.S. announces new 25% tariffs on India, second-highest in the 14 countries against which action has been taken",
-          "link": "https://www.thehindu.com/news/international/donald-trump-tariffs-us-midterm-elections/article71743081.ece",
-          "pubDate": "Wed, 25 Nov 2026 23:08:36 +0530",
-          "dateIso": "2026-11-26",
-          "dateDisplay": "26 Nov 2026",
-          "examRelevance": "GS Paper-II & Current Affairs: Bilateral Agreements, Foreign Visits & UN/G20/BRICS",
-          "imageUrl": "https://th-i.thgim.com/public/incoming/x6kns7/article71743744.ece/alternates/LANDSCAPE_1200/2026-11-25T135439Z_732317319_RC21VOATCSR3_RTRMADP_3_USA-TRUMP-TARIFFS.JPG",
-          "fullParagraphs": [
-            "The U.S. government on Wednesday (November 25, 2026) announced a tariff of 25% on goods imported from India in response to India’s “unreasonable acts, policies, and practices” that “burden or restrict U.S. commerce”. This is the second-highest tariff among the 14 economies against which the latest action has been taken, second only to the 35% tariff levied on Vietnam.",
-            "However, the order by the office of the U.S. Trade Representative (USTR) also said that, should the U.S. and India reach an Agreement on Reciprocal Trade, the tariff imposed on India could drop to 17%.",
-            "ALSO WATCH U.S. midterm results could accelerate India trade deal but raise tariff risks",
-            "Further, while it says that the 25% tariffs would be net of existing tariffs levied on India, meaning they will not add to the 10% already in effect, the order also said that it remained for the USTR to decide whether these new tariffs would be adjusted keeping in mind those other tariffs.",
-            "The Indian government said it has taken note of the actions by the USTR and that its notice is currently under examination.",
-            "“India engaged constructively throughout this investigation,” the statement by the Ministry of Commerce and Industry said. “In response to the Notice of Initiation and in subsequent proceedings, the Department of Commerce stated that India does not have structural excess capacity in any sector.”",
-            "“India and the United States are engaged in negotiations for a Bilateral Trade Agreement,” it added. “It has been India’s position that any trade-related concerns should be addressed within the framework of these negotiations. Government of India remains committed to working closely with the United States towards the early conclusion of the India-U.S. Bilateral Trade Agreement, as announced on 2nd February 2026 and in accordance with the Joint Statement issued on 7th February 2026.”",
-            "The USTR had in March launched two separate investigations into American trade partners, including India, under Section 301 of the U.S. Trade Act. The first investigation related to forced labour resulted in a tariff of 10% levied on India. The new tariffs announced on Wednesday are a result of the second investigation into structural excess capacity.",
-            "Apart from this, the U.S. also levies a tariff of 50% on imports of aluminium and steel from all countries under Section 232 of its Trade Expansion Act. The new tariffs will not be added to these. Under the Lindsey O. Graham Sanctioning Russia and Iran Act of 2026, the U.S. government is also empowered to levy a tariff of up to 100% on countries, including India, that import large quantities of Russian oil. This tariff has been temporarily paused by U.S. President Donald Trump.",
-            "In its report on India, the USTR concluded that India’s acts, policies, and practices “create, sustain, or contribute to structural excess capacity” that burden or restrict U.S. commerce by harming U.S. producers and exporters through unfair competition and reduced commercial opportunities; harm the U.S. economy due to lost exports, trade deficits, and a diminished manufacturing sector; and create economic security risks for the U.S.",
-            "“The Trade Representative proposes that appropriate action to obtain the elimination of the acts, policies, and practices would include applying tariffs of up to 25% on all goods of India, net of existing Section 301 tariffs, with exemptions for certain goods,” the order by the USTR said.",
-            "However, the order also says that the USTR further proposes to consider whether the additional duties applied should be adjusted to account for duties applied under other existing Section 301 actions, duties applied under Section 232, “or were India to reach an Agreement on Reciprocal Trade with the United States that is responsive to the determinations in this investigation into the acts, policies, and practices of India, a tariff rate of 17%”."
-          ],
-          "deepExplanation": "<strong>1. Core Context & Background:</strong> government on Wednesday (November 25, 2026) announced a tariff of 25% on goods imported from India in response to India’s “unreasonable acts, policies, and practices” that “burden or restrict U.S.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> This is the second-highest tariff among the 14 economies against which the latest action has been taken, second only to the 35% tariff levied on Vietnam. However, the order by the office of the U.S.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> However, the order also says that the USTR further proposes to consider whether the additional duties applied should be adjusted to account for duties applied under other existing Section 301 actions, duties applied under Section 232, “or were India to reach an Agreement on Reciprocal Trade with the United States that is responsive to the determinations in this investigation into the acts, policies, and practices of India, a tariff rate of 17%”.",
-          "vocabList": [
-            "Wednesday",
-            "November",
-            "Announced",
-            "Imported",
-            "Response",
-            "Unreasonable"
-          ],
-          "summary": "The U.S. government on Wednesday (November 25, 2026) announced a tariff of 25% on goods imported from India in response to India’s “unreasonable acts, policies, and practices” that “burden or restrict U.S. commerce”. This is the second-highest tariff among the 14 economies against which the latest action has been taken, second only to the 35% tariff levied on Vietnam.",
-          "keyPoints": "• The U.S. government on Wednesday (November 25, 2026) announced a tariff of 25% on goods imported from India in response to India’s “unreasonable acts, policies, and practices” that “burden or restrict U.S. commerce”. This is the second-highest tariff among the 14 economies against which the latest action has been taken, second only to the 35% tariff levied on Vietnam.<br>• However, the order by the office of the U.S. Trade Representative (USTR) also said that, should the U.S. and India reach an Agreement on Reciprocal Trade, the tariff imposed on India could drop to 17%.<br>• ALSO WATCH U.S. midterm results could accelerate India trade deal but raise tariff risks"
         },
         {
           "category": "scitech",
@@ -3801,60 +3801,116 @@
       "id": "gk_26 Nov 2026_1",
       "cat": "🏛️ National & Polity",
       "date": "26 Nov 2026",
+      "qEn": "[26 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"The Supreme Court indicated orally on Wednesday (November 25, 2026) its inclination to set aside a Calcutta High Court order that ...\"?",
+      "qHi": "[26 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"The Supreme Court indicated orally on Wednesday (November 25, 2026) its inclination to set aside a Calcutta High Court order that ...\"?",
+      "qMr": "[26 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"The Supreme Court indicated orally on Wednesday (November 25, 2026) its inclination to set aside a Calcutta High Court order that ...\"?",
+      "optsEn": [
+        "Supreme Court suggests referring KMC delimitation case back to High Court for fres...",
+        "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "15th Finance Commission Special State Grant",
+        "Inter-State Council Constitutional Review Panel"
+      ],
+      "optsHi": [
+        "Supreme Court suggests referring KMC delimitation case back to High Court for fres...",
+        "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "15th Finance Commission Special State Grant",
+        "Inter-State Council Constitutional Review Panel"
+      ],
+      "optsMr": [
+        "Supreme Court suggests referring KMC delimitation case back to High Court for fres...",
+        "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "15th Finance Commission Special State Grant",
+        "Inter-State Council Constitutional Review Panel"
+      ],
+      "ans": 0,
+      "explanation": "<strong>1. Core Context & Background:</strong> The Supreme Court indicated orally on Wednesday (November 25, 2026) its inclination to set aside a Calcutta High Court order that put on hold the Kolkata Municipal Corporation (KMC) elections over a delimitation exercise, and requested the High Court to hear the dispute afresh.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> A Bench headed by Chief Justice of India Surya Kant made the suggestion while hearing an appeal filed by the West Bengal government against the High Court order of November 6. The High Court had directed the West Bengal State Election Commission to not notify the elections until a petition challenging the delimitation of municipal wards was decided.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Das had moved the High Court’s Division Bench."
+    },
+    {
+      "id": "gk_26 Nov 2026_2",
+      "cat": "🏛️ National & Polity",
+      "date": "26 Nov 2026",
       "qEn": "[26 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"Governor Rajendra Vishwanath Arlekar on Wednesday sought a comprehensive report from Chief Minister C. Joseph Vijay on whether the...\"?",
       "qHi": "[26 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"Governor Rajendra Vishwanath Arlekar on Wednesday sought a comprehensive report from Chief Minister C. Joseph Vijay on whether the...\"?",
       "qMr": "[26 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"Governor Rajendra Vishwanath Arlekar on Wednesday sought a comprehensive report from Chief Minister C. Joseph Vijay on whether the...\"?",
       "optsEn": [
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "Governor seeks CM’s report on compliance with SC’s directions",
         "15th Finance Commission Special State Grant",
+        "Governor seeks CM’s report on compliance with SC’s directions",
         "Inter-State Council Constitutional Review Panel"
       ],
       "optsHi": [
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "Governor seeks CM’s report on compliance with SC’s directions",
         "15th Finance Commission Special State Grant",
+        "Governor seeks CM’s report on compliance with SC’s directions",
         "Inter-State Council Constitutional Review Panel"
       ],
       "optsMr": [
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "Governor seeks CM’s report on compliance with SC’s directions",
         "15th Finance Commission Special State Grant",
+        "Governor seeks CM’s report on compliance with SC’s directions",
         "Inter-State Council Constitutional Review Panel"
       ],
-      "ans": 1,
+      "ans": 2,
       "explanation": "<strong>1. Core Context & Background:</strong> Governor Rajendra Vishwanath Arlekar on Wednesday sought a comprehensive report from Chief Minister C.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Joseph Vijay on whether the State government had complied with the Supreme Court’s November 20 order on the lighting of the Karthigai Deepam. The move comes in the wake of the ceremonial lamp being lit only at the traditional spot — the Deepa Mandapam near the Uchchipilliyar Temple — on Tuesday, defying the Supreme Court’s direction to light it on the deepathoon atop the Thirupparankundram hillock as a “limited one-time arrangement”.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> It came on the heels of the Madurai Collector telling the Supreme Court, in a preliminary status report filed on Wednesday, that he had made every arrangement to comply with the court’s November 20 order to light the lamp on the deepathoon , but the Board of Trustees of the Arulmigu Subramaniyaswamy Temple had failed to authorise a lamp-lighting team."
     },
     {
-      "id": "gk_26 Nov 2026_2",
+      "id": "gk_26 Nov 2026_3",
+      "cat": "🏛️ National & Polity",
+      "date": "26 Nov 2026",
+      "qEn": "[26 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"West Bengal Chief Minister Suvendu Adhikari on Wednesday (November 25, 2026) said that the Rajbanshi language will be included in ...\"?",
+      "qHi": "[26 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"West Bengal Chief Minister Suvendu Adhikari on Wednesday (November 25, 2026) said that the Rajbanshi language will be included in ...\"?",
+      "qMr": "[26 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"West Bengal Chief Minister Suvendu Adhikari on Wednesday (November 25, 2026) said that the Rajbanshi language will be included in ...\"?",
+      "optsEn": [
+        "Rajbanshi language to be included in Eighth Schedule of Constitution: Suvendu Adhi...",
+        "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "15th Finance Commission Special State Grant",
+        "Inter-State Council Constitutional Review Panel"
+      ],
+      "optsHi": [
+        "Rajbanshi language to be included in Eighth Schedule of Constitution: Suvendu Adhi...",
+        "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "15th Finance Commission Special State Grant",
+        "Inter-State Council Constitutional Review Panel"
+      ],
+      "optsMr": [
+        "Rajbanshi language to be included in Eighth Schedule of Constitution: Suvendu Adhi...",
+        "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "15th Finance Commission Special State Grant",
+        "Inter-State Council Constitutional Review Panel"
+      ],
+      "ans": 0,
+      "explanation": "<strong>1. Core Context & Background:</strong> West Bengal Chief Minister Suvendu Adhikari on Wednesday (November 25, 2026) said that the Rajbanshi language will be included in the Eight Schedule of the Constitution, a promise that their party had made during their Assembly election campaign.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> During the inauguration of a festival in West Bengal’s Cooch Behar district, Mr Adhikari said that their government is taking complete care of the Rajbanshi community, including their language, culture, political aspirations, and financial security. He added that as promised in BJP’s West Bengal Assembly poll manifesto and reiterated by several top BJP leaders during the buildup to the elections, Rajbanshi language is set to be part of the Eight Schedule of the Constitution.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> In the recently concluded assembly polls, the BJP performed exceptionally well in north Bengal and won eight out of nine seats in the Cooch Behar district."
+    },
+    {
+      "id": "gk_26 Nov 2026_4",
       "cat": "🏛️ National & Polity",
       "date": "26 Nov 2026",
       "qEn": "[26 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"In his memorandum to Chairperson of Tamil Nadu Commission for the Prevention of Honour Killings, Viduthalai Chiruthaigal Katchi fo...\"?",
       "qHi": "[26 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"In his memorandum to Chairperson of Tamil Nadu Commission for the Prevention of Honour Killings, Viduthalai Chiruthaigal Katchi fo...\"?",
       "qMr": "[26 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"In his memorandum to Chairperson of Tamil Nadu Commission for the Prevention of Honour Killings, Viduthalai Chiruthaigal Katchi fo...\"?",
       "optsEn": [
+        "Right to choose a partner is an aspect of constitutional freedom, not a privilege ...",
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
         "15th Finance Commission Special State Grant",
-        "Right to choose a partner is an aspect of constitutional freedom, not a privilege ...",
         "Inter-State Council Constitutional Review Panel"
       ],
       "optsHi": [
+        "Right to choose a partner is an aspect of constitutional freedom, not a privilege ...",
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
         "15th Finance Commission Special State Grant",
-        "Right to choose a partner is an aspect of constitutional freedom, not a privilege ...",
         "Inter-State Council Constitutional Review Panel"
       ],
       "optsMr": [
+        "Right to choose a partner is an aspect of constitutional freedom, not a privilege ...",
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
         "15th Finance Commission Special State Grant",
-        "Right to choose a partner is an aspect of constitutional freedom, not a privilege ...",
         "Inter-State Council Constitutional Review Panel"
       ],
-      "ans": 2,
+      "ans": 0,
       "explanation": "<strong>1. Core Context & Background:</strong> In his memorandum to Chairperson of Tamil Nadu Commission for the Prevention of Honour Killings, Viduthalai Chiruthaigal Katchi founder and Chidambaram MP, Thol.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Thirumavalavan said, “the right to choose one’s partner is not a privilege granted by a family, caste or community” but “an aspect of the constitutional freedom and dignity of every individual”. In his request to the Commission headed by Justice K.N.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> He also appealed to the Commission to submit “a draft Bill and a time-bound implementation framework to the Government of Tamil Nadu, with budgetary allocations, monitoring arrangements and annual reporting to the Legislature”."
     },
     {
-      "id": "gk_26 Nov 2026_3",
+      "id": "gk_26 Nov 2026_5",
       "cat": "🏛️ National & Polity",
       "date": "26 Nov 2026",
       "qEn": "[26 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"The Kallakurichi All Women Police on Wednesday (November 25, 2026) served summons on Kallakurichi TVK MLA C. Arul Vignesh directin...\"?",
@@ -3862,108 +3918,52 @@
       "qMr": "[26 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"The Kallakurichi All Women Police on Wednesday (November 25, 2026) served summons on Kallakurichi TVK MLA C. Arul Vignesh directin...\"?",
       "optsEn": [
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "Kallakurichi TVK MLA Arul Vignesh summoned for questioning in harassment case",
         "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel",
-        "Kallakurichi TVK MLA Arul Vignesh summoned for questioning in harassment case"
+        "Inter-State Council Constitutional Review Panel"
       ],
       "optsHi": [
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "Kallakurichi TVK MLA Arul Vignesh summoned for questioning in harassment case",
         "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel",
-        "Kallakurichi TVK MLA Arul Vignesh summoned for questioning in harassment case"
+        "Inter-State Council Constitutional Review Panel"
       ],
       "optsMr": [
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "Kallakurichi TVK MLA Arul Vignesh summoned for questioning in harassment case",
         "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel",
-        "Kallakurichi TVK MLA Arul Vignesh summoned for questioning in harassment case"
+        "Inter-State Council Constitutional Review Panel"
       ],
-      "ans": 3,
+      "ans": 1,
       "explanation": "<strong>1. Core Context & Background:</strong> The Kallakurichi All Women Police on Wednesday (November 25, 2026) served summons on Kallakurichi TVK MLA C.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Arul Vignesh directing him to appear for questioning in connection with a harassment case registered against him on a complaint lodged by a woman IAS officer. Inspector Bhuvaneshwari attached to the All Women Police station visited the MLA’s house in Kallakurichi and handed the summons to him in person.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Meanwhile, police personnel have been deployed in strength at the MLA’s office in Kallakurichi."
     },
     {
-      "id": "gk_26 Nov 2026_4",
+      "id": "gk_26 Nov 2026_6",
       "cat": "🏛️ National & Polity",
       "date": "26 Nov 2026",
       "qEn": "[26 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"No permission has been sought from the Delhi Police for a protest march against the Special Intensive Revision (SIR) of electoral ...\"?",
       "qHi": "[26 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"No permission has been sought from the Delhi Police for a protest march against the Special Intensive Revision (SIR) of electoral ...\"?",
       "qMr": "[26 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"No permission has been sought from the Delhi Police for a protest march against the Special Intensive Revision (SIR) of electoral ...\"?",
       "optsEn": [
-        "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "15th Finance Commission Special State Grant",
         "No permission sought for November 26 anti-SIR march, Delhi Police say; organisers ...",
-        "Inter-State Council Constitutional Review Panel"
-      ],
-      "optsHi": [
-        "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "15th Finance Commission Special State Grant",
-        "No permission sought for November 26 anti-SIR march, Delhi Police say; organisers ...",
-        "Inter-State Council Constitutional Review Panel"
-      ],
-      "optsMr": [
-        "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "15th Finance Commission Special State Grant",
-        "No permission sought for November 26 anti-SIR march, Delhi Police say; organisers ...",
-        "Inter-State Council Constitutional Review Panel"
-      ],
-      "ans": 2,
-      "explanation": "<strong>1. Core Context & Background:</strong> No permission has been sought from the Delhi Police for a protest march against the Special Intensive Revision (SIR) of electoral rolls , scheduled for November 26 , senior New Delhi police officials said.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> The organisers, however, maintained that they had intimated the police about the proposed demonstration. The Delhi wing of the People Against SIR platform has called for a march on Constitution Day from Valmiki Sadan on Mandir Marg towards Jantar Mantar.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> The organisers have described SIR as an attack on the Constitution and the right to vote, alleging that the exercise disproportionately affects marginalised communities, including minorities, Dalits, transgender persons, women, migrant workers and the homeless."
-    },
-    {
-      "id": "gk_26 Nov 2026_5",
-      "cat": "🏛️ National & Polity",
-      "date": "26 Nov 2026",
-      "qEn": "[26 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"Keeping up with its announcement made during the demand for grant on August 24, the Tamil Nadu Higher Education Department issued ...\"?",
-      "qHi": "[26 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"Keeping up with its announcement made during the demand for grant on August 24, the Tamil Nadu Higher Education Department issued ...\"?",
-      "qMr": "[26 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"Keeping up with its announcement made during the demand for grant on August 24, the Tamil Nadu Higher Education Department issued ...\"?",
-      "optsEn": [
-        "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "15th Finance Commission Special State Grant",
-        "G.O. issued on CAS for teachers of aided arts and science colleges",
-        "Inter-State Council Constitutional Review Panel"
-      ],
-      "optsHi": [
-        "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "15th Finance Commission Special State Grant",
-        "G.O. issued on CAS for teachers of aided arts and science colleges",
-        "Inter-State Council Constitutional Review Panel"
-      ],
-      "optsMr": [
-        "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "15th Finance Commission Special State Grant",
-        "G.O. issued on CAS for teachers of aided arts and science colleges",
-        "Inter-State Council Constitutional Review Panel"
-      ],
-      "ans": 2,
-      "explanation": "<strong>1. Core Context & Background:</strong> Keeping up with its announcement made during the demand for grant on August 24, the Tamil Nadu Higher Education Department issued a Government Order (G.O.) on Tuesday, awarding Career Advancement Scheme (CAS) monetary benefits to teachers of government-aided Arts and Science colleges.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> According to the G.O., the government has sanctioned ₹11.75 crore as recurring monthly expenditure for awarding CAS to eligible teachers, with effect from September 1. A total of 6,116 teachers will benefit from the scheme.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> The excess amount paid will be recovered from the teacher, while action will be initiated against erring officials."
-    },
-    {
-      "id": "gk_26 Nov 2026_6",
-      "cat": "🏛️ National & Polity",
-      "date": "26 Nov 2026",
-      "qEn": "[26 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"A 31-year-old man was arrested by the Sathuvachari police in Vellore on Wednesday for killing his wife over a family dispute....\"?",
-      "qHi": "[26 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"A 31-year-old man was arrested by the Sathuvachari police in Vellore on Wednesday for killing his wife over a family dispute....\"?",
-      "qMr": "[26 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"A 31-year-old man was arrested by the Sathuvachari police in Vellore on Wednesday for killing his wife over a family dispute....\"?",
-      "optsEn": [
-        "Man arrested for murdering his wife over family dispute",
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
         "15th Finance Commission Special State Grant",
         "Inter-State Council Constitutional Review Panel"
       ],
       "optsHi": [
-        "Man arrested for murdering his wife over family dispute",
+        "No permission sought for November 26 anti-SIR march, Delhi Police say; organisers ...",
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
         "15th Finance Commission Special State Grant",
         "Inter-State Council Constitutional Review Panel"
       ],
       "optsMr": [
-        "Man arrested for murdering his wife over family dispute",
+        "No permission sought for November 26 anti-SIR march, Delhi Police say; organisers ...",
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
         "15th Finance Commission Special State Grant",
         "Inter-State Council Constitutional Review Panel"
       ],
       "ans": 0,
-      "explanation": "<strong>1. Core Context & Background:</strong> A 31-year-old man was arrested by the Sathuvachari police in Vellore on Wednesday for killing his wife over a family dispute.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Police identified the arrested person as K. Initial inquiry revealed that Hariprasad was married to Krithika nearly a decade ago.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> A case was registered and further probe is under way."
+      "explanation": "<strong>1. Core Context & Background:</strong> No permission has been sought from the Delhi Police for a protest march against the Special Intensive Revision (SIR) of electoral rolls , scheduled for November 26 , senior New Delhi police officials said.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> The organisers, however, maintained that they had intimated the police about the proposed demonstration. The Delhi wing of the People Against SIR platform has called for a march on Constitution Day from Valmiki Sadan on Mandir Marg towards Jantar Mantar.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> The organisers have described SIR as an attack on the Constitution and the right to vote, alleging that the exercise disproportionately affects marginalised communities, including minorities, Dalits, transgender persons, women, migrant workers and the homeless."
     },
     {
       "id": "gk_26 Nov 2026_7",
