@@ -1,12 +1,12 @@
 {
-  "updatedAt": "25 Nov 2026, 03:15 PM IST",
+  "updatedAt": "25 Nov 2026, 04:42 PM IST",
   "currentDateIso": "2026-11-25",
   "currentDateDisplay": "25 Nov 2026",
   "availableDates": [
     {
       "dateIso": "2026-11-25",
       "dateDisplay": "25 Nov 2026",
-      "updatedAt": "25 Nov 2026, 03:15 PM IST",
+      "updatedAt": "25 Nov 2026, 04:42 PM IST",
       "articleCount": 30
     },
     {
@@ -23,221 +23,214 @@
     }
   ],
   "hookLine1": "The Hindu Printed Broadsheet & Editorial Digest (25 Nov 2026)",
-  "hookLine2": "100% In-App Full Newspaper Pages & Deep Editorial Analysis • Updated: 25 Nov 2026, 03:15 PM IST",
+  "hookLine2": "100% In-App Full Newspaper Pages & Deep Editorial Analysis • Updated: 25 Nov 2026, 04:42 PM IST",
   "totalArticles": 30,
   "articles": [
     {
       "category": "national",
       "categoryLabel": "🏛️ National & Polity",
+      "title": "Over 23 lakh vehicles in Keralam have failed to clear Pollution Under Control checks since 2021",
+      "link": "https://www.thehindu.com/news/national/kerala/over-23-lakh-vehicles-in-keralam-have-failed-to-clear-pollution-under-control-checks-since-2021/article71741361.ece",
+      "pubDate": "Wed, 25 Nov 2026 16:30:45 +0530",
+      "dateIso": "2026-11-25",
+      "dateDisplay": "25 Nov 2026",
+      "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
+      "imageUrl": "https://th-i.thgim.com/public/incoming/lytoz3/article71742082.ece/alternates/LANDSCAPE_1200/Funds-sought-toG78GQ9A9J.3.jpg.jpg",
+      "fullParagraphs": [
+        "About 23.9 lakh vehicles in Keralam have failed the mandatory Pollution Under Control (PUC) testing over the past five years.",
+        "A total of about 5.74 crore PUC tests were held from the financial year 2021 to September 30, 2026. About 5.5 crore vehicles had passed the test while 23.9 lakh vehicles failed to clear it, according to estimates by the Department of Transport.",
+        "About 57.5 lakh tests were conducted from March 2026 to September 30, 2026 and 1.87 lakh vehicles failed the PUC test during this period, said a report furnished by the Transport department before the National Green Tribunal in a case related to a plea for reducing vehicular emissions and promoting environmentally sustainable transport systems in the State.",
+        "Officials of the Transport department said that vehicles failing the PUC test were required to rectify the defects and undergo retesting before being given permission to resume operations. The pollution monitoring has been strengthened through a network of PUC testing centres that are integrated with the Vahan/Parivahan portal. The department has introduced an Aaadhaar-based mobile OTP system to prevent and reduce fake applications for getting the Pollution Under Control certificate, they said.",
+        "The Motor Vehicles department in coordination with the State Police had imposed a total penalty of ₹43.2 crore from the year 2022 to September 30, 2026 for violations related to pollution-control requirements, including vehicles without valid PUC certificates and those with high-emissions. Of the total penalty of ₹43.2 crore slapped, the authorities have collected ₹11.96 crore as on September 2026, according to official estimates.",
+        "Health experts have sounded caution against the threats caused by vehicular pollution. “Diesel smoke has been classified as carcinogenic to humans (Group 1) by the International Agency for Research on Cancer (IARC), which means that exposure at heavy doses over a long period carries a risk of cancer,” pointed out Rajeev Jayadevan, convener of the research cell of the Indian Medical Association, Kerala.",
+        "“Children risk stunting, people with respiratory diseases suffer worsening symptoms, and pregnant women who breathe this air are at higher risk of delivering preterm babies. Air pollution also increases the burden of non-communicable diseases, linked with heart attacks, strokes, high blood pressure, and diabetes,” Dr. Jayadevan said."
+      ],
+      "deepExplanation": "<strong>1. Core Context & Background:</strong> About 23.9 lakh vehicles in Keralam have failed the mandatory Pollution Under Control (PUC) testing over the past five years.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> A total of about 5.74 crore PUC tests were held from the financial year 2021 to September 30, 2026. About 5.5 crore vehicles had passed the test while 23.9 lakh vehicles failed to clear it, according to estimates by the Department of Transport.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Air pollution also increases the burden of non-communicable diseases, linked with heart attacks, strokes, high blood pressure, and diabetes,” Dr.",
+      "vocabList": [
+        "Vehicles",
+        "Mandatory",
+        "Pollution",
+        "Financial",
+        "September",
+        "Estimates"
+      ],
+      "summary": "About 23.9 lakh vehicles in Keralam have failed the mandatory Pollution Under Control (PUC) testing over the past five years.",
+      "keyPoints": "• About 23.9 lakh vehicles in Keralam have failed the mandatory Pollution Under Control (PUC) testing over the past five years.<br>• A total of about 5.74 crore PUC tests were held from the financial year 2021 to September 30, 2026. About 5.5 crore vehicles had passed the test while 23.9 lakh vehicles failed to clear it, according to estimates by the Department of Transport.<br>• About 57.5 lakh tests were conducted from March 2026 to September 30, 2026 and 1.87 lakh vehicles failed the PUC test during this period, said a report furnished by the Transport department before the National Green Tribunal in a case related to a plea for reducing vehicular emissions and promoting environmentally sustainable transport systems in the State."
+    },
+    {
+      "category": "national",
+      "categoryLabel": "🏛️ National & Polity",
+      "title": "Kallakurichi police serve summons on TVK MLA Arul Vignesh",
+      "link": "https://www.thehindu.com/news/national/tamil-nadu/kallakurichi-police-serve-summons-on-tvk-mla/article71741206.ece",
+      "pubDate": "Wed, 25 Nov 2026 16:29:45 +0530",
+      "dateIso": "2026-11-25",
+      "dateDisplay": "25 Nov 2026",
+      "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
+      "imageUrl": "https://th-i.thgim.com/public/incoming/ddd1np/article71741603.ece/alternates/LANDSCAPE_1200/KALLAKURICHI-MLA-1.JPG",
+      "fullParagraphs": [
+        "The Kallakurichi All Women Police on Wednesday (November 25, 2026) served summons on Kallakurichi TVK MLA C. Arul Vignesh in connection with a case registered against him on a complaint lodged by a woman IAS officer.",
+        "Inspector Bhuvaneshwari attached to the All Women Police station visited the MLA’s house in Kallakurichi and handed the summons to him in person. The police also questioned Mr. Arul Vignesh at the house.",
+        "The woman IAS officer had submitted a formal complaint to the Kallakurichi district Superintendent of Police on Monday (November 23), accusing the MLA of making inappropriate advances and sending unwarranted messages.",
+        "FIR registered against Kallakurichi TVK MLA for ‘misbehaving’ with woman IAS officer, Madras High Court told",
+        "Udhayanidhi Stalin submits petition to Tamil Nadu DGP demanding arrest of Kallakurichi and Thuraiyur TVK MLAs",
+        "Kallakurichi TVK MLA case: Internal Complaints Committee has been constituted, Madras High Court told",
+        "The police have booked a case against the MLA under four sections including the POSH Act and Sections 75, 78 and 79 of the Bharatiya Nyaya Sanhita",
+        "Police sources said that Tiruppur Superintendent of Police Shristi Singh, who has been appointed as the Investigating Officer in the criminal case registered at the Kallakurichi All Women Police station, began preliminary investigation into the incident on Wednesday (November 25).",
+        "The National Commission for Women had earlier taken suo moto cognisance of the allegations and asked the Tamil Nadu Director General of Police to conduct an impartial inquiry.",
+        "Meanwhile, police personnel have been deployed in strength at the Kallakurichi All Women Police station and the MLA’s office in Kallakurichi.",
+        "This morning (November 25, 2026), police personnel arrived at the residence of #Kallakurichi TVK MLA C. Arul Vignesh to serve him summons in the case registered on the complaint of a woman IAS officer. 📹: Special Arrangement https://t.co/llqM6wyaam"
+      ],
+      "deepExplanation": "<strong>1. Core Context & Background:</strong> The Kallakurichi All Women Police on Wednesday (November 25, 2026) served summons on Kallakurichi TVK MLA C.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Arul Vignesh in connection with a case registered against him on a complaint lodged by a woman IAS officer. Inspector Bhuvaneshwari attached to the All Women Police station visited the MLA’s house in Kallakurichi and handed the summons to him in person.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> 📹: Special Arrangement https://t.co/llqM6wyaam",
+      "vocabList": [
+        "Kallakurichi",
+        "Wednesday",
+        "November",
+        "Connection",
+        "Registered",
+        "Complaint"
+      ],
+      "summary": "The Kallakurichi All Women Police on Wednesday (November 25, 2026) served summons on Kallakurichi TVK MLA C. Arul Vignesh in connection with a case registered against him on a complaint lodged by a woman IAS officer.",
+      "keyPoints": "• The Kallakurichi All Women Police on Wednesday (November 25, 2026) served summons on Kallakurichi TVK MLA C. Arul Vignesh in connection with a case registered against him on a complaint lodged by a woman IAS officer.<br>• Inspector Bhuvaneshwari attached to the All Women Police station visited the MLA’s house in Kallakurichi and handed the summons to him in person. The police also questioned Mr. Arul Vignesh at the house.<br>• The woman IAS officer had submitted a formal complaint to the Kallakurichi district Superintendent of Police on Monday (November 23), accusing the MLA of making inappropriate advances and sending unwarranted messages."
+    },
+    {
+      "category": "national",
+      "categoryLabel": "🏛️ National & Polity",
+      "title": "Udhayanidhi Stalin submits petition to Tamil Nadu DGP demanding arrest of Kallakurichi and Thuraiyur TVK MLAs",
+      "link": "https://www.thehindu.com/news/national/tamil-nadu/udhayanidhi-stalin-submits-petition-to-tamil-nadu-dgp-demanding-arrest-of-kallakurichi-and-thuraiyur-tvk-mlas/article71741706.ece",
+      "pubDate": "Wed, 25 Nov 2026 16:29:15 +0530",
+      "dateIso": "2026-11-25",
+      "dateDisplay": "25 Nov 2026",
+      "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
+      "imageUrl": "https://th-i.thgim.com/public/news/national/tamil-nadu/8sv1tm/article71741936.ece/alternates/LANDSCAPE_1200/Udhayanidhi%20Kallakurichi%20DGP%20office.jpeg",
+      "fullParagraphs": [
+        "Leader of the Opposition Udhayanidhi Stalin on Wednesday (November 25, 2026) submitted a petition at the Tamil Nadu Director General of Police (DGP) office in Chennai demanding the immediate arrest of Kallakurichi MLA C. Arul Vignesh of Tamilaga Vettri Kazhagam (TVK), action against Tamil Nadu Chief Secretary M. Sai Kumar, and the transfer of the assault case involving Thuraiyur TVK MLA and Deputy Speaker M. Ravishankar to the CB-CID.",
+        "Kallakurichi police serve summons on TVK MLA Arul Vignesh",
+        "DMK urges Tamil Nadu DGP to act against TVK MLA for sending ‘obscene messages’ to Kallakurichi Collector",
+        "Kallakurichi TVK MLA case: Internal Complaints Committee has been constituted, Madras High Court told",
+        "The petition seeks the arrest of Arul Vignesh, preservation of electronic evidence in his possession, and securing of required CCTV footage. It also called for transfer of the probe to the Central Bureau of Investigation (CBI) and initiation of inquiry into the Chief Secretary’s failure to act on a woman IAS officer’s complaint dated July 31, 2026.",
+        "On the November 8 Thuraiyur incident, the petition urged the police to register an FIR against the Deputy Speaker, Samayapuram Police Inspector, and others involved, transfer the investigation to an independent agency, and ensure protection for the victim.",
+        "DMK members protest at Thuraiyur against Deputy Speaker for ‘assaulting’ man",
+        "Minister Nirmal Kumar denies allegations against TVK’s Kallakurichi MLA Arul Vignesh",
+        "Speaking to reporters outside the DGP office, Udhayanidhi Stalin alleged that ruling party functionaries — including district secretaries, Ministers, and MLAs — are behind several acts of violence across Tamil Nadu.",
+        "Noting that the TVK government assumed office in May and the Kallakurichi MLA had allegedly harassed the IAS officer by July, he claimed that when the officer flagged the issue 116 days ago, the Chief Secretary merely advised the official to “move to another district.”",
+        "He pointed out that an FIR was registered in the case after a 116-day delay only following the court’s intervention. He questioned whether the Chief Secretary had apprised the Chief Minister of the complaint, and if so, why the Chief Minister failed to take action.",
+        "Similarly, highlighting that no action has been taken even 16 days after Deputy Speaker M. Ravishankar allegedly assaulted a petitioner at his residence, Udhayanidhi Stalin demanded the arrest of both the legislators and reiterated his call for a CBI probe into the Kallakurichi case."
+      ],
+      "deepExplanation": "<strong>1. Core Context & Background:</strong> Leader of the Opposition Udhayanidhi Stalin on Wednesday (November 25, 2026) submitted a petition at the Tamil Nadu Director General of Police (DGP) office in Chennai demanding the immediate arrest of Kallakurichi MLA C.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Arul Vignesh of Tamilaga Vettri Kazhagam (TVK), action against Tamil Nadu Chief Secretary M. Sai Kumar, and the transfer of the assault case involving Thuraiyur TVK MLA and Deputy Speaker M.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Ravishankar allegedly assaulted a petitioner at his residence, Udhayanidhi Stalin demanded the arrest of both the legislators and reiterated his call for a CBI probe into the Kallakurichi case.",
+      "vocabList": [
+        "Opposition",
+        "Udhayanidhi",
+        "Wednesday",
+        "November",
+        "Submitted",
+        "Petition"
+      ],
+      "summary": "Leader of the Opposition Udhayanidhi Stalin on Wednesday (November 25, 2026) submitted a petition at the Tamil Nadu Director General of Police (DGP) office in Chennai demanding the immediate arrest of Kallakurichi MLA C. Arul Vignesh of Tamilaga Vettri Kazhagam (TVK), action against Tamil Nadu Chief Secretary M. Sai Kumar, and the transfer of the assault case involving Thuraiyur TVK MLA and Deputy Speaker M. Ravishankar to the CB-CID.",
+      "keyPoints": "• Leader of the Opposition Udhayanidhi Stalin on Wednesday (November 25, 2026) submitted a petition at the Tamil Nadu Director General of Police (DGP) office in Chennai demanding the immediate arrest of Kallakurichi MLA C. Arul Vignesh of Tamilaga Vettri Kazhagam (TVK), action against Tamil Nadu Chief Secretary M. Sai Kumar, and the transfer of the assault case involving Thuraiyur TVK MLA and Deputy Speaker M. Ravishankar to the CB-CID.<br>• Kallakurichi police serve summons on TVK MLA Arul Vignesh<br>• DMK urges Tamil Nadu DGP to act against TVK MLA for sending ‘obscene messages’ to Kallakurichi Collector"
+    },
+    {
+      "category": "national",
+      "categoryLabel": "🏛️ National & Polity",
+      "title": "Telangana Govt to set up single window system for hassle free development of poultry sector: CM Revanth Reddy",
+      "link": "https://www.thehindu.com/news/national/telangana/telangana-govt-to-set-up-single-window-system-for-hassle-free-development-of-poultry-sector-cm-revanth-reddy/article71741870.ece",
+      "pubDate": "Wed, 25 Nov 2026 16:28:37 +0530",
+      "dateIso": "2026-11-25",
+      "dateDisplay": "25 Nov 2026",
+      "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
+      "imageUrl": "https://th-i.thgim.com/public/incoming/mmsfu3/article71741903.ece/alternates/LANDSCAPE_1200/_DSC0041.JPG",
+      "fullParagraphs": [
+        "The Telangana Government will soon introduce a single window system facilitating hassle free establishment of poultry farms at gram panchayat level across the State.",
+        "The single window system was contemplated after the industry took the challenges faced by it in establishing poultry units in the State and requested for the government’s support during times of crisis. The government has resolved to recognise poultry sector as a priority area and formulate policies aimed at providing long-term solutions.",
+        "Chief Minister A. Revanth Reddy has assured that there is no need to worry about the government policies and decisions. Accordingly, steps will be taken to provide all necessary assistance and support to the Poultry industry. The Chief Minister, who inaugurated the Poultry India Expo 2026 in Hyderabad on Wednesday (November 25, 20256), stressed the need for revising the existing policies in alignment with the requirements of the industry.",
+        "here was no “policy paralysis” in the State and the government would introduce new policies from time to time even as a decision was taken to continue the effective policies introduced by the previous governments. The efforts come in the backdrop of the efforts to achieve the goal of transforming Telangana into a US $3 trillion economy by 2047.",
+        "The Chief Minister said the government was firm on resolving the problems faced by the sector including shortage of maize and directed the Ministers concerned to take immediate steps in this direction. Appreciating the industry for organising a major expo, he said Telangana produced 5.3 crore eggs and lauded the important role played by the poultry entrepreneurs in providing nutritious food to students and the youth.",
+        "The industry displayed resilience in overcoming challenges and sustained its operations. He said that efforts should be made to provide more employment opportunities for agricultural labourers and farmers for further growth of the section . Poultry industry, he said, would strengthen the economic power of farmers apart from production of chickens and eggs.",
+        "Referring to the ongoing El Nino phenomenon, he said the government had kept stocks of fine rice ready for meeting the requirements for the next two years."
+      ],
+      "deepExplanation": "<strong>1. Core Context & Background:</strong> The Telangana Government will soon introduce a single window system facilitating hassle free establishment of poultry farms at gram panchayat level across the State.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> The single window system was contemplated after the industry took the challenges faced by it in establishing poultry units in the State and requested for the government’s support during times of crisis. The government has resolved to recognise poultry sector as a priority area and formulate policies aimed at providing long-term solutions.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Referring to the ongoing El Nino phenomenon, he said the government had kept stocks of fine rice ready for meeting the requirements for the next two years.",
+      "vocabList": [
+        "Telangana",
+        "Introduce",
+        "Facilitating",
+        "Establishment",
+        "Panchayat",
+        "Contemplated"
+      ],
+      "summary": "The Telangana Government will soon introduce a single window system facilitating hassle free establishment of poultry farms at gram panchayat level across the State.",
+      "keyPoints": "• The Telangana Government will soon introduce a single window system facilitating hassle free establishment of poultry farms at gram panchayat level across the State.<br>• The single window system was contemplated after the industry took the challenges faced by it in establishing poultry units in the State and requested for the government’s support during times of crisis. The government has resolved to recognise poultry sector as a priority area and formulate policies aimed at providing long-term solutions.<br>• Chief Minister A. Revanth Reddy has assured that there is no need to worry about the government policies and decisions. Accordingly, steps will be taken to provide all necessary assistance and support to the Poultry industry. The Chief Minister, who inaugurated the Poultry India Expo 2026 in Hyderabad on Wednesday (November 25, 20256), stressed the need for revising the existing policies in alignment with the requirements of the industry."
+    },
+    {
+      "category": "national",
+      "categoryLabel": "🏛️ National & Polity",
+      "title": "Kallakurichi TVK MLA case: Internal Complaints Committee has been constituted, Madras High Court told",
+      "link": "https://www.thehindu.com/news/national/tamil-nadu/kallakurichi-tvk-mla-case-internal-complaints-committee-has-been-constituted-madras-high-court-told/article71741836.ece",
+      "pubDate": "Wed, 25 Nov 2026 16:25:59 +0530",
+      "dateIso": "2026-11-25",
+      "dateDisplay": "25 Nov 2026",
+      "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
+      "imageUrl": "https://th-i.thgim.com/public/incoming/umhboz/article71742065.ece/alternates/LANDSCAPE_1200/Madras_High_Court.jpg",
+      "fullParagraphs": [
+        "State Public Prosecutor (SPP) R. John Sathyan on Wednesday (November 25, 2026) informed the Madras High Court that the Tamil Nadu government has constituted an Internal Complaints Committee (ICC) under the Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) Act, 2013 for inquiring into a complaint lodged by a woman IAS officer against Kallakurichi TVK MLA C. Arul Vignesh .",
+        "Making a mention before Justice V. Lakshminarayanan, the SPP said, a Government Order had been issued formally notifying the ICC and listing out its members. After hearing him, the judge said, the State should also ensure that an ICC was in place not only to deal with the present complaint but also with other future complaints that may arise due to sexual harassment of women at workplace.",
+        "Mr. Sathyan further told the judge that the Leader of the Opposition (LoP) Udhayanidhi Stalin had submitted a complaint to the Director General of Police (DGP)/Head of Police Force on Wednesday morning regarding the Kallakurichi MLA issue and addressed the media despite the court having passed a gag order on Tuesday (November 24) restraining the media from violating Section 16 of the POSH Act, 2013.",
+        "The SPP said, the LoP had spoken about a lot of things without ascertaining the foundational facts and that most of his statements were factually wrong. Responding to it, the judge said, he had already issued a direction to pull down all objectionable posts related to the issue from the social media and therefore, the cybercrime wing police would be at liberty to pull down videos and other materials related to the issue.",
+        "Further, taking note of the SPP’s submissions with regard to constitution of the ICC for an internal inquiry apart from the criminal investigation that shall happen parallelly, the judge decided to hear the matter next on Friday (November 27). In his interim order on Tuesday, the judge had appointed Tiruppur Superintendent of Police Shristi Singh as the investigating officer in the criminal case booked against the MLA.",
+        "He had also ordered that Inspector General of Police (Administration) N. Kamini, serving at the office of the Director General of Police/Head of Police Force in Chennai, shall monitor the investigation to be conducted pursuant to the registration of a First Information Report (FIR) booked at the Kallakurichi All Women Police Station on Monday (November 23)."
+      ],
+      "deepExplanation": "<strong>1. Core Context & Background:</strong> John Sathyan on Wednesday (November 25, 2026) informed the Madras High Court that the Tamil Nadu government has constituted an Internal Complaints Committee (ICC) under the Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) Act, 2013 for inquiring into a complaint lodged by a woman IAS officer against Kallakurichi TVK MLA C.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Lakshminarayanan, the SPP said, a Government Order had been issued formally notifying the ICC and listing out its members. After hearing him, the judge said, the State should also ensure that an ICC was in place not only to deal with the present complaint but also with other future complaints that may arise due to sexual harassment of women at workplace.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Kamini, serving at the office of the Director General of Police/Head of Police Force in Chennai, shall monitor the investigation to be conducted pursuant to the registration of a First Information Report (FIR) booked at the Kallakurichi All Women Police Station on Monday (November 23).",
+      "vocabList": [
+        "Prosecutor",
+        "Wednesday",
+        "November",
+        "Informed",
+        "Constituted",
+        "Internal"
+      ],
+      "summary": "State Public Prosecutor (SPP) R. John Sathyan on Wednesday (November 25, 2026) informed the Madras High Court that the Tamil Nadu government has constituted an Internal Complaints Committee (ICC) under the Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) Act, 2013 for inquiring into a complaint lodged by a woman IAS officer against Kallakurichi TVK MLA C. Arul Vignesh .",
+      "keyPoints": "• State Public Prosecutor (SPP) R. John Sathyan on Wednesday (November 25, 2026) informed the Madras High Court that the Tamil Nadu government has constituted an Internal Complaints Committee (ICC) under the Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) Act, 2013 for inquiring into a complaint lodged by a woman IAS officer against Kallakurichi TVK MLA C. Arul Vignesh .<br>• Making a mention before Justice V. Lakshminarayanan, the SPP said, a Government Order had been issued formally notifying the ICC and listing out its members. After hearing him, the judge said, the State should also ensure that an ICC was in place not only to deal with the present complaint but also with other future complaints that may arise due to sexual harassment of women at workplace.<br>• Mr. Sathyan further told the judge that the Leader of the Opposition (LoP) Udhayanidhi Stalin had submitted a complaint to the Director General of Police (DGP)/Head of Police Force on Wednesday morning regarding the Kallakurichi MLA issue and addressed the media despite the court having passed a gag order on Tuesday (November 24) restraining the media from violating Section 16 of the POSH Act, 2013."
+    },
+    {
+      "category": "national",
+      "categoryLabel": "🏛️ National & Polity",
       "title": "Thirupparankundram row LIVE: Madurai District Collector says Devasthanam did not authorise lamp-lighting team",
       "link": "https://www.thehindu.com/news/national/tamil-nadu/karthigai-deepam-deepathoon-lighting-2026-live-updates-november-24-tamil-nadu/article71737406.ece",
-      "pubDate": "Wed, 25 Nov 2026 15:12:36 +0530",
+      "pubDate": "Wed, 25 Nov 2026 16:21:25 +0530",
       "dateIso": "2026-11-25",
       "dateDisplay": "25 Nov 2026",
       "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
       "imageUrl": "https://th-i.thgim.com/public/incoming/9q6v6s/article71741800.ece/alternates/LANDSCAPE_1200/20261125017L.jpg",
       "fullParagraphs": [
-        "The Hindu parties orally mention an application filed before the Supreme Court seeking directions to the State and temple authorities that the deepam lit at the Deepa Mandapam be shifted to the ‘Deepathoon’.",
-        "“To light the lamp at the Deepathoon either by igniting it from the same Deepam that is still burning at the Deepa Mandapam near the Uchipillaiyar Temple, or by making the necessary arrangements in accordance with the order dated November 20, 2026,” the application said.",
-        "TNCC chief B. Manickam Tagore on Wednesday (November 25, 2026) accused the BJP, RSS and Hindu Munnani of attempting to “politicise” the Karthigai Deepam celebrations at Thirupparankundram to divide the people of the state.",
-        "Speaking to reporters in Thirupparankundram, a day after protests erupted over the ceremonial lamp not being lit at the disputed stone pillar (Deepathoon) atop the hill, Mr. Tagore defended the Chief Minister C. Joseph Vijay-led Secular Social Justice Victory Alliance government, and claimed that “both the administration and the district collector had respected the Supreme Court’s orders.”",
-        "“It clearly states that the Devasthanam will decide who will light the lamp and where it will be lit. The Devasthanam’s board of trustees (Arangavalar Kuzhu) sat for six hours and decided to light it at the same traditional place as per custom. Both the Tamil Nadu government and the collector have respected the Supreme Court orders,” he said.",
-        "The Madurai District Collector on Wednesday (November 25, 2026) squarely blamed the ‘devasthanam’ of the Arulmigu Subramaniaswamy temple on Thirupparankundram Hill for defying a Supreme Court order to light the Karthigai Deepam at the Deepathoon on November 24.",
-        "In a preliminary status report, Madurai Collector Nishant Krishna said he had held multiple meetings, been in constant touch with the local and police authorities and made arrangements to ensure the map was lit at the ‘Deepathoon’ ever since the evening of the Supreme Court order on November 20.",
-        "“From the side of the District Administration, every arrangement was complete and every possible difficulty had been offered an immediate solution. The only step was the authorisation of the team [to light the lamp] by the Devasthanam,” the Collector’s report said.",
-        "Supreme Court hears Deepathoon dispute as Hindu parties accuse the State of defying orders on lighting the Karthigai Deepam lamp.",
-        "The BJP on Wednesday (November 25, 2026) targeted the INDIA alliance and Congress leader Rahul Gandhi over the Karthigai Deepam row, accusing the Tamil Nadu government of defying the Supreme Court’s directions and showing contempt for the Constitution.",
-        "Addressing a press conference, BJP Rajya Sabha MP Sudhanshu Trivedi said the state government did not implement the Supreme Court’s order.",
-        "“I want to bring to your notice the biggest contempt for constitutional authority being committed by the INDIA alliance’s Tamil Nadu government, in utter disregard of India’s eternal culture,” he said."
-      ],
-      "deepExplanation": "<strong>1. Core Context & Background:</strong> The Hindu parties orally mention an application filed before the Supreme Court seeking directions to the State and temple authorities that the deepam lit at the Deepa Mandapam be shifted to the ‘Deepathoon’.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> “To light the lamp at the Deepathoon either by igniting it from the same Deepam that is still burning at the Deepa Mandapam near the Uchipillaiyar Temple, or by making the necessary arrangements in accordance with the order dated November 20, 2026,” the application said. Manickam Tagore on Wednesday (November 25, 2026) accused the BJP, RSS and Hindu Munnani of attempting to “politicise” the Karthigai Deepam celebrations at Thirupparankundram to divide the people of the state.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> “I want to bring to your notice the biggest contempt for constitutional authority being committed by the INDIA alliance’s Tamil Nadu government, in utter disregard of India’s eternal culture,” he said.",
-      "vocabList": [
-        "Application",
-        "Directions",
-        "Authorities",
-        "Mandapam",
-        "Deepathoon",
-        "Igniting"
-      ],
-      "summary": "The Hindu parties orally mention an application filed before the Supreme Court seeking directions to the State and temple authorities that the deepam lit at the Deepa Mandapam be shifted to the ‘Deepathoon’.",
-      "keyPoints": "• The Hindu parties orally mention an application filed before the Supreme Court seeking directions to the State and temple authorities that the deepam lit at the Deepa Mandapam be shifted to the ‘Deepathoon’.<br>• “To light the lamp at the Deepathoon either by igniting it from the same Deepam that is still burning at the Deepa Mandapam near the Uchipillaiyar Temple, or by making the necessary arrangements in accordance with the order dated November 20, 2026,” the application said.<br>• TNCC chief B. Manickam Tagore on Wednesday (November 25, 2026) accused the BJP, RSS and Hindu Munnani of attempting to “politicise” the Karthigai Deepam celebrations at Thirupparankundram to divide the people of the state."
-    },
-    {
-      "category": "national",
-      "categoryLabel": "🏛️ National & Polity",
-      "title": "Missing patient at Thrissur MCH found dead in washroom 36 hours later",
-      "link": "https://www.thehindu.com/news/national/kerala/missing-patient-at-thrissur-mch-found-dead-in-washroom-36-hours-later/article71741635.ece",
-      "pubDate": "Wed, 25 Nov 2026 15:10:10 +0530",
-      "dateIso": "2026-11-25",
-      "dateDisplay": "25 Nov 2026",
-      "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
-      "imageUrl": "https://www.thehindu.com/theme/images/og-image.png",
-      "fullParagraphs": [
-        "The body of a patient who had gone missing from a ward at Thrissur Medical College Hospital was found inside a washroom nearly 36 hours later.",
-        "The deceased was identified as Makutti Ravuthar, 79, a native of Nenmara in Palakkad. He went missing from ward 11 on November 19 around 9 p.m. Though the ward staff alerted the hospital authorities and lodged a complaint with the Medical College police, he could not be traced.",
-        "Eventually, his body was found in the washroom on the morning of November 21.",
-        "Sanitation workers grew suspicious after noticing that a washroom had remained shut from inside for an unusually long period, following which they alerted the security staff, who forced open the door. A post-mortem examination report attributed the death to a heart attack that had occurred around 36 hours earlier.",
-        "He had been admitted on November 16 with a respiratory illness and had no bystanders. A thorough investigation has been sought into the matter, with the Medical College police also registering a case.",
-        "Former Health Minister K.K. Shailaja described the incident as a case of negligence and demanded stern action."
-      ],
-      "deepExplanation": "<strong>1. Core Context & Background:</strong> The body of a patient who had gone missing from a ward at Thrissur Medical College Hospital was found inside a washroom nearly 36 hours later.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> The deceased was identified as Makutti Ravuthar, 79, a native of Nenmara in Palakkad. He went missing from ward 11 on November 19 around 9 p.m.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Shailaja described the incident as a case of negligence and demanded stern action.",
-      "vocabList": [
-        "Thrissur",
-        "Hospital",
-        "Washroom",
-        "Deceased",
-        "Identified",
-        "Ravuthar"
-      ],
-      "summary": "The body of a patient who had gone missing from a ward at Thrissur Medical College Hospital was found inside a washroom nearly 36 hours later.",
-      "keyPoints": "• The body of a patient who had gone missing from a ward at Thrissur Medical College Hospital was found inside a washroom nearly 36 hours later.<br>• The deceased was identified as Makutti Ravuthar, 79, a native of Nenmara in Palakkad. He went missing from ward 11 on November 19 around 9 p.m. Though the ward staff alerted the hospital authorities and lodged a complaint with the Medical College police, he could not be traced.<br>• Eventually, his body was found in the washroom on the morning of November 21."
-    },
-    {
-      "category": "national",
-      "categoryLabel": "🏛️ National & Polity",
-      "title": "Thirupparankundram Deepathoon row: What does John Doe order passed by Madras HC mean?",
-      "link": "https://www.thehindu.com/news/national/tamil-nadu/thriupparankundram-deepathoon-tamil-nadu-john-doe-order-explained/article71741283.ece",
-      "pubDate": "Wed, 25 Nov 2026 15:04:35 +0530",
-      "dateIso": "2026-11-25",
-      "dateDisplay": "25 Nov 2026",
-      "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
-      "imageUrl": "https://th-i.thgim.com/public/todays-paper/2qwuov/article71740660.ece/alternates/LANDSCAPE_1200/TH24-standaloneGK4GRFFMC.5.jpg.jpg",
-      "fullParagraphs": [
+        "The Vishva Hindu Parishad (VHP) accused the TVK government in Tamil Nadu of defying the Supreme Court’s order on the traditional lighting of the Karthigai Deepam at ‘Deepathoon’ on Thiruparankundram hill near Madurai, saying its actions amount to an insult to the judiciary, the Constitution and Hindu religious sentiments.",
+        "The RSS affiliate also warned that “anti-Hindu” politics and such a mindset are nearing extinction from the country’s political landscape and will soon disappear from Tamil Nadu as well.",
+        "In a statement, VHP international president Alok Kumar said preventing a centuries-old religious tradition hurts the faith and sentiments of crores of devotees of Lord Murugan and reflects the state government’s “anti-Hindu obstinacy”.",
+        "“Preventing a centuries-old religious tradition despite the Supreme Court’s order is a grave insult to the Indian Constitution and the judiciary. It is also a serious affront to the faith and beliefs of crores of devotees of Lord Murugan,” Mr. Kumar said.",
+        "Tamil Nadu BJP chief Nainar Nagenthran said the “countdown has begun” for the TVK-led government and warned Chief Minister C. Joseph Vijay of “legal consequences”, after the Karthigai Maha Deepam was not lit at the hilltop pillar in Thirupparankundram despite a Supreme Court order.",
+        "Speaking to reporters, Mr. Nagenthran said the incident was not merely “anti-Hindu but also violated the Constitution”.",
+        "Targeting Mr. Vijay directly, he questioned the CM’s maturity and impartiality.",
+        "“My assessment is that the Tamil Nadu Chief Minister lacks the maturity, magnanimity or mindset required of a CM to view everyone equally. I think he is ruining himself by getting caught in the conspiracies of certain political parties,” he alleged.",
         "The Madurai Bench of the Madras High Court, on November 24, 2026, passed a ‘John Doe’ order in the Deepathoon case with regard to the lighting of the lamp at Thirupparankundram hill in Tamil Nadu’s Madurai for Karthigai Deepam. The High Court bench restrained anyone from violating the November 20 Supreme Court order which allowed the lighting of the lamp on the hillock as a “limited one-time arrangement” only.",
-        "A ‘John Doe’ order is an ex parte injuction ordered against unknown persons. Ex parte injunctions are injunctions that are granted even without hearing the other party. Issued against anonymous offenders, these are also called ‘Ashok Kumar’ orders in India and are equivalents of the place holder ‘John Doe’ used in the U.S.",
-        "Often used as a prohibitory measure by the courts, John Doe orders are issued against anonymous offenders or the world at large.",
-        "In the Thirupparankundram-Deepathoon case, the High Court restricted “members of the general public” from calling for violating the November 20 order issued by the Supreme Court on the issue.",
-        "“Article 144 of the Constitution mandates that all authorities, civil and judicial, in the territory of India shall act in aid of the Supreme Court. The District Collector is a civilian authority and Article 144 will squarely apply to him. Since officials brazenly defied judicial orders last year in connection with Karthigai Deepam, we deem it necessary to remind the District Collector that he is a public servant who is answerable only to the Supreme Court in this case. He shall ignore any contra advice given by any other authority,” the Bench said.",
-        "“We are sure that no law officer worth his salt will counsel him to act in contravention of the order dated November 20. No doubt, a review petition has been filed before the Supreme Court in respect of the order dated November 20. But no order has been passed in the review petition...The law that has been laid down is that pendency of a review petition is not a ground for non-compliance,” the court added.",
-        "John Doe or Ashok Kumar orders are frequently used in intellectual property right cases.",
-        "A 2026 report in The Hindu notes that actor Salman Khan had “sought an injunction against unknown persons, joined as Defendant No. 1 (’John Doe’ or ‘Ashok Kumar’) in a case relating to a China-based AI voice generation platform seeking to vacate an interim injunction protecting Mr Khan’s personality rights.",
-        "The controversy revolves around the Thirupparankanduram hillock in Tamil Nadu’s Madurai and the lighting of a ceremonial lamp on the day of Karthigai Deepam.",
-        "On November 20, the Supreme Court had ruled allowing the lighting of the lamp on the deepathoon atop the Thirupparankundram Hill as a “limited one-time arrangement.” The deepathoon , or stone lamp pillar, is around 50 metres from the Sikandar Badusha Dargah. While the dargah is on the hilltop, the Subramaniya Swamy Temple is at the base of the hillock. The court’s interim arrangement comes amid a dispute between Hindu worshippers and the dargah on the ownership of the hilltop and the deepathoon site.",
-        "However, the ruling TVK government on November 24, defied the Supreme Court order , and the festival lamp was lit only at its customary place at the Thirupparankundram hill."
+        "A ‘John Doe’ order is an ex parte injuction ordered against unknown persons. Ex parte injunctions are injunctions that are granted even without hearing the other party. Issued against anonymous offenders, these are also called ‘Ashok Kumar’ orders in India and are equivalents of the placeholder ‘John Doe’ used in the U.S.",
+        "Thirupparankundram Deepathoon row: What is Madras HC's John Doe order?",
+        "The Hindu parties orally mention an application filed before the Supreme Court seeking directions to the State and temple authorities that the deepam lit at the Deepa Mandapam be shifted to the ‘Deepathoon’."
       ],
-      "deepExplanation": "<strong>1. Core Context & Background:</strong> The Madurai Bench of the Madras High Court, on November 24, 2026, passed a ‘John Doe’ order in the Deepathoon case with regard to the lighting of the lamp at Thirupparankundram hill in Tamil Nadu’s Madurai for Karthigai Deepam.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> The High Court bench restrained anyone from violating the November 20 Supreme Court order which allowed the lighting of the lamp on the hillock as a “limited one-time arrangement” only. A ‘John Doe’ order is an ex parte injuction ordered against unknown persons.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> However, the ruling TVK government on November 24, defied the Supreme Court order , and the festival lamp was lit only at its customary place at the Thirupparankundram hill.",
+      "deepExplanation": "<strong>1. Core Context & Background:</strong> The Vishva Hindu Parishad (VHP) accused the TVK government in Tamil Nadu of defying the Supreme Court’s order on the traditional lighting of the Karthigai Deepam at ‘Deepathoon’ on Thiruparankundram hill near Madurai, saying its actions amount to an insult to the judiciary, the Constitution and Hindu religious sentiments.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> The RSS affiliate also warned that “anti-Hindu” politics and such a mindset are nearing extinction from the country’s political landscape and will soon disappear from Tamil Nadu as well. In a statement, VHP international president Alok Kumar said preventing a centuries-old religious tradition hurts the faith and sentiments of crores of devotees of Lord Murugan and reflects the state government’s “anti-Hindu obstinacy”.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> The Hindu parties orally mention an application filed before the Supreme Court seeking directions to the State and temple authorities that the deepam lit at the Deepa Mandapam be shifted to the ‘Deepathoon’.",
       "vocabList": [
-        "November",
-        "Deepathoon",
+        "Parishad",
+        "Traditional",
         "Lighting",
         "Karthigai",
-        "Restrained",
-        "Violating"
+        "Deepathoon",
+        "Judiciary"
       ],
-      "summary": "The Madurai Bench of the Madras High Court, on November 24, 2026, passed a ‘John Doe’ order in the Deepathoon case with regard to the lighting of the lamp at Thirupparankundram hill in Tamil Nadu’s Madurai for Karthigai Deepam. The High Court bench restrained anyone from violating the November 20 Supreme Court order which allowed the lighting of the lamp on the hillock as a “limited one-time arrangement” only.",
-      "keyPoints": "• The Madurai Bench of the Madras High Court, on November 24, 2026, passed a ‘John Doe’ order in the Deepathoon case with regard to the lighting of the lamp at Thirupparankundram hill in Tamil Nadu’s Madurai for Karthigai Deepam. The High Court bench restrained anyone from violating the November 20 Supreme Court order which allowed the lighting of the lamp on the hillock as a “limited one-time arrangement” only.<br>• A ‘John Doe’ order is an ex parte injuction ordered against unknown persons. Ex parte injunctions are injunctions that are granted even without hearing the other party. Issued against anonymous offenders, these are also called ‘Ashok Kumar’ orders in India and are equivalents of the place holder ‘John Doe’ used in the U.S.<br>• Often used as a prohibitory measure by the courts, John Doe orders are issued against anonymous offenders or the world at large."
-    },
-    {
-      "category": "national",
-      "categoryLabel": "🏛️ National & Polity",
-      "title": "Supreme Court sets aside Allahabad High Court order for CBI, ED enquiries into DA complaint against Rahul Gandhi",
-      "link": "https://www.thehindu.com/news/national/supreme-court-sets-aside-allahabad-high-court-order-for-cbi-ed-enquiries-into-da-complaint-against-rahul-gandhi/article71741683.ece",
-      "pubDate": "Wed, 25 Nov 2026 14:59:45 +0530",
-      "dateIso": "2026-11-25",
-      "dateDisplay": "25 Nov 2026",
-      "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
-      "imageUrl": "https://th-i.thgim.com/public/incoming/hvvlsv/article71662966.ece/alternates/LANDSCAPE_1200/20261101410L.jpg",
-      "fullParagraphs": [
-        "The Supreme Court on Wednesday (November 25, 2026) set aside orders passed by the Allahabad High Court directing Central Bureau of Investigation (CBI) and Enforcement Directorate (ED) inquiries into a disproportionate assets’ complaint against Leader of the Opposition in the Lok Sabha Rahul Gandhi .",
-        "Mr. Gandhi had challenged the interim orders as a green signal to conduct a “fishing” expedition against him . The Congress leader had submitted in his appeal to the Supreme Court that the interim orders were passed without making him a party or hearing him first.",
-        "A three-judge bench led by Chief Justice of India Surya Kant directed that Mr. Gandhi be impleaded as a party, while relegating the case back to the High Court to be heard from the very threshold.",
-        "“We are on the basic fundamentals of hearing. We will not make any observations on the merits of the case,” Chief Justice Kant said.",
-        "The complainant, Vignesh Shishir, who is the respondent before the Supreme Court in Mr. Gandhi’s appeal, said that an accused does not have an inherent right to be heard during the pre-FIR stage.",
-        "However, Justice Joymalya Bagchi pointed out that under the new law, the Bharatiya Nagarik Suraksha Sanhita (BNSS), the scope for the accused to be heard has been expanded.",
-        "Mr. Gandhi, represented by advocate Prasanna S., termed the series of directions passed by the Lucknow Bench of the High Court in May and July directing the Central Bureau of Investigation (CBI) and the Directorate of Enforcement (ED) to probe the allegations against him as one of the rarest instances of a constitutional court acting contrary to several first principles or basic, fundamental legal rules all at once.",
-        "The Opposition Leader had termed these orders “outside the settled rules of law or erroneous, which would be a gross understatement.”",
-        "Mr. Gandhi submitted that the proceedings were characterised by the unjustified secrecy of in-chamber hearings, with documents and pleadings kept under wraps in sealed covers.",
-        "He had maintained that the High Court did not refer to the foundational material or provide reasons in the orders for directing a “roving inquiry”.",
-        "Mr. Gandhi said the High Court did not consider the fact that Mr. Shishir is a member of the Bharatiya Janata Party (BJP) and the Rashtriya Swayam Sevak Sangh (RSS), who had filed multiple complaints and public-interest litigation against him in the past, including allegations of foreign citizenship, up to now, and allegations of holding disproportionate assets.",
-        "Mr. Gandhi had said that the repeated filing of proceedings against him by the same “motivated individuals”, based on “unsubstantiated allegations”, constituted a relevant background demonstrating a pattern of persistent and vexatious litigation."
-      ],
-      "deepExplanation": "<strong>1. Core Context & Background:</strong> The Supreme Court on Wednesday (November 25, 2026) set aside orders passed by the Allahabad High Court directing Central Bureau of Investigation (CBI) and Enforcement Directorate (ED) inquiries into a disproportionate assets’ complaint against Leader of the Opposition in the Lok Sabha Rahul Gandhi .<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Gandhi had challenged the interim orders as a green signal to conduct a “fishing” expedition against him . The Congress leader had submitted in his appeal to the Supreme Court that the interim orders were passed without making him a party or hearing him first.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Gandhi had said that the repeated filing of proceedings against him by the same “motivated individuals”, based on “unsubstantiated allegations”, constituted a relevant background demonstrating a pattern of persistent and vexatious litigation.",
-      "vocabList": [
-        "Wednesday",
-        "November",
-        "Allahabad",
-        "Directing",
-        "Investigation",
-        "Enforcement"
-      ],
-      "summary": "The Supreme Court on Wednesday (November 25, 2026) set aside orders passed by the Allahabad High Court directing Central Bureau of Investigation (CBI) and Enforcement Directorate (ED) inquiries into a disproportionate assets’ complaint against Leader of the Opposition in the Lok Sabha Rahul Gandhi .",
-      "keyPoints": "• The Supreme Court on Wednesday (November 25, 2026) set aside orders passed by the Allahabad High Court directing Central Bureau of Investigation (CBI) and Enforcement Directorate (ED) inquiries into a disproportionate assets’ complaint against Leader of the Opposition in the Lok Sabha Rahul Gandhi .<br>• Mr. Gandhi had challenged the interim orders as a green signal to conduct a “fishing” expedition against him . The Congress leader had submitted in his appeal to the Supreme Court that the interim orders were passed without making him a party or hearing him first.<br>• A three-judge bench led by Chief Justice of India Surya Kant directed that Mr. Gandhi be impleaded as a party, while relegating the case back to the High Court to be heard from the very threshold."
-    },
-    {
-      "category": "national",
-      "categoryLabel": "🏛️ National & Polity",
-      "title": "Keralam CM Satheesan says he too is victim of online attacks, alleges ‘important individual’ behind fake news campaign",
-      "link": "https://www.thehindu.com/news/national/kerala/keralam-cm-satheesan-says-he-too-is-target-of-online-attacks-alleges-important-individual-behind-fake-news-campaign/article71741610.ece",
-      "pubDate": "Wed, 25 Nov 2026 14:56:21 +0530",
-      "dateIso": "2026-11-25",
-      "dateDisplay": "25 Nov 2026",
-      "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
-      "imageUrl": "https://th-i.thgim.com/public/news/national/kerala/ai1gnf/article71741643.ece/alternates/LANDSCAPE_1200/cm.jpg",
-      "fullParagraphs": [
-        "Keralam Chief Minister V.D. Satheesan on Wednesday (November 25, 2026) said that he himself was a victim of online attacks, and that an “important individual” was behind the dissemination of such fake news.",
-        "At a post-Cabinet press briefing, Mr. Satheesan was responding to questions on the online attacks on Congress party leaders and members of the late former Chief Minister Oommen Chandy’s family.",
-        "Mr. Satheesan also displayed copies of social media cards with his photograph which purportedly claim that the government had decided to discontinue the welfare pensions and another attributed to Chandy Oommen that Mr. Satheesan was among the individuals who had caused anguish to his father and Oommen Chandy. “Many such fake news were are being spread in the name of mainstream media organisations,” he said.",
-        "“All this comes from one centre, led by an important individual,” he said, but declined to name the person.",
-        "On the internal conflicts within the Congress involving MPs Rajmohan Unnithan and Shafi Parambil, Mr. Satheesan said he did not wish to comment on “organisational matters.” Such questions should be posed to KPCC president Sunny Joseph, he said.",
-        "Mr. Satheesan said the discussions regarding appointments to the top posts of boards and corporations under the State government were in the final stages.",
-        "Mr. Satheesan’s response came amid criticism from within the Congress party and UDF constituents such as the Revolutionary Socialist Party (RSP) that the appointments were not finalised even after the UDF government had completed six months in power.",
-        "Mr. Satheesan said the appointments would be made soon and the talks were in the final stages.",
-        "On Monday, after a State secretariat meeting of the RSP, its leader N.K. Premachandran had sharply criticised the delay and also the “absence” of regular meetings of the UDF. The RSP also wanted the appointments to be completed, if possible, this month itself.",
-        "On his part, Mr. Satheesan sought to play down the RSP leader’s remarks, saying that it was not criticism as such, and that the party merely wanted the board, corporation division completed quickly."
-      ],
-      "deepExplanation": "<strong>1. Core Context & Background:</strong> Satheesan on Wednesday (November 25, 2026) said that he himself was a victim of online attacks, and that an “important individual” was behind the dissemination of such fake news.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> At a post-Cabinet press briefing, Mr. Satheesan was responding to questions on the online attacks on Congress party leaders and members of the late former Chief Minister Oommen Chandy’s family.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Satheesan sought to play down the RSP leader’s remarks, saying that it was not criticism as such, and that the party merely wanted the board, corporation division completed quickly.",
-      "vocabList": [
-        "Satheesan",
-        "Wednesday",
-        "November",
-        "Individual",
-        "Dissemination",
-        "Briefing"
-      ],
-      "summary": "Keralam Chief Minister V.D. Satheesan on Wednesday (November 25, 2026) said that he himself was a victim of online attacks, and that an “important individual” was behind the dissemination of such fake news.",
-      "keyPoints": "• Keralam Chief Minister V.D. Satheesan on Wednesday (November 25, 2026) said that he himself was a victim of online attacks, and that an “important individual” was behind the dissemination of such fake news.<br>• At a post-Cabinet press briefing, Mr. Satheesan was responding to questions on the online attacks on Congress party leaders and members of the late former Chief Minister Oommen Chandy’s family.<br>• Mr. Satheesan also displayed copies of social media cards with his photograph which purportedly claim that the government had decided to discontinue the welfare pensions and another attributed to Chandy Oommen that Mr. Satheesan was among the individuals who had caused anguish to his father and Oommen Chandy. “Many such fake news were are being spread in the name of mainstream media organisations,” he said."
-    },
-    {
-      "category": "national",
-      "categoryLabel": "🏛️ National & Polity",
-      "title": "30 missing terrorists from Reasi exfiltrated to Pakistan for arms training, disturb peace in India: DGP",
-      "link": "https://www.thehindu.com/news/national/30-missing-terrorists-from-reasi-exfiltrated-to-pakistan-for-arms-training-disturb-peace-in-india-dgp/article71741783.ece",
-      "pubDate": "Wed, 25 Nov 2026 14:55:16 +0530",
-      "dateIso": "2026-11-25",
-      "dateDisplay": "25 Nov 2026",
-      "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
-      "imageUrl": "https://th-i.thgim.com/public/incoming/9lzsol/article71741797.ece/alternates/LANDSCAPE_1200/24-AMARNATH-YATRA-SGR-18-06-2026.JPG",
-      "fullParagraphs": [
-        "Thirty terrorists hailing from Reasi district, who had gone missing between 1991 and 2003, have exfiltrated to Pakistan and are working for a terror outfit, supplying arms, ammunition and money to revive terrorism in Jammu and Kashmir, Director General of Police Nalin Prabhat said on Wednesday (November 25, 2026).",
-        "The police chief said Mahore Police Station received information through reliable sources that 30 terrorists hailing from Mahore and Chassana, missing since 1991 to 2003, had crossed over to Pakistan for weapons training for waging war against India.",
-        "\"These persons are now working for HM [Hizbul Mujahideen] in Pakistan and are supplying arms and ammunition, money, to promote terrorism in J&K, besides instigating and radicalising the youth for taking part in terror activities in the area,\" the DGP said on X.",
-        "The 30 terrorists operating from Pakistan have been identified as Mohd Qayoom of Shadole, Mohd Sabdar of Shajroo, Ghulam Mohd and Ghulam Qadir, both sons of Samdoo and residents of Khour, Mushtaq Ahmad of Khour and Khushal Hussain, a resident of Dada.",
-        "The list further names Abdul Majeed, Mohd Rafiq, alias Shabir, Shabir Ahmad and Manzoor Ahmad, all residents of Karmkatha, Makhna and Alaf Din, both residents of Shajroo, Abdul Majeed of Lar, Ghulam Mohd, alias Gamma, of Shajroo, and Mushtaq Ahmad of Sildhar.",
-        "Others identified are Mohd Yousuf Khakmat, alias Bilal (callsign), of Shadool, Mohd Iqbal and Mohd Ashraf, both residents of Chakrass, Ghulam Mohd of Ladh, Abdul Hamid Najar, alias Mahamdoo, of Shibrass, Jamal Din of Sildhar, and Talib Hussain of Chiklass.",
-        "The remaining names are Mohd Rafiq, Gami Gujjar, both residents of Larh, Mohd Rafiq of Tulli, Mohd Qasim of Kunderdhan, Abdul Hamid of Balmatkote, Shabir Ahmad of Bagodass, Mohd Rafiq of Kunderdhan, and Mohd Ali of Hassote.",
-        "In 2024, Mahore police filed an FIR under sections of the Bharatiya Nyaya Sanhita (BNS), the Explosive and Im­provised Materials Control provisions and the Unlawful Activities (Prevention) Act (UAPA) against these alleged terrorists.",
-        "During the investigation, police recorded statements of witnesses and identified five alleged terrorists who also exfiltrated to Pakistan for arms and ammunition training and were actively involved in attempts to revive terrorist activities in the area from across the border by selling their lands to finance terrorism, the DGP said.",
-        "They have been identified as Mohd Qayoom, alias Abdul Qayoom, of Shadole in Mahore tehsil, Bashir Ahmad, alias Masoom, of Bidder, Shokat Ali of Hunder in Arnas tehsil, Manzoor Ahmad, alias Manzoor Hussain, of Khanti in Thuroo tehsil, and Imtyaz Ahmad of Thuroo.",
-        "Police also seized over 27 kanals of land belonging to these five Reasi terrorists."
-      ],
-      "deepExplanation": "<strong>1. Core Context & Background:</strong> Thirty terrorists hailing from Reasi district, who had gone missing between 1991 and 2003, have exfiltrated to Pakistan and are working for a terror outfit, supplying arms, ammunition and money to revive terrorism in Jammu and Kashmir, Director General of Police Nalin Prabhat said on Wednesday (November 25, 2026).<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> The police chief said Mahore Police Station received information through reliable sources that 30 terrorists hailing from Mahore and Chassana, missing since 1991 to 2003, had crossed over to Pakistan for weapons training for waging war against India. \"These persons are now working for HM [Hizbul Mujahideen] in Pakistan and are supplying arms and ammunition, money, to promote terrorism in J&K, besides instigating and radicalising the youth for taking part in terror activities in the area,\" the DGP said on X.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Police also seized over 27 kanals of land belonging to these five Reasi terrorists.",
-      "vocabList": [
-        "Terrorists",
-        "District",
-        "Exfiltrated",
-        "Pakistan",
-        "Supplying",
-        "Ammunition"
-      ],
-      "summary": "Thirty terrorists hailing from Reasi district, who had gone missing between 1991 and 2003, have exfiltrated to Pakistan and are working for a terror outfit, supplying arms, ammunition and money to revive terrorism in Jammu and Kashmir, Director General of Police Nalin Prabhat said on Wednesday (November 25, 2026).",
-      "keyPoints": "• Thirty terrorists hailing from Reasi district, who had gone missing between 1991 and 2003, have exfiltrated to Pakistan and are working for a terror outfit, supplying arms, ammunition and money to revive terrorism in Jammu and Kashmir, Director General of Police Nalin Prabhat said on Wednesday (November 25, 2026).<br>• The police chief said Mahore Police Station received information through reliable sources that 30 terrorists hailing from Mahore and Chassana, missing since 1991 to 2003, had crossed over to Pakistan for weapons training for waging war against India.<br>• \"These persons are now working for HM [Hizbul Mujahideen] in Pakistan and are supplying arms and ammunition, money, to promote terrorism in J&K, besides instigating and radicalising the youth for taking part in terror activities in the area,\" the DGP said on X."
+      "summary": "The Vishva Hindu Parishad (VHP) accused the TVK government in Tamil Nadu of defying the Supreme Court’s order on the traditional lighting of the Karthigai Deepam at ‘Deepathoon’ on Thiruparankundram hill near Madurai, saying its actions amount to an insult to the judiciary, the Constitution and Hindu religious sentiments.",
+      "keyPoints": "• The Vishva Hindu Parishad (VHP) accused the TVK government in Tamil Nadu of defying the Supreme Court’s order on the traditional lighting of the Karthigai Deepam at ‘Deepathoon’ on Thiruparankundram hill near Madurai, saying its actions amount to an insult to the judiciary, the Constitution and Hindu religious sentiments.<br>• The RSS affiliate also warned that “anti-Hindu” politics and such a mindset are nearing extinction from the country’s political landscape and will soon disappear from Tamil Nadu as well.<br>• In a statement, VHP international president Alok Kumar said preventing a centuries-old religious tradition hurts the faith and sentiments of crores of devotees of Lord Murugan and reflects the state government’s “anti-Hindu obstinacy”."
     },
     {
       "category": "economy",
       "categoryLabel": "📈 Economy & Banking",
       "title": "Air passenger services see 35% inflation in Q2; banking, securities transaction witness deflation",
       "link": "https://www.thehindu.com/business/Economy/air-passenger-services-see-35-inflation-in-q2-banking-securities-transaction-witness-deflation/article71741711.ece",
-      "pubDate": "Wed, 25 Nov 2026 14:41:52 +0530",
+      "pubDate": "Wed, 25 Nov 2026 15:21:19 +0530",
       "dateIso": "2026-11-25",
       "dateDisplay": "25 Nov 2026",
       "examRelevance": "GS Paper-III & Banking/SSC: RBI Monetary Policy, GDP, Inflation, Budget & Banking",
@@ -610,9 +603,45 @@
     {
       "category": "scitech",
       "categoryLabel": "🚀 Science, Tech & Environment",
+      "title": "Wildlife, forests, and culture in Gudalur: Sculptures, stories, and interactive workshops",
+      "link": "https://www.thehindu.com/sci-tech/energy-and-environment/wildlife-forests-and-culture-in-gudalur-sculptures-stories-and-interactive-workshops/article71719217.ece",
+      "pubDate": "Wed, 25 Nov 2026 16:01:11 +0530",
+      "dateIso": "2026-11-25",
+      "dateDisplay": "25 Nov 2026",
+      "examRelevance": "GS Paper-III & Prelims: ISRO/NASA Missions, Defense Updates, Tech & Climate Reports",
+      "imageUrl": "https://th-i.thgim.com/public/incoming/pahyz8/article71719489.ece/alternates/LANDSCAPE_1200/1000406014.jpg",
+      "fullParagraphs": [
+        "What if the plants choking the forests of the Nilgiris could be given a second life as works of art?An ongoing exhibition in Gudalur hopes to tell that story, bringing together conservation, craftsmanship and narratives of the intimate relationship between people and the natural world. “For all of us, sharing space with wildlife is part of everyday life,” says Rhea Antony, who takes care of storytelling and design at The Elephant People, a social enterprise based in Gudalur in the Nilgiris Biosphere Reserve that makes hand-carved wildlife sculptures, masks, and everyday objects from invasive plant species like Lantana camara and Senna spectabilis.",
+        "Handcrafted objects made using invasive species vegetation | Photo Credit: Special Arrangement",
+        "The exhibition is an attempt to draw attention to the changing landscapes of the Nilgiris Biosphere Reserve, where the invasive species have spread across native habitats. These fast-growing plants suppress native vegetation, particularly grasses, affecting the food sources of wildlife and sometimes pushing animals towards human settlements.",
+        "ALSO WATCH Watch: How communities are rebuilding the Nilgiris ecosystem",
+        "The Elephant People collective works with Forest Departments of Tamil Nadu, Kerala and Karnataka in clearing these invasive species. Instead of treating the recovered vegetation as waste, they transform the wood into handcrafted objects and sculptures inspired by the region’s wildlife, people, and landscapes.",
+        "The team includes over 50 makers across carving, painting, design, production, and operations | Photo Credit: Special Arrangement",
+        "Titled Into the Forest, the first exhibition by The Elephant People features stories of wildlife, people, shared landscapes, and practices connected to the land. “These stories are brought to life through art and craft, with sculptures and installations created by a team of makers from the Nilgiris, for whom sharing space with wildlife is part of everyday life,” says Rhea. The exhibition features large-scale sculptures, smaller carved pieces, and interactive storytelling experiences. For children, there will be facilitated painting and story-building workshops, alongside interactive art installations that let them explore the forest through play. These installations offer opportunities to learn about different species, their habitats, and the sounds they make.",
+        "“Over the last three years, we’ve been exploring the stories of the Nilgiris and finding ways to bring them to life through art and craft. The region has been central to this journey. It’s wildlife, landscapes, people and the many relationships between them have shaped the stories we are drawn to and the work we create ,” says Rhea. While discovering stories of different species, they also learnt about encounters between people and wildlife, traditional practices, food cultures and ways of living that keep the forest at the centre. Some came from conversations with people, others from naturalists and researchers, and many from simply observing the fascinating relationships that exist within these landscapes.",
+        "ALSO WATCH Watch: A day at Baralikadu: Coracles, tribal food and community-led tourism",
+        "There are smaller objects like magnets and key-chains to large-scale sculptures and interactive installations | Photo Credit: Special Arrangement",
+        "Each of these stories became a starting point. Over the years, they have experimented with different forms, from smaller objects like magnets and key-chains to large-scale sculptures and interactive installations.",
+        "The use of invasive vegetation as a raw material also creates an opportunity to build livelihoods around craft, while taking the story of forest restoration to audiences beyond the region. The Elephant People’s work builds on the experience of The Real Elephant Collective, known for its life-size elephant sculptures made using lantana."
+      ],
+      "deepExplanation": "<strong>1. Core Context & Background:</strong> What if the plants choking the forests of the Nilgiris could be given a second life as works of art?An ongoing exhibition in Gudalur hopes to tell that story, bringing together conservation, craftsmanship and narratives of the intimate relationship between people and the natural world.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> “For all of us, sharing space with wildlife is part of everyday life,” says Rhea Antony, who takes care of storytelling and design at The Elephant People, a social enterprise based in Gudalur in the Nilgiris Biosphere Reserve that makes hand-carved wildlife sculptures, masks, and everyday objects from invasive plant species like Lantana camara and Senna spectabilis. Handcrafted objects made using invasive species vegetation | Photo Credit: Special Arrangement The exhibition is an attempt to draw attention to the changing landscapes of the Nilgiris Biosphere Reserve, where the invasive species have spread across native habitats.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> The Elephant People’s work builds on the experience of The Real Elephant Collective, known for its life-size elephant sculptures made using lantana.",
+      "vocabList": [
+        "Nilgiris",
+        "Exhibition",
+        "Bringing",
+        "Together",
+        "Conservation",
+        "Craftsmanship"
+      ],
+      "summary": "What if the plants choking the forests of the Nilgiris could be given a second life as works of art?An ongoing exhibition in Gudalur hopes to tell that story, bringing together conservation, craftsmanship and narratives of the intimate relationship between people and the natural world. “For all of us, sharing space with wildlife is part of everyday life,” says Rhea Antony, who takes care of storytelling and design at The Elephant People, a social enterprise based in Gudalur in the Nilgiris Biosphere Reserve that makes hand-carved wildlife sculptures, masks, and everyday objects from invasive plant species like Lantana camara and Senna spectabilis.",
+      "keyPoints": "• What if the plants choking the forests of the Nilgiris could be given a second life as works of art?An ongoing exhibition in Gudalur hopes to tell that story, bringing together conservation, craftsmanship and narratives of the intimate relationship between people and the natural world. “For all of us, sharing space with wildlife is part of everyday life,” says Rhea Antony, who takes care of storytelling and design at The Elephant People, a social enterprise based in Gudalur in the Nilgiris Biosphere Reserve that makes hand-carved wildlife sculptures, masks, and everyday objects from invasive plant species like Lantana camara and Senna spectabilis.<br>• Handcrafted objects made using invasive species vegetation | Photo Credit: Special Arrangement<br>• The exhibition is an attempt to draw attention to the changing landscapes of the Nilgiris Biosphere Reserve, where the invasive species have spread across native habitats. These fast-growing plants suppress native vegetation, particularly grasses, affecting the food sources of wildlife and sometimes pushing animals towards human settlements."
+    },
+    {
+      "category": "scitech",
+      "categoryLabel": "🚀 Science, Tech & Environment",
       "title": "All you need to know about: Primary ciliary dyskinesia",
       "link": "https://www.thehindu.com/sci-tech/health/all-you-need-to-know-about-primary-ciliary-dyskinesia/article71727755.ece",
-      "pubDate": "Wed, 25 Nov 2026 15:09:40 +0530",
+      "pubDate": "Wed, 25 Nov 2026 15:52:27 +0530",
       "dateIso": "2026-11-25",
       "dateDisplay": "25 Nov 2026",
       "examRelevance": "GS Paper-III & Prelims: ISRO/NASA Missions, Defense Updates, Tech & Climate Reports",
@@ -760,40 +789,6 @@
       ],
       "summary": "Jensen Huang apologised to Nvidia staff and said he was in therapy on Tuesday (November 24, 2026), as a stock rally triggered by his shock return as CEO faltered amid persistent doubts over the probes he faces and the fate of the AI investment boom.",
       "keyPoints": "• Jensen Huang apologised to Nvidia staff and said he was in therapy on Tuesday (November 24, 2026), as a stock rally triggered by his shock return as CEO faltered amid persistent doubts over the probes he faces and the fate of the AI investment boom.<br>• \"I made some terrible mistakes,\" Mr. Huang told an hourlong all-hands meeting at the company's Santa Clara, California, headquarters, The New York Times reported after reviewing a livestream of the event.<br>• He told staff it was \"not acceptable\" that he had broken a code of conduct he had helped write, and dismissed suggestions that he was back because U.S. President Donald Trump had pressured the board."
-    },
-    {
-      "category": "scitech",
-      "categoryLabel": "🚀 Science, Tech & Environment",
-      "title": "Workers in high-risk jobs to receive shots against rabies in Tamil Nadu",
-      "link": "https://www.thehindu.com/news/national/tamil-nadu/workers-in-high-risk-jobs-to-receive-shots-against-rabies-in-tamil-nadu/article71738738.ece",
-      "pubDate": "Wed, 25 Nov 2026 13:07:08 +0530",
-      "dateIso": "2026-11-25",
-      "dateDisplay": "25 Nov 2026",
-      "examRelevance": "GS Paper-III & Prelims: ISRO/NASA Missions, Defense Updates, Tech & Climate Reports",
-      "imageUrl": "https://th-i.thgim.com/public/incoming/w744b9/article71739727.ece/alternates/LANDSCAPE_1200/4871_11_6_2026_15_48_17_1_IMG_5779.JPG",
-      "fullParagraphs": [
-        "Over a lakh persons belonging to high-risk occupational groups, including animal handlers and dog catchers of local bodies, in all 38 districts will receive Pre-Exposure Prophylaxis (PrEP) against rabies under the Tamil Nadu State Action Plan for Dog-Mediated Rabies Elimination (SAPRE) - Vision 2030.",
-        "The State government has given the administrative sanction for implementation of the initiative at a cost of ₹2.22 crore, which will be met from the National Health Mission, Tamil Nadu, an order issued recently said.",
-        "In just four months of 2026, Tamil Nadu records 2.63 lakh dog bites, 17 deaths",
-        "Gaps in anti-rabies treatment persist in Chennai’s health centres",
-        "The Directorate of Public Health (DPH) and Preventive Medicine noted that certain occupational groups are routinely exposed to dogs and other animals in the course of their duties. Provision of PrEP to such identified high-risk personnel will provide an additional layer of protection and strengthen the State’s rabies elimination strategy.",
-        "The programme aims to provide PrEP to identified personnel of occupational groups having sustained risk of exposure to dogs and other potentially rabid animals.",
-        "The main categories include sanitation workers, animal handlers and dog catchers of local bodies and eligible personnel of the Animal Husbandry Department involved in animal handling, dog catching, veterinary and para-veterinary activities.",
-        "As per the National Guidelines on Rabies Prophylaxis, eligibility will be determined based on occupational exposure risk and the nature of duties performed. Based on the presently available department data, the preliminary beneficiary estimation was 1,29,009 - 1,21,844 local body sanitation workers, 3,324 local body animal handlers/dog catchers and 3,841 personnel attached to the Animal Husbandry department, the directorate said.",
-        "The initiative will be implemented through designated government health facilities, including Primary Health Centres (PHC), Urban PHCs, government hospitals, and medical college hospitals. Identification of beneficiaries and mobilisation will be carried out by the respective local bodies and Animal Husbandry Department.",
-        "health / communicable diseases / viral diseases / public health/community medicine / Tamil Nadu"
-      ],
-      "deepExplanation": "<strong>1. Core Context & Background:</strong> Over a lakh persons belonging to high-risk occupational groups, including animal handlers and dog catchers of local bodies, in all 38 districts will receive Pre-Exposure Prophylaxis (PrEP) against rabies under the Tamil Nadu State Action Plan for Dog-Mediated Rabies Elimination (SAPRE) - Vision 2030.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> The State government has given the administrative sanction for implementation of the initiative at a cost of ₹2.22 crore, which will be met from the National Health Mission, Tamil Nadu, an order issued recently said. In just four months of 2026, Tamil Nadu records 2.63 lakh dog bites, 17 deaths Gaps in anti-rabies treatment persist in Chennai’s health centres The Directorate of Public Health (DPH) and Preventive Medicine noted that certain occupational groups are routinely exposed to dogs and other animals in the course of their duties.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> health / communicable diseases / viral diseases / public health/community medicine / Tamil Nadu",
-      "vocabList": [
-        "Belonging",
-        "Occupational",
-        "Handlers",
-        "Catchers",
-        "Districts",
-        "Exposure"
-      ],
-      "summary": "Over a lakh persons belonging to high-risk occupational groups, including animal handlers and dog catchers of local bodies, in all 38 districts will receive Pre-Exposure Prophylaxis (PrEP) against rabies under the Tamil Nadu State Action Plan for Dog-Mediated Rabies Elimination (SAPRE) - Vision 2030.",
-      "keyPoints": "• Over a lakh persons belonging to high-risk occupational groups, including animal handlers and dog catchers of local bodies, in all 38 districts will receive Pre-Exposure Prophylaxis (PrEP) against rabies under the Tamil Nadu State Action Plan for Dog-Mediated Rabies Elimination (SAPRE) - Vision 2030.<br>• The State government has given the administrative sanction for implementation of the initiative at a cost of ₹2.22 crore, which will be met from the National Health Mission, Tamil Nadu, an order issued recently said.<br>• In just four months of 2026, Tamil Nadu records 2.63 lakh dog bites, 17 deaths"
     },
     {
       "category": "editorial",
@@ -960,220 +955,213 @@
     "2026-11-25": {
       "dateIso": "2026-11-25",
       "dateDisplay": "25 Nov 2026",
-      "updatedAt": "25 Nov 2026, 03:15 PM IST",
+      "updatedAt": "25 Nov 2026, 04:42 PM IST",
       "articles": [
+        {
+          "category": "national",
+          "categoryLabel": "🏛️ National & Polity",
+          "title": "Over 23 lakh vehicles in Keralam have failed to clear Pollution Under Control checks since 2021",
+          "link": "https://www.thehindu.com/news/national/kerala/over-23-lakh-vehicles-in-keralam-have-failed-to-clear-pollution-under-control-checks-since-2021/article71741361.ece",
+          "pubDate": "Wed, 25 Nov 2026 16:30:45 +0530",
+          "dateIso": "2026-11-25",
+          "dateDisplay": "25 Nov 2026",
+          "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/lytoz3/article71742082.ece/alternates/LANDSCAPE_1200/Funds-sought-toG78GQ9A9J.3.jpg.jpg",
+          "fullParagraphs": [
+            "About 23.9 lakh vehicles in Keralam have failed the mandatory Pollution Under Control (PUC) testing over the past five years.",
+            "A total of about 5.74 crore PUC tests were held from the financial year 2021 to September 30, 2026. About 5.5 crore vehicles had passed the test while 23.9 lakh vehicles failed to clear it, according to estimates by the Department of Transport.",
+            "About 57.5 lakh tests were conducted from March 2026 to September 30, 2026 and 1.87 lakh vehicles failed the PUC test during this period, said a report furnished by the Transport department before the National Green Tribunal in a case related to a plea for reducing vehicular emissions and promoting environmentally sustainable transport systems in the State.",
+            "Officials of the Transport department said that vehicles failing the PUC test were required to rectify the defects and undergo retesting before being given permission to resume operations. The pollution monitoring has been strengthened through a network of PUC testing centres that are integrated with the Vahan/Parivahan portal. The department has introduced an Aaadhaar-based mobile OTP system to prevent and reduce fake applications for getting the Pollution Under Control certificate, they said.",
+            "The Motor Vehicles department in coordination with the State Police had imposed a total penalty of ₹43.2 crore from the year 2022 to September 30, 2026 for violations related to pollution-control requirements, including vehicles without valid PUC certificates and those with high-emissions. Of the total penalty of ₹43.2 crore slapped, the authorities have collected ₹11.96 crore as on September 2026, according to official estimates.",
+            "Health experts have sounded caution against the threats caused by vehicular pollution. “Diesel smoke has been classified as carcinogenic to humans (Group 1) by the International Agency for Research on Cancer (IARC), which means that exposure at heavy doses over a long period carries a risk of cancer,” pointed out Rajeev Jayadevan, convener of the research cell of the Indian Medical Association, Kerala.",
+            "“Children risk stunting, people with respiratory diseases suffer worsening symptoms, and pregnant women who breathe this air are at higher risk of delivering preterm babies. Air pollution also increases the burden of non-communicable diseases, linked with heart attacks, strokes, high blood pressure, and diabetes,” Dr. Jayadevan said."
+          ],
+          "deepExplanation": "<strong>1. Core Context & Background:</strong> About 23.9 lakh vehicles in Keralam have failed the mandatory Pollution Under Control (PUC) testing over the past five years.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> A total of about 5.74 crore PUC tests were held from the financial year 2021 to September 30, 2026. About 5.5 crore vehicles had passed the test while 23.9 lakh vehicles failed to clear it, according to estimates by the Department of Transport.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Air pollution also increases the burden of non-communicable diseases, linked with heart attacks, strokes, high blood pressure, and diabetes,” Dr.",
+          "vocabList": [
+            "Vehicles",
+            "Mandatory",
+            "Pollution",
+            "Financial",
+            "September",
+            "Estimates"
+          ],
+          "summary": "About 23.9 lakh vehicles in Keralam have failed the mandatory Pollution Under Control (PUC) testing over the past five years.",
+          "keyPoints": "• About 23.9 lakh vehicles in Keralam have failed the mandatory Pollution Under Control (PUC) testing over the past five years.<br>• A total of about 5.74 crore PUC tests were held from the financial year 2021 to September 30, 2026. About 5.5 crore vehicles had passed the test while 23.9 lakh vehicles failed to clear it, according to estimates by the Department of Transport.<br>• About 57.5 lakh tests were conducted from March 2026 to September 30, 2026 and 1.87 lakh vehicles failed the PUC test during this period, said a report furnished by the Transport department before the National Green Tribunal in a case related to a plea for reducing vehicular emissions and promoting environmentally sustainable transport systems in the State."
+        },
+        {
+          "category": "national",
+          "categoryLabel": "🏛️ National & Polity",
+          "title": "Kallakurichi police serve summons on TVK MLA Arul Vignesh",
+          "link": "https://www.thehindu.com/news/national/tamil-nadu/kallakurichi-police-serve-summons-on-tvk-mla/article71741206.ece",
+          "pubDate": "Wed, 25 Nov 2026 16:29:45 +0530",
+          "dateIso": "2026-11-25",
+          "dateDisplay": "25 Nov 2026",
+          "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/ddd1np/article71741603.ece/alternates/LANDSCAPE_1200/KALLAKURICHI-MLA-1.JPG",
+          "fullParagraphs": [
+            "The Kallakurichi All Women Police on Wednesday (November 25, 2026) served summons on Kallakurichi TVK MLA C. Arul Vignesh in connection with a case registered against him on a complaint lodged by a woman IAS officer.",
+            "Inspector Bhuvaneshwari attached to the All Women Police station visited the MLA’s house in Kallakurichi and handed the summons to him in person. The police also questioned Mr. Arul Vignesh at the house.",
+            "The woman IAS officer had submitted a formal complaint to the Kallakurichi district Superintendent of Police on Monday (November 23), accusing the MLA of making inappropriate advances and sending unwarranted messages.",
+            "FIR registered against Kallakurichi TVK MLA for ‘misbehaving’ with woman IAS officer, Madras High Court told",
+            "Udhayanidhi Stalin submits petition to Tamil Nadu DGP demanding arrest of Kallakurichi and Thuraiyur TVK MLAs",
+            "Kallakurichi TVK MLA case: Internal Complaints Committee has been constituted, Madras High Court told",
+            "The police have booked a case against the MLA under four sections including the POSH Act and Sections 75, 78 and 79 of the Bharatiya Nyaya Sanhita",
+            "Police sources said that Tiruppur Superintendent of Police Shristi Singh, who has been appointed as the Investigating Officer in the criminal case registered at the Kallakurichi All Women Police station, began preliminary investigation into the incident on Wednesday (November 25).",
+            "The National Commission for Women had earlier taken suo moto cognisance of the allegations and asked the Tamil Nadu Director General of Police to conduct an impartial inquiry.",
+            "Meanwhile, police personnel have been deployed in strength at the Kallakurichi All Women Police station and the MLA’s office in Kallakurichi.",
+            "This morning (November 25, 2026), police personnel arrived at the residence of #Kallakurichi TVK MLA C. Arul Vignesh to serve him summons in the case registered on the complaint of a woman IAS officer. 📹: Special Arrangement https://t.co/llqM6wyaam"
+          ],
+          "deepExplanation": "<strong>1. Core Context & Background:</strong> The Kallakurichi All Women Police on Wednesday (November 25, 2026) served summons on Kallakurichi TVK MLA C.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Arul Vignesh in connection with a case registered against him on a complaint lodged by a woman IAS officer. Inspector Bhuvaneshwari attached to the All Women Police station visited the MLA’s house in Kallakurichi and handed the summons to him in person.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> 📹: Special Arrangement https://t.co/llqM6wyaam",
+          "vocabList": [
+            "Kallakurichi",
+            "Wednesday",
+            "November",
+            "Connection",
+            "Registered",
+            "Complaint"
+          ],
+          "summary": "The Kallakurichi All Women Police on Wednesday (November 25, 2026) served summons on Kallakurichi TVK MLA C. Arul Vignesh in connection with a case registered against him on a complaint lodged by a woman IAS officer.",
+          "keyPoints": "• The Kallakurichi All Women Police on Wednesday (November 25, 2026) served summons on Kallakurichi TVK MLA C. Arul Vignesh in connection with a case registered against him on a complaint lodged by a woman IAS officer.<br>• Inspector Bhuvaneshwari attached to the All Women Police station visited the MLA’s house in Kallakurichi and handed the summons to him in person. The police also questioned Mr. Arul Vignesh at the house.<br>• The woman IAS officer had submitted a formal complaint to the Kallakurichi district Superintendent of Police on Monday (November 23), accusing the MLA of making inappropriate advances and sending unwarranted messages."
+        },
+        {
+          "category": "national",
+          "categoryLabel": "🏛️ National & Polity",
+          "title": "Udhayanidhi Stalin submits petition to Tamil Nadu DGP demanding arrest of Kallakurichi and Thuraiyur TVK MLAs",
+          "link": "https://www.thehindu.com/news/national/tamil-nadu/udhayanidhi-stalin-submits-petition-to-tamil-nadu-dgp-demanding-arrest-of-kallakurichi-and-thuraiyur-tvk-mlas/article71741706.ece",
+          "pubDate": "Wed, 25 Nov 2026 16:29:15 +0530",
+          "dateIso": "2026-11-25",
+          "dateDisplay": "25 Nov 2026",
+          "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
+          "imageUrl": "https://th-i.thgim.com/public/news/national/tamil-nadu/8sv1tm/article71741936.ece/alternates/LANDSCAPE_1200/Udhayanidhi%20Kallakurichi%20DGP%20office.jpeg",
+          "fullParagraphs": [
+            "Leader of the Opposition Udhayanidhi Stalin on Wednesday (November 25, 2026) submitted a petition at the Tamil Nadu Director General of Police (DGP) office in Chennai demanding the immediate arrest of Kallakurichi MLA C. Arul Vignesh of Tamilaga Vettri Kazhagam (TVK), action against Tamil Nadu Chief Secretary M. Sai Kumar, and the transfer of the assault case involving Thuraiyur TVK MLA and Deputy Speaker M. Ravishankar to the CB-CID.",
+            "Kallakurichi police serve summons on TVK MLA Arul Vignesh",
+            "DMK urges Tamil Nadu DGP to act against TVK MLA for sending ‘obscene messages’ to Kallakurichi Collector",
+            "Kallakurichi TVK MLA case: Internal Complaints Committee has been constituted, Madras High Court told",
+            "The petition seeks the arrest of Arul Vignesh, preservation of electronic evidence in his possession, and securing of required CCTV footage. It also called for transfer of the probe to the Central Bureau of Investigation (CBI) and initiation of inquiry into the Chief Secretary’s failure to act on a woman IAS officer’s complaint dated July 31, 2026.",
+            "On the November 8 Thuraiyur incident, the petition urged the police to register an FIR against the Deputy Speaker, Samayapuram Police Inspector, and others involved, transfer the investigation to an independent agency, and ensure protection for the victim.",
+            "DMK members protest at Thuraiyur against Deputy Speaker for ‘assaulting’ man",
+            "Minister Nirmal Kumar denies allegations against TVK’s Kallakurichi MLA Arul Vignesh",
+            "Speaking to reporters outside the DGP office, Udhayanidhi Stalin alleged that ruling party functionaries — including district secretaries, Ministers, and MLAs — are behind several acts of violence across Tamil Nadu.",
+            "Noting that the TVK government assumed office in May and the Kallakurichi MLA had allegedly harassed the IAS officer by July, he claimed that when the officer flagged the issue 116 days ago, the Chief Secretary merely advised the official to “move to another district.”",
+            "He pointed out that an FIR was registered in the case after a 116-day delay only following the court’s intervention. He questioned whether the Chief Secretary had apprised the Chief Minister of the complaint, and if so, why the Chief Minister failed to take action.",
+            "Similarly, highlighting that no action has been taken even 16 days after Deputy Speaker M. Ravishankar allegedly assaulted a petitioner at his residence, Udhayanidhi Stalin demanded the arrest of both the legislators and reiterated his call for a CBI probe into the Kallakurichi case."
+          ],
+          "deepExplanation": "<strong>1. Core Context & Background:</strong> Leader of the Opposition Udhayanidhi Stalin on Wednesday (November 25, 2026) submitted a petition at the Tamil Nadu Director General of Police (DGP) office in Chennai demanding the immediate arrest of Kallakurichi MLA C.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Arul Vignesh of Tamilaga Vettri Kazhagam (TVK), action against Tamil Nadu Chief Secretary M. Sai Kumar, and the transfer of the assault case involving Thuraiyur TVK MLA and Deputy Speaker M.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Ravishankar allegedly assaulted a petitioner at his residence, Udhayanidhi Stalin demanded the arrest of both the legislators and reiterated his call for a CBI probe into the Kallakurichi case.",
+          "vocabList": [
+            "Opposition",
+            "Udhayanidhi",
+            "Wednesday",
+            "November",
+            "Submitted",
+            "Petition"
+          ],
+          "summary": "Leader of the Opposition Udhayanidhi Stalin on Wednesday (November 25, 2026) submitted a petition at the Tamil Nadu Director General of Police (DGP) office in Chennai demanding the immediate arrest of Kallakurichi MLA C. Arul Vignesh of Tamilaga Vettri Kazhagam (TVK), action against Tamil Nadu Chief Secretary M. Sai Kumar, and the transfer of the assault case involving Thuraiyur TVK MLA and Deputy Speaker M. Ravishankar to the CB-CID.",
+          "keyPoints": "• Leader of the Opposition Udhayanidhi Stalin on Wednesday (November 25, 2026) submitted a petition at the Tamil Nadu Director General of Police (DGP) office in Chennai demanding the immediate arrest of Kallakurichi MLA C. Arul Vignesh of Tamilaga Vettri Kazhagam (TVK), action against Tamil Nadu Chief Secretary M. Sai Kumar, and the transfer of the assault case involving Thuraiyur TVK MLA and Deputy Speaker M. Ravishankar to the CB-CID.<br>• Kallakurichi police serve summons on TVK MLA Arul Vignesh<br>• DMK urges Tamil Nadu DGP to act against TVK MLA for sending ‘obscene messages’ to Kallakurichi Collector"
+        },
+        {
+          "category": "national",
+          "categoryLabel": "🏛️ National & Polity",
+          "title": "Telangana Govt to set up single window system for hassle free development of poultry sector: CM Revanth Reddy",
+          "link": "https://www.thehindu.com/news/national/telangana/telangana-govt-to-set-up-single-window-system-for-hassle-free-development-of-poultry-sector-cm-revanth-reddy/article71741870.ece",
+          "pubDate": "Wed, 25 Nov 2026 16:28:37 +0530",
+          "dateIso": "2026-11-25",
+          "dateDisplay": "25 Nov 2026",
+          "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/mmsfu3/article71741903.ece/alternates/LANDSCAPE_1200/_DSC0041.JPG",
+          "fullParagraphs": [
+            "The Telangana Government will soon introduce a single window system facilitating hassle free establishment of poultry farms at gram panchayat level across the State.",
+            "The single window system was contemplated after the industry took the challenges faced by it in establishing poultry units in the State and requested for the government’s support during times of crisis. The government has resolved to recognise poultry sector as a priority area and formulate policies aimed at providing long-term solutions.",
+            "Chief Minister A. Revanth Reddy has assured that there is no need to worry about the government policies and decisions. Accordingly, steps will be taken to provide all necessary assistance and support to the Poultry industry. The Chief Minister, who inaugurated the Poultry India Expo 2026 in Hyderabad on Wednesday (November 25, 20256), stressed the need for revising the existing policies in alignment with the requirements of the industry.",
+            "here was no “policy paralysis” in the State and the government would introduce new policies from time to time even as a decision was taken to continue the effective policies introduced by the previous governments. The efforts come in the backdrop of the efforts to achieve the goal of transforming Telangana into a US $3 trillion economy by 2047.",
+            "The Chief Minister said the government was firm on resolving the problems faced by the sector including shortage of maize and directed the Ministers concerned to take immediate steps in this direction. Appreciating the industry for organising a major expo, he said Telangana produced 5.3 crore eggs and lauded the important role played by the poultry entrepreneurs in providing nutritious food to students and the youth.",
+            "The industry displayed resilience in overcoming challenges and sustained its operations. He said that efforts should be made to provide more employment opportunities for agricultural labourers and farmers for further growth of the section . Poultry industry, he said, would strengthen the economic power of farmers apart from production of chickens and eggs.",
+            "Referring to the ongoing El Nino phenomenon, he said the government had kept stocks of fine rice ready for meeting the requirements for the next two years."
+          ],
+          "deepExplanation": "<strong>1. Core Context & Background:</strong> The Telangana Government will soon introduce a single window system facilitating hassle free establishment of poultry farms at gram panchayat level across the State.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> The single window system was contemplated after the industry took the challenges faced by it in establishing poultry units in the State and requested for the government’s support during times of crisis. The government has resolved to recognise poultry sector as a priority area and formulate policies aimed at providing long-term solutions.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Referring to the ongoing El Nino phenomenon, he said the government had kept stocks of fine rice ready for meeting the requirements for the next two years.",
+          "vocabList": [
+            "Telangana",
+            "Introduce",
+            "Facilitating",
+            "Establishment",
+            "Panchayat",
+            "Contemplated"
+          ],
+          "summary": "The Telangana Government will soon introduce a single window system facilitating hassle free establishment of poultry farms at gram panchayat level across the State.",
+          "keyPoints": "• The Telangana Government will soon introduce a single window system facilitating hassle free establishment of poultry farms at gram panchayat level across the State.<br>• The single window system was contemplated after the industry took the challenges faced by it in establishing poultry units in the State and requested for the government’s support during times of crisis. The government has resolved to recognise poultry sector as a priority area and formulate policies aimed at providing long-term solutions.<br>• Chief Minister A. Revanth Reddy has assured that there is no need to worry about the government policies and decisions. Accordingly, steps will be taken to provide all necessary assistance and support to the Poultry industry. The Chief Minister, who inaugurated the Poultry India Expo 2026 in Hyderabad on Wednesday (November 25, 20256), stressed the need for revising the existing policies in alignment with the requirements of the industry."
+        },
+        {
+          "category": "national",
+          "categoryLabel": "🏛️ National & Polity",
+          "title": "Kallakurichi TVK MLA case: Internal Complaints Committee has been constituted, Madras High Court told",
+          "link": "https://www.thehindu.com/news/national/tamil-nadu/kallakurichi-tvk-mla-case-internal-complaints-committee-has-been-constituted-madras-high-court-told/article71741836.ece",
+          "pubDate": "Wed, 25 Nov 2026 16:25:59 +0530",
+          "dateIso": "2026-11-25",
+          "dateDisplay": "25 Nov 2026",
+          "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/umhboz/article71742065.ece/alternates/LANDSCAPE_1200/Madras_High_Court.jpg",
+          "fullParagraphs": [
+            "State Public Prosecutor (SPP) R. John Sathyan on Wednesday (November 25, 2026) informed the Madras High Court that the Tamil Nadu government has constituted an Internal Complaints Committee (ICC) under the Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) Act, 2013 for inquiring into a complaint lodged by a woman IAS officer against Kallakurichi TVK MLA C. Arul Vignesh .",
+            "Making a mention before Justice V. Lakshminarayanan, the SPP said, a Government Order had been issued formally notifying the ICC and listing out its members. After hearing him, the judge said, the State should also ensure that an ICC was in place not only to deal with the present complaint but also with other future complaints that may arise due to sexual harassment of women at workplace.",
+            "Mr. Sathyan further told the judge that the Leader of the Opposition (LoP) Udhayanidhi Stalin had submitted a complaint to the Director General of Police (DGP)/Head of Police Force on Wednesday morning regarding the Kallakurichi MLA issue and addressed the media despite the court having passed a gag order on Tuesday (November 24) restraining the media from violating Section 16 of the POSH Act, 2013.",
+            "The SPP said, the LoP had spoken about a lot of things without ascertaining the foundational facts and that most of his statements were factually wrong. Responding to it, the judge said, he had already issued a direction to pull down all objectionable posts related to the issue from the social media and therefore, the cybercrime wing police would be at liberty to pull down videos and other materials related to the issue.",
+            "Further, taking note of the SPP’s submissions with regard to constitution of the ICC for an internal inquiry apart from the criminal investigation that shall happen parallelly, the judge decided to hear the matter next on Friday (November 27). In his interim order on Tuesday, the judge had appointed Tiruppur Superintendent of Police Shristi Singh as the investigating officer in the criminal case booked against the MLA.",
+            "He had also ordered that Inspector General of Police (Administration) N. Kamini, serving at the office of the Director General of Police/Head of Police Force in Chennai, shall monitor the investigation to be conducted pursuant to the registration of a First Information Report (FIR) booked at the Kallakurichi All Women Police Station on Monday (November 23)."
+          ],
+          "deepExplanation": "<strong>1. Core Context & Background:</strong> John Sathyan on Wednesday (November 25, 2026) informed the Madras High Court that the Tamil Nadu government has constituted an Internal Complaints Committee (ICC) under the Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) Act, 2013 for inquiring into a complaint lodged by a woman IAS officer against Kallakurichi TVK MLA C.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Lakshminarayanan, the SPP said, a Government Order had been issued formally notifying the ICC and listing out its members. After hearing him, the judge said, the State should also ensure that an ICC was in place not only to deal with the present complaint but also with other future complaints that may arise due to sexual harassment of women at workplace.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Kamini, serving at the office of the Director General of Police/Head of Police Force in Chennai, shall monitor the investigation to be conducted pursuant to the registration of a First Information Report (FIR) booked at the Kallakurichi All Women Police Station on Monday (November 23).",
+          "vocabList": [
+            "Prosecutor",
+            "Wednesday",
+            "November",
+            "Informed",
+            "Constituted",
+            "Internal"
+          ],
+          "summary": "State Public Prosecutor (SPP) R. John Sathyan on Wednesday (November 25, 2026) informed the Madras High Court that the Tamil Nadu government has constituted an Internal Complaints Committee (ICC) under the Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) Act, 2013 for inquiring into a complaint lodged by a woman IAS officer against Kallakurichi TVK MLA C. Arul Vignesh .",
+          "keyPoints": "• State Public Prosecutor (SPP) R. John Sathyan on Wednesday (November 25, 2026) informed the Madras High Court that the Tamil Nadu government has constituted an Internal Complaints Committee (ICC) under the Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) Act, 2013 for inquiring into a complaint lodged by a woman IAS officer against Kallakurichi TVK MLA C. Arul Vignesh .<br>• Making a mention before Justice V. Lakshminarayanan, the SPP said, a Government Order had been issued formally notifying the ICC and listing out its members. After hearing him, the judge said, the State should also ensure that an ICC was in place not only to deal with the present complaint but also with other future complaints that may arise due to sexual harassment of women at workplace.<br>• Mr. Sathyan further told the judge that the Leader of the Opposition (LoP) Udhayanidhi Stalin had submitted a complaint to the Director General of Police (DGP)/Head of Police Force on Wednesday morning regarding the Kallakurichi MLA issue and addressed the media despite the court having passed a gag order on Tuesday (November 24) restraining the media from violating Section 16 of the POSH Act, 2013."
+        },
         {
           "category": "national",
           "categoryLabel": "🏛️ National & Polity",
           "title": "Thirupparankundram row LIVE: Madurai District Collector says Devasthanam did not authorise lamp-lighting team",
           "link": "https://www.thehindu.com/news/national/tamil-nadu/karthigai-deepam-deepathoon-lighting-2026-live-updates-november-24-tamil-nadu/article71737406.ece",
-          "pubDate": "Wed, 25 Nov 2026 15:12:36 +0530",
+          "pubDate": "Wed, 25 Nov 2026 16:21:25 +0530",
           "dateIso": "2026-11-25",
           "dateDisplay": "25 Nov 2026",
           "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
           "imageUrl": "https://th-i.thgim.com/public/incoming/9q6v6s/article71741800.ece/alternates/LANDSCAPE_1200/20261125017L.jpg",
           "fullParagraphs": [
-            "The Hindu parties orally mention an application filed before the Supreme Court seeking directions to the State and temple authorities that the deepam lit at the Deepa Mandapam be shifted to the ‘Deepathoon’.",
-            "“To light the lamp at the Deepathoon either by igniting it from the same Deepam that is still burning at the Deepa Mandapam near the Uchipillaiyar Temple, or by making the necessary arrangements in accordance with the order dated November 20, 2026,” the application said.",
-            "TNCC chief B. Manickam Tagore on Wednesday (November 25, 2026) accused the BJP, RSS and Hindu Munnani of attempting to “politicise” the Karthigai Deepam celebrations at Thirupparankundram to divide the people of the state.",
-            "Speaking to reporters in Thirupparankundram, a day after protests erupted over the ceremonial lamp not being lit at the disputed stone pillar (Deepathoon) atop the hill, Mr. Tagore defended the Chief Minister C. Joseph Vijay-led Secular Social Justice Victory Alliance government, and claimed that “both the administration and the district collector had respected the Supreme Court’s orders.”",
-            "“It clearly states that the Devasthanam will decide who will light the lamp and where it will be lit. The Devasthanam’s board of trustees (Arangavalar Kuzhu) sat for six hours and decided to light it at the same traditional place as per custom. Both the Tamil Nadu government and the collector have respected the Supreme Court orders,” he said.",
-            "The Madurai District Collector on Wednesday (November 25, 2026) squarely blamed the ‘devasthanam’ of the Arulmigu Subramaniaswamy temple on Thirupparankundram Hill for defying a Supreme Court order to light the Karthigai Deepam at the Deepathoon on November 24.",
-            "In a preliminary status report, Madurai Collector Nishant Krishna said he had held multiple meetings, been in constant touch with the local and police authorities and made arrangements to ensure the map was lit at the ‘Deepathoon’ ever since the evening of the Supreme Court order on November 20.",
-            "“From the side of the District Administration, every arrangement was complete and every possible difficulty had been offered an immediate solution. The only step was the authorisation of the team [to light the lamp] by the Devasthanam,” the Collector’s report said.",
-            "Supreme Court hears Deepathoon dispute as Hindu parties accuse the State of defying orders on lighting the Karthigai Deepam lamp.",
-            "The BJP on Wednesday (November 25, 2026) targeted the INDIA alliance and Congress leader Rahul Gandhi over the Karthigai Deepam row, accusing the Tamil Nadu government of defying the Supreme Court’s directions and showing contempt for the Constitution.",
-            "Addressing a press conference, BJP Rajya Sabha MP Sudhanshu Trivedi said the state government did not implement the Supreme Court’s order.",
-            "“I want to bring to your notice the biggest contempt for constitutional authority being committed by the INDIA alliance’s Tamil Nadu government, in utter disregard of India’s eternal culture,” he said."
-          ],
-          "deepExplanation": "<strong>1. Core Context & Background:</strong> The Hindu parties orally mention an application filed before the Supreme Court seeking directions to the State and temple authorities that the deepam lit at the Deepa Mandapam be shifted to the ‘Deepathoon’.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> “To light the lamp at the Deepathoon either by igniting it from the same Deepam that is still burning at the Deepa Mandapam near the Uchipillaiyar Temple, or by making the necessary arrangements in accordance with the order dated November 20, 2026,” the application said. Manickam Tagore on Wednesday (November 25, 2026) accused the BJP, RSS and Hindu Munnani of attempting to “politicise” the Karthigai Deepam celebrations at Thirupparankundram to divide the people of the state.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> “I want to bring to your notice the biggest contempt for constitutional authority being committed by the INDIA alliance’s Tamil Nadu government, in utter disregard of India’s eternal culture,” he said.",
-          "vocabList": [
-            "Application",
-            "Directions",
-            "Authorities",
-            "Mandapam",
-            "Deepathoon",
-            "Igniting"
-          ],
-          "summary": "The Hindu parties orally mention an application filed before the Supreme Court seeking directions to the State and temple authorities that the deepam lit at the Deepa Mandapam be shifted to the ‘Deepathoon’.",
-          "keyPoints": "• The Hindu parties orally mention an application filed before the Supreme Court seeking directions to the State and temple authorities that the deepam lit at the Deepa Mandapam be shifted to the ‘Deepathoon’.<br>• “To light the lamp at the Deepathoon either by igniting it from the same Deepam that is still burning at the Deepa Mandapam near the Uchipillaiyar Temple, or by making the necessary arrangements in accordance with the order dated November 20, 2026,” the application said.<br>• TNCC chief B. Manickam Tagore on Wednesday (November 25, 2026) accused the BJP, RSS and Hindu Munnani of attempting to “politicise” the Karthigai Deepam celebrations at Thirupparankundram to divide the people of the state."
-        },
-        {
-          "category": "national",
-          "categoryLabel": "🏛️ National & Polity",
-          "title": "Missing patient at Thrissur MCH found dead in washroom 36 hours later",
-          "link": "https://www.thehindu.com/news/national/kerala/missing-patient-at-thrissur-mch-found-dead-in-washroom-36-hours-later/article71741635.ece",
-          "pubDate": "Wed, 25 Nov 2026 15:10:10 +0530",
-          "dateIso": "2026-11-25",
-          "dateDisplay": "25 Nov 2026",
-          "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
-          "imageUrl": "https://www.thehindu.com/theme/images/og-image.png",
-          "fullParagraphs": [
-            "The body of a patient who had gone missing from a ward at Thrissur Medical College Hospital was found inside a washroom nearly 36 hours later.",
-            "The deceased was identified as Makutti Ravuthar, 79, a native of Nenmara in Palakkad. He went missing from ward 11 on November 19 around 9 p.m. Though the ward staff alerted the hospital authorities and lodged a complaint with the Medical College police, he could not be traced.",
-            "Eventually, his body was found in the washroom on the morning of November 21.",
-            "Sanitation workers grew suspicious after noticing that a washroom had remained shut from inside for an unusually long period, following which they alerted the security staff, who forced open the door. A post-mortem examination report attributed the death to a heart attack that had occurred around 36 hours earlier.",
-            "He had been admitted on November 16 with a respiratory illness and had no bystanders. A thorough investigation has been sought into the matter, with the Medical College police also registering a case.",
-            "Former Health Minister K.K. Shailaja described the incident as a case of negligence and demanded stern action."
-          ],
-          "deepExplanation": "<strong>1. Core Context & Background:</strong> The body of a patient who had gone missing from a ward at Thrissur Medical College Hospital was found inside a washroom nearly 36 hours later.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> The deceased was identified as Makutti Ravuthar, 79, a native of Nenmara in Palakkad. He went missing from ward 11 on November 19 around 9 p.m.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Shailaja described the incident as a case of negligence and demanded stern action.",
-          "vocabList": [
-            "Thrissur",
-            "Hospital",
-            "Washroom",
-            "Deceased",
-            "Identified",
-            "Ravuthar"
-          ],
-          "summary": "The body of a patient who had gone missing from a ward at Thrissur Medical College Hospital was found inside a washroom nearly 36 hours later.",
-          "keyPoints": "• The body of a patient who had gone missing from a ward at Thrissur Medical College Hospital was found inside a washroom nearly 36 hours later.<br>• The deceased was identified as Makutti Ravuthar, 79, a native of Nenmara in Palakkad. He went missing from ward 11 on November 19 around 9 p.m. Though the ward staff alerted the hospital authorities and lodged a complaint with the Medical College police, he could not be traced.<br>• Eventually, his body was found in the washroom on the morning of November 21."
-        },
-        {
-          "category": "national",
-          "categoryLabel": "🏛️ National & Polity",
-          "title": "Thirupparankundram Deepathoon row: What does John Doe order passed by Madras HC mean?",
-          "link": "https://www.thehindu.com/news/national/tamil-nadu/thriupparankundram-deepathoon-tamil-nadu-john-doe-order-explained/article71741283.ece",
-          "pubDate": "Wed, 25 Nov 2026 15:04:35 +0530",
-          "dateIso": "2026-11-25",
-          "dateDisplay": "25 Nov 2026",
-          "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
-          "imageUrl": "https://th-i.thgim.com/public/todays-paper/2qwuov/article71740660.ece/alternates/LANDSCAPE_1200/TH24-standaloneGK4GRFFMC.5.jpg.jpg",
-          "fullParagraphs": [
+            "The Vishva Hindu Parishad (VHP) accused the TVK government in Tamil Nadu of defying the Supreme Court’s order on the traditional lighting of the Karthigai Deepam at ‘Deepathoon’ on Thiruparankundram hill near Madurai, saying its actions amount to an insult to the judiciary, the Constitution and Hindu religious sentiments.",
+            "The RSS affiliate also warned that “anti-Hindu” politics and such a mindset are nearing extinction from the country’s political landscape and will soon disappear from Tamil Nadu as well.",
+            "In a statement, VHP international president Alok Kumar said preventing a centuries-old religious tradition hurts the faith and sentiments of crores of devotees of Lord Murugan and reflects the state government’s “anti-Hindu obstinacy”.",
+            "“Preventing a centuries-old religious tradition despite the Supreme Court’s order is a grave insult to the Indian Constitution and the judiciary. It is also a serious affront to the faith and beliefs of crores of devotees of Lord Murugan,” Mr. Kumar said.",
+            "Tamil Nadu BJP chief Nainar Nagenthran said the “countdown has begun” for the TVK-led government and warned Chief Minister C. Joseph Vijay of “legal consequences”, after the Karthigai Maha Deepam was not lit at the hilltop pillar in Thirupparankundram despite a Supreme Court order.",
+            "Speaking to reporters, Mr. Nagenthran said the incident was not merely “anti-Hindu but also violated the Constitution”.",
+            "Targeting Mr. Vijay directly, he questioned the CM’s maturity and impartiality.",
+            "“My assessment is that the Tamil Nadu Chief Minister lacks the maturity, magnanimity or mindset required of a CM to view everyone equally. I think he is ruining himself by getting caught in the conspiracies of certain political parties,” he alleged.",
             "The Madurai Bench of the Madras High Court, on November 24, 2026, passed a ‘John Doe’ order in the Deepathoon case with regard to the lighting of the lamp at Thirupparankundram hill in Tamil Nadu’s Madurai for Karthigai Deepam. The High Court bench restrained anyone from violating the November 20 Supreme Court order which allowed the lighting of the lamp on the hillock as a “limited one-time arrangement” only.",
-            "A ‘John Doe’ order is an ex parte injuction ordered against unknown persons. Ex parte injunctions are injunctions that are granted even without hearing the other party. Issued against anonymous offenders, these are also called ‘Ashok Kumar’ orders in India and are equivalents of the place holder ‘John Doe’ used in the U.S.",
-            "Often used as a prohibitory measure by the courts, John Doe orders are issued against anonymous offenders or the world at large.",
-            "In the Thirupparankundram-Deepathoon case, the High Court restricted “members of the general public” from calling for violating the November 20 order issued by the Supreme Court on the issue.",
-            "“Article 144 of the Constitution mandates that all authorities, civil and judicial, in the territory of India shall act in aid of the Supreme Court. The District Collector is a civilian authority and Article 144 will squarely apply to him. Since officials brazenly defied judicial orders last year in connection with Karthigai Deepam, we deem it necessary to remind the District Collector that he is a public servant who is answerable only to the Supreme Court in this case. He shall ignore any contra advice given by any other authority,” the Bench said.",
-            "“We are sure that no law officer worth his salt will counsel him to act in contravention of the order dated November 20. No doubt, a review petition has been filed before the Supreme Court in respect of the order dated November 20. But no order has been passed in the review petition...The law that has been laid down is that pendency of a review petition is not a ground for non-compliance,” the court added.",
-            "John Doe or Ashok Kumar orders are frequently used in intellectual property right cases.",
-            "A 2026 report in The Hindu notes that actor Salman Khan had “sought an injunction against unknown persons, joined as Defendant No. 1 (’John Doe’ or ‘Ashok Kumar’) in a case relating to a China-based AI voice generation platform seeking to vacate an interim injunction protecting Mr Khan’s personality rights.",
-            "The controversy revolves around the Thirupparankanduram hillock in Tamil Nadu’s Madurai and the lighting of a ceremonial lamp on the day of Karthigai Deepam.",
-            "On November 20, the Supreme Court had ruled allowing the lighting of the lamp on the deepathoon atop the Thirupparankundram Hill as a “limited one-time arrangement.” The deepathoon , or stone lamp pillar, is around 50 metres from the Sikandar Badusha Dargah. While the dargah is on the hilltop, the Subramaniya Swamy Temple is at the base of the hillock. The court’s interim arrangement comes amid a dispute between Hindu worshippers and the dargah on the ownership of the hilltop and the deepathoon site.",
-            "However, the ruling TVK government on November 24, defied the Supreme Court order , and the festival lamp was lit only at its customary place at the Thirupparankundram hill."
+            "A ‘John Doe’ order is an ex parte injuction ordered against unknown persons. Ex parte injunctions are injunctions that are granted even without hearing the other party. Issued against anonymous offenders, these are also called ‘Ashok Kumar’ orders in India and are equivalents of the placeholder ‘John Doe’ used in the U.S.",
+            "Thirupparankundram Deepathoon row: What is Madras HC's John Doe order?",
+            "The Hindu parties orally mention an application filed before the Supreme Court seeking directions to the State and temple authorities that the deepam lit at the Deepa Mandapam be shifted to the ‘Deepathoon’."
           ],
-          "deepExplanation": "<strong>1. Core Context & Background:</strong> The Madurai Bench of the Madras High Court, on November 24, 2026, passed a ‘John Doe’ order in the Deepathoon case with regard to the lighting of the lamp at Thirupparankundram hill in Tamil Nadu’s Madurai for Karthigai Deepam.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> The High Court bench restrained anyone from violating the November 20 Supreme Court order which allowed the lighting of the lamp on the hillock as a “limited one-time arrangement” only. A ‘John Doe’ order is an ex parte injuction ordered against unknown persons.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> However, the ruling TVK government on November 24, defied the Supreme Court order , and the festival lamp was lit only at its customary place at the Thirupparankundram hill.",
+          "deepExplanation": "<strong>1. Core Context & Background:</strong> The Vishva Hindu Parishad (VHP) accused the TVK government in Tamil Nadu of defying the Supreme Court’s order on the traditional lighting of the Karthigai Deepam at ‘Deepathoon’ on Thiruparankundram hill near Madurai, saying its actions amount to an insult to the judiciary, the Constitution and Hindu religious sentiments.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> The RSS affiliate also warned that “anti-Hindu” politics and such a mindset are nearing extinction from the country’s political landscape and will soon disappear from Tamil Nadu as well. In a statement, VHP international president Alok Kumar said preventing a centuries-old religious tradition hurts the faith and sentiments of crores of devotees of Lord Murugan and reflects the state government’s “anti-Hindu obstinacy”.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> The Hindu parties orally mention an application filed before the Supreme Court seeking directions to the State and temple authorities that the deepam lit at the Deepa Mandapam be shifted to the ‘Deepathoon’.",
           "vocabList": [
-            "November",
-            "Deepathoon",
+            "Parishad",
+            "Traditional",
             "Lighting",
             "Karthigai",
-            "Restrained",
-            "Violating"
+            "Deepathoon",
+            "Judiciary"
           ],
-          "summary": "The Madurai Bench of the Madras High Court, on November 24, 2026, passed a ‘John Doe’ order in the Deepathoon case with regard to the lighting of the lamp at Thirupparankundram hill in Tamil Nadu’s Madurai for Karthigai Deepam. The High Court bench restrained anyone from violating the November 20 Supreme Court order which allowed the lighting of the lamp on the hillock as a “limited one-time arrangement” only.",
-          "keyPoints": "• The Madurai Bench of the Madras High Court, on November 24, 2026, passed a ‘John Doe’ order in the Deepathoon case with regard to the lighting of the lamp at Thirupparankundram hill in Tamil Nadu’s Madurai for Karthigai Deepam. The High Court bench restrained anyone from violating the November 20 Supreme Court order which allowed the lighting of the lamp on the hillock as a “limited one-time arrangement” only.<br>• A ‘John Doe’ order is an ex parte injuction ordered against unknown persons. Ex parte injunctions are injunctions that are granted even without hearing the other party. Issued against anonymous offenders, these are also called ‘Ashok Kumar’ orders in India and are equivalents of the place holder ‘John Doe’ used in the U.S.<br>• Often used as a prohibitory measure by the courts, John Doe orders are issued against anonymous offenders or the world at large."
-        },
-        {
-          "category": "national",
-          "categoryLabel": "🏛️ National & Polity",
-          "title": "Supreme Court sets aside Allahabad High Court order for CBI, ED enquiries into DA complaint against Rahul Gandhi",
-          "link": "https://www.thehindu.com/news/national/supreme-court-sets-aside-allahabad-high-court-order-for-cbi-ed-enquiries-into-da-complaint-against-rahul-gandhi/article71741683.ece",
-          "pubDate": "Wed, 25 Nov 2026 14:59:45 +0530",
-          "dateIso": "2026-11-25",
-          "dateDisplay": "25 Nov 2026",
-          "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
-          "imageUrl": "https://th-i.thgim.com/public/incoming/hvvlsv/article71662966.ece/alternates/LANDSCAPE_1200/20261101410L.jpg",
-          "fullParagraphs": [
-            "The Supreme Court on Wednesday (November 25, 2026) set aside orders passed by the Allahabad High Court directing Central Bureau of Investigation (CBI) and Enforcement Directorate (ED) inquiries into a disproportionate assets’ complaint against Leader of the Opposition in the Lok Sabha Rahul Gandhi .",
-            "Mr. Gandhi had challenged the interim orders as a green signal to conduct a “fishing” expedition against him . The Congress leader had submitted in his appeal to the Supreme Court that the interim orders were passed without making him a party or hearing him first.",
-            "A three-judge bench led by Chief Justice of India Surya Kant directed that Mr. Gandhi be impleaded as a party, while relegating the case back to the High Court to be heard from the very threshold.",
-            "“We are on the basic fundamentals of hearing. We will not make any observations on the merits of the case,” Chief Justice Kant said.",
-            "The complainant, Vignesh Shishir, who is the respondent before the Supreme Court in Mr. Gandhi’s appeal, said that an accused does not have an inherent right to be heard during the pre-FIR stage.",
-            "However, Justice Joymalya Bagchi pointed out that under the new law, the Bharatiya Nagarik Suraksha Sanhita (BNSS), the scope for the accused to be heard has been expanded.",
-            "Mr. Gandhi, represented by advocate Prasanna S., termed the series of directions passed by the Lucknow Bench of the High Court in May and July directing the Central Bureau of Investigation (CBI) and the Directorate of Enforcement (ED) to probe the allegations against him as one of the rarest instances of a constitutional court acting contrary to several first principles or basic, fundamental legal rules all at once.",
-            "The Opposition Leader had termed these orders “outside the settled rules of law or erroneous, which would be a gross understatement.”",
-            "Mr. Gandhi submitted that the proceedings were characterised by the unjustified secrecy of in-chamber hearings, with documents and pleadings kept under wraps in sealed covers.",
-            "He had maintained that the High Court did not refer to the foundational material or provide reasons in the orders for directing a “roving inquiry”.",
-            "Mr. Gandhi said the High Court did not consider the fact that Mr. Shishir is a member of the Bharatiya Janata Party (BJP) and the Rashtriya Swayam Sevak Sangh (RSS), who had filed multiple complaints and public-interest litigation against him in the past, including allegations of foreign citizenship, up to now, and allegations of holding disproportionate assets.",
-            "Mr. Gandhi had said that the repeated filing of proceedings against him by the same “motivated individuals”, based on “unsubstantiated allegations”, constituted a relevant background demonstrating a pattern of persistent and vexatious litigation."
-          ],
-          "deepExplanation": "<strong>1. Core Context & Background:</strong> The Supreme Court on Wednesday (November 25, 2026) set aside orders passed by the Allahabad High Court directing Central Bureau of Investigation (CBI) and Enforcement Directorate (ED) inquiries into a disproportionate assets’ complaint against Leader of the Opposition in the Lok Sabha Rahul Gandhi .<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Gandhi had challenged the interim orders as a green signal to conduct a “fishing” expedition against him . The Congress leader had submitted in his appeal to the Supreme Court that the interim orders were passed without making him a party or hearing him first.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Gandhi had said that the repeated filing of proceedings against him by the same “motivated individuals”, based on “unsubstantiated allegations”, constituted a relevant background demonstrating a pattern of persistent and vexatious litigation.",
-          "vocabList": [
-            "Wednesday",
-            "November",
-            "Allahabad",
-            "Directing",
-            "Investigation",
-            "Enforcement"
-          ],
-          "summary": "The Supreme Court on Wednesday (November 25, 2026) set aside orders passed by the Allahabad High Court directing Central Bureau of Investigation (CBI) and Enforcement Directorate (ED) inquiries into a disproportionate assets’ complaint against Leader of the Opposition in the Lok Sabha Rahul Gandhi .",
-          "keyPoints": "• The Supreme Court on Wednesday (November 25, 2026) set aside orders passed by the Allahabad High Court directing Central Bureau of Investigation (CBI) and Enforcement Directorate (ED) inquiries into a disproportionate assets’ complaint against Leader of the Opposition in the Lok Sabha Rahul Gandhi .<br>• Mr. Gandhi had challenged the interim orders as a green signal to conduct a “fishing” expedition against him . The Congress leader had submitted in his appeal to the Supreme Court that the interim orders were passed without making him a party or hearing him first.<br>• A three-judge bench led by Chief Justice of India Surya Kant directed that Mr. Gandhi be impleaded as a party, while relegating the case back to the High Court to be heard from the very threshold."
-        },
-        {
-          "category": "national",
-          "categoryLabel": "🏛️ National & Polity",
-          "title": "Keralam CM Satheesan says he too is victim of online attacks, alleges ‘important individual’ behind fake news campaign",
-          "link": "https://www.thehindu.com/news/national/kerala/keralam-cm-satheesan-says-he-too-is-target-of-online-attacks-alleges-important-individual-behind-fake-news-campaign/article71741610.ece",
-          "pubDate": "Wed, 25 Nov 2026 14:56:21 +0530",
-          "dateIso": "2026-11-25",
-          "dateDisplay": "25 Nov 2026",
-          "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
-          "imageUrl": "https://th-i.thgim.com/public/news/national/kerala/ai1gnf/article71741643.ece/alternates/LANDSCAPE_1200/cm.jpg",
-          "fullParagraphs": [
-            "Keralam Chief Minister V.D. Satheesan on Wednesday (November 25, 2026) said that he himself was a victim of online attacks, and that an “important individual” was behind the dissemination of such fake news.",
-            "At a post-Cabinet press briefing, Mr. Satheesan was responding to questions on the online attacks on Congress party leaders and members of the late former Chief Minister Oommen Chandy’s family.",
-            "Mr. Satheesan also displayed copies of social media cards with his photograph which purportedly claim that the government had decided to discontinue the welfare pensions and another attributed to Chandy Oommen that Mr. Satheesan was among the individuals who had caused anguish to his father and Oommen Chandy. “Many such fake news were are being spread in the name of mainstream media organisations,” he said.",
-            "“All this comes from one centre, led by an important individual,” he said, but declined to name the person.",
-            "On the internal conflicts within the Congress involving MPs Rajmohan Unnithan and Shafi Parambil, Mr. Satheesan said he did not wish to comment on “organisational matters.” Such questions should be posed to KPCC president Sunny Joseph, he said.",
-            "Mr. Satheesan said the discussions regarding appointments to the top posts of boards and corporations under the State government were in the final stages.",
-            "Mr. Satheesan’s response came amid criticism from within the Congress party and UDF constituents such as the Revolutionary Socialist Party (RSP) that the appointments were not finalised even after the UDF government had completed six months in power.",
-            "Mr. Satheesan said the appointments would be made soon and the talks were in the final stages.",
-            "On Monday, after a State secretariat meeting of the RSP, its leader N.K. Premachandran had sharply criticised the delay and also the “absence” of regular meetings of the UDF. The RSP also wanted the appointments to be completed, if possible, this month itself.",
-            "On his part, Mr. Satheesan sought to play down the RSP leader’s remarks, saying that it was not criticism as such, and that the party merely wanted the board, corporation division completed quickly."
-          ],
-          "deepExplanation": "<strong>1. Core Context & Background:</strong> Satheesan on Wednesday (November 25, 2026) said that he himself was a victim of online attacks, and that an “important individual” was behind the dissemination of such fake news.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> At a post-Cabinet press briefing, Mr. Satheesan was responding to questions on the online attacks on Congress party leaders and members of the late former Chief Minister Oommen Chandy’s family.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Satheesan sought to play down the RSP leader’s remarks, saying that it was not criticism as such, and that the party merely wanted the board, corporation division completed quickly.",
-          "vocabList": [
-            "Satheesan",
-            "Wednesday",
-            "November",
-            "Individual",
-            "Dissemination",
-            "Briefing"
-          ],
-          "summary": "Keralam Chief Minister V.D. Satheesan on Wednesday (November 25, 2026) said that he himself was a victim of online attacks, and that an “important individual” was behind the dissemination of such fake news.",
-          "keyPoints": "• Keralam Chief Minister V.D. Satheesan on Wednesday (November 25, 2026) said that he himself was a victim of online attacks, and that an “important individual” was behind the dissemination of such fake news.<br>• At a post-Cabinet press briefing, Mr. Satheesan was responding to questions on the online attacks on Congress party leaders and members of the late former Chief Minister Oommen Chandy’s family.<br>• Mr. Satheesan also displayed copies of social media cards with his photograph which purportedly claim that the government had decided to discontinue the welfare pensions and another attributed to Chandy Oommen that Mr. Satheesan was among the individuals who had caused anguish to his father and Oommen Chandy. “Many such fake news were are being spread in the name of mainstream media organisations,” he said."
-        },
-        {
-          "category": "national",
-          "categoryLabel": "🏛️ National & Polity",
-          "title": "30 missing terrorists from Reasi exfiltrated to Pakistan for arms training, disturb peace in India: DGP",
-          "link": "https://www.thehindu.com/news/national/30-missing-terrorists-from-reasi-exfiltrated-to-pakistan-for-arms-training-disturb-peace-in-india-dgp/article71741783.ece",
-          "pubDate": "Wed, 25 Nov 2026 14:55:16 +0530",
-          "dateIso": "2026-11-25",
-          "dateDisplay": "25 Nov 2026",
-          "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
-          "imageUrl": "https://th-i.thgim.com/public/incoming/9lzsol/article71741797.ece/alternates/LANDSCAPE_1200/24-AMARNATH-YATRA-SGR-18-06-2026.JPG",
-          "fullParagraphs": [
-            "Thirty terrorists hailing from Reasi district, who had gone missing between 1991 and 2003, have exfiltrated to Pakistan and are working for a terror outfit, supplying arms, ammunition and money to revive terrorism in Jammu and Kashmir, Director General of Police Nalin Prabhat said on Wednesday (November 25, 2026).",
-            "The police chief said Mahore Police Station received information through reliable sources that 30 terrorists hailing from Mahore and Chassana, missing since 1991 to 2003, had crossed over to Pakistan for weapons training for waging war against India.",
-            "\"These persons are now working for HM [Hizbul Mujahideen] in Pakistan and are supplying arms and ammunition, money, to promote terrorism in J&K, besides instigating and radicalising the youth for taking part in terror activities in the area,\" the DGP said on X.",
-            "The 30 terrorists operating from Pakistan have been identified as Mohd Qayoom of Shadole, Mohd Sabdar of Shajroo, Ghulam Mohd and Ghulam Qadir, both sons of Samdoo and residents of Khour, Mushtaq Ahmad of Khour and Khushal Hussain, a resident of Dada.",
-            "The list further names Abdul Majeed, Mohd Rafiq, alias Shabir, Shabir Ahmad and Manzoor Ahmad, all residents of Karmkatha, Makhna and Alaf Din, both residents of Shajroo, Abdul Majeed of Lar, Ghulam Mohd, alias Gamma, of Shajroo, and Mushtaq Ahmad of Sildhar.",
-            "Others identified are Mohd Yousuf Khakmat, alias Bilal (callsign), of Shadool, Mohd Iqbal and Mohd Ashraf, both residents of Chakrass, Ghulam Mohd of Ladh, Abdul Hamid Najar, alias Mahamdoo, of Shibrass, Jamal Din of Sildhar, and Talib Hussain of Chiklass.",
-            "The remaining names are Mohd Rafiq, Gami Gujjar, both residents of Larh, Mohd Rafiq of Tulli, Mohd Qasim of Kunderdhan, Abdul Hamid of Balmatkote, Shabir Ahmad of Bagodass, Mohd Rafiq of Kunderdhan, and Mohd Ali of Hassote.",
-            "In 2024, Mahore police filed an FIR under sections of the Bharatiya Nyaya Sanhita (BNS), the Explosive and Im­provised Materials Control provisions and the Unlawful Activities (Prevention) Act (UAPA) against these alleged terrorists.",
-            "During the investigation, police recorded statements of witnesses and identified five alleged terrorists who also exfiltrated to Pakistan for arms and ammunition training and were actively involved in attempts to revive terrorist activities in the area from across the border by selling their lands to finance terrorism, the DGP said.",
-            "They have been identified as Mohd Qayoom, alias Abdul Qayoom, of Shadole in Mahore tehsil, Bashir Ahmad, alias Masoom, of Bidder, Shokat Ali of Hunder in Arnas tehsil, Manzoor Ahmad, alias Manzoor Hussain, of Khanti in Thuroo tehsil, and Imtyaz Ahmad of Thuroo.",
-            "Police also seized over 27 kanals of land belonging to these five Reasi terrorists."
-          ],
-          "deepExplanation": "<strong>1. Core Context & Background:</strong> Thirty terrorists hailing from Reasi district, who had gone missing between 1991 and 2003, have exfiltrated to Pakistan and are working for a terror outfit, supplying arms, ammunition and money to revive terrorism in Jammu and Kashmir, Director General of Police Nalin Prabhat said on Wednesday (November 25, 2026).<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> The police chief said Mahore Police Station received information through reliable sources that 30 terrorists hailing from Mahore and Chassana, missing since 1991 to 2003, had crossed over to Pakistan for weapons training for waging war against India. \"These persons are now working for HM [Hizbul Mujahideen] in Pakistan and are supplying arms and ammunition, money, to promote terrorism in J&K, besides instigating and radicalising the youth for taking part in terror activities in the area,\" the DGP said on X.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Police also seized over 27 kanals of land belonging to these five Reasi terrorists.",
-          "vocabList": [
-            "Terrorists",
-            "District",
-            "Exfiltrated",
-            "Pakistan",
-            "Supplying",
-            "Ammunition"
-          ],
-          "summary": "Thirty terrorists hailing from Reasi district, who had gone missing between 1991 and 2003, have exfiltrated to Pakistan and are working for a terror outfit, supplying arms, ammunition and money to revive terrorism in Jammu and Kashmir, Director General of Police Nalin Prabhat said on Wednesday (November 25, 2026).",
-          "keyPoints": "• Thirty terrorists hailing from Reasi district, who had gone missing between 1991 and 2003, have exfiltrated to Pakistan and are working for a terror outfit, supplying arms, ammunition and money to revive terrorism in Jammu and Kashmir, Director General of Police Nalin Prabhat said on Wednesday (November 25, 2026).<br>• The police chief said Mahore Police Station received information through reliable sources that 30 terrorists hailing from Mahore and Chassana, missing since 1991 to 2003, had crossed over to Pakistan for weapons training for waging war against India.<br>• \"These persons are now working for HM [Hizbul Mujahideen] in Pakistan and are supplying arms and ammunition, money, to promote terrorism in J&K, besides instigating and radicalising the youth for taking part in terror activities in the area,\" the DGP said on X."
+          "summary": "The Vishva Hindu Parishad (VHP) accused the TVK government in Tamil Nadu of defying the Supreme Court’s order on the traditional lighting of the Karthigai Deepam at ‘Deepathoon’ on Thiruparankundram hill near Madurai, saying its actions amount to an insult to the judiciary, the Constitution and Hindu religious sentiments.",
+          "keyPoints": "• The Vishva Hindu Parishad (VHP) accused the TVK government in Tamil Nadu of defying the Supreme Court’s order on the traditional lighting of the Karthigai Deepam at ‘Deepathoon’ on Thiruparankundram hill near Madurai, saying its actions amount to an insult to the judiciary, the Constitution and Hindu religious sentiments.<br>• The RSS affiliate also warned that “anti-Hindu” politics and such a mindset are nearing extinction from the country’s political landscape and will soon disappear from Tamil Nadu as well.<br>• In a statement, VHP international president Alok Kumar said preventing a centuries-old religious tradition hurts the faith and sentiments of crores of devotees of Lord Murugan and reflects the state government’s “anti-Hindu obstinacy”."
         },
         {
           "category": "economy",
           "categoryLabel": "📈 Economy & Banking",
           "title": "Air passenger services see 35% inflation in Q2; banking, securities transaction witness deflation",
           "link": "https://www.thehindu.com/business/Economy/air-passenger-services-see-35-inflation-in-q2-banking-securities-transaction-witness-deflation/article71741711.ece",
-          "pubDate": "Wed, 25 Nov 2026 14:41:52 +0530",
+          "pubDate": "Wed, 25 Nov 2026 15:21:19 +0530",
           "dateIso": "2026-11-25",
           "dateDisplay": "25 Nov 2026",
           "examRelevance": "GS Paper-III & Banking/SSC: RBI Monetary Policy, GDP, Inflation, Budget & Banking",
@@ -1546,9 +1534,45 @@
         {
           "category": "scitech",
           "categoryLabel": "🚀 Science, Tech & Environment",
+          "title": "Wildlife, forests, and culture in Gudalur: Sculptures, stories, and interactive workshops",
+          "link": "https://www.thehindu.com/sci-tech/energy-and-environment/wildlife-forests-and-culture-in-gudalur-sculptures-stories-and-interactive-workshops/article71719217.ece",
+          "pubDate": "Wed, 25 Nov 2026 16:01:11 +0530",
+          "dateIso": "2026-11-25",
+          "dateDisplay": "25 Nov 2026",
+          "examRelevance": "GS Paper-III & Prelims: ISRO/NASA Missions, Defense Updates, Tech & Climate Reports",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/pahyz8/article71719489.ece/alternates/LANDSCAPE_1200/1000406014.jpg",
+          "fullParagraphs": [
+            "What if the plants choking the forests of the Nilgiris could be given a second life as works of art?An ongoing exhibition in Gudalur hopes to tell that story, bringing together conservation, craftsmanship and narratives of the intimate relationship between people and the natural world. “For all of us, sharing space with wildlife is part of everyday life,” says Rhea Antony, who takes care of storytelling and design at The Elephant People, a social enterprise based in Gudalur in the Nilgiris Biosphere Reserve that makes hand-carved wildlife sculptures, masks, and everyday objects from invasive plant species like Lantana camara and Senna spectabilis.",
+            "Handcrafted objects made using invasive species vegetation | Photo Credit: Special Arrangement",
+            "The exhibition is an attempt to draw attention to the changing landscapes of the Nilgiris Biosphere Reserve, where the invasive species have spread across native habitats. These fast-growing plants suppress native vegetation, particularly grasses, affecting the food sources of wildlife and sometimes pushing animals towards human settlements.",
+            "ALSO WATCH Watch: How communities are rebuilding the Nilgiris ecosystem",
+            "The Elephant People collective works with Forest Departments of Tamil Nadu, Kerala and Karnataka in clearing these invasive species. Instead of treating the recovered vegetation as waste, they transform the wood into handcrafted objects and sculptures inspired by the region’s wildlife, people, and landscapes.",
+            "The team includes over 50 makers across carving, painting, design, production, and operations | Photo Credit: Special Arrangement",
+            "Titled Into the Forest, the first exhibition by The Elephant People features stories of wildlife, people, shared landscapes, and practices connected to the land. “These stories are brought to life through art and craft, with sculptures and installations created by a team of makers from the Nilgiris, for whom sharing space with wildlife is part of everyday life,” says Rhea. The exhibition features large-scale sculptures, smaller carved pieces, and interactive storytelling experiences. For children, there will be facilitated painting and story-building workshops, alongside interactive art installations that let them explore the forest through play. These installations offer opportunities to learn about different species, their habitats, and the sounds they make.",
+            "“Over the last three years, we’ve been exploring the stories of the Nilgiris and finding ways to bring them to life through art and craft. The region has been central to this journey. It’s wildlife, landscapes, people and the many relationships between them have shaped the stories we are drawn to and the work we create ,” says Rhea. While discovering stories of different species, they also learnt about encounters between people and wildlife, traditional practices, food cultures and ways of living that keep the forest at the centre. Some came from conversations with people, others from naturalists and researchers, and many from simply observing the fascinating relationships that exist within these landscapes.",
+            "ALSO WATCH Watch: A day at Baralikadu: Coracles, tribal food and community-led tourism",
+            "There are smaller objects like magnets and key-chains to large-scale sculptures and interactive installations | Photo Credit: Special Arrangement",
+            "Each of these stories became a starting point. Over the years, they have experimented with different forms, from smaller objects like magnets and key-chains to large-scale sculptures and interactive installations.",
+            "The use of invasive vegetation as a raw material also creates an opportunity to build livelihoods around craft, while taking the story of forest restoration to audiences beyond the region. The Elephant People’s work builds on the experience of The Real Elephant Collective, known for its life-size elephant sculptures made using lantana."
+          ],
+          "deepExplanation": "<strong>1. Core Context & Background:</strong> What if the plants choking the forests of the Nilgiris could be given a second life as works of art?An ongoing exhibition in Gudalur hopes to tell that story, bringing together conservation, craftsmanship and narratives of the intimate relationship between people and the natural world.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> “For all of us, sharing space with wildlife is part of everyday life,” says Rhea Antony, who takes care of storytelling and design at The Elephant People, a social enterprise based in Gudalur in the Nilgiris Biosphere Reserve that makes hand-carved wildlife sculptures, masks, and everyday objects from invasive plant species like Lantana camara and Senna spectabilis. Handcrafted objects made using invasive species vegetation | Photo Credit: Special Arrangement The exhibition is an attempt to draw attention to the changing landscapes of the Nilgiris Biosphere Reserve, where the invasive species have spread across native habitats.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> The Elephant People’s work builds on the experience of The Real Elephant Collective, known for its life-size elephant sculptures made using lantana.",
+          "vocabList": [
+            "Nilgiris",
+            "Exhibition",
+            "Bringing",
+            "Together",
+            "Conservation",
+            "Craftsmanship"
+          ],
+          "summary": "What if the plants choking the forests of the Nilgiris could be given a second life as works of art?An ongoing exhibition in Gudalur hopes to tell that story, bringing together conservation, craftsmanship and narratives of the intimate relationship between people and the natural world. “For all of us, sharing space with wildlife is part of everyday life,” says Rhea Antony, who takes care of storytelling and design at The Elephant People, a social enterprise based in Gudalur in the Nilgiris Biosphere Reserve that makes hand-carved wildlife sculptures, masks, and everyday objects from invasive plant species like Lantana camara and Senna spectabilis.",
+          "keyPoints": "• What if the plants choking the forests of the Nilgiris could be given a second life as works of art?An ongoing exhibition in Gudalur hopes to tell that story, bringing together conservation, craftsmanship and narratives of the intimate relationship between people and the natural world. “For all of us, sharing space with wildlife is part of everyday life,” says Rhea Antony, who takes care of storytelling and design at The Elephant People, a social enterprise based in Gudalur in the Nilgiris Biosphere Reserve that makes hand-carved wildlife sculptures, masks, and everyday objects from invasive plant species like Lantana camara and Senna spectabilis.<br>• Handcrafted objects made using invasive species vegetation | Photo Credit: Special Arrangement<br>• The exhibition is an attempt to draw attention to the changing landscapes of the Nilgiris Biosphere Reserve, where the invasive species have spread across native habitats. These fast-growing plants suppress native vegetation, particularly grasses, affecting the food sources of wildlife and sometimes pushing animals towards human settlements."
+        },
+        {
+          "category": "scitech",
+          "categoryLabel": "🚀 Science, Tech & Environment",
           "title": "All you need to know about: Primary ciliary dyskinesia",
           "link": "https://www.thehindu.com/sci-tech/health/all-you-need-to-know-about-primary-ciliary-dyskinesia/article71727755.ece",
-          "pubDate": "Wed, 25 Nov 2026 15:09:40 +0530",
+          "pubDate": "Wed, 25 Nov 2026 15:52:27 +0530",
           "dateIso": "2026-11-25",
           "dateDisplay": "25 Nov 2026",
           "examRelevance": "GS Paper-III & Prelims: ISRO/NASA Missions, Defense Updates, Tech & Climate Reports",
@@ -1696,40 +1720,6 @@
           ],
           "summary": "Jensen Huang apologised to Nvidia staff and said he was in therapy on Tuesday (November 24, 2026), as a stock rally triggered by his shock return as CEO faltered amid persistent doubts over the probes he faces and the fate of the AI investment boom.",
           "keyPoints": "• Jensen Huang apologised to Nvidia staff and said he was in therapy on Tuesday (November 24, 2026), as a stock rally triggered by his shock return as CEO faltered amid persistent doubts over the probes he faces and the fate of the AI investment boom.<br>• \"I made some terrible mistakes,\" Mr. Huang told an hourlong all-hands meeting at the company's Santa Clara, California, headquarters, The New York Times reported after reviewing a livestream of the event.<br>• He told staff it was \"not acceptable\" that he had broken a code of conduct he had helped write, and dismissed suggestions that he was back because U.S. President Donald Trump had pressured the board."
-        },
-        {
-          "category": "scitech",
-          "categoryLabel": "🚀 Science, Tech & Environment",
-          "title": "Workers in high-risk jobs to receive shots against rabies in Tamil Nadu",
-          "link": "https://www.thehindu.com/news/national/tamil-nadu/workers-in-high-risk-jobs-to-receive-shots-against-rabies-in-tamil-nadu/article71738738.ece",
-          "pubDate": "Wed, 25 Nov 2026 13:07:08 +0530",
-          "dateIso": "2026-11-25",
-          "dateDisplay": "25 Nov 2026",
-          "examRelevance": "GS Paper-III & Prelims: ISRO/NASA Missions, Defense Updates, Tech & Climate Reports",
-          "imageUrl": "https://th-i.thgim.com/public/incoming/w744b9/article71739727.ece/alternates/LANDSCAPE_1200/4871_11_6_2026_15_48_17_1_IMG_5779.JPG",
-          "fullParagraphs": [
-            "Over a lakh persons belonging to high-risk occupational groups, including animal handlers and dog catchers of local bodies, in all 38 districts will receive Pre-Exposure Prophylaxis (PrEP) against rabies under the Tamil Nadu State Action Plan for Dog-Mediated Rabies Elimination (SAPRE) - Vision 2030.",
-            "The State government has given the administrative sanction for implementation of the initiative at a cost of ₹2.22 crore, which will be met from the National Health Mission, Tamil Nadu, an order issued recently said.",
-            "In just four months of 2026, Tamil Nadu records 2.63 lakh dog bites, 17 deaths",
-            "Gaps in anti-rabies treatment persist in Chennai’s health centres",
-            "The Directorate of Public Health (DPH) and Preventive Medicine noted that certain occupational groups are routinely exposed to dogs and other animals in the course of their duties. Provision of PrEP to such identified high-risk personnel will provide an additional layer of protection and strengthen the State’s rabies elimination strategy.",
-            "The programme aims to provide PrEP to identified personnel of occupational groups having sustained risk of exposure to dogs and other potentially rabid animals.",
-            "The main categories include sanitation workers, animal handlers and dog catchers of local bodies and eligible personnel of the Animal Husbandry Department involved in animal handling, dog catching, veterinary and para-veterinary activities.",
-            "As per the National Guidelines on Rabies Prophylaxis, eligibility will be determined based on occupational exposure risk and the nature of duties performed. Based on the presently available department data, the preliminary beneficiary estimation was 1,29,009 - 1,21,844 local body sanitation workers, 3,324 local body animal handlers/dog catchers and 3,841 personnel attached to the Animal Husbandry department, the directorate said.",
-            "The initiative will be implemented through designated government health facilities, including Primary Health Centres (PHC), Urban PHCs, government hospitals, and medical college hospitals. Identification of beneficiaries and mobilisation will be carried out by the respective local bodies and Animal Husbandry Department.",
-            "health / communicable diseases / viral diseases / public health/community medicine / Tamil Nadu"
-          ],
-          "deepExplanation": "<strong>1. Core Context & Background:</strong> Over a lakh persons belonging to high-risk occupational groups, including animal handlers and dog catchers of local bodies, in all 38 districts will receive Pre-Exposure Prophylaxis (PrEP) against rabies under the Tamil Nadu State Action Plan for Dog-Mediated Rabies Elimination (SAPRE) - Vision 2030.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> The State government has given the administrative sanction for implementation of the initiative at a cost of ₹2.22 crore, which will be met from the National Health Mission, Tamil Nadu, an order issued recently said. In just four months of 2026, Tamil Nadu records 2.63 lakh dog bites, 17 deaths Gaps in anti-rabies treatment persist in Chennai’s health centres The Directorate of Public Health (DPH) and Preventive Medicine noted that certain occupational groups are routinely exposed to dogs and other animals in the course of their duties.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> health / communicable diseases / viral diseases / public health/community medicine / Tamil Nadu",
-          "vocabList": [
-            "Belonging",
-            "Occupational",
-            "Handlers",
-            "Catchers",
-            "Districts",
-            "Exposure"
-          ],
-          "summary": "Over a lakh persons belonging to high-risk occupational groups, including animal handlers and dog catchers of local bodies, in all 38 districts will receive Pre-Exposure Prophylaxis (PrEP) against rabies under the Tamil Nadu State Action Plan for Dog-Mediated Rabies Elimination (SAPRE) - Vision 2030.",
-          "keyPoints": "• Over a lakh persons belonging to high-risk occupational groups, including animal handlers and dog catchers of local bodies, in all 38 districts will receive Pre-Exposure Prophylaxis (PrEP) against rabies under the Tamil Nadu State Action Plan for Dog-Mediated Rabies Elimination (SAPRE) - Vision 2030.<br>• The State government has given the administrative sanction for implementation of the initiative at a cost of ₹2.22 crore, which will be met from the National Health Mission, Tamil Nadu, an order issued recently said.<br>• In just four months of 2026, Tamil Nadu records 2.63 lakh dog bites, 17 deaths"
         },
         {
           "category": "editorial",
@@ -3740,169 +3730,169 @@
       "id": "gk_25 Nov 2026_1",
       "cat": "🏛️ National & Polity",
       "date": "25 Nov 2026",
-      "qEn": "[25 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"The Hindu parties orally mention an application filed before the Supreme Court seeking directions to the State and temple authorit...\"?",
-      "qHi": "[25 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"The Hindu parties orally mention an application filed before the Supreme Court seeking directions to the State and temple authorit...\"?",
-      "qMr": "[25 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"The Hindu parties orally mention an application filed before the Supreme Court seeking directions to the State and temple authorit...\"?",
+      "qEn": "[25 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"About 23.9 lakh vehicles in Keralam have failed the mandatory Pollution Under Control (PUC) testing over the past five years....\"?",
+      "qHi": "[25 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"About 23.9 lakh vehicles in Keralam have failed the mandatory Pollution Under Control (PUC) testing over the past five years....\"?",
+      "qMr": "[25 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"About 23.9 lakh vehicles in Keralam have failed the mandatory Pollution Under Control (PUC) testing over the past five years....\"?",
       "optsEn": [
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "Thirupparankundram row LIVE: Madurai District Collector says Devasthanam did not a...",
         "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel"
+        "Inter-State Council Constitutional Review Panel",
+        "Over 23 lakh vehicles in Keralam have failed to clear Pollution Under Control chec..."
       ],
       "optsHi": [
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "Thirupparankundram row LIVE: Madurai District Collector says Devasthanam did not a...",
         "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel"
+        "Inter-State Council Constitutional Review Panel",
+        "Over 23 lakh vehicles in Keralam have failed to clear Pollution Under Control chec..."
       ],
       "optsMr": [
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "Thirupparankundram row LIVE: Madurai District Collector says Devasthanam did not a...",
         "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel"
+        "Inter-State Council Constitutional Review Panel",
+        "Over 23 lakh vehicles in Keralam have failed to clear Pollution Under Control chec..."
       ],
-      "ans": 1,
-      "explanation": "<strong>1. Core Context & Background:</strong> The Hindu parties orally mention an application filed before the Supreme Court seeking directions to the State and temple authorities that the deepam lit at the Deepa Mandapam be shifted to the ‘Deepathoon’.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> “To light the lamp at the Deepathoon either by igniting it from the same Deepam that is still burning at the Deepa Mandapam near the Uchipillaiyar Temple, or by making the necessary arrangements in accordance with the order dated November 20, 2026,” the application said. Manickam Tagore on Wednesday (November 25, 2026) accused the BJP, RSS and Hindu Munnani of attempting to “politicise” the Karthigai Deepam celebrations at Thirupparankundram to divide the people of the state.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> “I want to bring to your notice the biggest contempt for constitutional authority being committed by the INDIA alliance’s Tamil Nadu government, in utter disregard of India’s eternal culture,” he said."
+      "ans": 3,
+      "explanation": "<strong>1. Core Context & Background:</strong> About 23.9 lakh vehicles in Keralam have failed the mandatory Pollution Under Control (PUC) testing over the past five years.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> A total of about 5.74 crore PUC tests were held from the financial year 2021 to September 30, 2026. About 5.5 crore vehicles had passed the test while 23.9 lakh vehicles failed to clear it, according to estimates by the Department of Transport.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Air pollution also increases the burden of non-communicable diseases, linked with heart attacks, strokes, high blood pressure, and diabetes,” Dr."
     },
     {
       "id": "gk_25 Nov 2026_2",
       "cat": "🏛️ National & Polity",
       "date": "25 Nov 2026",
-      "qEn": "[25 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"The body of a patient who had gone missing from a ward at Thrissur Medical College Hospital was found inside a washroom nearly 36 ...\"?",
-      "qHi": "[25 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"The body of a patient who had gone missing from a ward at Thrissur Medical College Hospital was found inside a washroom nearly 36 ...\"?",
-      "qMr": "[25 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"The body of a patient who had gone missing from a ward at Thrissur Medical College Hospital was found inside a washroom nearly 36 ...\"?",
+      "qEn": "[25 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"The Kallakurichi All Women Police on Wednesday (November 25, 2026) served summons on Kallakurichi TVK MLA C. Arul Vignesh in conne...\"?",
+      "qHi": "[25 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"The Kallakurichi All Women Police on Wednesday (November 25, 2026) served summons on Kallakurichi TVK MLA C. Arul Vignesh in conne...\"?",
+      "qMr": "[25 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"The Kallakurichi All Women Police on Wednesday (November 25, 2026) served summons on Kallakurichi TVK MLA C. Arul Vignesh in conne...\"?",
       "optsEn": [
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
         "15th Finance Commission Special State Grant",
-        "Missing patient at Thrissur MCH found dead in washroom 36 hours later",
+        "Kallakurichi police serve summons on TVK MLA Arul Vignesh",
         "Inter-State Council Constitutional Review Panel"
       ],
       "optsHi": [
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
         "15th Finance Commission Special State Grant",
-        "Missing patient at Thrissur MCH found dead in washroom 36 hours later",
+        "Kallakurichi police serve summons on TVK MLA Arul Vignesh",
         "Inter-State Council Constitutional Review Panel"
       ],
       "optsMr": [
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
         "15th Finance Commission Special State Grant",
-        "Missing patient at Thrissur MCH found dead in washroom 36 hours later",
+        "Kallakurichi police serve summons on TVK MLA Arul Vignesh",
         "Inter-State Council Constitutional Review Panel"
       ],
       "ans": 2,
-      "explanation": "<strong>1. Core Context & Background:</strong> The body of a patient who had gone missing from a ward at Thrissur Medical College Hospital was found inside a washroom nearly 36 hours later.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> The deceased was identified as Makutti Ravuthar, 79, a native of Nenmara in Palakkad. He went missing from ward 11 on November 19 around 9 p.m.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Shailaja described the incident as a case of negligence and demanded stern action."
+      "explanation": "<strong>1. Core Context & Background:</strong> The Kallakurichi All Women Police on Wednesday (November 25, 2026) served summons on Kallakurichi TVK MLA C.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Arul Vignesh in connection with a case registered against him on a complaint lodged by a woman IAS officer. Inspector Bhuvaneshwari attached to the All Women Police station visited the MLA’s house in Kallakurichi and handed the summons to him in person.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> 📹: Special Arrangement https://t.co/llqM6wyaam"
     },
     {
       "id": "gk_25 Nov 2026_3",
       "cat": "🏛️ National & Polity",
       "date": "25 Nov 2026",
-      "qEn": "[25 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"The Madurai Bench of the Madras High Court, on November 24, 2026, passed a ‘John Doe’ order in the Deepathoon case with regard to ...\"?",
-      "qHi": "[25 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"The Madurai Bench of the Madras High Court, on November 24, 2026, passed a ‘John Doe’ order in the Deepathoon case with regard to ...\"?",
-      "qMr": "[25 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"The Madurai Bench of the Madras High Court, on November 24, 2026, passed a ‘John Doe’ order in the Deepathoon case with regard to ...\"?",
+      "qEn": "[25 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"Leader of the Opposition Udhayanidhi Stalin on Wednesday (November 25, 2026) submitted a petition at the Tamil Nadu Director Gener...\"?",
+      "qHi": "[25 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"Leader of the Opposition Udhayanidhi Stalin on Wednesday (November 25, 2026) submitted a petition at the Tamil Nadu Director Gener...\"?",
+      "qMr": "[25 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"Leader of the Opposition Udhayanidhi Stalin on Wednesday (November 25, 2026) submitted a petition at the Tamil Nadu Director Gener...\"?",
       "optsEn": [
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
         "15th Finance Commission Special State Grant",
         "Inter-State Council Constitutional Review Panel",
-        "Thirupparankundram Deepathoon row: What does John Doe order passed by Madras HC mean?"
+        "Udhayanidhi Stalin submits petition to Tamil Nadu DGP demanding arrest of Kallakur..."
       ],
       "optsHi": [
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
         "15th Finance Commission Special State Grant",
         "Inter-State Council Constitutional Review Panel",
-        "Thirupparankundram Deepathoon row: What does John Doe order passed by Madras HC mean?"
+        "Udhayanidhi Stalin submits petition to Tamil Nadu DGP demanding arrest of Kallakur..."
       ],
       "optsMr": [
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
         "15th Finance Commission Special State Grant",
         "Inter-State Council Constitutional Review Panel",
-        "Thirupparankundram Deepathoon row: What does John Doe order passed by Madras HC mean?"
+        "Udhayanidhi Stalin submits petition to Tamil Nadu DGP demanding arrest of Kallakur..."
       ],
       "ans": 3,
-      "explanation": "<strong>1. Core Context & Background:</strong> The Madurai Bench of the Madras High Court, on November 24, 2026, passed a ‘John Doe’ order in the Deepathoon case with regard to the lighting of the lamp at Thirupparankundram hill in Tamil Nadu’s Madurai for Karthigai Deepam.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> The High Court bench restrained anyone from violating the November 20 Supreme Court order which allowed the lighting of the lamp on the hillock as a “limited one-time arrangement” only. A ‘John Doe’ order is an ex parte injuction ordered against unknown persons.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> However, the ruling TVK government on November 24, defied the Supreme Court order , and the festival lamp was lit only at its customary place at the Thirupparankundram hill."
+      "explanation": "<strong>1. Core Context & Background:</strong> Leader of the Opposition Udhayanidhi Stalin on Wednesday (November 25, 2026) submitted a petition at the Tamil Nadu Director General of Police (DGP) office in Chennai demanding the immediate arrest of Kallakurichi MLA C.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Arul Vignesh of Tamilaga Vettri Kazhagam (TVK), action against Tamil Nadu Chief Secretary M. Sai Kumar, and the transfer of the assault case involving Thuraiyur TVK MLA and Deputy Speaker M.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Ravishankar allegedly assaulted a petitioner at his residence, Udhayanidhi Stalin demanded the arrest of both the legislators and reiterated his call for a CBI probe into the Kallakurichi case."
     },
     {
       "id": "gk_25 Nov 2026_4",
       "cat": "🏛️ National & Polity",
       "date": "25 Nov 2026",
-      "qEn": "[25 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"The Supreme Court on Wednesday (November 25, 2026) set aside orders passed by the Allahabad High Court directing Central Bureau of...\"?",
-      "qHi": "[25 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"The Supreme Court on Wednesday (November 25, 2026) set aside orders passed by the Allahabad High Court directing Central Bureau of...\"?",
-      "qMr": "[25 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"The Supreme Court on Wednesday (November 25, 2026) set aside orders passed by the Allahabad High Court directing Central Bureau of...\"?",
+      "qEn": "[25 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"The Telangana Government will soon introduce a single window system facilitating hassle free establishment of poultry farms at gra...\"?",
+      "qHi": "[25 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"The Telangana Government will soon introduce a single window system facilitating hassle free establishment of poultry farms at gra...\"?",
+      "qMr": "[25 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"The Telangana Government will soon introduce a single window system facilitating hassle free establishment of poultry farms at gra...\"?",
       "optsEn": [
-        "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel",
-        "Supreme Court sets aside Allahabad High Court order for CBI, ED enquiries into DA ..."
-      ],
-      "optsHi": [
-        "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel",
-        "Supreme Court sets aside Allahabad High Court order for CBI, ED enquiries into DA ..."
-      ],
-      "optsMr": [
-        "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel",
-        "Supreme Court sets aside Allahabad High Court order for CBI, ED enquiries into DA ..."
-      ],
-      "ans": 3,
-      "explanation": "<strong>1. Core Context & Background:</strong> The Supreme Court on Wednesday (November 25, 2026) set aside orders passed by the Allahabad High Court directing Central Bureau of Investigation (CBI) and Enforcement Directorate (ED) inquiries into a disproportionate assets’ complaint against Leader of the Opposition in the Lok Sabha Rahul Gandhi .<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Gandhi had challenged the interim orders as a green signal to conduct a “fishing” expedition against him . The Congress leader had submitted in his appeal to the Supreme Court that the interim orders were passed without making him a party or hearing him first.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Gandhi had said that the repeated filing of proceedings against him by the same “motivated individuals”, based on “unsubstantiated allegations”, constituted a relevant background demonstrating a pattern of persistent and vexatious litigation."
-    },
-    {
-      "id": "gk_25 Nov 2026_5",
-      "cat": "🏛️ National & Polity",
-      "date": "25 Nov 2026",
-      "qEn": "[25 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"Keralam Chief Minister V.D. Satheesan on Wednesday (November 25, 2026) said that he himself was a victim of online attacks, and th...\"?",
-      "qHi": "[25 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"Keralam Chief Minister V.D. Satheesan on Wednesday (November 25, 2026) said that he himself was a victim of online attacks, and th...\"?",
-      "qMr": "[25 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"Keralam Chief Minister V.D. Satheesan on Wednesday (November 25, 2026) said that he himself was a victim of online attacks, and th...\"?",
-      "optsEn": [
-        "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "15th Finance Commission Special State Grant",
-        "Keralam CM Satheesan says he too is victim of online attacks, alleges ‘important i...",
-        "Inter-State Council Constitutional Review Panel"
-      ],
-      "optsHi": [
-        "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "15th Finance Commission Special State Grant",
-        "Keralam CM Satheesan says he too is victim of online attacks, alleges ‘important i...",
-        "Inter-State Council Constitutional Review Panel"
-      ],
-      "optsMr": [
-        "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "15th Finance Commission Special State Grant",
-        "Keralam CM Satheesan says he too is victim of online attacks, alleges ‘important i...",
-        "Inter-State Council Constitutional Review Panel"
-      ],
-      "ans": 2,
-      "explanation": "<strong>1. Core Context & Background:</strong> Satheesan on Wednesday (November 25, 2026) said that he himself was a victim of online attacks, and that an “important individual” was behind the dissemination of such fake news.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> At a post-Cabinet press briefing, Mr. Satheesan was responding to questions on the online attacks on Congress party leaders and members of the late former Chief Minister Oommen Chandy’s family.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Satheesan sought to play down the RSP leader’s remarks, saying that it was not criticism as such, and that the party merely wanted the board, corporation division completed quickly."
-    },
-    {
-      "id": "gk_25 Nov 2026_6",
-      "cat": "🏛️ National & Polity",
-      "date": "25 Nov 2026",
-      "qEn": "[25 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"Thirty terrorists hailing from Reasi district, who had gone missing between 1991 and 2003, have exfiltrated to Pakistan and are wo...\"?",
-      "qHi": "[25 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"Thirty terrorists hailing from Reasi district, who had gone missing between 1991 and 2003, have exfiltrated to Pakistan and are wo...\"?",
-      "qMr": "[25 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"Thirty terrorists hailing from Reasi district, who had gone missing between 1991 and 2003, have exfiltrated to Pakistan and are wo...\"?",
-      "optsEn": [
-        "30 missing terrorists from Reasi exfiltrated to Pakistan for arms training, distur...",
+        "Telangana Govt to set up single window system for hassle free development of poult...",
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
         "15th Finance Commission Special State Grant",
         "Inter-State Council Constitutional Review Panel"
       ],
       "optsHi": [
-        "30 missing terrorists from Reasi exfiltrated to Pakistan for arms training, distur...",
+        "Telangana Govt to set up single window system for hassle free development of poult...",
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
         "15th Finance Commission Special State Grant",
         "Inter-State Council Constitutional Review Panel"
       ],
       "optsMr": [
-        "30 missing terrorists from Reasi exfiltrated to Pakistan for arms training, distur...",
+        "Telangana Govt to set up single window system for hassle free development of poult...",
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
         "15th Finance Commission Special State Grant",
         "Inter-State Council Constitutional Review Panel"
       ],
       "ans": 0,
-      "explanation": "<strong>1. Core Context & Background:</strong> Thirty terrorists hailing from Reasi district, who had gone missing between 1991 and 2003, have exfiltrated to Pakistan and are working for a terror outfit, supplying arms, ammunition and money to revive terrorism in Jammu and Kashmir, Director General of Police Nalin Prabhat said on Wednesday (November 25, 2026).<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> The police chief said Mahore Police Station received information through reliable sources that 30 terrorists hailing from Mahore and Chassana, missing since 1991 to 2003, had crossed over to Pakistan for weapons training for waging war against India. \"These persons are now working for HM [Hizbul Mujahideen] in Pakistan and are supplying arms and ammunition, money, to promote terrorism in J&K, besides instigating and radicalising the youth for taking part in terror activities in the area,\" the DGP said on X.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Police also seized over 27 kanals of land belonging to these five Reasi terrorists."
+      "explanation": "<strong>1. Core Context & Background:</strong> The Telangana Government will soon introduce a single window system facilitating hassle free establishment of poultry farms at gram panchayat level across the State.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> The single window system was contemplated after the industry took the challenges faced by it in establishing poultry units in the State and requested for the government’s support during times of crisis. The government has resolved to recognise poultry sector as a priority area and formulate policies aimed at providing long-term solutions.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Referring to the ongoing El Nino phenomenon, he said the government had kept stocks of fine rice ready for meeting the requirements for the next two years."
+    },
+    {
+      "id": "gk_25 Nov 2026_5",
+      "cat": "🏛️ National & Polity",
+      "date": "25 Nov 2026",
+      "qEn": "[25 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"State Public Prosecutor (SPP) R. John Sathyan on Wednesday (November 25, 2026) informed the Madras High Court that the Tamil Nadu ...\"?",
+      "qHi": "[25 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"State Public Prosecutor (SPP) R. John Sathyan on Wednesday (November 25, 2026) informed the Madras High Court that the Tamil Nadu ...\"?",
+      "qMr": "[25 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"State Public Prosecutor (SPP) R. John Sathyan on Wednesday (November 25, 2026) informed the Madras High Court that the Tamil Nadu ...\"?",
+      "optsEn": [
+        "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "Kallakurichi TVK MLA case: Internal Complaints Committee has been constituted, Mad...",
+        "15th Finance Commission Special State Grant",
+        "Inter-State Council Constitutional Review Panel"
+      ],
+      "optsHi": [
+        "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "Kallakurichi TVK MLA case: Internal Complaints Committee has been constituted, Mad...",
+        "15th Finance Commission Special State Grant",
+        "Inter-State Council Constitutional Review Panel"
+      ],
+      "optsMr": [
+        "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "Kallakurichi TVK MLA case: Internal Complaints Committee has been constituted, Mad...",
+        "15th Finance Commission Special State Grant",
+        "Inter-State Council Constitutional Review Panel"
+      ],
+      "ans": 1,
+      "explanation": "<strong>1. Core Context & Background:</strong> John Sathyan on Wednesday (November 25, 2026) informed the Madras High Court that the Tamil Nadu government has constituted an Internal Complaints Committee (ICC) under the Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) Act, 2013 for inquiring into a complaint lodged by a woman IAS officer against Kallakurichi TVK MLA C.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Lakshminarayanan, the SPP said, a Government Order had been issued formally notifying the ICC and listing out its members. After hearing him, the judge said, the State should also ensure that an ICC was in place not only to deal with the present complaint but also with other future complaints that may arise due to sexual harassment of women at workplace.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Kamini, serving at the office of the Director General of Police/Head of Police Force in Chennai, shall monitor the investigation to be conducted pursuant to the registration of a First Information Report (FIR) booked at the Kallakurichi All Women Police Station on Monday (November 23)."
+    },
+    {
+      "id": "gk_25 Nov 2026_6",
+      "cat": "🏛️ National & Polity",
+      "date": "25 Nov 2026",
+      "qEn": "[25 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"The Vishva Hindu Parishad (VHP) accused the TVK government in Tamil Nadu of defying the Supreme Court’s order on the traditional l...\"?",
+      "qHi": "[25 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"The Vishva Hindu Parishad (VHP) accused the TVK government in Tamil Nadu of defying the Supreme Court’s order on the traditional l...\"?",
+      "qMr": "[25 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"The Vishva Hindu Parishad (VHP) accused the TVK government in Tamil Nadu of defying the Supreme Court’s order on the traditional l...\"?",
+      "optsEn": [
+        "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "15th Finance Commission Special State Grant",
+        "Thirupparankundram row LIVE: Madurai District Collector says Devasthanam did not a...",
+        "Inter-State Council Constitutional Review Panel"
+      ],
+      "optsHi": [
+        "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "15th Finance Commission Special State Grant",
+        "Thirupparankundram row LIVE: Madurai District Collector says Devasthanam did not a...",
+        "Inter-State Council Constitutional Review Panel"
+      ],
+      "optsMr": [
+        "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "15th Finance Commission Special State Grant",
+        "Thirupparankundram row LIVE: Madurai District Collector says Devasthanam did not a...",
+        "Inter-State Council Constitutional Review Panel"
+      ],
+      "ans": 2,
+      "explanation": "<strong>1. Core Context & Background:</strong> The Vishva Hindu Parishad (VHP) accused the TVK government in Tamil Nadu of defying the Supreme Court’s order on the traditional lighting of the Karthigai Deepam at ‘Deepathoon’ on Thiruparankundram hill near Madurai, saying its actions amount to an insult to the judiciary, the Constitution and Hindu religious sentiments.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> The RSS affiliate also warned that “anti-Hindu” politics and such a mindset are nearing extinction from the country’s political landscape and will soon disappear from Tamil Nadu as well. In a statement, VHP international president Alok Kumar said preventing a centuries-old religious tradition hurts the faith and sentiments of crores of devotees of Lord Murugan and reflects the state government’s “anti-Hindu obstinacy”.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> The Hindu parties orally mention an application filed before the Supreme Court seeking directions to the State and temple authorities that the deepam lit at the Deepa Mandapam be shifted to the ‘Deepathoon’."
     },
     {
       "id": "gk_25 Nov 2026_7",
