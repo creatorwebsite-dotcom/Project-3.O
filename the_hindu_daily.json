@@ -1,12 +1,12 @@
 {
-  "updatedAt": "26 Nov 2026, 03:58 AM IST",
+  "updatedAt": "26 Nov 2026, 05:18 AM IST",
   "currentDateIso": "2026-11-26",
   "currentDateDisplay": "26 Nov 2026",
   "availableDates": [
     {
       "dateIso": "2026-11-26",
       "dateDisplay": "26 Nov 2026",
-      "updatedAt": "26 Nov 2026, 03:58 AM IST",
+      "updatedAt": "26 Nov 2026, 05:18 AM IST",
       "articleCount": 30
     },
     {
@@ -23,9 +23,77 @@
     }
   ],
   "hookLine1": "The Hindu Printed Broadsheet & Editorial Digest (26 Nov 2026)",
-  "hookLine2": "100% In-App Full Newspaper Pages & Deep Editorial Analysis • Updated: 26 Nov 2026, 03:58 AM IST",
+  "hookLine2": "100% In-App Full Newspaper Pages & Deep Editorial Analysis • Updated: 26 Nov 2026, 05:18 AM IST",
   "totalArticles": 30,
   "articles": [
+    {
+      "category": "national",
+      "categoryLabel": "🏛️ National & Polity",
+      "title": "Uttariya instead of robes: West Bengal Government suggests universities to adopt Indian attire in convocations",
+      "link": "https://www.thehindu.com/news/national/west-bengal/uttariya-instead-of-robes-west-bengal-government-suggests-universities-to-adopt-indian-attire-in-convocations/article71742913.ece",
+      "pubDate": "Thu, 26 Nov 2026 04:01:27 +0530",
+      "dateIso": "2026-11-26",
+      "dateDisplay": "26 Nov 2026",
+      "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
+      "imageUrl": "https://www.thehindu.com/theme/images/og-image.png",
+      "fullParagraphs": [
+        "West Bengal Higher Education Department has advised all the State-aided universities to adopt Indian attire such as Uttariya and clothes made of handloom fabric instead of Western robes during convocation or any academic ceremony.",
+        "“We are putting effort to follow our own Indian culture and tradition. Uttariyo is enough for such ceremonies. Why do we have to wear robes? Many institutions, including the Indian Institute of Technology [IIT], have adopted only uttariya. Hence, we made the suggestion,” West Bengal Higher Education Minister Jagannath Chattopadhyay told media persons on Wednesday (November 25, 2026).",
+        "The development also came days after Mr. Chattopadhyay praised the Jalpaiguri Government Engineering College for upholding Indian traditions by replacing the conventional academic gown with a traditional uttariya.",
+        "“As we strive to build a self-reliant Bharat, our education system must also reflect our civilisational values and cultural identity,” he wrote on X congratulating the students of the college.",
+        "In its notice sent to all the vice chancellors of the universities, the department has now said that the UGC had not prescribed any rigid uniform design for ceremonial robes.",
+        "Hence, the universities have the flexibility to incorporate traditional Indian attire, such as the uttariya, and to design distinct ceremonial attire for dignitaries and degree recipients.",
+        "Monday’s (November 23) notice to the VCs said that the ceremonial attire made from Indian handloom was more suited to India’s climate. Such a preference for handloom fabrics and traditional Indian attire also supports the rural handloom industry and weavers’ livelihoods, it said.",
+        "“In view of the above, you are requested to take necessary steps to consider adopting handloom fabrics and traditional attire for the academic robes worn during convocation in your esteemed university as well as affiliated colleges, wherever applicable,” the department stated in the advisory asking the universities to send to confirmation of the communication to the department."
+      ],
+      "deepExplanation": "<strong>1. Core Context & Background:</strong> West Bengal Higher Education Department has advised all the State-aided universities to adopt Indian attire such as Uttariya and clothes made of handloom fabric instead of Western robes during convocation or any academic ceremony.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> “We are putting effort to follow our own Indian culture and tradition. Uttariyo is enough for such ceremonies.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> “In view of the above, you are requested to take necessary steps to consider adopting handloom fabrics and traditional attire for the academic robes worn during convocation in your esteemed university as well as affiliated colleges, wherever applicable,” the department stated in the advisory asking the universities to send to confirmation of the communication to the department.",
+      "vocabList": [
+        "Universities",
+        "Uttariya",
+        "Handloom",
+        "Convocation",
+        "Academic",
+        "Ceremony"
+      ],
+      "summary": "West Bengal Higher Education Department has advised all the State-aided universities to adopt Indian attire such as Uttariya and clothes made of handloom fabric instead of Western robes during convocation or any academic ceremony.",
+      "keyPoints": "• West Bengal Higher Education Department has advised all the State-aided universities to adopt Indian attire such as Uttariya and clothes made of handloom fabric instead of Western robes during convocation or any academic ceremony.<br>• “We are putting effort to follow our own Indian culture and tradition. Uttariyo is enough for such ceremonies. Why do we have to wear robes? Many institutions, including the Indian Institute of Technology [IIT], have adopted only uttariya. Hence, we made the suggestion,” West Bengal Higher Education Minister Jagannath Chattopadhyay told media persons on Wednesday (November 25, 2026).<br>• The development also came days after Mr. Chattopadhyay praised the Jalpaiguri Government Engineering College for upholding Indian traditions by replacing the conventional academic gown with a traditional uttariya."
+    },
+    {
+      "category": "national",
+      "categoryLabel": "🏛️ National & Polity",
+      "title": "Congress wins majority of Zila Pramukh posts in Rajasthan polls",
+      "link": "https://www.thehindu.com/news/national/rajasthan/congress-wins-majority-of-zila-pramukh-posts-in-rajasthan-polls/article71743297.ece",
+      "pubDate": "Thu, 26 Nov 2026 03:45:09 +0530",
+      "dateIso": "2026-11-26",
+      "dateDisplay": "26 Nov 2026",
+      "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
+      "imageUrl": "https://th-i.thgim.com/public/incoming/5t86zq/article71744264.ece/alternates/LANDSCAPE_1200/20261125121L.jpg",
+      "fullParagraphs": [
+        "After its decisive victory in the last week’s Panchayati Raj elections, the Opposition Congress in Rajasthan on Wednesday (November 25, 2026) took control of 24 of the 37 zila parishads which elected their heads, while the ruling Bharatiya Janata Party secured 10 Zila Pramukh posts despite having a majority in just five rural district bodies.",
+        "The Bharat Adivasi Party won tribal-dominated Banswara and Dungarpur, while Nagaur MP Hanuman Beniwal’s Rashtriya Loktantrik Party retained Nagaur. No independent candidate was elected Zila Pramukh in any district.",
+        "The votes for panchayat samitis and zila parishads were counted on November 20 in 37 of the State’s 41 districts. Members elected in the panchayat polls voted on Wednesday to choose their respective heads, while the results in the remaining four districts – Kota, Baran, Karauli and Sriganganagar – will be declared in December.",
+        "The BJP pulled off a surprise victory in Churu, where the Congress had a clear majority, and secured five of the eight zila parishads where no party had an absolute majority. The Congress largely managed to keep its flock together, losing only one of the 23 rural bodies where it enjoyed majority.",
+        "Congress candidate Mamta Gurjar defeated BJP’s Nirmala Rawat by just one vote in Beawar, despite the BJP having a majority. Renu Wala of Congress defeated BJP’s Pooja Jatav by 17 votes to 14 in Bharatpur, which is Chief Minister Bhajan Lal Sharma’s home district.",
+        "Among the zila parishads where no party had a clear majority, the BJP won Balotra, Didwana-Kuchaman, Deeg, Khairthal-Tijara and Pratapgarh, and the Congress won Salumbar. In Churu, where the Congress held 21 of the 39 seats against the BJP’s 17, ruling party candidate Kanika Singh, daughter-in-law of former Minister Rajendra Rathore, defeated Congress candidate Prakash Devi, indicating cross-voting.",
+        "Congress candidate Nikita Dudi defeated party rebel Sarita Choudhary, who contested as an Independent, by 23 votes to 18 in Bikaner. Dissatisfaction over the party nomination had reportedly led to the rebellion, while the BJP had withdrawn its candidate in Bikaner.",
+        "The Congress narrowly avoided an embarrassment in Dholpur despite holding 21 of the 29 seats, as its candidate Anisha Singh defeated her nearest rival by just one vote. The BJP also secured Balotra zila parishad by one vote. The Congress registered comfortable victories in several of its traditional strongholds, including Jaipur, Jodhpur, Alwar, Sikar and Bhilwara.",
+        "Twenty-one-year-old Congress candidate Santosh Kumari was elected unopposed as Zila Pramukh in Jaisalmer. Ms. Kumari, who completed her class XII and is unmarried, belongs to a Scheduled Tribe community. Two other candidates elected unopposed were Beena Bairwa in Dausa and Asha Devi in Sawai Madhopur. Both of them were Congress candidates.",
+        "There were stray incidents of arguments and jostling at some places during the election process. Tensions were reported in Jaipur, Bharatpur and Bhilwara, where workers and leaders of rival parties were involved in heated exchanges.",
+        "Veteran Congress leader and former Chief Minister Ashok Gehlot congratulated the new elected Zila Pramukhs, saying the rural public had reposed faith in them by voting against the BJP government’s “misrule”. “I trust that you will become the voice of the villagers, farmers and livestock keepers,” Mr. Gehlot said.",
+        "Indian National Congress / election / Bharatiya Janata Party / Rashtriya Loktantrik Party"
+      ],
+      "deepExplanation": "<strong>1. Core Context & Background:</strong> After its decisive victory in the last week’s Panchayati Raj elections, the Opposition Congress in Rajasthan on Wednesday (November 25, 2026) took control of 24 of the 37 zila parishads which elected their heads, while the ruling Bharatiya Janata Party secured 10 Zila Pramukh posts despite having a majority in just five rural district bodies.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> The Bharat Adivasi Party won tribal-dominated Banswara and Dungarpur, while Nagaur MP Hanuman Beniwal’s Rashtriya Loktantrik Party retained Nagaur. No independent candidate was elected Zila Pramukh in any district.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Indian National Congress / election / Bharatiya Janata Party / Rashtriya Loktantrik Party",
+      "vocabList": [
+        "Decisive",
+        "Panchayati",
+        "Elections",
+        "Opposition",
+        "Congress",
+        "Rajasthan"
+      ],
+      "summary": "After its decisive victory in the last week’s Panchayati Raj elections, the Opposition Congress in Rajasthan on Wednesday (November 25, 2026) took control of 24 of the 37 zila parishads which elected their heads, while the ruling Bharatiya Janata Party secured 10 Zila Pramukh posts despite having a majority in just five rural district bodies.",
+      "keyPoints": "• After its decisive victory in the last week’s Panchayati Raj elections, the Opposition Congress in Rajasthan on Wednesday (November 25, 2026) took control of 24 of the 37 zila parishads which elected their heads, while the ruling Bharatiya Janata Party secured 10 Zila Pramukh posts despite having a majority in just five rural district bodies.<br>• The Bharat Adivasi Party won tribal-dominated Banswara and Dungarpur, while Nagaur MP Hanuman Beniwal’s Rashtriya Loktantrik Party retained Nagaur. No independent candidate was elected Zila Pramukh in any district.<br>• The votes for panchayat samitis and zila parishads were counted on November 20 in 37 of the State’s 41 districts. Members elected in the panchayat polls voted on Wednesday to choose their respective heads, while the results in the remaining four districts – Kota, Baran, Karauli and Sriganganagar – will be declared in December."
+    },
     {
       "category": "national",
       "categoryLabel": "🏛️ National & Polity",
@@ -91,130 +159,70 @@
     {
       "category": "national",
       "categoryLabel": "🏛️ National & Polity",
-      "title": "Rajbanshi language to be included in Eighth Schedule of Constitution: Suvendu Adhikari",
-      "link": "https://www.thehindu.com/news/national/west-bengal/rajbanshi-languageto-be-included-ineighth-schedule-of-constitutionsuvendu-adhikari/article71742836.ece",
-      "pubDate": "Thu, 26 Nov 2026 01:53:32 +0530",
+      "title": "Delhi High Court grants time to ED to respond to Engineer Rashid’s plea",
+      "link": "https://www.thehindu.com/news/cities/Delhi/delhi-high-court-grants-time-to-ed-to-respond-to-engineer-rashids-plea/article71742613.ece",
+      "pubDate": "Thu, 26 Nov 2026 02:29:13 +0530",
       "dateIso": "2026-11-26",
       "dateDisplay": "26 Nov 2026",
       "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
-      "imageUrl": "https://th-i.thgim.com/public/incoming/zw3rw/article71744116.ece/alternates/LANDSCAPE_1200/20261117271L.jpg",
+      "imageUrl": "https://th-i.thgim.com/public/incoming/izo8t9/article71744122.ece/alternates/LANDSCAPE_1200/PTI04_30_2026_000174A.jpg",
       "fullParagraphs": [
-        "West Bengal Chief Minister Suvendu Adhikari on Wednesday (November 25, 2026) said that the Rajbanshi language will be included in the Eight Schedule of the Constitution, a promise that their party had made during their Assembly election campaign.",
-        "During the inauguration of a festival in West Bengal’s Cooch Behar district, Mr Adhikari said that their government is taking complete care of the Rajbanshi community, including their language, culture, political aspirations, and financial security.",
-        "He added that as promised in BJP’s West Bengal Assembly poll manifesto and reiterated by several top BJP leaders during the buildup to the elections, Rajbanshi language is set to be part of the Eight Schedule of the Constitution.",
-        "“We raised the issue during a meeting with the Union home minister and the home secretary on November 19 that was attended by me and the state’s chief secretary,” Mr Adhikari told reporters before the inauguration of Ras Utsav (annual celebration of Radha-Krishna) festivities in Cooch Behar.",
-        "At Cooch Behar, Mr Adhikari was greeted by Cabinet minister Nisith Pramanik, a member of the Rajbanshi community. Later, the CM also took part in the festivities in the local area. Mr Adhikari also added that the Rajbanshi community expressed their dissatisfaction over losing their land ownership in the region as he held the Left Front government responsible for it.",
-        "He also added that the previous governments in the State did not offer much participation of the Rajbanshi community in the cabinet and that their government has done more for the community since they came to power. The Rajbanshi community has always stood by us since 2019, Mr Adhikari added. In the recently concluded assembly polls, the BJP performed exceptionally well in north Bengal and won eight out of nine seats in the Cooch Behar district."
+        "The Delhi High Court on Wednesday (November 25, 2026) granted time to the Enforcement Directorate (ED) to respond to a plea by Baramulla MP Abdul Rashid Sheikh , challenging the framing of charges against him in a money laundering case linked to alleged funding from Pakistan through hawala channels for secessionist activities in Jammu and Kashmir.",
+        "Justice Sachin Datta listed the matter for further hearing on December 16 after the prosecutor said he needed one week to consult the special public prosecutor in the case.",
+        "Mr. Rashid Sheikh, also known as Engineer Rashid, has challenged a September 9 order by which the trial court had ordered the framing of charges against the people.",
+        "On October 24, the special court had formally framed charges against the accused and put them on trial under the Prevention of Money Laundering Act (PMLA) after finding sufficient material on record to raise a strong suspicion of their involvement in the offence.",
+        "The ED has alleged that proceeds of crime amounting to Rs 8.94 crore were generated and received, routed, transferred, concealed, possessed, acquired and used by the accused through various channels.",
+        "The seven accused include Malik, chief of the banned Jammu and Kashmir Liberation Front (JKLF), separatist leader Shabir Ahmad Shah, Masarat Alam, Zahoor Ahmad Shah Watali, Naval Kishore Kapoor, and M/s Trison Farms and Constructions Pvt Ltd.",
+        "The ED case stems from a 2017 National Investigation Agency (NIA) case in which charges under various provisions of the Indian Penal Code and the Unlawful Activities (Prevention) Act (UAPA) were invoked.",
+        "The prosecution has alleged that the accused received funds from the “Pakistani establishment” through hawala channels and other means to propagate secessionist activities and carry out acts prejudicial to the law of the land."
       ],
-      "deepExplanation": "<strong>1. Core Context & Background:</strong> West Bengal Chief Minister Suvendu Adhikari on Wednesday (November 25, 2026) said that the Rajbanshi language will be included in the Eight Schedule of the Constitution, a promise that their party had made during their Assembly election campaign.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> During the inauguration of a festival in West Bengal’s Cooch Behar district, Mr Adhikari said that their government is taking complete care of the Rajbanshi community, including their language, culture, political aspirations, and financial security. He added that as promised in BJP’s West Bengal Assembly poll manifesto and reiterated by several top BJP leaders during the buildup to the elections, Rajbanshi language is set to be part of the Eight Schedule of the Constitution.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> In the recently concluded assembly polls, the BJP performed exceptionally well in north Bengal and won eight out of nine seats in the Cooch Behar district.",
+      "deepExplanation": "<strong>1. Core Context & Background:</strong> The Delhi High Court on Wednesday (November 25, 2026) granted time to the Enforcement Directorate (ED) to respond to a plea by Baramulla MP Abdul Rashid Sheikh , challenging the framing of charges against him in a money laundering case linked to alleged funding from Pakistan through hawala channels for secessionist activities in Jammu and Kashmir.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Justice Sachin Datta listed the matter for further hearing on December 16 after the prosecutor said he needed one week to consult the special public prosecutor in the case. Rashid Sheikh, also known as Engineer Rashid, has challenged a September 9 order by which the trial court had ordered the framing of charges against the people.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> The prosecution has alleged that the accused received funds from the “Pakistani establishment” through hawala channels and other means to propagate secessionist activities and carry out acts prejudicial to the law of the land.",
       "vocabList": [
-        "Adhikari",
         "Wednesday",
         "November",
-        "Rajbanshi",
-        "Language",
-        "Included"
+        "Enforcement",
+        "Directorate",
+        "Baramulla",
+        "Challenging"
       ],
-      "summary": "West Bengal Chief Minister Suvendu Adhikari on Wednesday (November 25, 2026) said that the Rajbanshi language will be included in the Eight Schedule of the Constitution, a promise that their party had made during their Assembly election campaign.",
-      "keyPoints": "• West Bengal Chief Minister Suvendu Adhikari on Wednesday (November 25, 2026) said that the Rajbanshi language will be included in the Eight Schedule of the Constitution, a promise that their party had made during their Assembly election campaign.<br>• During the inauguration of a festival in West Bengal’s Cooch Behar district, Mr Adhikari said that their government is taking complete care of the Rajbanshi community, including their language, culture, political aspirations, and financial security.<br>• He added that as promised in BJP’s West Bengal Assembly poll manifesto and reiterated by several top BJP leaders during the buildup to the elections, Rajbanshi language is set to be part of the Eight Schedule of the Constitution."
+      "summary": "The Delhi High Court on Wednesday (November 25, 2026) granted time to the Enforcement Directorate (ED) to respond to a plea by Baramulla MP Abdul Rashid Sheikh , challenging the framing of charges against him in a money laundering case linked to alleged funding from Pakistan through hawala channels for secessionist activities in Jammu and Kashmir.",
+      "keyPoints": "• The Delhi High Court on Wednesday (November 25, 2026) granted time to the Enforcement Directorate (ED) to respond to a plea by Baramulla MP Abdul Rashid Sheikh , challenging the framing of charges against him in a money laundering case linked to alleged funding from Pakistan through hawala channels for secessionist activities in Jammu and Kashmir.<br>• Justice Sachin Datta listed the matter for further hearing on December 16 after the prosecutor said he needed one week to consult the special public prosecutor in the case.<br>• Mr. Rashid Sheikh, also known as Engineer Rashid, has challenged a September 9 order by which the trial court had ordered the framing of charges against the people."
     },
     {
       "category": "national",
       "categoryLabel": "🏛️ National & Polity",
-      "title": "Right to choose a partner is an aspect of constitutional freedom, not a privilege granted by a family, caste or community: Thirumavalavan",
-      "link": "https://www.thehindu.com/news/national/tamil-nadu/right-to-choose-a-partner-is-an-aspect-of-constitutional-freedom-not-a-privilege-granted-by-a-family-caste-or-community-thirumavalavan/article71743441.ece",
-      "pubDate": "Thu, 26 Nov 2026 01:45:56 +0530",
+      "title": "Thane Crime Branch arrests five in Mumbra dacoity case, cracks seven other cases",
+      "link": "https://www.thehindu.com/news/national/maharashtra/thane-crime-branch-arrests-five-in-mumbra-dacoity-case-cracks-seven-other-cases/article71742645.ece",
+      "pubDate": "Thu, 26 Nov 2026 02:15:39 +0530",
       "dateIso": "2026-11-26",
       "dateDisplay": "26 Nov 2026",
       "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
-      "imageUrl": "https://th-i.thgim.com/public/incoming/w7uzvm/article71744117.ece/alternates/LANDSCAPE_1200/Thirumavalavan-GSTGITQRI.3.jpg.jpg",
+      "imageUrl": "https://th-i.thgim.com/public/incoming/6nrxww/article71744119.ece/alternates/LANDSCAPE_1200/iStock-1447145892%207.jpg",
       "fullParagraphs": [
-        "In his memorandum to Chairperson of Tamil Nadu Commission for the Prevention of Honour Killings, Viduthalai Chiruthaigal Katchi founder and Chidambaram MP, Thol. Thirumavalavan said, “the right to choose one’s partner is not a privilege granted by a family, caste or community” but “an aspect of the constitutional freedom and dignity of every individual”.",
-        "In his request to the Commission headed by Justice K.N. Basha, Mr. Thirumavalavan said that the Commission should “recommend the enactment of a comprehensive Tamil Nadu law against honour killings and honour-based crimes, with a broad definition rooted in the right to choose a partner and individual autonomy”.",
-        "He further urged the Commission to provide a framework to address “collective and mob-based honour violence”, which would ensure that “every person who intentionally participates in, instigates, facilitates or enables the crime can be held accountable under clearly defined standards of criminal responsibility”.",
-        "The VCK leader further said that enforceable duties and penalties should be imposed on police and public officials who fail to protect couples despite credible threats, including wilful refusal to register complaints, disclosure of confidential information and dereliction of preventive duties.",
-        "Mr. Thirumavalavan also demanded that there exist comprehensive protection for couples, survivors, witnesses and their families, including safehouses, relocation, legal aid, counselling, medical care, compensation and rehabilitation. He also appealed to the Commission to submit “a draft Bill and a time-bound implementation framework to the Government of Tamil Nadu, with budgetary allocations, monitoring arrangements and annual reporting to the Legislature”."
+        "The Thane Crime Branch has arrested five members of a gang allegedly involved in targeting bungalows and farmhouses across Thane district, solving eight cases, including the November 17 dacoity in Mumbra, officials said on Wednesday (November 25, 2026). Police have recovered stolen valuables worth ₹2.39 lakh from the accused.",
+        "The arrested accused have been identified as Vijay Chavan (45), Laxman Bhosale (43), Satish Waghe (27), Narayan Thombre (27), and Jayesh Kathore (35). All five have been remanded in police custody till November 30, while a search is underway for four other accused directly linked to the Mumbra case.",
+        "According to the police, eight to nine persons allegedly broke into the bungalow of complainant Tukaram Munde in Mumbra on November 17, threatened him with sharp weapons, restrained him and fled with gold ornaments worth ₹1.55 lakh and ₹84,000 in cash. Police have since recovered the stolen property.",
+        "Deputy Commissioner of Police (Crime) Amarsingh Jadhav said the accused had been conducting reconnaissance in the area for six months.",
+        "“Even after the November 17 dacoity in Mumbra, Bhosale and Vijay Chavan conducted reconnaissance in Panvel. Information regarding this has emerged during the investigation,” Mr. Jadhav said.",
+        "The accused allegedly targeted residential properties, forcibly entered houses, restrained occupants and security guards, and assaulted or threatened them before fleeing with valuables.",
+        "During the investigation, Crime Branch officials examined footage from around 150 to 200 CCTV cameras, conducted technical analysis and gathered intelligence through informants to identify and apprehend the accused.",
+        "Police said Chavan, the main accused and a resident of Badlapur, has 18 criminal cases registered against him, including dacoity, robbery and theft, across several police jurisdictions in Maharashtra. Another accused, Thombre, also has a previous criminal case registered against him.",
+        "According to Mr. Jadhav, some of the accused had previously committed offences alongside Chavan, while some had become acquainted in prison. Police said members of the gang had been released from prison around six months ago. The accused allegedly operated in different groups and assembled after identifying potential targets.",
+        "The investigation has also led to the detection of seven other cases registered at the Kulgaon, Kalyan Taluka, Vasind and Padgha police stations.",
+        "Mr. Jadhav said the involvement of several other individuals who allegedly assisted the accused in conducting reconnaissance had also emerged during the investigation, taking the estimated number of wanted persons to seven or eight.",
+        "The Mumbra police are conducting further investigations, with the Crime Branch carrying out a parallel probe to apprehend the remaining accused and ascertain whether the gang was involved in other offences."
       ],
-      "deepExplanation": "<strong>1. Core Context & Background:</strong> In his memorandum to Chairperson of Tamil Nadu Commission for the Prevention of Honour Killings, Viduthalai Chiruthaigal Katchi founder and Chidambaram MP, Thol.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Thirumavalavan said, “the right to choose one’s partner is not a privilege granted by a family, caste or community” but “an aspect of the constitutional freedom and dignity of every individual”. In his request to the Commission headed by Justice K.N.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> He also appealed to the Commission to submit “a draft Bill and a time-bound implementation framework to the Government of Tamil Nadu, with budgetary allocations, monitoring arrangements and annual reporting to the Legislature”.",
+      "deepExplanation": "<strong>1. Core Context & Background:</strong> The Thane Crime Branch has arrested five members of a gang allegedly involved in targeting bungalows and farmhouses across Thane district, solving eight cases, including the November 17 dacoity in Mumbra, officials said on Wednesday (November 25, 2026).<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Police have recovered stolen valuables worth ₹2.39 lakh from the accused. The arrested accused have been identified as Vijay Chavan (45), Laxman Bhosale (43), Satish Waghe (27), Narayan Thombre (27), and Jayesh Kathore (35).<br><br><strong>3. Way Forward & Exam Conclusion:</strong> The Mumbra police are conducting further investigations, with the Crime Branch carrying out a parallel probe to apprehend the remaining accused and ascertain whether the gang was involved in other offences.",
       "vocabList": [
-        "Memorandum",
-        "Chairperson",
-        "Commission",
-        "Prevention",
-        "Killings",
-        "Viduthalai"
+        "Arrested",
+        "Allegedly",
+        "Involved",
+        "Targeting",
+        "Bungalows",
+        "Farmhouses"
       ],
-      "summary": "In his memorandum to Chairperson of Tamil Nadu Commission for the Prevention of Honour Killings, Viduthalai Chiruthaigal Katchi founder and Chidambaram MP, Thol. Thirumavalavan said, “the right to choose one’s partner is not a privilege granted by a family, caste or community” but “an aspect of the constitutional freedom and dignity of every individual”.",
-      "keyPoints": "• In his memorandum to Chairperson of Tamil Nadu Commission for the Prevention of Honour Killings, Viduthalai Chiruthaigal Katchi founder and Chidambaram MP, Thol. Thirumavalavan said, “the right to choose one’s partner is not a privilege granted by a family, caste or community” but “an aspect of the constitutional freedom and dignity of every individual”.<br>• In his request to the Commission headed by Justice K.N. Basha, Mr. Thirumavalavan said that the Commission should “recommend the enactment of a comprehensive Tamil Nadu law against honour killings and honour-based crimes, with a broad definition rooted in the right to choose a partner and individual autonomy”.<br>• He further urged the Commission to provide a framework to address “collective and mob-based honour violence”, which would ensure that “every person who intentionally participates in, instigates, facilitates or enables the crime can be held accountable under clearly defined standards of criminal responsibility”."
-    },
-    {
-      "category": "national",
-      "categoryLabel": "🏛️ National & Polity",
-      "title": "Kallakurichi TVK MLA Arul Vignesh summoned for questioning in harassment case",
-      "link": "https://www.thehindu.com/news/national/tamil-nadu/kallakurichi-tvk-mla-arul-vignesh-summoned-for-questioning-in-harassment-case/article71742298.ece",
-      "pubDate": "Thu, 26 Nov 2026 01:42:18 +0530",
-      "dateIso": "2026-11-26",
-      "dateDisplay": "26 Nov 2026",
-      "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
-      "imageUrl": "https://th-i.thgim.com/public/incoming/5rphnq/article71743396.ece/alternates/LANDSCAPE_1200/2786_25_11_2026_17_45_48_1__DSC7462.JPEG",
-      "fullParagraphs": [
-        "The Kallakurichi All Women Police on Wednesday (November 25, 2026) served summons on Kallakurichi TVK MLA C. Arul Vignesh directing him to appear for questioning in connection with a harassment case registered against him on a complaint lodged by a woman IAS officer.",
-        "Inspector Bhuvaneshwari attached to the All Women Police station visited the MLA’s house in Kallakurichi and handed the summons to him in person. The police also questioned Arul Vignesh at the house.",
-        "The woman IAS officer had submitted a formal complaint to the Kallakurichi district Superintendent of Police on Monday (November 23), accusing the MLA of making inappropriate advances and sending unwarranted messages.",
-        "The police have booked a case against the MLA invoking provisions of the Tamil Nadu Prohibition of Harassment of Women Act and Sections 75, 78 and 79 of the Bharatiya Nyaya Sanhita.",
-        "Police sources said that Tiruppur Superintendent of Police Shristi Singh, who has been appointed as the Investigating Officer in the criminal case, began preliminary investigation into the incident on Wednesday after receiving the inquiry report from Kallakurichi Superintendent of Police I. Shahnaz at the All Women Police Station. Inspector General of Police (Administration) N. Kamini has been appointed to supervise the investigation.",
-        "The National Commission for Women had earlier taken suo moto cognisance of the allegations and asked the Tamil Nadu Director General of Police to conduct an impartial inquiry.",
-        "In the morning, more than 30 Democratic Youth Federation of India (DYFI) activists were arrested when they attempted to lay siege to the office of Kallakurichi TVK MLA, demanding his resignation over the allegations against him. The protesters raised slogans alleging lack of safety for women.",
-        "The DMK’s women wing also staged a demonstration at the Four Roads junction in Kallakurichi demanding the arrest of the MLA. They burnt the effigy of the MLA and raised slogans against him.",
-        "Meanwhile, police personnel have been deployed in strength at the MLA’s office in Kallakurichi."
-      ],
-      "deepExplanation": "<strong>1. Core Context & Background:</strong> The Kallakurichi All Women Police on Wednesday (November 25, 2026) served summons on Kallakurichi TVK MLA C.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Arul Vignesh directing him to appear for questioning in connection with a harassment case registered against him on a complaint lodged by a woman IAS officer. Inspector Bhuvaneshwari attached to the All Women Police station visited the MLA’s house in Kallakurichi and handed the summons to him in person.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Meanwhile, police personnel have been deployed in strength at the MLA’s office in Kallakurichi.",
-      "vocabList": [
-        "Kallakurichi",
-        "Wednesday",
-        "November",
-        "Directing",
-        "Questioning",
-        "Connection"
-      ],
-      "summary": "The Kallakurichi All Women Police on Wednesday (November 25, 2026) served summons on Kallakurichi TVK MLA C. Arul Vignesh directing him to appear for questioning in connection with a harassment case registered against him on a complaint lodged by a woman IAS officer.",
-      "keyPoints": "• The Kallakurichi All Women Police on Wednesday (November 25, 2026) served summons on Kallakurichi TVK MLA C. Arul Vignesh directing him to appear for questioning in connection with a harassment case registered against him on a complaint lodged by a woman IAS officer.<br>• Inspector Bhuvaneshwari attached to the All Women Police station visited the MLA’s house in Kallakurichi and handed the summons to him in person. The police also questioned Arul Vignesh at the house.<br>• The woman IAS officer had submitted a formal complaint to the Kallakurichi district Superintendent of Police on Monday (November 23), accusing the MLA of making inappropriate advances and sending unwarranted messages."
-    },
-    {
-      "category": "national",
-      "categoryLabel": "🏛️ National & Polity",
-      "title": "No permission sought for November 26 anti-SIR march, Delhi Police say; organisers say ‘intimation’ sent",
-      "link": "https://www.thehindu.com/news/cities/Delhi/no-permission-sought-for-november-26-anti-sir-march-says-delhi-police/article71741234.ece",
-      "pubDate": "Thu, 26 Nov 2026 01:17:28 +0530",
-      "dateIso": "2026-11-26",
-      "dateDisplay": "26 Nov 2026",
-      "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
-      "imageUrl": "https://th-i.thgim.com/public/incoming/l6akrl/article71741232.ece/alternates/LANDSCAPE_1200/SIR%20Protest%20DELHI%2020.JPG",
-      "fullParagraphs": [
-        "No permission has been sought from the Delhi Police for a protest march against the Special Intensive Revision (SIR) of electoral rolls , scheduled for November 26 , senior New Delhi police officials said. The organisers, however, maintained that they had intimated the police about the proposed demonstration.",
-        "The Delhi wing of the People Against SIR platform has called for a march on Constitution Day from Valmiki Sadan on Mandir Marg towards Jantar Mantar. The protesters are demanding the scrapping of SIR and the restoration of Jantar Mantar as a designated site for peaceful protests, among other demands.",
-        "An email dated November 23, 2026, seen by The Hindu , was sent to the Delhi Police to inform them about the proposed programme. It stated: “This is to inform you that we, the Delhi People Against SIR, are going to observe Constitution Day as per the details given.”",
-        "The email further stated that participants would assemble outside Valmiki Sadan on Mandir Marg at 12.30 p.m. on November 26 and march towards Jantar Mantar via Kali Bari Marg. “This is for your information and any follow-up/arrangements,” it added.",
-        "“We make sure not to ask for permission but only inform the police about the march,” Maimoona Mollah, a representative of the platform, told The Hindu .",
-        "Ms. Mollah claimed that the police had acknowledged the intimation and subsequently sought further details, including the proposed route and the expected number of participants expected. These details, she said, were shared with the police over a telephone conversation. The organisers have also announced plans to burn copies of the SIR notification during the demonstration.",
-        "Public notice 🔶Information has been received that Samyukta Kisan Morcha and other activists are planning a protest march from Kali Bari to Jantar Mantar on 26.11.2026. No application for permission has been received and no permission has been granted for the said march. 🔶Section 163 BNSS, 2023, is in force in New Delhi District. Unauthorised gatherings, processions, demonstrations, speeches, sloganeering and dharnas are prohibited. 🔶All are requested to comply with the order u/s 163 BNSS and cooperate with Police. Violations will invite legal action.",
-        "However, New Delhi police officers denied receiving the intimation and stressed that prohibitory orders under Section 163 of the Bharatiya Nagarik Suraksha Sanhita (BNSS) remain in force in the area and warned that action would be taken against gatherings in violation of the restrictions.",
-        "The police said “preventive” security measures would be put in place to prevent any unauthorised gathering in the area. These would include multi-layer barricading, deployment of additional personnel and preventive detentions, if required, to disperse crowds and prevent protesters from assembling in violation of the prohibitory orders.",
-        "People Against SIR was formed on October 14 following an emergency consultation in Delhi attended by representatives of more than 200 organisations. The national platform brings together 145 civil society groups, farmers’ unions, workers’ organisations, and women’s and youth groups across 18 States to campaign against the SIR exercise.",
-        "The platform has claimed that more than 50% of the voters who were on Delhi’s electoral rolls in January 2025 and voted in the February 2025 Assembly election have either been deleted or categorised as doubtful following the revision exercise.",
-        "The organisers have described SIR as an attack on the Constitution and the right to vote, alleging that the exercise disproportionately affects marginalised communities, including minorities, Dalits, transgender persons, women, migrant workers and the homeless."
-      ],
-      "deepExplanation": "<strong>1. Core Context & Background:</strong> No permission has been sought from the Delhi Police for a protest march against the Special Intensive Revision (SIR) of electoral rolls , scheduled for November 26 , senior New Delhi police officials said.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> The organisers, however, maintained that they had intimated the police about the proposed demonstration. The Delhi wing of the People Against SIR platform has called for a march on Constitution Day from Valmiki Sadan on Mandir Marg towards Jantar Mantar.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> The organisers have described SIR as an attack on the Constitution and the right to vote, alleging that the exercise disproportionately affects marginalised communities, including minorities, Dalits, transgender persons, women, migrant workers and the homeless.",
-      "vocabList": [
-        "Permission",
-        "Intensive",
-        "Revision",
-        "Electoral",
-        "Scheduled",
-        "November"
-      ],
-      "summary": "No permission has been sought from the Delhi Police for a protest march against the Special Intensive Revision (SIR) of electoral rolls , scheduled for November 26 , senior New Delhi police officials said. The organisers, however, maintained that they had intimated the police about the proposed demonstration.",
-      "keyPoints": "• No permission has been sought from the Delhi Police for a protest march against the Special Intensive Revision (SIR) of electoral rolls , scheduled for November 26 , senior New Delhi police officials said. The organisers, however, maintained that they had intimated the police about the proposed demonstration.<br>• The Delhi wing of the People Against SIR platform has called for a march on Constitution Day from Valmiki Sadan on Mandir Marg towards Jantar Mantar. The protesters are demanding the scrapping of SIR and the restoration of Jantar Mantar as a designated site for peaceful protests, among other demands.<br>• An email dated November 23, 2026, seen by The Hindu , was sent to the Delhi Police to inform them about the proposed programme. It stated: “This is to inform you that we, the Delhi People Against SIR, are going to observe Constitution Day as per the details given.”"
+      "summary": "The Thane Crime Branch has arrested five members of a gang allegedly involved in targeting bungalows and farmhouses across Thane district, solving eight cases, including the November 17 dacoity in Mumbra, officials said on Wednesday (November 25, 2026). Police have recovered stolen valuables worth ₹2.39 lakh from the accused.",
+      "keyPoints": "• The Thane Crime Branch has arrested five members of a gang allegedly involved in targeting bungalows and farmhouses across Thane district, solving eight cases, including the November 17 dacoity in Mumbra, officials said on Wednesday (November 25, 2026). Police have recovered stolen valuables worth ₹2.39 lakh from the accused.<br>• The arrested accused have been identified as Vijay Chavan (45), Laxman Bhosale (43), Satish Waghe (27), Narayan Thombre (27), and Jayesh Kathore (35). All five have been remanded in police custody till November 30, while a search is underway for four other accused directly linked to the Mumbra case.<br>• According to the police, eight to nine persons allegedly broke into the bungalow of complainant Tukaram Munde in Mumbra on November 17, threatened him with sharp weapons, restrained him and fled with gold ornaments worth ₹1.55 lakh and ₹84,000 in cash. Police have since recovered the stolen property."
     },
     {
       "category": "economy",
@@ -425,6 +433,38 @@
     {
       "category": "ir",
       "categoryLabel": "🌐 International Relations",
+      "title": "Andy Taylor, guitarist of new wave icons Duran Duran, dies at 65",
+      "link": "https://www.thehindu.com/entertainment/music/andy-taylor-guitarist-of-new-wave-icons-duran-duran-dies-at-65/article71744266.ece",
+      "pubDate": "Thu, 26 Nov 2026 04:16:30 +0530",
+      "dateIso": "2026-11-26",
+      "dateDisplay": "26 Nov 2026",
+      "examRelevance": "GS Paper-II & Current Affairs: Bilateral Agreements, Foreign Visits & UN/G20/BRICS",
+      "imageUrl": "https://th-i.thgim.com/public/incoming/x9epz0/article71744268.ece/alternates/LANDSCAPE_1200/Andy_Taylor_449_7.jpg",
+      "fullParagraphs": [
+        "Andy Taylor, the original guitarist of the 1980s English new wave band Duran Duran , whose huge pop hits include “Hungry Like the Wolf,” “The Reflex” and “Rio” and whose rise up the charts was inextricably linked to the launch of MTV, has died. He was 65.",
+        "Taylor's death was confirmed by his family and bandmates in a statement posted on social media and Duran Duran's website.",
+        "“From the moment he arrived in Birmingham from the North East with a guitar and an unshakeable belief in what we could become, he brought an indelible fire and swagger to our music. His playing drove the songs that took us around the world, and with a dry wit that was matched only by his wonderfully unsentimental, no-nonsense outlook on life, he kept us grounded and gave the band its edge through the extraordinary years that followed,” the band said.",
+        "On the night he was inducted into the Rock & Roll Hall of Fame in November 2022, Taylor revealed that he had been battling stage 4 metastatic prostate cancer for several years and was unable to attend.",
+        "“I would like to thank each of my brothers in this great band,” he wrote. “You can dream about what happened to us but to experience it, on one's own terms, as mates, was beyond incredible.”",
+        "The two-time Grammy Award winners had nine gold records and six platinum ones, with 20 Top 20 singles in the U.K. and 18 in the U.S. They were two-time Ivor Novello Award winners and are MTV Video Music Award recipients.",
+        "The band's imperial stage occurred with a trio of hit albums between 1981 and 1983, with such dance-floor barnburners as “Girls on Film” and “Union of the Snake” and the moody ballads “The Chauffeur” and “Save a Prayer”. Other hits in the coming years included “The Wild Boys,” “New Moon on Monday” and “Come Undone.” Their popularity was cemented when they recorded the James Bond theme song “A View to a Kill” and earned a slot at Live Aid in 1985.",
+        "Mixing fashion, pioneering synthesisers and glam-pop swagger, the telegenic band were all over radio and young people's walls, with bassist John Taylor and singer Simon Le Bon becoming heartthrobs and the band being labelled part of the New Romantics. Princess Diana was known to be a fan, and that meant a lot to the band."
+      ],
+      "deepExplanation": "<strong>1. Core Context & Background:</strong> Andy Taylor, the original guitarist of the 1980s English new wave band Duran Duran , whose huge pop hits include “Hungry Like the Wolf,” “The Reflex” and “Rio” and whose rise up the charts was inextricably linked to the launch of MTV, has died.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Taylor's death was confirmed by his family and bandmates in a statement posted on social media and Duran Duran's website. “From the moment he arrived in Birmingham from the North East with a guitar and an unshakeable belief in what we could become, he brought an indelible fire and swagger to our music.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Princess Diana was known to be a fan, and that meant a lot to the band.",
+      "vocabList": [
+        "Original",
+        "Guitarist",
+        "Inextricably",
+        "Confirmed",
+        "Bandmates",
+        "Birmingham"
+      ],
+      "summary": "Andy Taylor, the original guitarist of the 1980s English new wave band Duran Duran , whose huge pop hits include “Hungry Like the Wolf,” “The Reflex” and “Rio” and whose rise up the charts was inextricably linked to the launch of MTV, has died. He was 65.",
+      "keyPoints": "• Andy Taylor, the original guitarist of the 1980s English new wave band Duran Duran , whose huge pop hits include “Hungry Like the Wolf,” “The Reflex” and “Rio” and whose rise up the charts was inextricably linked to the launch of MTV, has died. He was 65.<br>• Taylor's death was confirmed by his family and bandmates in a statement posted on social media and Duran Duran's website.<br>• “From the moment he arrived in Birmingham from the North East with a guitar and an unshakeable belief in what we could become, he brought an indelible fire and swagger to our music. His playing drove the songs that took us around the world, and with a dry wit that was matched only by his wonderfully unsentimental, no-nonsense outlook on life, he kept us grounded and gave the band its edge through the extraordinary years that followed,” the band said."
+    },
+    {
+      "category": "ir",
+      "categoryLabel": "🌐 International Relations",
       "title": "Fuel tanker crash ignites massive fire on highway surrounding Cairo, killing at least 30 people",
       "link": "https://www.thehindu.com/news/international/fuel-tanker-crash-ignites-massive-fire-on-highway-surrounding-cairo/article71744262.ece",
       "pubDate": "Thu, 26 Nov 2026 03:34:14 +0530",
@@ -572,31 +612,6 @@
       ],
       "summary": "​Two oil tankers struck naval mines, ‌exploded, and caught fire in ​the Strait of ⁠Hormuz on Wednesday (November 25, 2026), Iran’s Revolutionary Guards Navy said in a statement carried ‌by state media.",
       "keyPoints": "• ​Two oil tankers struck naval mines, ‌exploded, and caught fire in ​the Strait of ⁠Hormuz on Wednesday (November 25, 2026), Iran’s Revolutionary Guards Navy said in a statement carried ‌by state media.<br>• The statement said the vessels ‌had been attempting to transit ‌an ⁠unauthorised route through the ⁠waterway.<br>• In a separate statement on Wednesday (November 25), Iranian Army spokesperson Mohammad Akraminia ​said the military ‌had deployed new systems and upgraded existing ones to strengthen surveillance and control of the ‌strait. He warned that ​vessels passing through without coordinating with Iranian forces ⁠had faced greater risks and struck mines in recent weeks."
-    },
-    {
-      "category": "ir",
-      "categoryLabel": "🌐 International Relations",
-      "title": "Trump’s tariff plan explained: Which countries could be hit and why?",
-      "link": "https://www.thehindu.com/videos/trumps-tariff-plan-explained-which-countries-could-be-hit-and-why/article71743829.ece",
-      "pubDate": "Wed, 25 Nov 2026 23:10:18 +0530",
-      "dateIso": "2026-11-26",
-      "dateDisplay": "26 Nov 2026",
-      "examRelevance": "GS Paper-II & Current Affairs: Bilateral Agreements, Foreign Visits & UN/G20/BRICS",
-      "imageUrl": "https://th-i.thgim.com/public/incoming/wqec3p/article71743802.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-11-25%20at%205.31.07%20PM.jpeg",
-      "fullParagraphs": [
-        "The Trump administration is preparing a fresh tariff offensive targeting major trading partners including China, India and the European Union. Here’s what the investigation is about and what it could mean for global trade."
-      ],
-      "deepExplanation": "<strong>Detailed Editorial Analysis:</strong> The Trump administration is preparing a fresh tariff offensive targeting major trading partners including China, India and the European Union. Here’s what the investigation is about and what it could mean for global trade.",
-      "vocabList": [
-        "Administration",
-        "Preparing",
-        "Offensive",
-        "Targeting",
-        "Partners",
-        "European"
-      ],
-      "summary": "The Trump administration is preparing a fresh tariff offensive targeting major trading partners including China, India and the European Union. Here’s what the investigation is about and what it could mean for global trade.",
-      "keyPoints": "• The Trump administration is preparing a fresh tariff offensive targeting major trading partners including China, India and the European Union. Here’s what the investigation is about and what it could mean for global trade."
     },
     {
       "category": "scitech",
@@ -968,8 +983,76 @@
     "2026-11-26": {
       "dateIso": "2026-11-26",
       "dateDisplay": "26 Nov 2026",
-      "updatedAt": "26 Nov 2026, 03:58 AM IST",
+      "updatedAt": "26 Nov 2026, 05:18 AM IST",
       "articles": [
+        {
+          "category": "national",
+          "categoryLabel": "🏛️ National & Polity",
+          "title": "Uttariya instead of robes: West Bengal Government suggests universities to adopt Indian attire in convocations",
+          "link": "https://www.thehindu.com/news/national/west-bengal/uttariya-instead-of-robes-west-bengal-government-suggests-universities-to-adopt-indian-attire-in-convocations/article71742913.ece",
+          "pubDate": "Thu, 26 Nov 2026 04:01:27 +0530",
+          "dateIso": "2026-11-26",
+          "dateDisplay": "26 Nov 2026",
+          "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
+          "imageUrl": "https://www.thehindu.com/theme/images/og-image.png",
+          "fullParagraphs": [
+            "West Bengal Higher Education Department has advised all the State-aided universities to adopt Indian attire such as Uttariya and clothes made of handloom fabric instead of Western robes during convocation or any academic ceremony.",
+            "“We are putting effort to follow our own Indian culture and tradition. Uttariyo is enough for such ceremonies. Why do we have to wear robes? Many institutions, including the Indian Institute of Technology [IIT], have adopted only uttariya. Hence, we made the suggestion,” West Bengal Higher Education Minister Jagannath Chattopadhyay told media persons on Wednesday (November 25, 2026).",
+            "The development also came days after Mr. Chattopadhyay praised the Jalpaiguri Government Engineering College for upholding Indian traditions by replacing the conventional academic gown with a traditional uttariya.",
+            "“As we strive to build a self-reliant Bharat, our education system must also reflect our civilisational values and cultural identity,” he wrote on X congratulating the students of the college.",
+            "In its notice sent to all the vice chancellors of the universities, the department has now said that the UGC had not prescribed any rigid uniform design for ceremonial robes.",
+            "Hence, the universities have the flexibility to incorporate traditional Indian attire, such as the uttariya, and to design distinct ceremonial attire for dignitaries and degree recipients.",
+            "Monday’s (November 23) notice to the VCs said that the ceremonial attire made from Indian handloom was more suited to India’s climate. Such a preference for handloom fabrics and traditional Indian attire also supports the rural handloom industry and weavers’ livelihoods, it said.",
+            "“In view of the above, you are requested to take necessary steps to consider adopting handloom fabrics and traditional attire for the academic robes worn during convocation in your esteemed university as well as affiliated colleges, wherever applicable,” the department stated in the advisory asking the universities to send to confirmation of the communication to the department."
+          ],
+          "deepExplanation": "<strong>1. Core Context & Background:</strong> West Bengal Higher Education Department has advised all the State-aided universities to adopt Indian attire such as Uttariya and clothes made of handloom fabric instead of Western robes during convocation or any academic ceremony.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> “We are putting effort to follow our own Indian culture and tradition. Uttariyo is enough for such ceremonies.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> “In view of the above, you are requested to take necessary steps to consider adopting handloom fabrics and traditional attire for the academic robes worn during convocation in your esteemed university as well as affiliated colleges, wherever applicable,” the department stated in the advisory asking the universities to send to confirmation of the communication to the department.",
+          "vocabList": [
+            "Universities",
+            "Uttariya",
+            "Handloom",
+            "Convocation",
+            "Academic",
+            "Ceremony"
+          ],
+          "summary": "West Bengal Higher Education Department has advised all the State-aided universities to adopt Indian attire such as Uttariya and clothes made of handloom fabric instead of Western robes during convocation or any academic ceremony.",
+          "keyPoints": "• West Bengal Higher Education Department has advised all the State-aided universities to adopt Indian attire such as Uttariya and clothes made of handloom fabric instead of Western robes during convocation or any academic ceremony.<br>• “We are putting effort to follow our own Indian culture and tradition. Uttariyo is enough for such ceremonies. Why do we have to wear robes? Many institutions, including the Indian Institute of Technology [IIT], have adopted only uttariya. Hence, we made the suggestion,” West Bengal Higher Education Minister Jagannath Chattopadhyay told media persons on Wednesday (November 25, 2026).<br>• The development also came days after Mr. Chattopadhyay praised the Jalpaiguri Government Engineering College for upholding Indian traditions by replacing the conventional academic gown with a traditional uttariya."
+        },
+        {
+          "category": "national",
+          "categoryLabel": "🏛️ National & Polity",
+          "title": "Congress wins majority of Zila Pramukh posts in Rajasthan polls",
+          "link": "https://www.thehindu.com/news/national/rajasthan/congress-wins-majority-of-zila-pramukh-posts-in-rajasthan-polls/article71743297.ece",
+          "pubDate": "Thu, 26 Nov 2026 03:45:09 +0530",
+          "dateIso": "2026-11-26",
+          "dateDisplay": "26 Nov 2026",
+          "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/5t86zq/article71744264.ece/alternates/LANDSCAPE_1200/20261125121L.jpg",
+          "fullParagraphs": [
+            "After its decisive victory in the last week’s Panchayati Raj elections, the Opposition Congress in Rajasthan on Wednesday (November 25, 2026) took control of 24 of the 37 zila parishads which elected their heads, while the ruling Bharatiya Janata Party secured 10 Zila Pramukh posts despite having a majority in just five rural district bodies.",
+            "The Bharat Adivasi Party won tribal-dominated Banswara and Dungarpur, while Nagaur MP Hanuman Beniwal’s Rashtriya Loktantrik Party retained Nagaur. No independent candidate was elected Zila Pramukh in any district.",
+            "The votes for panchayat samitis and zila parishads were counted on November 20 in 37 of the State’s 41 districts. Members elected in the panchayat polls voted on Wednesday to choose their respective heads, while the results in the remaining four districts – Kota, Baran, Karauli and Sriganganagar – will be declared in December.",
+            "The BJP pulled off a surprise victory in Churu, where the Congress had a clear majority, and secured five of the eight zila parishads where no party had an absolute majority. The Congress largely managed to keep its flock together, losing only one of the 23 rural bodies where it enjoyed majority.",
+            "Congress candidate Mamta Gurjar defeated BJP’s Nirmala Rawat by just one vote in Beawar, despite the BJP having a majority. Renu Wala of Congress defeated BJP’s Pooja Jatav by 17 votes to 14 in Bharatpur, which is Chief Minister Bhajan Lal Sharma’s home district.",
+            "Among the zila parishads where no party had a clear majority, the BJP won Balotra, Didwana-Kuchaman, Deeg, Khairthal-Tijara and Pratapgarh, and the Congress won Salumbar. In Churu, where the Congress held 21 of the 39 seats against the BJP’s 17, ruling party candidate Kanika Singh, daughter-in-law of former Minister Rajendra Rathore, defeated Congress candidate Prakash Devi, indicating cross-voting.",
+            "Congress candidate Nikita Dudi defeated party rebel Sarita Choudhary, who contested as an Independent, by 23 votes to 18 in Bikaner. Dissatisfaction over the party nomination had reportedly led to the rebellion, while the BJP had withdrawn its candidate in Bikaner.",
+            "The Congress narrowly avoided an embarrassment in Dholpur despite holding 21 of the 29 seats, as its candidate Anisha Singh defeated her nearest rival by just one vote. The BJP also secured Balotra zila parishad by one vote. The Congress registered comfortable victories in several of its traditional strongholds, including Jaipur, Jodhpur, Alwar, Sikar and Bhilwara.",
+            "Twenty-one-year-old Congress candidate Santosh Kumari was elected unopposed as Zila Pramukh in Jaisalmer. Ms. Kumari, who completed her class XII and is unmarried, belongs to a Scheduled Tribe community. Two other candidates elected unopposed were Beena Bairwa in Dausa and Asha Devi in Sawai Madhopur. Both of them were Congress candidates.",
+            "There were stray incidents of arguments and jostling at some places during the election process. Tensions were reported in Jaipur, Bharatpur and Bhilwara, where workers and leaders of rival parties were involved in heated exchanges.",
+            "Veteran Congress leader and former Chief Minister Ashok Gehlot congratulated the new elected Zila Pramukhs, saying the rural public had reposed faith in them by voting against the BJP government’s “misrule”. “I trust that you will become the voice of the villagers, farmers and livestock keepers,” Mr. Gehlot said.",
+            "Indian National Congress / election / Bharatiya Janata Party / Rashtriya Loktantrik Party"
+          ],
+          "deepExplanation": "<strong>1. Core Context & Background:</strong> After its decisive victory in the last week’s Panchayati Raj elections, the Opposition Congress in Rajasthan on Wednesday (November 25, 2026) took control of 24 of the 37 zila parishads which elected their heads, while the ruling Bharatiya Janata Party secured 10 Zila Pramukh posts despite having a majority in just five rural district bodies.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> The Bharat Adivasi Party won tribal-dominated Banswara and Dungarpur, while Nagaur MP Hanuman Beniwal’s Rashtriya Loktantrik Party retained Nagaur. No independent candidate was elected Zila Pramukh in any district.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Indian National Congress / election / Bharatiya Janata Party / Rashtriya Loktantrik Party",
+          "vocabList": [
+            "Decisive",
+            "Panchayati",
+            "Elections",
+            "Opposition",
+            "Congress",
+            "Rajasthan"
+          ],
+          "summary": "After its decisive victory in the last week’s Panchayati Raj elections, the Opposition Congress in Rajasthan on Wednesday (November 25, 2026) took control of 24 of the 37 zila parishads which elected their heads, while the ruling Bharatiya Janata Party secured 10 Zila Pramukh posts despite having a majority in just five rural district bodies.",
+          "keyPoints": "• After its decisive victory in the last week’s Panchayati Raj elections, the Opposition Congress in Rajasthan on Wednesday (November 25, 2026) took control of 24 of the 37 zila parishads which elected their heads, while the ruling Bharatiya Janata Party secured 10 Zila Pramukh posts despite having a majority in just five rural district bodies.<br>• The Bharat Adivasi Party won tribal-dominated Banswara and Dungarpur, while Nagaur MP Hanuman Beniwal’s Rashtriya Loktantrik Party retained Nagaur. No independent candidate was elected Zila Pramukh in any district.<br>• The votes for panchayat samitis and zila parishads were counted on November 20 in 37 of the State’s 41 districts. Members elected in the panchayat polls voted on Wednesday to choose their respective heads, while the results in the remaining four districts – Kota, Baran, Karauli and Sriganganagar – will be declared in December."
+        },
         {
           "category": "national",
           "categoryLabel": "🏛️ National & Polity",
@@ -1035,130 +1118,70 @@
         {
           "category": "national",
           "categoryLabel": "🏛️ National & Polity",
-          "title": "Rajbanshi language to be included in Eighth Schedule of Constitution: Suvendu Adhikari",
-          "link": "https://www.thehindu.com/news/national/west-bengal/rajbanshi-languageto-be-included-ineighth-schedule-of-constitutionsuvendu-adhikari/article71742836.ece",
-          "pubDate": "Thu, 26 Nov 2026 01:53:32 +0530",
+          "title": "Delhi High Court grants time to ED to respond to Engineer Rashid’s plea",
+          "link": "https://www.thehindu.com/news/cities/Delhi/delhi-high-court-grants-time-to-ed-to-respond-to-engineer-rashids-plea/article71742613.ece",
+          "pubDate": "Thu, 26 Nov 2026 02:29:13 +0530",
           "dateIso": "2026-11-26",
           "dateDisplay": "26 Nov 2026",
           "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
-          "imageUrl": "https://th-i.thgim.com/public/incoming/zw3rw/article71744116.ece/alternates/LANDSCAPE_1200/20261117271L.jpg",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/izo8t9/article71744122.ece/alternates/LANDSCAPE_1200/PTI04_30_2026_000174A.jpg",
           "fullParagraphs": [
-            "West Bengal Chief Minister Suvendu Adhikari on Wednesday (November 25, 2026) said that the Rajbanshi language will be included in the Eight Schedule of the Constitution, a promise that their party had made during their Assembly election campaign.",
-            "During the inauguration of a festival in West Bengal’s Cooch Behar district, Mr Adhikari said that their government is taking complete care of the Rajbanshi community, including their language, culture, political aspirations, and financial security.",
-            "He added that as promised in BJP’s West Bengal Assembly poll manifesto and reiterated by several top BJP leaders during the buildup to the elections, Rajbanshi language is set to be part of the Eight Schedule of the Constitution.",
-            "“We raised the issue during a meeting with the Union home minister and the home secretary on November 19 that was attended by me and the state’s chief secretary,” Mr Adhikari told reporters before the inauguration of Ras Utsav (annual celebration of Radha-Krishna) festivities in Cooch Behar.",
-            "At Cooch Behar, Mr Adhikari was greeted by Cabinet minister Nisith Pramanik, a member of the Rajbanshi community. Later, the CM also took part in the festivities in the local area. Mr Adhikari also added that the Rajbanshi community expressed their dissatisfaction over losing their land ownership in the region as he held the Left Front government responsible for it.",
-            "He also added that the previous governments in the State did not offer much participation of the Rajbanshi community in the cabinet and that their government has done more for the community since they came to power. The Rajbanshi community has always stood by us since 2019, Mr Adhikari added. In the recently concluded assembly polls, the BJP performed exceptionally well in north Bengal and won eight out of nine seats in the Cooch Behar district."
+            "The Delhi High Court on Wednesday (November 25, 2026) granted time to the Enforcement Directorate (ED) to respond to a plea by Baramulla MP Abdul Rashid Sheikh , challenging the framing of charges against him in a money laundering case linked to alleged funding from Pakistan through hawala channels for secessionist activities in Jammu and Kashmir.",
+            "Justice Sachin Datta listed the matter for further hearing on December 16 after the prosecutor said he needed one week to consult the special public prosecutor in the case.",
+            "Mr. Rashid Sheikh, also known as Engineer Rashid, has challenged a September 9 order by which the trial court had ordered the framing of charges against the people.",
+            "On October 24, the special court had formally framed charges against the accused and put them on trial under the Prevention of Money Laundering Act (PMLA) after finding sufficient material on record to raise a strong suspicion of their involvement in the offence.",
+            "The ED has alleged that proceeds of crime amounting to Rs 8.94 crore were generated and received, routed, transferred, concealed, possessed, acquired and used by the accused through various channels.",
+            "The seven accused include Malik, chief of the banned Jammu and Kashmir Liberation Front (JKLF), separatist leader Shabir Ahmad Shah, Masarat Alam, Zahoor Ahmad Shah Watali, Naval Kishore Kapoor, and M/s Trison Farms and Constructions Pvt Ltd.",
+            "The ED case stems from a 2017 National Investigation Agency (NIA) case in which charges under various provisions of the Indian Penal Code and the Unlawful Activities (Prevention) Act (UAPA) were invoked.",
+            "The prosecution has alleged that the accused received funds from the “Pakistani establishment” through hawala channels and other means to propagate secessionist activities and carry out acts prejudicial to the law of the land."
           ],
-          "deepExplanation": "<strong>1. Core Context & Background:</strong> West Bengal Chief Minister Suvendu Adhikari on Wednesday (November 25, 2026) said that the Rajbanshi language will be included in the Eight Schedule of the Constitution, a promise that their party had made during their Assembly election campaign.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> During the inauguration of a festival in West Bengal’s Cooch Behar district, Mr Adhikari said that their government is taking complete care of the Rajbanshi community, including their language, culture, political aspirations, and financial security. He added that as promised in BJP’s West Bengal Assembly poll manifesto and reiterated by several top BJP leaders during the buildup to the elections, Rajbanshi language is set to be part of the Eight Schedule of the Constitution.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> In the recently concluded assembly polls, the BJP performed exceptionally well in north Bengal and won eight out of nine seats in the Cooch Behar district.",
+          "deepExplanation": "<strong>1. Core Context & Background:</strong> The Delhi High Court on Wednesday (November 25, 2026) granted time to the Enforcement Directorate (ED) to respond to a plea by Baramulla MP Abdul Rashid Sheikh , challenging the framing of charges against him in a money laundering case linked to alleged funding from Pakistan through hawala channels for secessionist activities in Jammu and Kashmir.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Justice Sachin Datta listed the matter for further hearing on December 16 after the prosecutor said he needed one week to consult the special public prosecutor in the case. Rashid Sheikh, also known as Engineer Rashid, has challenged a September 9 order by which the trial court had ordered the framing of charges against the people.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> The prosecution has alleged that the accused received funds from the “Pakistani establishment” through hawala channels and other means to propagate secessionist activities and carry out acts prejudicial to the law of the land.",
           "vocabList": [
-            "Adhikari",
             "Wednesday",
             "November",
-            "Rajbanshi",
-            "Language",
-            "Included"
+            "Enforcement",
+            "Directorate",
+            "Baramulla",
+            "Challenging"
           ],
-          "summary": "West Bengal Chief Minister Suvendu Adhikari on Wednesday (November 25, 2026) said that the Rajbanshi language will be included in the Eight Schedule of the Constitution, a promise that their party had made during their Assembly election campaign.",
-          "keyPoints": "• West Bengal Chief Minister Suvendu Adhikari on Wednesday (November 25, 2026) said that the Rajbanshi language will be included in the Eight Schedule of the Constitution, a promise that their party had made during their Assembly election campaign.<br>• During the inauguration of a festival in West Bengal’s Cooch Behar district, Mr Adhikari said that their government is taking complete care of the Rajbanshi community, including their language, culture, political aspirations, and financial security.<br>• He added that as promised in BJP’s West Bengal Assembly poll manifesto and reiterated by several top BJP leaders during the buildup to the elections, Rajbanshi language is set to be part of the Eight Schedule of the Constitution."
+          "summary": "The Delhi High Court on Wednesday (November 25, 2026) granted time to the Enforcement Directorate (ED) to respond to a plea by Baramulla MP Abdul Rashid Sheikh , challenging the framing of charges against him in a money laundering case linked to alleged funding from Pakistan through hawala channels for secessionist activities in Jammu and Kashmir.",
+          "keyPoints": "• The Delhi High Court on Wednesday (November 25, 2026) granted time to the Enforcement Directorate (ED) to respond to a plea by Baramulla MP Abdul Rashid Sheikh , challenging the framing of charges against him in a money laundering case linked to alleged funding from Pakistan through hawala channels for secessionist activities in Jammu and Kashmir.<br>• Justice Sachin Datta listed the matter for further hearing on December 16 after the prosecutor said he needed one week to consult the special public prosecutor in the case.<br>• Mr. Rashid Sheikh, also known as Engineer Rashid, has challenged a September 9 order by which the trial court had ordered the framing of charges against the people."
         },
         {
           "category": "national",
           "categoryLabel": "🏛️ National & Polity",
-          "title": "Right to choose a partner is an aspect of constitutional freedom, not a privilege granted by a family, caste or community: Thirumavalavan",
-          "link": "https://www.thehindu.com/news/national/tamil-nadu/right-to-choose-a-partner-is-an-aspect-of-constitutional-freedom-not-a-privilege-granted-by-a-family-caste-or-community-thirumavalavan/article71743441.ece",
-          "pubDate": "Thu, 26 Nov 2026 01:45:56 +0530",
+          "title": "Thane Crime Branch arrests five in Mumbra dacoity case, cracks seven other cases",
+          "link": "https://www.thehindu.com/news/national/maharashtra/thane-crime-branch-arrests-five-in-mumbra-dacoity-case-cracks-seven-other-cases/article71742645.ece",
+          "pubDate": "Thu, 26 Nov 2026 02:15:39 +0530",
           "dateIso": "2026-11-26",
           "dateDisplay": "26 Nov 2026",
           "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
-          "imageUrl": "https://th-i.thgim.com/public/incoming/w7uzvm/article71744117.ece/alternates/LANDSCAPE_1200/Thirumavalavan-GSTGITQRI.3.jpg.jpg",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/6nrxww/article71744119.ece/alternates/LANDSCAPE_1200/iStock-1447145892%207.jpg",
           "fullParagraphs": [
-            "In his memorandum to Chairperson of Tamil Nadu Commission for the Prevention of Honour Killings, Viduthalai Chiruthaigal Katchi founder and Chidambaram MP, Thol. Thirumavalavan said, “the right to choose one’s partner is not a privilege granted by a family, caste or community” but “an aspect of the constitutional freedom and dignity of every individual”.",
-            "In his request to the Commission headed by Justice K.N. Basha, Mr. Thirumavalavan said that the Commission should “recommend the enactment of a comprehensive Tamil Nadu law against honour killings and honour-based crimes, with a broad definition rooted in the right to choose a partner and individual autonomy”.",
-            "He further urged the Commission to provide a framework to address “collective and mob-based honour violence”, which would ensure that “every person who intentionally participates in, instigates, facilitates or enables the crime can be held accountable under clearly defined standards of criminal responsibility”.",
-            "The VCK leader further said that enforceable duties and penalties should be imposed on police and public officials who fail to protect couples despite credible threats, including wilful refusal to register complaints, disclosure of confidential information and dereliction of preventive duties.",
-            "Mr. Thirumavalavan also demanded that there exist comprehensive protection for couples, survivors, witnesses and their families, including safehouses, relocation, legal aid, counselling, medical care, compensation and rehabilitation. He also appealed to the Commission to submit “a draft Bill and a time-bound implementation framework to the Government of Tamil Nadu, with budgetary allocations, monitoring arrangements and annual reporting to the Legislature”."
+            "The Thane Crime Branch has arrested five members of a gang allegedly involved in targeting bungalows and farmhouses across Thane district, solving eight cases, including the November 17 dacoity in Mumbra, officials said on Wednesday (November 25, 2026). Police have recovered stolen valuables worth ₹2.39 lakh from the accused.",
+            "The arrested accused have been identified as Vijay Chavan (45), Laxman Bhosale (43), Satish Waghe (27), Narayan Thombre (27), and Jayesh Kathore (35). All five have been remanded in police custody till November 30, while a search is underway for four other accused directly linked to the Mumbra case.",
+            "According to the police, eight to nine persons allegedly broke into the bungalow of complainant Tukaram Munde in Mumbra on November 17, threatened him with sharp weapons, restrained him and fled with gold ornaments worth ₹1.55 lakh and ₹84,000 in cash. Police have since recovered the stolen property.",
+            "Deputy Commissioner of Police (Crime) Amarsingh Jadhav said the accused had been conducting reconnaissance in the area for six months.",
+            "“Even after the November 17 dacoity in Mumbra, Bhosale and Vijay Chavan conducted reconnaissance in Panvel. Information regarding this has emerged during the investigation,” Mr. Jadhav said.",
+            "The accused allegedly targeted residential properties, forcibly entered houses, restrained occupants and security guards, and assaulted or threatened them before fleeing with valuables.",
+            "During the investigation, Crime Branch officials examined footage from around 150 to 200 CCTV cameras, conducted technical analysis and gathered intelligence through informants to identify and apprehend the accused.",
+            "Police said Chavan, the main accused and a resident of Badlapur, has 18 criminal cases registered against him, including dacoity, robbery and theft, across several police jurisdictions in Maharashtra. Another accused, Thombre, also has a previous criminal case registered against him.",
+            "According to Mr. Jadhav, some of the accused had previously committed offences alongside Chavan, while some had become acquainted in prison. Police said members of the gang had been released from prison around six months ago. The accused allegedly operated in different groups and assembled after identifying potential targets.",
+            "The investigation has also led to the detection of seven other cases registered at the Kulgaon, Kalyan Taluka, Vasind and Padgha police stations.",
+            "Mr. Jadhav said the involvement of several other individuals who allegedly assisted the accused in conducting reconnaissance had also emerged during the investigation, taking the estimated number of wanted persons to seven or eight.",
+            "The Mumbra police are conducting further investigations, with the Crime Branch carrying out a parallel probe to apprehend the remaining accused and ascertain whether the gang was involved in other offences."
           ],
-          "deepExplanation": "<strong>1. Core Context & Background:</strong> In his memorandum to Chairperson of Tamil Nadu Commission for the Prevention of Honour Killings, Viduthalai Chiruthaigal Katchi founder and Chidambaram MP, Thol.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Thirumavalavan said, “the right to choose one’s partner is not a privilege granted by a family, caste or community” but “an aspect of the constitutional freedom and dignity of every individual”. In his request to the Commission headed by Justice K.N.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> He also appealed to the Commission to submit “a draft Bill and a time-bound implementation framework to the Government of Tamil Nadu, with budgetary allocations, monitoring arrangements and annual reporting to the Legislature”.",
+          "deepExplanation": "<strong>1. Core Context & Background:</strong> The Thane Crime Branch has arrested five members of a gang allegedly involved in targeting bungalows and farmhouses across Thane district, solving eight cases, including the November 17 dacoity in Mumbra, officials said on Wednesday (November 25, 2026).<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Police have recovered stolen valuables worth ₹2.39 lakh from the accused. The arrested accused have been identified as Vijay Chavan (45), Laxman Bhosale (43), Satish Waghe (27), Narayan Thombre (27), and Jayesh Kathore (35).<br><br><strong>3. Way Forward & Exam Conclusion:</strong> The Mumbra police are conducting further investigations, with the Crime Branch carrying out a parallel probe to apprehend the remaining accused and ascertain whether the gang was involved in other offences.",
           "vocabList": [
-            "Memorandum",
-            "Chairperson",
-            "Commission",
-            "Prevention",
-            "Killings",
-            "Viduthalai"
+            "Arrested",
+            "Allegedly",
+            "Involved",
+            "Targeting",
+            "Bungalows",
+            "Farmhouses"
           ],
-          "summary": "In his memorandum to Chairperson of Tamil Nadu Commission for the Prevention of Honour Killings, Viduthalai Chiruthaigal Katchi founder and Chidambaram MP, Thol. Thirumavalavan said, “the right to choose one’s partner is not a privilege granted by a family, caste or community” but “an aspect of the constitutional freedom and dignity of every individual”.",
-          "keyPoints": "• In his memorandum to Chairperson of Tamil Nadu Commission for the Prevention of Honour Killings, Viduthalai Chiruthaigal Katchi founder and Chidambaram MP, Thol. Thirumavalavan said, “the right to choose one’s partner is not a privilege granted by a family, caste or community” but “an aspect of the constitutional freedom and dignity of every individual”.<br>• In his request to the Commission headed by Justice K.N. Basha, Mr. Thirumavalavan said that the Commission should “recommend the enactment of a comprehensive Tamil Nadu law against honour killings and honour-based crimes, with a broad definition rooted in the right to choose a partner and individual autonomy”.<br>• He further urged the Commission to provide a framework to address “collective and mob-based honour violence”, which would ensure that “every person who intentionally participates in, instigates, facilitates or enables the crime can be held accountable under clearly defined standards of criminal responsibility”."
-        },
-        {
-          "category": "national",
-          "categoryLabel": "🏛️ National & Polity",
-          "title": "Kallakurichi TVK MLA Arul Vignesh summoned for questioning in harassment case",
-          "link": "https://www.thehindu.com/news/national/tamil-nadu/kallakurichi-tvk-mla-arul-vignesh-summoned-for-questioning-in-harassment-case/article71742298.ece",
-          "pubDate": "Thu, 26 Nov 2026 01:42:18 +0530",
-          "dateIso": "2026-11-26",
-          "dateDisplay": "26 Nov 2026",
-          "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
-          "imageUrl": "https://th-i.thgim.com/public/incoming/5rphnq/article71743396.ece/alternates/LANDSCAPE_1200/2786_25_11_2026_17_45_48_1__DSC7462.JPEG",
-          "fullParagraphs": [
-            "The Kallakurichi All Women Police on Wednesday (November 25, 2026) served summons on Kallakurichi TVK MLA C. Arul Vignesh directing him to appear for questioning in connection with a harassment case registered against him on a complaint lodged by a woman IAS officer.",
-            "Inspector Bhuvaneshwari attached to the All Women Police station visited the MLA’s house in Kallakurichi and handed the summons to him in person. The police also questioned Arul Vignesh at the house.",
-            "The woman IAS officer had submitted a formal complaint to the Kallakurichi district Superintendent of Police on Monday (November 23), accusing the MLA of making inappropriate advances and sending unwarranted messages.",
-            "The police have booked a case against the MLA invoking provisions of the Tamil Nadu Prohibition of Harassment of Women Act and Sections 75, 78 and 79 of the Bharatiya Nyaya Sanhita.",
-            "Police sources said that Tiruppur Superintendent of Police Shristi Singh, who has been appointed as the Investigating Officer in the criminal case, began preliminary investigation into the incident on Wednesday after receiving the inquiry report from Kallakurichi Superintendent of Police I. Shahnaz at the All Women Police Station. Inspector General of Police (Administration) N. Kamini has been appointed to supervise the investigation.",
-            "The National Commission for Women had earlier taken suo moto cognisance of the allegations and asked the Tamil Nadu Director General of Police to conduct an impartial inquiry.",
-            "In the morning, more than 30 Democratic Youth Federation of India (DYFI) activists were arrested when they attempted to lay siege to the office of Kallakurichi TVK MLA, demanding his resignation over the allegations against him. The protesters raised slogans alleging lack of safety for women.",
-            "The DMK’s women wing also staged a demonstration at the Four Roads junction in Kallakurichi demanding the arrest of the MLA. They burnt the effigy of the MLA and raised slogans against him.",
-            "Meanwhile, police personnel have been deployed in strength at the MLA’s office in Kallakurichi."
-          ],
-          "deepExplanation": "<strong>1. Core Context & Background:</strong> The Kallakurichi All Women Police on Wednesday (November 25, 2026) served summons on Kallakurichi TVK MLA C.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Arul Vignesh directing him to appear for questioning in connection with a harassment case registered against him on a complaint lodged by a woman IAS officer. Inspector Bhuvaneshwari attached to the All Women Police station visited the MLA’s house in Kallakurichi and handed the summons to him in person.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Meanwhile, police personnel have been deployed in strength at the MLA’s office in Kallakurichi.",
-          "vocabList": [
-            "Kallakurichi",
-            "Wednesday",
-            "November",
-            "Directing",
-            "Questioning",
-            "Connection"
-          ],
-          "summary": "The Kallakurichi All Women Police on Wednesday (November 25, 2026) served summons on Kallakurichi TVK MLA C. Arul Vignesh directing him to appear for questioning in connection with a harassment case registered against him on a complaint lodged by a woman IAS officer.",
-          "keyPoints": "• The Kallakurichi All Women Police on Wednesday (November 25, 2026) served summons on Kallakurichi TVK MLA C. Arul Vignesh directing him to appear for questioning in connection with a harassment case registered against him on a complaint lodged by a woman IAS officer.<br>• Inspector Bhuvaneshwari attached to the All Women Police station visited the MLA’s house in Kallakurichi and handed the summons to him in person. The police also questioned Arul Vignesh at the house.<br>• The woman IAS officer had submitted a formal complaint to the Kallakurichi district Superintendent of Police on Monday (November 23), accusing the MLA of making inappropriate advances and sending unwarranted messages."
-        },
-        {
-          "category": "national",
-          "categoryLabel": "🏛️ National & Polity",
-          "title": "No permission sought for November 26 anti-SIR march, Delhi Police say; organisers say ‘intimation’ sent",
-          "link": "https://www.thehindu.com/news/cities/Delhi/no-permission-sought-for-november-26-anti-sir-march-says-delhi-police/article71741234.ece",
-          "pubDate": "Thu, 26 Nov 2026 01:17:28 +0530",
-          "dateIso": "2026-11-26",
-          "dateDisplay": "26 Nov 2026",
-          "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
-          "imageUrl": "https://th-i.thgim.com/public/incoming/l6akrl/article71741232.ece/alternates/LANDSCAPE_1200/SIR%20Protest%20DELHI%2020.JPG",
-          "fullParagraphs": [
-            "No permission has been sought from the Delhi Police for a protest march against the Special Intensive Revision (SIR) of electoral rolls , scheduled for November 26 , senior New Delhi police officials said. The organisers, however, maintained that they had intimated the police about the proposed demonstration.",
-            "The Delhi wing of the People Against SIR platform has called for a march on Constitution Day from Valmiki Sadan on Mandir Marg towards Jantar Mantar. The protesters are demanding the scrapping of SIR and the restoration of Jantar Mantar as a designated site for peaceful protests, among other demands.",
-            "An email dated November 23, 2026, seen by The Hindu , was sent to the Delhi Police to inform them about the proposed programme. It stated: “This is to inform you that we, the Delhi People Against SIR, are going to observe Constitution Day as per the details given.”",
-            "The email further stated that participants would assemble outside Valmiki Sadan on Mandir Marg at 12.30 p.m. on November 26 and march towards Jantar Mantar via Kali Bari Marg. “This is for your information and any follow-up/arrangements,” it added.",
-            "“We make sure not to ask for permission but only inform the police about the march,” Maimoona Mollah, a representative of the platform, told The Hindu .",
-            "Ms. Mollah claimed that the police had acknowledged the intimation and subsequently sought further details, including the proposed route and the expected number of participants expected. These details, she said, were shared with the police over a telephone conversation. The organisers have also announced plans to burn copies of the SIR notification during the demonstration.",
-            "Public notice 🔶Information has been received that Samyukta Kisan Morcha and other activists are planning a protest march from Kali Bari to Jantar Mantar on 26.11.2026. No application for permission has been received and no permission has been granted for the said march. 🔶Section 163 BNSS, 2023, is in force in New Delhi District. Unauthorised gatherings, processions, demonstrations, speeches, sloganeering and dharnas are prohibited. 🔶All are requested to comply with the order u/s 163 BNSS and cooperate with Police. Violations will invite legal action.",
-            "However, New Delhi police officers denied receiving the intimation and stressed that prohibitory orders under Section 163 of the Bharatiya Nagarik Suraksha Sanhita (BNSS) remain in force in the area and warned that action would be taken against gatherings in violation of the restrictions.",
-            "The police said “preventive” security measures would be put in place to prevent any unauthorised gathering in the area. These would include multi-layer barricading, deployment of additional personnel and preventive detentions, if required, to disperse crowds and prevent protesters from assembling in violation of the prohibitory orders.",
-            "People Against SIR was formed on October 14 following an emergency consultation in Delhi attended by representatives of more than 200 organisations. The national platform brings together 145 civil society groups, farmers’ unions, workers’ organisations, and women’s and youth groups across 18 States to campaign against the SIR exercise.",
-            "The platform has claimed that more than 50% of the voters who were on Delhi’s electoral rolls in January 2025 and voted in the February 2025 Assembly election have either been deleted or categorised as doubtful following the revision exercise.",
-            "The organisers have described SIR as an attack on the Constitution and the right to vote, alleging that the exercise disproportionately affects marginalised communities, including minorities, Dalits, transgender persons, women, migrant workers and the homeless."
-          ],
-          "deepExplanation": "<strong>1. Core Context & Background:</strong> No permission has been sought from the Delhi Police for a protest march against the Special Intensive Revision (SIR) of electoral rolls , scheduled for November 26 , senior New Delhi police officials said.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> The organisers, however, maintained that they had intimated the police about the proposed demonstration. The Delhi wing of the People Against SIR platform has called for a march on Constitution Day from Valmiki Sadan on Mandir Marg towards Jantar Mantar.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> The organisers have described SIR as an attack on the Constitution and the right to vote, alleging that the exercise disproportionately affects marginalised communities, including minorities, Dalits, transgender persons, women, migrant workers and the homeless.",
-          "vocabList": [
-            "Permission",
-            "Intensive",
-            "Revision",
-            "Electoral",
-            "Scheduled",
-            "November"
-          ],
-          "summary": "No permission has been sought from the Delhi Police for a protest march against the Special Intensive Revision (SIR) of electoral rolls , scheduled for November 26 , senior New Delhi police officials said. The organisers, however, maintained that they had intimated the police about the proposed demonstration.",
-          "keyPoints": "• No permission has been sought from the Delhi Police for a protest march against the Special Intensive Revision (SIR) of electoral rolls , scheduled for November 26 , senior New Delhi police officials said. The organisers, however, maintained that they had intimated the police about the proposed demonstration.<br>• The Delhi wing of the People Against SIR platform has called for a march on Constitution Day from Valmiki Sadan on Mandir Marg towards Jantar Mantar. The protesters are demanding the scrapping of SIR and the restoration of Jantar Mantar as a designated site for peaceful protests, among other demands.<br>• An email dated November 23, 2026, seen by The Hindu , was sent to the Delhi Police to inform them about the proposed programme. It stated: “This is to inform you that we, the Delhi People Against SIR, are going to observe Constitution Day as per the details given.”"
+          "summary": "The Thane Crime Branch has arrested five members of a gang allegedly involved in targeting bungalows and farmhouses across Thane district, solving eight cases, including the November 17 dacoity in Mumbra, officials said on Wednesday (November 25, 2026). Police have recovered stolen valuables worth ₹2.39 lakh from the accused.",
+          "keyPoints": "• The Thane Crime Branch has arrested five members of a gang allegedly involved in targeting bungalows and farmhouses across Thane district, solving eight cases, including the November 17 dacoity in Mumbra, officials said on Wednesday (November 25, 2026). Police have recovered stolen valuables worth ₹2.39 lakh from the accused.<br>• The arrested accused have been identified as Vijay Chavan (45), Laxman Bhosale (43), Satish Waghe (27), Narayan Thombre (27), and Jayesh Kathore (35). All five have been remanded in police custody till November 30, while a search is underway for four other accused directly linked to the Mumbra case.<br>• According to the police, eight to nine persons allegedly broke into the bungalow of complainant Tukaram Munde in Mumbra on November 17, threatened him with sharp weapons, restrained him and fled with gold ornaments worth ₹1.55 lakh and ₹84,000 in cash. Police have since recovered the stolen property."
         },
         {
           "category": "economy",
@@ -1369,6 +1392,38 @@
         {
           "category": "ir",
           "categoryLabel": "🌐 International Relations",
+          "title": "Andy Taylor, guitarist of new wave icons Duran Duran, dies at 65",
+          "link": "https://www.thehindu.com/entertainment/music/andy-taylor-guitarist-of-new-wave-icons-duran-duran-dies-at-65/article71744266.ece",
+          "pubDate": "Thu, 26 Nov 2026 04:16:30 +0530",
+          "dateIso": "2026-11-26",
+          "dateDisplay": "26 Nov 2026",
+          "examRelevance": "GS Paper-II & Current Affairs: Bilateral Agreements, Foreign Visits & UN/G20/BRICS",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/x9epz0/article71744268.ece/alternates/LANDSCAPE_1200/Andy_Taylor_449_7.jpg",
+          "fullParagraphs": [
+            "Andy Taylor, the original guitarist of the 1980s English new wave band Duran Duran , whose huge pop hits include “Hungry Like the Wolf,” “The Reflex” and “Rio” and whose rise up the charts was inextricably linked to the launch of MTV, has died. He was 65.",
+            "Taylor's death was confirmed by his family and bandmates in a statement posted on social media and Duran Duran's website.",
+            "“From the moment he arrived in Birmingham from the North East with a guitar and an unshakeable belief in what we could become, he brought an indelible fire and swagger to our music. His playing drove the songs that took us around the world, and with a dry wit that was matched only by his wonderfully unsentimental, no-nonsense outlook on life, he kept us grounded and gave the band its edge through the extraordinary years that followed,” the band said.",
+            "On the night he was inducted into the Rock & Roll Hall of Fame in November 2022, Taylor revealed that he had been battling stage 4 metastatic prostate cancer for several years and was unable to attend.",
+            "“I would like to thank each of my brothers in this great band,” he wrote. “You can dream about what happened to us but to experience it, on one's own terms, as mates, was beyond incredible.”",
+            "The two-time Grammy Award winners had nine gold records and six platinum ones, with 20 Top 20 singles in the U.K. and 18 in the U.S. They were two-time Ivor Novello Award winners and are MTV Video Music Award recipients.",
+            "The band's imperial stage occurred with a trio of hit albums between 1981 and 1983, with such dance-floor barnburners as “Girls on Film” and “Union of the Snake” and the moody ballads “The Chauffeur” and “Save a Prayer”. Other hits in the coming years included “The Wild Boys,” “New Moon on Monday” and “Come Undone.” Their popularity was cemented when they recorded the James Bond theme song “A View to a Kill” and earned a slot at Live Aid in 1985.",
+            "Mixing fashion, pioneering synthesisers and glam-pop swagger, the telegenic band were all over radio and young people's walls, with bassist John Taylor and singer Simon Le Bon becoming heartthrobs and the band being labelled part of the New Romantics. Princess Diana was known to be a fan, and that meant a lot to the band."
+          ],
+          "deepExplanation": "<strong>1. Core Context & Background:</strong> Andy Taylor, the original guitarist of the 1980s English new wave band Duran Duran , whose huge pop hits include “Hungry Like the Wolf,” “The Reflex” and “Rio” and whose rise up the charts was inextricably linked to the launch of MTV, has died.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Taylor's death was confirmed by his family and bandmates in a statement posted on social media and Duran Duran's website. “From the moment he arrived in Birmingham from the North East with a guitar and an unshakeable belief in what we could become, he brought an indelible fire and swagger to our music.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Princess Diana was known to be a fan, and that meant a lot to the band.",
+          "vocabList": [
+            "Original",
+            "Guitarist",
+            "Inextricably",
+            "Confirmed",
+            "Bandmates",
+            "Birmingham"
+          ],
+          "summary": "Andy Taylor, the original guitarist of the 1980s English new wave band Duran Duran , whose huge pop hits include “Hungry Like the Wolf,” “The Reflex” and “Rio” and whose rise up the charts was inextricably linked to the launch of MTV, has died. He was 65.",
+          "keyPoints": "• Andy Taylor, the original guitarist of the 1980s English new wave band Duran Duran , whose huge pop hits include “Hungry Like the Wolf,” “The Reflex” and “Rio” and whose rise up the charts was inextricably linked to the launch of MTV, has died. He was 65.<br>• Taylor's death was confirmed by his family and bandmates in a statement posted on social media and Duran Duran's website.<br>• “From the moment he arrived in Birmingham from the North East with a guitar and an unshakeable belief in what we could become, he brought an indelible fire and swagger to our music. His playing drove the songs that took us around the world, and with a dry wit that was matched only by his wonderfully unsentimental, no-nonsense outlook on life, he kept us grounded and gave the band its edge through the extraordinary years that followed,” the band said."
+        },
+        {
+          "category": "ir",
+          "categoryLabel": "🌐 International Relations",
           "title": "Fuel tanker crash ignites massive fire on highway surrounding Cairo, killing at least 30 people",
           "link": "https://www.thehindu.com/news/international/fuel-tanker-crash-ignites-massive-fire-on-highway-surrounding-cairo/article71744262.ece",
           "pubDate": "Thu, 26 Nov 2026 03:34:14 +0530",
@@ -1516,31 +1571,6 @@
           ],
           "summary": "​Two oil tankers struck naval mines, ‌exploded, and caught fire in ​the Strait of ⁠Hormuz on Wednesday (November 25, 2026), Iran’s Revolutionary Guards Navy said in a statement carried ‌by state media.",
           "keyPoints": "• ​Two oil tankers struck naval mines, ‌exploded, and caught fire in ​the Strait of ⁠Hormuz on Wednesday (November 25, 2026), Iran’s Revolutionary Guards Navy said in a statement carried ‌by state media.<br>• The statement said the vessels ‌had been attempting to transit ‌an ⁠unauthorised route through the ⁠waterway.<br>• In a separate statement on Wednesday (November 25), Iranian Army spokesperson Mohammad Akraminia ​said the military ‌had deployed new systems and upgraded existing ones to strengthen surveillance and control of the ‌strait. He warned that ​vessels passing through without coordinating with Iranian forces ⁠had faced greater risks and struck mines in recent weeks."
-        },
-        {
-          "category": "ir",
-          "categoryLabel": "🌐 International Relations",
-          "title": "Trump’s tariff plan explained: Which countries could be hit and why?",
-          "link": "https://www.thehindu.com/videos/trumps-tariff-plan-explained-which-countries-could-be-hit-and-why/article71743829.ece",
-          "pubDate": "Wed, 25 Nov 2026 23:10:18 +0530",
-          "dateIso": "2026-11-26",
-          "dateDisplay": "26 Nov 2026",
-          "examRelevance": "GS Paper-II & Current Affairs: Bilateral Agreements, Foreign Visits & UN/G20/BRICS",
-          "imageUrl": "https://th-i.thgim.com/public/incoming/wqec3p/article71743802.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-11-25%20at%205.31.07%20PM.jpeg",
-          "fullParagraphs": [
-            "The Trump administration is preparing a fresh tariff offensive targeting major trading partners including China, India and the European Union. Here’s what the investigation is about and what it could mean for global trade."
-          ],
-          "deepExplanation": "<strong>Detailed Editorial Analysis:</strong> The Trump administration is preparing a fresh tariff offensive targeting major trading partners including China, India and the European Union. Here’s what the investigation is about and what it could mean for global trade.",
-          "vocabList": [
-            "Administration",
-            "Preparing",
-            "Offensive",
-            "Targeting",
-            "Partners",
-            "European"
-          ],
-          "summary": "The Trump administration is preparing a fresh tariff offensive targeting major trading partners including China, India and the European Union. Here’s what the investigation is about and what it could mean for global trade.",
-          "keyPoints": "• The Trump administration is preparing a fresh tariff offensive targeting major trading partners including China, India and the European Union. Here’s what the investigation is about and what it could mean for global trade."
         },
         {
           "category": "scitech",
@@ -3801,169 +3831,169 @@
       "id": "gk_26 Nov 2026_1",
       "cat": "🏛️ National & Polity",
       "date": "26 Nov 2026",
-      "qEn": "[26 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"The Supreme Court indicated orally on Wednesday (November 25, 2026) its inclination to set aside a Calcutta High Court order that ...\"?",
-      "qHi": "[26 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"The Supreme Court indicated orally on Wednesday (November 25, 2026) its inclination to set aside a Calcutta High Court order that ...\"?",
-      "qMr": "[26 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"The Supreme Court indicated orally on Wednesday (November 25, 2026) its inclination to set aside a Calcutta High Court order that ...\"?",
+      "qEn": "[26 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"West Bengal Higher Education Department has advised all the State-aided universities to adopt Indian attire such as Uttariya and c...\"?",
+      "qHi": "[26 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"West Bengal Higher Education Department has advised all the State-aided universities to adopt Indian attire such as Uttariya and c...\"?",
+      "qMr": "[26 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"West Bengal Higher Education Department has advised all the State-aided universities to adopt Indian attire such as Uttariya and c...\"?",
       "optsEn": [
-        "Supreme Court suggests referring KMC delimitation case back to High Court for fres...",
+        "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "15th Finance Commission Special State Grant",
+        "Uttariya instead of robes: West Bengal Government suggests universities to adopt I...",
+        "Inter-State Council Constitutional Review Panel"
+      ],
+      "optsHi": [
+        "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "15th Finance Commission Special State Grant",
+        "Uttariya instead of robes: West Bengal Government suggests universities to adopt I...",
+        "Inter-State Council Constitutional Review Panel"
+      ],
+      "optsMr": [
+        "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "15th Finance Commission Special State Grant",
+        "Uttariya instead of robes: West Bengal Government suggests universities to adopt I...",
+        "Inter-State Council Constitutional Review Panel"
+      ],
+      "ans": 2,
+      "explanation": "<strong>1. Core Context & Background:</strong> West Bengal Higher Education Department has advised all the State-aided universities to adopt Indian attire such as Uttariya and clothes made of handloom fabric instead of Western robes during convocation or any academic ceremony.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> “We are putting effort to follow our own Indian culture and tradition. Uttariyo is enough for such ceremonies.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> “In view of the above, you are requested to take necessary steps to consider adopting handloom fabrics and traditional attire for the academic robes worn during convocation in your esteemed university as well as affiliated colleges, wherever applicable,” the department stated in the advisory asking the universities to send to confirmation of the communication to the department."
+    },
+    {
+      "id": "gk_26 Nov 2026_2",
+      "cat": "🏛️ National & Polity",
+      "date": "26 Nov 2026",
+      "qEn": "[26 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"After its decisive victory in the last week’s Panchayati Raj elections, the Opposition Congress in Rajasthan on Wednesday (Novembe...\"?",
+      "qHi": "[26 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"After its decisive victory in the last week’s Panchayati Raj elections, the Opposition Congress in Rajasthan on Wednesday (Novembe...\"?",
+      "qMr": "[26 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"After its decisive victory in the last week’s Panchayati Raj elections, the Opposition Congress in Rajasthan on Wednesday (Novembe...\"?",
+      "optsEn": [
+        "Congress wins majority of Zila Pramukh posts in Rajasthan polls",
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
         "15th Finance Commission Special State Grant",
         "Inter-State Council Constitutional Review Panel"
       ],
       "optsHi": [
-        "Supreme Court suggests referring KMC delimitation case back to High Court for fres...",
+        "Congress wins majority of Zila Pramukh posts in Rajasthan polls",
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
         "15th Finance Commission Special State Grant",
         "Inter-State Council Constitutional Review Panel"
       ],
       "optsMr": [
-        "Supreme Court suggests referring KMC delimitation case back to High Court for fres...",
+        "Congress wins majority of Zila Pramukh posts in Rajasthan polls",
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
         "15th Finance Commission Special State Grant",
         "Inter-State Council Constitutional Review Panel"
       ],
       "ans": 0,
+      "explanation": "<strong>1. Core Context & Background:</strong> After its decisive victory in the last week’s Panchayati Raj elections, the Opposition Congress in Rajasthan on Wednesday (November 25, 2026) took control of 24 of the 37 zila parishads which elected their heads, while the ruling Bharatiya Janata Party secured 10 Zila Pramukh posts despite having a majority in just five rural district bodies.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> The Bharat Adivasi Party won tribal-dominated Banswara and Dungarpur, while Nagaur MP Hanuman Beniwal’s Rashtriya Loktantrik Party retained Nagaur. No independent candidate was elected Zila Pramukh in any district.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Indian National Congress / election / Bharatiya Janata Party / Rashtriya Loktantrik Party"
+    },
+    {
+      "id": "gk_26 Nov 2026_3",
+      "cat": "🏛️ National & Polity",
+      "date": "26 Nov 2026",
+      "qEn": "[26 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"The Supreme Court indicated orally on Wednesday (November 25, 2026) its inclination to set aside a Calcutta High Court order that ...\"?",
+      "qHi": "[26 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"The Supreme Court indicated orally on Wednesday (November 25, 2026) its inclination to set aside a Calcutta High Court order that ...\"?",
+      "qMr": "[26 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"The Supreme Court indicated orally on Wednesday (November 25, 2026) its inclination to set aside a Calcutta High Court order that ...\"?",
+      "optsEn": [
+        "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "15th Finance Commission Special State Grant",
+        "Supreme Court suggests referring KMC delimitation case back to High Court for fres...",
+        "Inter-State Council Constitutional Review Panel"
+      ],
+      "optsHi": [
+        "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "15th Finance Commission Special State Grant",
+        "Supreme Court suggests referring KMC delimitation case back to High Court for fres...",
+        "Inter-State Council Constitutional Review Panel"
+      ],
+      "optsMr": [
+        "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "15th Finance Commission Special State Grant",
+        "Supreme Court suggests referring KMC delimitation case back to High Court for fres...",
+        "Inter-State Council Constitutional Review Panel"
+      ],
+      "ans": 2,
       "explanation": "<strong>1. Core Context & Background:</strong> The Supreme Court indicated orally on Wednesday (November 25, 2026) its inclination to set aside a Calcutta High Court order that put on hold the Kolkata Municipal Corporation (KMC) elections over a delimitation exercise, and requested the High Court to hear the dispute afresh.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> A Bench headed by Chief Justice of India Surya Kant made the suggestion while hearing an appeal filed by the West Bengal government against the High Court order of November 6. The High Court had directed the West Bengal State Election Commission to not notify the elections until a petition challenging the delimitation of municipal wards was decided.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Das had moved the High Court’s Division Bench."
     },
     {
-      "id": "gk_26 Nov 2026_2",
+      "id": "gk_26 Nov 2026_4",
       "cat": "🏛️ National & Polity",
       "date": "26 Nov 2026",
       "qEn": "[26 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"Governor Rajendra Vishwanath Arlekar on Wednesday sought a comprehensive report from Chief Minister C. Joseph Vijay on whether the...\"?",
       "qHi": "[26 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"Governor Rajendra Vishwanath Arlekar on Wednesday sought a comprehensive report from Chief Minister C. Joseph Vijay on whether the...\"?",
       "qMr": "[26 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"Governor Rajendra Vishwanath Arlekar on Wednesday sought a comprehensive report from Chief Minister C. Joseph Vijay on whether the...\"?",
       "optsEn": [
+        "Governor seeks CM’s report on compliance with SC’s directions",
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
         "15th Finance Commission Special State Grant",
-        "Governor seeks CM’s report on compliance with SC’s directions",
         "Inter-State Council Constitutional Review Panel"
       ],
       "optsHi": [
+        "Governor seeks CM’s report on compliance with SC’s directions",
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
         "15th Finance Commission Special State Grant",
-        "Governor seeks CM’s report on compliance with SC’s directions",
         "Inter-State Council Constitutional Review Panel"
       ],
       "optsMr": [
+        "Governor seeks CM’s report on compliance with SC’s directions",
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
         "15th Finance Commission Special State Grant",
-        "Governor seeks CM’s report on compliance with SC’s directions",
         "Inter-State Council Constitutional Review Panel"
       ],
-      "ans": 2,
+      "ans": 0,
       "explanation": "<strong>1. Core Context & Background:</strong> Governor Rajendra Vishwanath Arlekar on Wednesday sought a comprehensive report from Chief Minister C.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Joseph Vijay on whether the State government had complied with the Supreme Court’s November 20 order on the lighting of the Karthigai Deepam. The move comes in the wake of the ceremonial lamp being lit only at the traditional spot — the Deepa Mandapam near the Uchchipilliyar Temple — on Tuesday, defying the Supreme Court’s direction to light it on the deepathoon atop the Thirupparankundram hillock as a “limited one-time arrangement”.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> It came on the heels of the Madurai Collector telling the Supreme Court, in a preliminary status report filed on Wednesday, that he had made every arrangement to comply with the court’s November 20 order to light the lamp on the deepathoon , but the Board of Trustees of the Arulmigu Subramaniyaswamy Temple had failed to authorise a lamp-lighting team."
-    },
-    {
-      "id": "gk_26 Nov 2026_3",
-      "cat": "🏛️ National & Polity",
-      "date": "26 Nov 2026",
-      "qEn": "[26 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"West Bengal Chief Minister Suvendu Adhikari on Wednesday (November 25, 2026) said that the Rajbanshi language will be included in ...\"?",
-      "qHi": "[26 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"West Bengal Chief Minister Suvendu Adhikari on Wednesday (November 25, 2026) said that the Rajbanshi language will be included in ...\"?",
-      "qMr": "[26 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"West Bengal Chief Minister Suvendu Adhikari on Wednesday (November 25, 2026) said that the Rajbanshi language will be included in ...\"?",
-      "optsEn": [
-        "Rajbanshi language to be included in Eighth Schedule of Constitution: Suvendu Adhi...",
-        "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel"
-      ],
-      "optsHi": [
-        "Rajbanshi language to be included in Eighth Schedule of Constitution: Suvendu Adhi...",
-        "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel"
-      ],
-      "optsMr": [
-        "Rajbanshi language to be included in Eighth Schedule of Constitution: Suvendu Adhi...",
-        "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel"
-      ],
-      "ans": 0,
-      "explanation": "<strong>1. Core Context & Background:</strong> West Bengal Chief Minister Suvendu Adhikari on Wednesday (November 25, 2026) said that the Rajbanshi language will be included in the Eight Schedule of the Constitution, a promise that their party had made during their Assembly election campaign.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> During the inauguration of a festival in West Bengal’s Cooch Behar district, Mr Adhikari said that their government is taking complete care of the Rajbanshi community, including their language, culture, political aspirations, and financial security. He added that as promised in BJP’s West Bengal Assembly poll manifesto and reiterated by several top BJP leaders during the buildup to the elections, Rajbanshi language is set to be part of the Eight Schedule of the Constitution.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> In the recently concluded assembly polls, the BJP performed exceptionally well in north Bengal and won eight out of nine seats in the Cooch Behar district."
-    },
-    {
-      "id": "gk_26 Nov 2026_4",
-      "cat": "🏛️ National & Polity",
-      "date": "26 Nov 2026",
-      "qEn": "[26 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"In his memorandum to Chairperson of Tamil Nadu Commission for the Prevention of Honour Killings, Viduthalai Chiruthaigal Katchi fo...\"?",
-      "qHi": "[26 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"In his memorandum to Chairperson of Tamil Nadu Commission for the Prevention of Honour Killings, Viduthalai Chiruthaigal Katchi fo...\"?",
-      "qMr": "[26 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"In his memorandum to Chairperson of Tamil Nadu Commission for the Prevention of Honour Killings, Viduthalai Chiruthaigal Katchi fo...\"?",
-      "optsEn": [
-        "Right to choose a partner is an aspect of constitutional freedom, not a privilege ...",
-        "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel"
-      ],
-      "optsHi": [
-        "Right to choose a partner is an aspect of constitutional freedom, not a privilege ...",
-        "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel"
-      ],
-      "optsMr": [
-        "Right to choose a partner is an aspect of constitutional freedom, not a privilege ...",
-        "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel"
-      ],
-      "ans": 0,
-      "explanation": "<strong>1. Core Context & Background:</strong> In his memorandum to Chairperson of Tamil Nadu Commission for the Prevention of Honour Killings, Viduthalai Chiruthaigal Katchi founder and Chidambaram MP, Thol.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Thirumavalavan said, “the right to choose one’s partner is not a privilege granted by a family, caste or community” but “an aspect of the constitutional freedom and dignity of every individual”. In his request to the Commission headed by Justice K.N.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> He also appealed to the Commission to submit “a draft Bill and a time-bound implementation framework to the Government of Tamil Nadu, with budgetary allocations, monitoring arrangements and annual reporting to the Legislature”."
     },
     {
       "id": "gk_26 Nov 2026_5",
       "cat": "🏛️ National & Polity",
       "date": "26 Nov 2026",
-      "qEn": "[26 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"The Kallakurichi All Women Police on Wednesday (November 25, 2026) served summons on Kallakurichi TVK MLA C. Arul Vignesh directin...\"?",
-      "qHi": "[26 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"The Kallakurichi All Women Police on Wednesday (November 25, 2026) served summons on Kallakurichi TVK MLA C. Arul Vignesh directin...\"?",
-      "qMr": "[26 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"The Kallakurichi All Women Police on Wednesday (November 25, 2026) served summons on Kallakurichi TVK MLA C. Arul Vignesh directin...\"?",
+      "qEn": "[26 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"The Delhi High Court on Wednesday (November 25, 2026) granted time to the Enforcement Directorate (ED) to respond to a plea by Bar...\"?",
+      "qHi": "[26 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"The Delhi High Court on Wednesday (November 25, 2026) granted time to the Enforcement Directorate (ED) to respond to a plea by Bar...\"?",
+      "qMr": "[26 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"The Delhi High Court on Wednesday (November 25, 2026) granted time to the Enforcement Directorate (ED) to respond to a plea by Bar...\"?",
       "optsEn": [
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "Kallakurichi TVK MLA Arul Vignesh summoned for questioning in harassment case",
         "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel"
+        "Inter-State Council Constitutional Review Panel",
+        "Delhi High Court grants time to ED to respond to Engineer Rashid’s plea"
       ],
       "optsHi": [
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "Kallakurichi TVK MLA Arul Vignesh summoned for questioning in harassment case",
         "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel"
+        "Inter-State Council Constitutional Review Panel",
+        "Delhi High Court grants time to ED to respond to Engineer Rashid’s plea"
       ],
       "optsMr": [
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "Kallakurichi TVK MLA Arul Vignesh summoned for questioning in harassment case",
         "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel"
+        "Inter-State Council Constitutional Review Panel",
+        "Delhi High Court grants time to ED to respond to Engineer Rashid’s plea"
       ],
-      "ans": 1,
-      "explanation": "<strong>1. Core Context & Background:</strong> The Kallakurichi All Women Police on Wednesday (November 25, 2026) served summons on Kallakurichi TVK MLA C.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Arul Vignesh directing him to appear for questioning in connection with a harassment case registered against him on a complaint lodged by a woman IAS officer. Inspector Bhuvaneshwari attached to the All Women Police station visited the MLA’s house in Kallakurichi and handed the summons to him in person.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Meanwhile, police personnel have been deployed in strength at the MLA’s office in Kallakurichi."
+      "ans": 3,
+      "explanation": "<strong>1. Core Context & Background:</strong> The Delhi High Court on Wednesday (November 25, 2026) granted time to the Enforcement Directorate (ED) to respond to a plea by Baramulla MP Abdul Rashid Sheikh , challenging the framing of charges against him in a money laundering case linked to alleged funding from Pakistan through hawala channels for secessionist activities in Jammu and Kashmir.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Justice Sachin Datta listed the matter for further hearing on December 16 after the prosecutor said he needed one week to consult the special public prosecutor in the case. Rashid Sheikh, also known as Engineer Rashid, has challenged a September 9 order by which the trial court had ordered the framing of charges against the people.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> The prosecution has alleged that the accused received funds from the “Pakistani establishment” through hawala channels and other means to propagate secessionist activities and carry out acts prejudicial to the law of the land."
     },
     {
       "id": "gk_26 Nov 2026_6",
       "cat": "🏛️ National & Polity",
       "date": "26 Nov 2026",
-      "qEn": "[26 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"No permission has been sought from the Delhi Police for a protest march against the Special Intensive Revision (SIR) of electoral ...\"?",
-      "qHi": "[26 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"No permission has been sought from the Delhi Police for a protest march against the Special Intensive Revision (SIR) of electoral ...\"?",
-      "qMr": "[26 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"No permission has been sought from the Delhi Police for a protest march against the Special Intensive Revision (SIR) of electoral ...\"?",
+      "qEn": "[26 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"The Thane Crime Branch has arrested five members of a gang allegedly involved in targeting bungalows and farmhouses across Thane d...\"?",
+      "qHi": "[26 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"The Thane Crime Branch has arrested five members of a gang allegedly involved in targeting bungalows and farmhouses across Thane d...\"?",
+      "qMr": "[26 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"The Thane Crime Branch has arrested five members of a gang allegedly involved in targeting bungalows and farmhouses across Thane d...\"?",
       "optsEn": [
-        "No permission sought for November 26 anti-SIR march, Delhi Police say; organisers ...",
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "Thane Crime Branch arrests five in Mumbra dacoity case, cracks seven other cases",
         "15th Finance Commission Special State Grant",
         "Inter-State Council Constitutional Review Panel"
       ],
       "optsHi": [
-        "No permission sought for November 26 anti-SIR march, Delhi Police say; organisers ...",
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "Thane Crime Branch arrests five in Mumbra dacoity case, cracks seven other cases",
         "15th Finance Commission Special State Grant",
         "Inter-State Council Constitutional Review Panel"
       ],
       "optsMr": [
-        "No permission sought for November 26 anti-SIR march, Delhi Police say; organisers ...",
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "Thane Crime Branch arrests five in Mumbra dacoity case, cracks seven other cases",
         "15th Finance Commission Special State Grant",
         "Inter-State Council Constitutional Review Panel"
       ],
-      "ans": 0,
-      "explanation": "<strong>1. Core Context & Background:</strong> No permission has been sought from the Delhi Police for a protest march against the Special Intensive Revision (SIR) of electoral rolls , scheduled for November 26 , senior New Delhi police officials said.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> The organisers, however, maintained that they had intimated the police about the proposed demonstration. The Delhi wing of the People Against SIR platform has called for a march on Constitution Day from Valmiki Sadan on Mandir Marg towards Jantar Mantar.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> The organisers have described SIR as an attack on the Constitution and the right to vote, alleging that the exercise disproportionately affects marginalised communities, including minorities, Dalits, transgender persons, women, migrant workers and the homeless."
+      "ans": 1,
+      "explanation": "<strong>1. Core Context & Background:</strong> The Thane Crime Branch has arrested five members of a gang allegedly involved in targeting bungalows and farmhouses across Thane district, solving eight cases, including the November 17 dacoity in Mumbra, officials said on Wednesday (November 25, 2026).<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Police have recovered stolen valuables worth ₹2.39 lakh from the accused. The arrested accused have been identified as Vijay Chavan (45), Laxman Bhosale (43), Satish Waghe (27), Narayan Thombre (27), and Jayesh Kathore (35).<br><br><strong>3. Way Forward & Exam Conclusion:</strong> The Mumbra police are conducting further investigations, with the Crime Branch carrying out a parallel probe to apprehend the remaining accused and ascertain whether the gang was involved in other offences."
     },
     {
       "id": "gk_26 Nov 2026_7",
