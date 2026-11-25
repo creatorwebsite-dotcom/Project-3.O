@@ -1,24 +1,15 @@
 {
-  "updated_at": "2026-11-24 23:00:09",
+  "updated_at": "2026-11-25 00:07:16",
   "window_days": 15,
   "category_counts": {
-    "latest_jobs": 163,
+    "latest_jobs": 154,
     "results": 51,
-    "admit_cards": 59,
-    "answer_keys": 25,
+    "admit_cards": 54,
+    "answer_keys": 23,
     "syllabus": 2,
     "admissions": 1
   },
   "trending_top_6": [
-    {
-      "id": "d00325d62961",
-      "title": "IBPS RRB Officer Scale I Pre Admit Card 2026",
-      "sub": "Date Extended",
-      "url": "https://ibpsreg.ibps.in/rrboaxvaug26/",
-      "details": "Name Of Post : IBPS Rural Regional Bank (Gramin Bank) RRB 15th Recruitment 2026 : Office Assistant, Officer Scale I, II, III Pre Admit Card (Scale I) for 13706 Post Post Date / Update : 10 November 2026 | 10:23 AM Short Information IBPS Rural Regional Bank (RRB) XV Recruitment 2026. Those candidates who are interested in this IBPS RRB 15th Office Assistant, Officer Scale I, Officer Scale II and Officer Scale III Examination can Download Admit Card. Read the notification for recruitment eligibility, post information, selection procedure, age limit, pay scale and all other information.",
-      "rushScore": 134,
-      "active": true
-    },
     {
       "id": "828df6b10d6a",
       "title": "UP Police Constable Score Card 2026 Out",
@@ -62,6 +53,15 @@
       "url": "https://rrb.digialm.com/EForms/configuredHtml/33244/102956/cOPXnjiLXCY5nEw5Vt/login.html",
       "details": "",
       "rushScore": 125,
+      "active": true
+    },
+    {
+      "id": "ec401493dd6c",
+      "title": "Railway RRB Group D CEN 09/2025 Result / Score Card",
+      "sub": "Result",
+      "url": "https://www.rrbapply.gov.in/#/auth/home",
+      "details": "Name Of Post : Railway RRB Group D Various Posts of Level-1 CEN 09/2025 Recruitment 2026 Result / Score Card Post Date / Update : 12 November 2026 | 06:34 PM Short Information Indian Railway Railway Recruitment Board RRB Group D Various Posts of Level-1 CEN 09/2025. Those candidates who are Enrolled in this Railway RRB Group D CEN 09/2025 can Check Result. Read the notification for RRB Group D Various Posts of Level-1 CEN 09/2025 eligibility, post information, selection procedure, Details, age limit, pay scale and all other information.",
+      "rushScore": 123,
       "active": true
     }
   ],
