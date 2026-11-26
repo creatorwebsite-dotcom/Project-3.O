@@ -1,12 +1,12 @@
 {
-  "updatedAt": "27 Nov 2026, 02:54 AM IST",
+  "updatedAt": "27 Nov 2026, 03:47 AM IST",
   "currentDateIso": "2026-11-27",
   "currentDateDisplay": "27 Nov 2026",
   "availableDates": [
     {
       "dateIso": "2026-11-27",
       "dateDisplay": "27 Nov 2026",
-      "updatedAt": "27 Nov 2026, 02:54 AM IST",
+      "updatedAt": "27 Nov 2026, 03:47 AM IST",
       "articleCount": 30
     },
     {
@@ -23,9 +23,38 @@
     }
   ],
   "hookLine1": "The Hindu Printed Broadsheet & Editorial Digest (27 Nov 2026)",
-  "hookLine2": "100% In-App Full Newspaper Pages & Deep Editorial Analysis • Updated: 27 Nov 2026, 02:54 AM IST",
+  "hookLine2": "100% In-App Full Newspaper Pages & Deep Editorial Analysis • Updated: 27 Nov 2026, 03:47 AM IST",
   "totalArticles": 30,
   "articles": [
+    {
+      "category": "national",
+      "categoryLabel": "🏛️ National & Polity",
+      "title": "In Rajasthan, the girls who refuse to be spoken for",
+      "link": "https://www.thehindu.com/news/national/rajasthan/in-rajasthan-the-girls-who-refuse-to-be-spoken-for/article71742334.ece",
+      "pubDate": "Fri, 27 Nov 2026 02:45:13 +0530",
+      "dateIso": "2026-11-27",
+      "dateDisplay": "27 Nov 2026",
+      "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
+      "imageUrl": "https://th-i.thgim.com/public/incoming/jkuw78/article71742343.ece/alternates/LANDSCAPE_1200/SIKAR-RAJASTHAN-CHILD%20MARRIAGE%2078.JPG",
+      "fullParagraphs": [
+        "Nandini (name changed), 16, who lives in Rajasthan’s Sikar, had mapped out her future: finish school, go to college, and get a job to be financially independent. Her family, however, had other plans. Last month, they fixed her wedding without her consent. But the Class 12 student refused to surrender her dreams. She picked up her father’s mobile phone and called the 24x7 child helpline, 1098.",
+        "Over the next few days, Nandini called the helpline more than six times, using whatever phone she could lay her hands on. Sometimes, she pretended she wanted to speak to her prospective groom; at other times, she sought to contact her friends. But each call carried an urgent message: wedding preparations were under way, guests were being invited, and the date was drawing closer. Help!",
+        "Each time, the call was connecting to the District Child Protection Office. “She had asked us not to contact her. She said she would call whenever she got a chance. Her first call came just three days before the wedding,” recalls Gargi Sharma, District Child Protection Officer.",
+        "With barely 72 hours to act, the team secured an injunction order from the court and stopped the wedding. The family was taken by surprise when officials arrived, suspecting that a neighbour had tipped them off. They never imagined that the quiet schoolgirl in their midst had been orchestrating her own rescue. Her identity as the whistleblower remained a secret.",
+        "The Sikar administration prevented 29 child marriages in 2024 and 10 in 2025. “In 2026, we have received information about 21 cases so far,” Sharma says. But there are many Nandinis, especially in India’s villages, who do not have the education or the agency to say no to child marriage."
+      ],
+      "deepExplanation": "<strong>1. Core Context & Background:</strong> Nandini (name changed), 16, who lives in Rajasthan’s Sikar, had mapped out her future: finish school, go to college, and get a job to be financially independent.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Her family, however, had other plans. Last month, they fixed her wedding without her consent.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> But there are many Nandinis, especially in India’s villages, who do not have the education or the agency to say no to child marriage.",
+      "vocabList": [
+        "Rajasthan",
+        "Financially",
+        "Independent",
+        "Surrender",
+        "Helpline",
+        "Whatever"
+      ],
+      "summary": "Nandini (name changed), 16, who lives in Rajasthan’s Sikar, had mapped out her future: finish school, go to college, and get a job to be financially independent. Her family, however, had other plans. Last month, they fixed her wedding without her consent. But the Class 12 student refused to surrender her dreams. She picked up her father’s mobile phone and called the 24x7 child helpline, 1098.",
+      "keyPoints": "• Nandini (name changed), 16, who lives in Rajasthan’s Sikar, had mapped out her future: finish school, go to college, and get a job to be financially independent. Her family, however, had other plans. Last month, they fixed her wedding without her consent. But the Class 12 student refused to surrender her dreams. She picked up her father’s mobile phone and called the 24x7 child helpline, 1098.<br>• Over the next few days, Nandini called the helpline more than six times, using whatever phone she could lay her hands on. Sometimes, she pretended she wanted to speak to her prospective groom; at other times, she sought to contact her friends. But each call carried an urgent message: wedding preparations were under way, guests were being invited, and the date was drawing closer. Help!<br>• Each time, the call was connecting to the District Child Protection Office. “She had asked us not to contact her. She said she would call whenever she got a chance. Her first call came just three days before the wedding,” recalls Gargi Sharma, District Child Protection Officer."
+    },
     {
       "category": "national",
       "categoryLabel": "🏛️ National & Polity",
@@ -144,69 +173,34 @@
     {
       "category": "national",
       "categoryLabel": "🏛️ National & Polity",
-      "title": "Amended Delimitation Bill likely to be tabled in special Parliament sitting from November 30",
-      "link": "https://www.thehindu.com/news/national/government-to-reconvene-parliament-from-november-30-to-december-3-kiren-rijiju/article71747089.ece",
-      "pubDate": "Fri, 27 Nov 2026 01:34:56 +0530",
+      "title": "Two women booked over use of banned VPNs in Poonch; absconder held after two decades in Reasi: Officials",
+      "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/two-women-booked-over-use-of-banned-vpns-in-poonch-absconder-held-after-two-decadesin-reasi-officials/article71747503.ece",
+      "pubDate": "Fri, 27 Nov 2026 01:45:57 +0530",
       "dateIso": "2026-11-27",
       "dateDisplay": "27 Nov 2026",
       "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
-      "imageUrl": "https://th-i.thgim.com/public/incoming/zarshs/article71747086.ece/alternates/LANDSCAPE_1200/Uncertainty-oveGDHGRKK49.4.jpg.jpg",
+      "imageUrl": "https://th-i.thgim.com/public/incoming/9j9xhv/article71748163.ece/alternates/LANDSCAPE_1200/iStock-1447145892%207.jpg",
       "fullParagraphs": [
-        "The government has called for a special sitting of Parliament beginning Monday (November 30, 2026), where it is likely to table an amended Delimitation Bill.",
-        "The two Houses will meet on separate dates, Union Parliamentary Affairs Minister Kiren Rijiju announced on Thursday (November 26, 2026), which is the 104th day since the Monsoon Session adjourned indefinitely on August 13.",
-        "Lok Sabha sittings will begin on November 30 and Rajya Sabha sittings on December 2. Both Houses will conclude on December 3. The last record of a session of Parliament continuing unprorogued was in 2008 , when it went on for 87 days.",
-        "The Union Cabinet will meet on Friday (November 27, 2026) to clear the amended legislation. According to sources, three crucial changes are being introduced: a uniform 50% increase in the share of Lok Sabha seats; extending the freeze for 25 years on using the 1971 Census as the basis to determine the proportional strength of each State in the Lok Sabha; and third, using the 2011 Census for redrawing constituencies within each State. This replicates the formula brought by the Atal Bihari Vajpayee government in the Constitution (Eighty-fourth Amendment) Act, 2001.",
-        "Reacting to the announcement, Congress general secretary (communication) Jairam Ramesh said the Narendra Modi government announced the session “after 105 days of operation lotus” in the hope of getting a “super-tainted” two-thirds majority to get the Bill passed. “Can there be a great insult to and assault on the Constitution,” he asked in a post on X, noting that the announcement came on Constitution Day.",
-        "Congress general secretary (organisation) K.C. Venugopal took to X to describe the attempt to pass the Delimitation Bill as “ sansad chori” .",
-        "“To orchestrate this murder of the Constitution on Constitution Day shows how badly they want to mock our precious democratic system. We will not allow this to pass,” Mr. Venugopal said.",
-        "Since April, when the legislative package, including the Delimitation Bill, was defeated by a united Opposition in the Lok Sabha, the seat arithmetic in the House has changed. Twenty TMC MPs broke away and merged with the Nationalist Citizens Party of India (NCPI), pledging support to the NDA. TMC challenged the split, which is currently under Lok Sabha Speaker Om Birla’s review. The NCPI faction, on Tuesday (November 24, 2026), 84 days after TMC’s challenge, submitted replies to Mr. Birla, defending its decision and asserting that the move did not violate any parliamentary or constitutional provisions.",
-        "Six Shiv Sena (UBT) MPs joined the Eknath Shinde-led Shiv Sena. Following the recent alliance between the BJP and the Shiromani Akali Dal (SAD), the lone SAD MP is also expected to vote with the government. It is also learnt that the YSR Congress, which has four MPs in the Lok Sabha, will extend support to the government on the Bill.",
-        "In this evolving situation, all eyes are on the DMK, with 22 Lok Sabha MPs, and the NCP (Sharadchandra Pawar), with eight.",
-        "Senior NCP (SP) leader Supriya Sule, on Thursday (November 26, 2026), told reporters that pre-emptively opposing the law before its draft was made public was not a good move.",
-        "“First let the bill come. Let the entire bill come into our hands. When the bill is in our hands, then we will all talk about it, and if the bill is good for the nation, we might support it,” she said. She further added that there have been instances in the past when the Opposition has supported the government on matters of national importance and key reforms."
+        "Two women were booked on Thursday in the Pir Panjal valley’s Poonch district over the use of Virtual Private Network (VPN) apps in violation of prohibitory orders of the District Magistrate.",
+        "Officials identified the two women as Muneera Bi and Soniya Ayoub, both residents of Poonch’s Ari. Two separate First Information Reports (FIRs) were lodged under Section 223 of the Bharatiya Nyaya Sanhita (BNS), which deals with disobedience to an order duly promulgated by a public servant.",
+        "In 2025, the District Magistrate, Poonch, issued prohibitory orders on the use of VPN apps in the district close to the Line of Control (LoC) and also considered as an infiltration route of terrorists.",
+        "Meanwhile, police officials warned to carry out action against those using VPN apps in the district and advised people to follow the official directions.",
+        "Meanwhile, the J&K Police in Reasi claimed to have arrested a long-evading absconder, who was a surrendered terrorist, after two decades in connection with multiple terror cases, including the killing of a police personnel.",
+        "The police identified the accused as Mohammad Mansha, a resident of Thuroo Lassoli, Reasi. The accused was facing charges under Sections 302, 307 and 121-A of the Ranbir Penal Code and Sections 7/25 of the Arms Act in a case of killing of a policeman.",
+        "However, the accused was declared an absconder after the Reasi court issued an arrest warrant in 2001. “A District Absconder Tracking Unit was constituted and deputed to Tral, Awantipora (in Kashmir). Through professional expertise, perseverance and effective inter-district coordination, the team successfully traced and apprehended the accused,” said officials.",
+        "The police said the accused was allegedly an active terrorist during 2000-2007, before surrendering in 2007. The police said the arrest marks a significant achievement in bringing a long-pending pursuit to a successful conclusion after more than two decades."
       ],
-      "deepExplanation": "<strong>1. Core Context & Background:</strong> The government has called for a special sitting of Parliament beginning Monday (November 30, 2026), where it is likely to table an amended Delimitation Bill.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> The two Houses will meet on separate dates, Union Parliamentary Affairs Minister Kiren Rijiju announced on Thursday (November 26, 2026), which is the 104th day since the Monsoon Session adjourned indefinitely on August 13. Lok Sabha sittings will begin on November 30 and Rajya Sabha sittings on December 2.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> She further added that there have been instances in the past when the Opposition has supported the government on matters of national importance and key reforms.",
+      "deepExplanation": "<strong>1. Core Context & Background:</strong> Two women were booked on Thursday in the Pir Panjal valley’s Poonch district over the use of Virtual Private Network (VPN) apps in violation of prohibitory orders of the District Magistrate.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Officials identified the two women as Muneera Bi and Soniya Ayoub, both residents of Poonch’s Ari. Two separate First Information Reports (FIRs) were lodged under Section 223 of the Bharatiya Nyaya Sanhita (BNS), which deals with disobedience to an order duly promulgated by a public servant.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> The police said the arrest marks a significant achievement in bringing a long-pending pursuit to a successful conclusion after more than two decades.",
       "vocabList": [
-        "Parliament",
-        "Beginning",
-        "November",
-        "Delimitation",
-        "Separate",
-        "Parliamentary"
-      ],
-      "summary": "The government has called for a special sitting of Parliament beginning Monday (November 30, 2026), where it is likely to table an amended Delimitation Bill.",
-      "keyPoints": "• The government has called for a special sitting of Parliament beginning Monday (November 30, 2026), where it is likely to table an amended Delimitation Bill.<br>• The two Houses will meet on separate dates, Union Parliamentary Affairs Minister Kiren Rijiju announced on Thursday (November 26, 2026), which is the 104th day since the Monsoon Session adjourned indefinitely on August 13.<br>• Lok Sabha sittings will begin on November 30 and Rajya Sabha sittings on December 2. Both Houses will conclude on December 3. The last record of a session of Parliament continuing unprorogued was in 2008 , when it went on for 87 days."
-    },
-    {
-      "category": "national",
-      "categoryLabel": "🏛️ National & Polity",
-      "title": "Sthaneeka Bhattars make contradictory statements on the lighting of deepam",
-      "link": "https://www.thehindu.com/news/cities/Madurai/sthanika-bhattars-make-contradictory-statements-on-the-lighting-of-deepam/article71747038.ece",
-      "pubDate": "Fri, 27 Nov 2026 01:28:15 +0530",
-      "dateIso": "2026-11-27",
-      "dateDisplay": "27 Nov 2026",
-      "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
-      "imageUrl": "https://th-i.thgim.com/public/incoming/sv5oq7/article71747958.ece/alternates/LANDSCAPE_1200/TH24-nearby3_GGGK4GRFFMC.10.jpg.jpg",
-      "fullParagraphs": [
-        "The Sthaneeka Bhattars of the Subramaniya Swamy Temple at Thirupparankundram gave some tense moments to the Madurai district administration by making contradictory statements on their “consent” for lighting the ceremonial lamp at the traditional spot — Deepa Mandapam — on Karthigai Deepam day.",
-        "Editorial | Indefensible defiance: On Tamil Nadu and Court’s Thirupparankundram order",
-        "The administration had submitted at the Supreme Court that despite its readiness to light the lamp at the deepathoon , it could not comply with the court directive as the temple’s Board of Trustees insisted on lighting the lamp only at the Deepa Mandapam, following age-old practices, customs and rituals, and agama rules.",
-        "A statement made on November 24 by the temple’s Executive Officer, G. Selvi, had said the reasoning for lighting the lamp at the Deepa Mandapam was backed by the Bhattars. However, the next day, a letter purportedly written by the Bhattars, stating that they had not given any letter of consent on lighting the lamp on November 24, went viral on social media. They said they had given consent for lighting the lamp at the usual spot near Uchipillaiyar Temple “last year” (2025). The recent statement by the Hindu Religious and Charitable Endowments Department referring to their consent, made “without consulting” them, had caused mental agony, they said.",
-        "Meanwhile, there was commotion outside the house of Swaminatha Bhattar late in the evening on Wednesday, as functionaries of the BJP and Hindu outfits arrived at the priest’s house. Temple officials too were present at the house. The BJP functionaries said the Bhattars were being “forced” to give a new letter of consent to help the officials substantiate their stand before the Supreme Court. The demonstrators were detained by the police.",
-        "An official of the Department said the Bhattars gave the new letter on Wednesday to the Board of Trustees. “The lighting of Karthigai Deepam has been done at the Uchipillaiyar Temple since 1996 with the cooperation of the temple authorities,” said the letter, signed by four Bhattars. However, they underlined that they were only replying to a letter written by the temple administration, seeking their opinion on this issue.",
-        "They reasoned that the Utchipillaiyar Temple, the Rajagopuram, and the venue for burning chokkapanai near the 16-Pillar Mandapam lie on a straight line, and the Utchipillaiyar Temple was located right above the sanctum sanctorum. They also confirmed that they had given the same opinion “in writing” on November 7, 2013 and December 4, 2025. “The deepam is lit at the deepamandapam after getting oral or written opinion from us every year. This is in line with the agama rules and age-old Saiva customs,” they clarified."
-      ],
-      "deepExplanation": "<strong>1. Core Context & Background:</strong> The Sthaneeka Bhattars of the Subramaniya Swamy Temple at Thirupparankundram gave some tense moments to the Madurai district administration by making contradictory statements on their “consent” for lighting the ceremonial lamp at the traditional spot — Deepa Mandapam — on Karthigai Deepam day.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Editorial | Indefensible defiance: On Tamil Nadu and Court’s Thirupparankundram order The administration had submitted at the Supreme Court that despite its readiness to light the lamp at the deepathoon , it could not comply with the court directive as the temple’s Board of Trustees insisted on lighting the lamp only at the Deepa Mandapam, following age-old practices, customs and rituals, and agama rules. A statement made on November 24 by the temple’s Executive Officer, G.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> This is in line with the agama rules and age-old Saiva customs,” they clarified.",
-      "vocabList": [
-        "Sthaneeka",
-        "Bhattars",
-        "Subramaniya",
+        "Thursday",
         "District",
-        "Administration",
-        "Contradictory"
+        "Violation",
+        "Prohibitory",
+        "Magistrate",
+        "Officials"
       ],
-      "summary": "The Sthaneeka Bhattars of the Subramaniya Swamy Temple at Thirupparankundram gave some tense moments to the Madurai district administration by making contradictory statements on their “consent” for lighting the ceremonial lamp at the traditional spot — Deepa Mandapam — on Karthigai Deepam day.",
-      "keyPoints": "• The Sthaneeka Bhattars of the Subramaniya Swamy Temple at Thirupparankundram gave some tense moments to the Madurai district administration by making contradictory statements on their “consent” for lighting the ceremonial lamp at the traditional spot — Deepa Mandapam — on Karthigai Deepam day.<br>• Editorial | Indefensible defiance: On Tamil Nadu and Court’s Thirupparankundram order<br>• The administration had submitted at the Supreme Court that despite its readiness to light the lamp at the deepathoon , it could not comply with the court directive as the temple’s Board of Trustees insisted on lighting the lamp only at the Deepa Mandapam, following age-old practices, customs and rituals, and agama rules."
+      "summary": "Two women were booked on Thursday in the Pir Panjal valley’s Poonch district over the use of Virtual Private Network (VPN) apps in violation of prohibitory orders of the District Magistrate.",
+      "keyPoints": "• Two women were booked on Thursday in the Pir Panjal valley’s Poonch district over the use of Virtual Private Network (VPN) apps in violation of prohibitory orders of the District Magistrate.<br>• Officials identified the two women as Muneera Bi and Soniya Ayoub, both residents of Poonch’s Ari. Two separate First Information Reports (FIRs) were lodged under Section 223 of the Bharatiya Nyaya Sanhita (BNS), which deals with disobedience to an order duly promulgated by a public servant.<br>• In 2025, the District Magistrate, Poonch, issued prohibitory orders on the use of VPN apps in the district close to the Line of Control (LoC) and also considered as an infiltration route of terrorists."
     },
     {
       "category": "economy",
@@ -417,6 +411,41 @@
     {
       "category": "ir",
       "categoryLabel": "🌐 International Relations",
+      "title": "Strobe Talbott, former Time magazine reporter and Deputy Secretary of State, has died",
+      "link": "https://www.thehindu.com/news/international/strobe-talbott-former-time-magazine-reporter-and-deputy-secretary-of-state-has-died/article71748303.ece",
+      "pubDate": "Fri, 27 Nov 2026 03:41:51 +0530",
+      "dateIso": "2026-11-27",
+      "dateDisplay": "27 Nov 2026",
+      "examRelevance": "GS Paper-II & Current Affairs: Bilateral Agreements, Foreign Visits & UN/G20/BRICS",
+      "imageUrl": "https://th-i.thgim.com/public/incoming/r239z3/article71748306.ece/alternates/LANDSCAPE_1200/Strobe_Talbott_1_544.jpg",
+      "fullParagraphs": [
+        "Strobe Talbott, a former Time magazine reporter who later served as Deputy Secretary of State under President Bill Clinton and then headed the Brookings Institution, died Thursday (November 26, 2026). He was 80.",
+        "His son, Devin Talbott, confirmed he passed away peacefully after a long illness in his East Hampton, New York, home.",
+        "The elder Talbott was educated at Yale and Oxford, where he bunked with Mr. Clinton. While at the British university, after interning for Time in Moscow, the magazine asked Talbott to help translate the leaked memoirs of Nikita Khrushchev, the former first secretary of the Communist Party of the Soviet Union, who was ousted in 1964.",
+        "Talbott did, and it gave him some notoriety as a young man and a job at the magazine.",
+        "After 21 years at Time , where he focused on Soviet-American relations and held positions including Washington bureau chief and a foreign-affairs columnist, according to his US State Department biography, he received a call from the newly elected Clinton.",
+        "Then-Prime Minister P.V. Narasimha Rao in conversation with visiting then-U.S. Deputy Secretary of State Strobe Talbot, in New Delhi on April 08, 1994. | Photo Credit: UNI",
+        "Talbott joined the U.S. State Department in 1994, swiftly becoming Deputy Secretary of State. In that role, he was the architect of the Clinton administration's approach to Russia and other formerly Soviet countries and conducted negotiations between the US and India after the latter's nuclear tests in 1998.",
+        "Afterward, he served as the president of Brookings from 2002 to 2017. In that time, he also chaired the U.S. State Department's Foreign Affairs Policy Board.",
+        "Talbott also authored over a dozen books. His last book was titled “Our Founders' Warning: The Age of Reason Meets the Age of Trump,” which was published in 2020.",
+        "He was born in Dayton, Ohio, in 1946, and is survived by two sons, Devin and Adrian; stepdaughter Rebecca Ascher-Walsh; siblings Kirk, Marjo and Page Talbott; and eight grandchildren, according to the New York Times.",
+        "His first wife, Brook Shearer, died in 2009, and he later married author Barbara Lazear Ascher."
+      ],
+      "deepExplanation": "<strong>1. Core Context & Background:</strong> Strobe Talbott, a former Time magazine reporter who later served as Deputy Secretary of State under President Bill Clinton and then headed the Brookings Institution, died Thursday (November 26, 2026).<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> His son, Devin Talbott, confirmed he passed away peacefully after a long illness in his East Hampton, New York, home. The elder Talbott was educated at Yale and Oxford, where he bunked with Mr.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> His first wife, Brook Shearer, died in 2009, and he later married author Barbara Lazear Ascher.",
+      "vocabList": [
+        "Magazine",
+        "Reporter",
+        "Secretary",
+        "President",
+        "Brookings",
+        "Institution"
+      ],
+      "summary": "Strobe Talbott, a former Time magazine reporter who later served as Deputy Secretary of State under President Bill Clinton and then headed the Brookings Institution, died Thursday (November 26, 2026). He was 80.",
+      "keyPoints": "• Strobe Talbott, a former Time magazine reporter who later served as Deputy Secretary of State under President Bill Clinton and then headed the Brookings Institution, died Thursday (November 26, 2026). He was 80.<br>• His son, Devin Talbott, confirmed he passed away peacefully after a long illness in his East Hampton, New York, home.<br>• The elder Talbott was educated at Yale and Oxford, where he bunked with Mr. Clinton. While at the British university, after interning for Time in Moscow, the magazine asked Talbott to help translate the leaked memoirs of Nikita Khrushchev, the former first secretary of the Communist Party of the Soviet Union, who was ousted in 1964."
+    },
+    {
+      "category": "ir",
+      "categoryLabel": "🌐 International Relations",
       "title": "Yemen's Houthi-held capital hit after group targets Riyadh",
       "link": "https://www.thehindu.com/news/international/yemens-houthi-held-capital-hit-after-group-targets-riyadh/article71748008.ece",
       "pubDate": "Thu, 26 Nov 2026 23:09:34 +0530",
@@ -590,42 +619,6 @@
       ],
       "summary": "Myanmar's military-backed ‌President has said his administration will not comply with all ​measures ordered by the UN's top court, which last ⁠week ruled that the country's security forces had committed genocide against the Rohingya.",
       "keyPoints": "• Myanmar's military-backed ‌President has said his administration will not comply with all ​measures ordered by the UN's top court, which last ⁠week ruled that the country's security forces had committed genocide against the Rohingya.<br>• The International Court of Justice (ICJ) found that the Myanmar military's actions against the mainly ‌Muslim Rohingya minority in 2017, including thousands of killings, the burning of hundreds of villages and widespread sexual violence, amounted ‌to genocide — and ordered a slew of measures.<br>• The ruling by ‌the ⁠ICJ, the first instance of the UN court holding a ⁠state responsible for genocide, is final but the court has very limited options to enforce it."
-    },
-    {
-      "category": "ir",
-      "categoryLabel": "🌐 International Relations",
-      "title": "China's Defence Ministry urges Japan to stop 'stirring up' South China Sea disputes",
-      "link": "https://www.thehindu.com/news/international/chinas-defence-ministry-urges-japan-to-stop-stirring-up-south-china-sea-disputes/article71747672.ece",
-      "pubDate": "Thu, 26 Nov 2026 22:26:27 +0530",
-      "dateIso": "2026-11-27",
-      "dateDisplay": "27 Nov 2026",
-      "examRelevance": "GS Paper-II & Current Affairs: Bilateral Agreements, Foreign Visits & UN/G20/BRICS",
-      "imageUrl": "https://th-i.thgim.com/public/incoming/6u0xer/article71747738.ece/alternates/LANDSCAPE_1200/Philippines_South_China_Sea_49134.jpg",
-      "fullParagraphs": [
-        "China's Defence Ministry urged Japan on Thursday (November 26, 2026) to stop \"stirring up ​trouble\" over the South China Sea after a spokesperson was asked about ‌deepening cooperation between Tokyo and the Philippines, both formal ​U.S. military allies.",
-        "The comments were in response to an ⁠announcement earlier this month that Japan will provide the Philippines with radars and drones to boost its coastal surveillance capabilities.",
-        "Chinese and Philippine coastguard vessels ‌frequently clash near disputed shoals and reefs as part of long-simmering tensions over the vital trade waterway.",
-        "Defence Ministry ‌spokesperson Chen Xi told a regular press briefing in Beijing ‌that ⁠Japan was not party to the disputes and had ⁠no right to comment on them.",
-        "\"We demand that Japan stop stirring up trouble over the South China Sea issue,\" Mr. Chen Xi said.",
-        "Japan had used \"so-called external threats\" ​to deepen regional anxieties, form military ‌cliques and attempt to strengthen its military presence in the South China Sea, he added.",
-        "The U.S. and its allies and partners have repeatedly expressed concern over the situation in the South ‌China Sea as China asserts its sovereignty through growing deployments ​of naval, coastguard and militia vessels.",
-        "China claims nearly all of the South China Sea, overlapping maritime claims of ⁠the Philippines, Vietnam, Malaysia, Brunei and Taiwan. In 2016, a Hague-based tribunal said China's claims had no legal basis, a decision Beijing ‌has rejected.",
-        "China's Military is also operating further out into the Pacific and is present on a daily basis around Taiwan, which Beijing views as its own territory.",
-        "China carried out a large, unannounced military exercise across the western Pacific and around Taiwan in early November, in what officials in Taipei have previously described ‌as a campaign of \"silent intimidation\".",
-        "Mr. Chen Xi, asked about those drills, said the Military's stepped-up training ​and combat readiness, and its continuous improvement of practical capabilities to defend China's sovereignty and territorial integrity, are \"entirely legitimate and ⁠reasonable\".",
-        "\"We oppose certain parties hyping it up with ulterior motives,\" he ⁠added."
-      ],
-      "deepExplanation": "<strong>1. Core Context & Background:</strong> China's Defence Ministry urged Japan on Thursday (November 26, 2026) to stop \"stirring up ​trouble\" over the South China Sea after a spokesperson was asked about ‌deepening cooperation between Tokyo and the Philippines, both formal ​U.S.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> The comments were in response to an ⁠announcement earlier this month that Japan will provide the Philippines with radars and drones to boost its coastal surveillance capabilities. Chinese and Philippine coastguard vessels ‌frequently clash near disputed shoals and reefs as part of long-simmering tensions over the vital trade waterway.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> \"We oppose certain parties hyping it up with ulterior motives,\" he ⁠added.",
-      "vocabList": [
-        "Ministry",
-        "Thursday",
-        "November",
-        "Stirring",
-        "Spokesperson",
-        "Deepening"
-      ],
-      "summary": "China's Defence Ministry urged Japan on Thursday (November 26, 2026) to stop \"stirring up ​trouble\" over the South China Sea after a spokesperson was asked about ‌deepening cooperation between Tokyo and the Philippines, both formal ​U.S. military allies.",
-      "keyPoints": "• China's Defence Ministry urged Japan on Thursday (November 26, 2026) to stop \"stirring up ​trouble\" over the South China Sea after a spokesperson was asked about ‌deepening cooperation between Tokyo and the Philippines, both formal ​U.S. military allies.<br>• The comments were in response to an ⁠announcement earlier this month that Japan will provide the Philippines with radars and drones to boost its coastal surveillance capabilities.<br>• Chinese and Philippine coastguard vessels ‌frequently clash near disputed shoals and reefs as part of long-simmering tensions over the vital trade waterway."
     },
     {
       "category": "scitech",
@@ -1004,8 +997,37 @@
     "2026-11-27": {
       "dateIso": "2026-11-27",
       "dateDisplay": "27 Nov 2026",
-      "updatedAt": "27 Nov 2026, 02:54 AM IST",
+      "updatedAt": "27 Nov 2026, 03:47 AM IST",
       "articles": [
+        {
+          "category": "national",
+          "categoryLabel": "🏛️ National & Polity",
+          "title": "In Rajasthan, the girls who refuse to be spoken for",
+          "link": "https://www.thehindu.com/news/national/rajasthan/in-rajasthan-the-girls-who-refuse-to-be-spoken-for/article71742334.ece",
+          "pubDate": "Fri, 27 Nov 2026 02:45:13 +0530",
+          "dateIso": "2026-11-27",
+          "dateDisplay": "27 Nov 2026",
+          "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/jkuw78/article71742343.ece/alternates/LANDSCAPE_1200/SIKAR-RAJASTHAN-CHILD%20MARRIAGE%2078.JPG",
+          "fullParagraphs": [
+            "Nandini (name changed), 16, who lives in Rajasthan’s Sikar, had mapped out her future: finish school, go to college, and get a job to be financially independent. Her family, however, had other plans. Last month, they fixed her wedding without her consent. But the Class 12 student refused to surrender her dreams. She picked up her father’s mobile phone and called the 24x7 child helpline, 1098.",
+            "Over the next few days, Nandini called the helpline more than six times, using whatever phone she could lay her hands on. Sometimes, she pretended she wanted to speak to her prospective groom; at other times, she sought to contact her friends. But each call carried an urgent message: wedding preparations were under way, guests were being invited, and the date was drawing closer. Help!",
+            "Each time, the call was connecting to the District Child Protection Office. “She had asked us not to contact her. She said she would call whenever she got a chance. Her first call came just three days before the wedding,” recalls Gargi Sharma, District Child Protection Officer.",
+            "With barely 72 hours to act, the team secured an injunction order from the court and stopped the wedding. The family was taken by surprise when officials arrived, suspecting that a neighbour had tipped them off. They never imagined that the quiet schoolgirl in their midst had been orchestrating her own rescue. Her identity as the whistleblower remained a secret.",
+            "The Sikar administration prevented 29 child marriages in 2024 and 10 in 2025. “In 2026, we have received information about 21 cases so far,” Sharma says. But there are many Nandinis, especially in India’s villages, who do not have the education or the agency to say no to child marriage."
+          ],
+          "deepExplanation": "<strong>1. Core Context & Background:</strong> Nandini (name changed), 16, who lives in Rajasthan’s Sikar, had mapped out her future: finish school, go to college, and get a job to be financially independent.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Her family, however, had other plans. Last month, they fixed her wedding without her consent.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> But there are many Nandinis, especially in India’s villages, who do not have the education or the agency to say no to child marriage.",
+          "vocabList": [
+            "Rajasthan",
+            "Financially",
+            "Independent",
+            "Surrender",
+            "Helpline",
+            "Whatever"
+          ],
+          "summary": "Nandini (name changed), 16, who lives in Rajasthan’s Sikar, had mapped out her future: finish school, go to college, and get a job to be financially independent. Her family, however, had other plans. Last month, they fixed her wedding without her consent. But the Class 12 student refused to surrender her dreams. She picked up her father’s mobile phone and called the 24x7 child helpline, 1098.",
+          "keyPoints": "• Nandini (name changed), 16, who lives in Rajasthan’s Sikar, had mapped out her future: finish school, go to college, and get a job to be financially independent. Her family, however, had other plans. Last month, they fixed her wedding without her consent. But the Class 12 student refused to surrender her dreams. She picked up her father’s mobile phone and called the 24x7 child helpline, 1098.<br>• Over the next few days, Nandini called the helpline more than six times, using whatever phone she could lay her hands on. Sometimes, she pretended she wanted to speak to her prospective groom; at other times, she sought to contact her friends. But each call carried an urgent message: wedding preparations were under way, guests were being invited, and the date was drawing closer. Help!<br>• Each time, the call was connecting to the District Child Protection Office. “She had asked us not to contact her. She said she would call whenever she got a chance. Her first call came just three days before the wedding,” recalls Gargi Sharma, District Child Protection Officer."
+        },
         {
           "category": "national",
           "categoryLabel": "🏛️ National & Polity",
@@ -1124,69 +1146,34 @@
         {
           "category": "national",
           "categoryLabel": "🏛️ National & Polity",
-          "title": "Amended Delimitation Bill likely to be tabled in special Parliament sitting from November 30",
-          "link": "https://www.thehindu.com/news/national/government-to-reconvene-parliament-from-november-30-to-december-3-kiren-rijiju/article71747089.ece",
-          "pubDate": "Fri, 27 Nov 2026 01:34:56 +0530",
+          "title": "Two women booked over use of banned VPNs in Poonch; absconder held after two decades in Reasi: Officials",
+          "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/two-women-booked-over-use-of-banned-vpns-in-poonch-absconder-held-after-two-decadesin-reasi-officials/article71747503.ece",
+          "pubDate": "Fri, 27 Nov 2026 01:45:57 +0530",
           "dateIso": "2026-11-27",
           "dateDisplay": "27 Nov 2026",
           "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
-          "imageUrl": "https://th-i.thgim.com/public/incoming/zarshs/article71747086.ece/alternates/LANDSCAPE_1200/Uncertainty-oveGDHGRKK49.4.jpg.jpg",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/9j9xhv/article71748163.ece/alternates/LANDSCAPE_1200/iStock-1447145892%207.jpg",
           "fullParagraphs": [
-            "The government has called for a special sitting of Parliament beginning Monday (November 30, 2026), where it is likely to table an amended Delimitation Bill.",
-            "The two Houses will meet on separate dates, Union Parliamentary Affairs Minister Kiren Rijiju announced on Thursday (November 26, 2026), which is the 104th day since the Monsoon Session adjourned indefinitely on August 13.",
-            "Lok Sabha sittings will begin on November 30 and Rajya Sabha sittings on December 2. Both Houses will conclude on December 3. The last record of a session of Parliament continuing unprorogued was in 2008 , when it went on for 87 days.",
-            "The Union Cabinet will meet on Friday (November 27, 2026) to clear the amended legislation. According to sources, three crucial changes are being introduced: a uniform 50% increase in the share of Lok Sabha seats; extending the freeze for 25 years on using the 1971 Census as the basis to determine the proportional strength of each State in the Lok Sabha; and third, using the 2011 Census for redrawing constituencies within each State. This replicates the formula brought by the Atal Bihari Vajpayee government in the Constitution (Eighty-fourth Amendment) Act, 2001.",
-            "Reacting to the announcement, Congress general secretary (communication) Jairam Ramesh said the Narendra Modi government announced the session “after 105 days of operation lotus” in the hope of getting a “super-tainted” two-thirds majority to get the Bill passed. “Can there be a great insult to and assault on the Constitution,” he asked in a post on X, noting that the announcement came on Constitution Day.",
-            "Congress general secretary (organisation) K.C. Venugopal took to X to describe the attempt to pass the Delimitation Bill as “ sansad chori” .",
-            "“To orchestrate this murder of the Constitution on Constitution Day shows how badly they want to mock our precious democratic system. We will not allow this to pass,” Mr. Venugopal said.",
-            "Since April, when the legislative package, including the Delimitation Bill, was defeated by a united Opposition in the Lok Sabha, the seat arithmetic in the House has changed. Twenty TMC MPs broke away and merged with the Nationalist Citizens Party of India (NCPI), pledging support to the NDA. TMC challenged the split, which is currently under Lok Sabha Speaker Om Birla’s review. The NCPI faction, on Tuesday (November 24, 2026), 84 days after TMC’s challenge, submitted replies to Mr. Birla, defending its decision and asserting that the move did not violate any parliamentary or constitutional provisions.",
-            "Six Shiv Sena (UBT) MPs joined the Eknath Shinde-led Shiv Sena. Following the recent alliance between the BJP and the Shiromani Akali Dal (SAD), the lone SAD MP is also expected to vote with the government. It is also learnt that the YSR Congress, which has four MPs in the Lok Sabha, will extend support to the government on the Bill.",
-            "In this evolving situation, all eyes are on the DMK, with 22 Lok Sabha MPs, and the NCP (Sharadchandra Pawar), with eight.",
-            "Senior NCP (SP) leader Supriya Sule, on Thursday (November 26, 2026), told reporters that pre-emptively opposing the law before its draft was made public was not a good move.",
-            "“First let the bill come. Let the entire bill come into our hands. When the bill is in our hands, then we will all talk about it, and if the bill is good for the nation, we might support it,” she said. She further added that there have been instances in the past when the Opposition has supported the government on matters of national importance and key reforms."
+            "Two women were booked on Thursday in the Pir Panjal valley’s Poonch district over the use of Virtual Private Network (VPN) apps in violation of prohibitory orders of the District Magistrate.",
+            "Officials identified the two women as Muneera Bi and Soniya Ayoub, both residents of Poonch’s Ari. Two separate First Information Reports (FIRs) were lodged under Section 223 of the Bharatiya Nyaya Sanhita (BNS), which deals with disobedience to an order duly promulgated by a public servant.",
+            "In 2025, the District Magistrate, Poonch, issued prohibitory orders on the use of VPN apps in the district close to the Line of Control (LoC) and also considered as an infiltration route of terrorists.",
+            "Meanwhile, police officials warned to carry out action against those using VPN apps in the district and advised people to follow the official directions.",
+            "Meanwhile, the J&K Police in Reasi claimed to have arrested a long-evading absconder, who was a surrendered terrorist, after two decades in connection with multiple terror cases, including the killing of a police personnel.",
+            "The police identified the accused as Mohammad Mansha, a resident of Thuroo Lassoli, Reasi. The accused was facing charges under Sections 302, 307 and 121-A of the Ranbir Penal Code and Sections 7/25 of the Arms Act in a case of killing of a policeman.",
+            "However, the accused was declared an absconder after the Reasi court issued an arrest warrant in 2001. “A District Absconder Tracking Unit was constituted and deputed to Tral, Awantipora (in Kashmir). Through professional expertise, perseverance and effective inter-district coordination, the team successfully traced and apprehended the accused,” said officials.",
+            "The police said the accused was allegedly an active terrorist during 2000-2007, before surrendering in 2007. The police said the arrest marks a significant achievement in bringing a long-pending pursuit to a successful conclusion after more than two decades."
           ],
-          "deepExplanation": "<strong>1. Core Context & Background:</strong> The government has called for a special sitting of Parliament beginning Monday (November 30, 2026), where it is likely to table an amended Delimitation Bill.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> The two Houses will meet on separate dates, Union Parliamentary Affairs Minister Kiren Rijiju announced on Thursday (November 26, 2026), which is the 104th day since the Monsoon Session adjourned indefinitely on August 13. Lok Sabha sittings will begin on November 30 and Rajya Sabha sittings on December 2.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> She further added that there have been instances in the past when the Opposition has supported the government on matters of national importance and key reforms.",
+          "deepExplanation": "<strong>1. Core Context & Background:</strong> Two women were booked on Thursday in the Pir Panjal valley’s Poonch district over the use of Virtual Private Network (VPN) apps in violation of prohibitory orders of the District Magistrate.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Officials identified the two women as Muneera Bi and Soniya Ayoub, both residents of Poonch’s Ari. Two separate First Information Reports (FIRs) were lodged under Section 223 of the Bharatiya Nyaya Sanhita (BNS), which deals with disobedience to an order duly promulgated by a public servant.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> The police said the arrest marks a significant achievement in bringing a long-pending pursuit to a successful conclusion after more than two decades.",
           "vocabList": [
-            "Parliament",
-            "Beginning",
-            "November",
-            "Delimitation",
-            "Separate",
-            "Parliamentary"
-          ],
-          "summary": "The government has called for a special sitting of Parliament beginning Monday (November 30, 2026), where it is likely to table an amended Delimitation Bill.",
-          "keyPoints": "• The government has called for a special sitting of Parliament beginning Monday (November 30, 2026), where it is likely to table an amended Delimitation Bill.<br>• The two Houses will meet on separate dates, Union Parliamentary Affairs Minister Kiren Rijiju announced on Thursday (November 26, 2026), which is the 104th day since the Monsoon Session adjourned indefinitely on August 13.<br>• Lok Sabha sittings will begin on November 30 and Rajya Sabha sittings on December 2. Both Houses will conclude on December 3. The last record of a session of Parliament continuing unprorogued was in 2008 , when it went on for 87 days."
-        },
-        {
-          "category": "national",
-          "categoryLabel": "🏛️ National & Polity",
-          "title": "Sthaneeka Bhattars make contradictory statements on the lighting of deepam",
-          "link": "https://www.thehindu.com/news/cities/Madurai/sthanika-bhattars-make-contradictory-statements-on-the-lighting-of-deepam/article71747038.ece",
-          "pubDate": "Fri, 27 Nov 2026 01:28:15 +0530",
-          "dateIso": "2026-11-27",
-          "dateDisplay": "27 Nov 2026",
-          "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
-          "imageUrl": "https://th-i.thgim.com/public/incoming/sv5oq7/article71747958.ece/alternates/LANDSCAPE_1200/TH24-nearby3_GGGK4GRFFMC.10.jpg.jpg",
-          "fullParagraphs": [
-            "The Sthaneeka Bhattars of the Subramaniya Swamy Temple at Thirupparankundram gave some tense moments to the Madurai district administration by making contradictory statements on their “consent” for lighting the ceremonial lamp at the traditional spot — Deepa Mandapam — on Karthigai Deepam day.",
-            "Editorial | Indefensible defiance: On Tamil Nadu and Court’s Thirupparankundram order",
-            "The administration had submitted at the Supreme Court that despite its readiness to light the lamp at the deepathoon , it could not comply with the court directive as the temple’s Board of Trustees insisted on lighting the lamp only at the Deepa Mandapam, following age-old practices, customs and rituals, and agama rules.",
-            "A statement made on November 24 by the temple’s Executive Officer, G. Selvi, had said the reasoning for lighting the lamp at the Deepa Mandapam was backed by the Bhattars. However, the next day, a letter purportedly written by the Bhattars, stating that they had not given any letter of consent on lighting the lamp on November 24, went viral on social media. They said they had given consent for lighting the lamp at the usual spot near Uchipillaiyar Temple “last year” (2025). The recent statement by the Hindu Religious and Charitable Endowments Department referring to their consent, made “without consulting” them, had caused mental agony, they said.",
-            "Meanwhile, there was commotion outside the house of Swaminatha Bhattar late in the evening on Wednesday, as functionaries of the BJP and Hindu outfits arrived at the priest’s house. Temple officials too were present at the house. The BJP functionaries said the Bhattars were being “forced” to give a new letter of consent to help the officials substantiate their stand before the Supreme Court. The demonstrators were detained by the police.",
-            "An official of the Department said the Bhattars gave the new letter on Wednesday to the Board of Trustees. “The lighting of Karthigai Deepam has been done at the Uchipillaiyar Temple since 1996 with the cooperation of the temple authorities,” said the letter, signed by four Bhattars. However, they underlined that they were only replying to a letter written by the temple administration, seeking their opinion on this issue.",
-            "They reasoned that the Utchipillaiyar Temple, the Rajagopuram, and the venue for burning chokkapanai near the 16-Pillar Mandapam lie on a straight line, and the Utchipillaiyar Temple was located right above the sanctum sanctorum. They also confirmed that they had given the same opinion “in writing” on November 7, 2013 and December 4, 2025. “The deepam is lit at the deepamandapam after getting oral or written opinion from us every year. This is in line with the agama rules and age-old Saiva customs,” they clarified."
-          ],
-          "deepExplanation": "<strong>1. Core Context & Background:</strong> The Sthaneeka Bhattars of the Subramaniya Swamy Temple at Thirupparankundram gave some tense moments to the Madurai district administration by making contradictory statements on their “consent” for lighting the ceremonial lamp at the traditional spot — Deepa Mandapam — on Karthigai Deepam day.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Editorial | Indefensible defiance: On Tamil Nadu and Court’s Thirupparankundram order The administration had submitted at the Supreme Court that despite its readiness to light the lamp at the deepathoon , it could not comply with the court directive as the temple’s Board of Trustees insisted on lighting the lamp only at the Deepa Mandapam, following age-old practices, customs and rituals, and agama rules. A statement made on November 24 by the temple’s Executive Officer, G.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> This is in line with the agama rules and age-old Saiva customs,” they clarified.",
-          "vocabList": [
-            "Sthaneeka",
-            "Bhattars",
-            "Subramaniya",
+            "Thursday",
             "District",
-            "Administration",
-            "Contradictory"
+            "Violation",
+            "Prohibitory",
+            "Magistrate",
+            "Officials"
           ],
-          "summary": "The Sthaneeka Bhattars of the Subramaniya Swamy Temple at Thirupparankundram gave some tense moments to the Madurai district administration by making contradictory statements on their “consent” for lighting the ceremonial lamp at the traditional spot — Deepa Mandapam — on Karthigai Deepam day.",
-          "keyPoints": "• The Sthaneeka Bhattars of the Subramaniya Swamy Temple at Thirupparankundram gave some tense moments to the Madurai district administration by making contradictory statements on their “consent” for lighting the ceremonial lamp at the traditional spot — Deepa Mandapam — on Karthigai Deepam day.<br>• Editorial | Indefensible defiance: On Tamil Nadu and Court’s Thirupparankundram order<br>• The administration had submitted at the Supreme Court that despite its readiness to light the lamp at the deepathoon , it could not comply with the court directive as the temple’s Board of Trustees insisted on lighting the lamp only at the Deepa Mandapam, following age-old practices, customs and rituals, and agama rules."
+          "summary": "Two women were booked on Thursday in the Pir Panjal valley’s Poonch district over the use of Virtual Private Network (VPN) apps in violation of prohibitory orders of the District Magistrate.",
+          "keyPoints": "• Two women were booked on Thursday in the Pir Panjal valley’s Poonch district over the use of Virtual Private Network (VPN) apps in violation of prohibitory orders of the District Magistrate.<br>• Officials identified the two women as Muneera Bi and Soniya Ayoub, both residents of Poonch’s Ari. Two separate First Information Reports (FIRs) were lodged under Section 223 of the Bharatiya Nyaya Sanhita (BNS), which deals with disobedience to an order duly promulgated by a public servant.<br>• In 2025, the District Magistrate, Poonch, issued prohibitory orders on the use of VPN apps in the district close to the Line of Control (LoC) and also considered as an infiltration route of terrorists."
         },
         {
           "category": "economy",
@@ -1397,6 +1384,41 @@
         {
           "category": "ir",
           "categoryLabel": "🌐 International Relations",
+          "title": "Strobe Talbott, former Time magazine reporter and Deputy Secretary of State, has died",
+          "link": "https://www.thehindu.com/news/international/strobe-talbott-former-time-magazine-reporter-and-deputy-secretary-of-state-has-died/article71748303.ece",
+          "pubDate": "Fri, 27 Nov 2026 03:41:51 +0530",
+          "dateIso": "2026-11-27",
+          "dateDisplay": "27 Nov 2026",
+          "examRelevance": "GS Paper-II & Current Affairs: Bilateral Agreements, Foreign Visits & UN/G20/BRICS",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/r239z3/article71748306.ece/alternates/LANDSCAPE_1200/Strobe_Talbott_1_544.jpg",
+          "fullParagraphs": [
+            "Strobe Talbott, a former Time magazine reporter who later served as Deputy Secretary of State under President Bill Clinton and then headed the Brookings Institution, died Thursday (November 26, 2026). He was 80.",
+            "His son, Devin Talbott, confirmed he passed away peacefully after a long illness in his East Hampton, New York, home.",
+            "The elder Talbott was educated at Yale and Oxford, where he bunked with Mr. Clinton. While at the British university, after interning for Time in Moscow, the magazine asked Talbott to help translate the leaked memoirs of Nikita Khrushchev, the former first secretary of the Communist Party of the Soviet Union, who was ousted in 1964.",
+            "Talbott did, and it gave him some notoriety as a young man and a job at the magazine.",
+            "After 21 years at Time , where he focused on Soviet-American relations and held positions including Washington bureau chief and a foreign-affairs columnist, according to his US State Department biography, he received a call from the newly elected Clinton.",
+            "Then-Prime Minister P.V. Narasimha Rao in conversation with visiting then-U.S. Deputy Secretary of State Strobe Talbot, in New Delhi on April 08, 1994. | Photo Credit: UNI",
+            "Talbott joined the U.S. State Department in 1994, swiftly becoming Deputy Secretary of State. In that role, he was the architect of the Clinton administration's approach to Russia and other formerly Soviet countries and conducted negotiations between the US and India after the latter's nuclear tests in 1998.",
+            "Afterward, he served as the president of Brookings from 2002 to 2017. In that time, he also chaired the U.S. State Department's Foreign Affairs Policy Board.",
+            "Talbott also authored over a dozen books. His last book was titled “Our Founders' Warning: The Age of Reason Meets the Age of Trump,” which was published in 2020.",
+            "He was born in Dayton, Ohio, in 1946, and is survived by two sons, Devin and Adrian; stepdaughter Rebecca Ascher-Walsh; siblings Kirk, Marjo and Page Talbott; and eight grandchildren, according to the New York Times.",
+            "His first wife, Brook Shearer, died in 2009, and he later married author Barbara Lazear Ascher."
+          ],
+          "deepExplanation": "<strong>1. Core Context & Background:</strong> Strobe Talbott, a former Time magazine reporter who later served as Deputy Secretary of State under President Bill Clinton and then headed the Brookings Institution, died Thursday (November 26, 2026).<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> His son, Devin Talbott, confirmed he passed away peacefully after a long illness in his East Hampton, New York, home. The elder Talbott was educated at Yale and Oxford, where he bunked with Mr.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> His first wife, Brook Shearer, died in 2009, and he later married author Barbara Lazear Ascher.",
+          "vocabList": [
+            "Magazine",
+            "Reporter",
+            "Secretary",
+            "President",
+            "Brookings",
+            "Institution"
+          ],
+          "summary": "Strobe Talbott, a former Time magazine reporter who later served as Deputy Secretary of State under President Bill Clinton and then headed the Brookings Institution, died Thursday (November 26, 2026). He was 80.",
+          "keyPoints": "• Strobe Talbott, a former Time magazine reporter who later served as Deputy Secretary of State under President Bill Clinton and then headed the Brookings Institution, died Thursday (November 26, 2026). He was 80.<br>• His son, Devin Talbott, confirmed he passed away peacefully after a long illness in his East Hampton, New York, home.<br>• The elder Talbott was educated at Yale and Oxford, where he bunked with Mr. Clinton. While at the British university, after interning for Time in Moscow, the magazine asked Talbott to help translate the leaked memoirs of Nikita Khrushchev, the former first secretary of the Communist Party of the Soviet Union, who was ousted in 1964."
+        },
+        {
+          "category": "ir",
+          "categoryLabel": "🌐 International Relations",
           "title": "Yemen's Houthi-held capital hit after group targets Riyadh",
           "link": "https://www.thehindu.com/news/international/yemens-houthi-held-capital-hit-after-group-targets-riyadh/article71748008.ece",
           "pubDate": "Thu, 26 Nov 2026 23:09:34 +0530",
@@ -1570,42 +1592,6 @@
           ],
           "summary": "Myanmar's military-backed ‌President has said his administration will not comply with all ​measures ordered by the UN's top court, which last ⁠week ruled that the country's security forces had committed genocide against the Rohingya.",
           "keyPoints": "• Myanmar's military-backed ‌President has said his administration will not comply with all ​measures ordered by the UN's top court, which last ⁠week ruled that the country's security forces had committed genocide against the Rohingya.<br>• The International Court of Justice (ICJ) found that the Myanmar military's actions against the mainly ‌Muslim Rohingya minority in 2017, including thousands of killings, the burning of hundreds of villages and widespread sexual violence, amounted ‌to genocide — and ordered a slew of measures.<br>• The ruling by ‌the ⁠ICJ, the first instance of the UN court holding a ⁠state responsible for genocide, is final but the court has very limited options to enforce it."
-        },
-        {
-          "category": "ir",
-          "categoryLabel": "🌐 International Relations",
-          "title": "China's Defence Ministry urges Japan to stop 'stirring up' South China Sea disputes",
-          "link": "https://www.thehindu.com/news/international/chinas-defence-ministry-urges-japan-to-stop-stirring-up-south-china-sea-disputes/article71747672.ece",
-          "pubDate": "Thu, 26 Nov 2026 22:26:27 +0530",
-          "dateIso": "2026-11-27",
-          "dateDisplay": "27 Nov 2026",
-          "examRelevance": "GS Paper-II & Current Affairs: Bilateral Agreements, Foreign Visits & UN/G20/BRICS",
-          "imageUrl": "https://th-i.thgim.com/public/incoming/6u0xer/article71747738.ece/alternates/LANDSCAPE_1200/Philippines_South_China_Sea_49134.jpg",
-          "fullParagraphs": [
-            "China's Defence Ministry urged Japan on Thursday (November 26, 2026) to stop \"stirring up ​trouble\" over the South China Sea after a spokesperson was asked about ‌deepening cooperation between Tokyo and the Philippines, both formal ​U.S. military allies.",
-            "The comments were in response to an ⁠announcement earlier this month that Japan will provide the Philippines with radars and drones to boost its coastal surveillance capabilities.",
-            "Chinese and Philippine coastguard vessels ‌frequently clash near disputed shoals and reefs as part of long-simmering tensions over the vital trade waterway.",
-            "Defence Ministry ‌spokesperson Chen Xi told a regular press briefing in Beijing ‌that ⁠Japan was not party to the disputes and had ⁠no right to comment on them.",
-            "\"We demand that Japan stop stirring up trouble over the South China Sea issue,\" Mr. Chen Xi said.",
-            "Japan had used \"so-called external threats\" ​to deepen regional anxieties, form military ‌cliques and attempt to strengthen its military presence in the South China Sea, he added.",
-            "The U.S. and its allies and partners have repeatedly expressed concern over the situation in the South ‌China Sea as China asserts its sovereignty through growing deployments ​of naval, coastguard and militia vessels.",
-            "China claims nearly all of the South China Sea, overlapping maritime claims of ⁠the Philippines, Vietnam, Malaysia, Brunei and Taiwan. In 2016, a Hague-based tribunal said China's claims had no legal basis, a decision Beijing ‌has rejected.",
-            "China's Military is also operating further out into the Pacific and is present on a daily basis around Taiwan, which Beijing views as its own territory.",
-            "China carried out a large, unannounced military exercise across the western Pacific and around Taiwan in early November, in what officials in Taipei have previously described ‌as a campaign of \"silent intimidation\".",
-            "Mr. Chen Xi, asked about those drills, said the Military's stepped-up training ​and combat readiness, and its continuous improvement of practical capabilities to defend China's sovereignty and territorial integrity, are \"entirely legitimate and ⁠reasonable\".",
-            "\"We oppose certain parties hyping it up with ulterior motives,\" he ⁠added."
-          ],
-          "deepExplanation": "<strong>1. Core Context & Background:</strong> China's Defence Ministry urged Japan on Thursday (November 26, 2026) to stop \"stirring up ​trouble\" over the South China Sea after a spokesperson was asked about ‌deepening cooperation between Tokyo and the Philippines, both formal ​U.S.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> The comments were in response to an ⁠announcement earlier this month that Japan will provide the Philippines with radars and drones to boost its coastal surveillance capabilities. Chinese and Philippine coastguard vessels ‌frequently clash near disputed shoals and reefs as part of long-simmering tensions over the vital trade waterway.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> \"We oppose certain parties hyping it up with ulterior motives,\" he ⁠added.",
-          "vocabList": [
-            "Ministry",
-            "Thursday",
-            "November",
-            "Stirring",
-            "Spokesperson",
-            "Deepening"
-          ],
-          "summary": "China's Defence Ministry urged Japan on Thursday (November 26, 2026) to stop \"stirring up ​trouble\" over the South China Sea after a spokesperson was asked about ‌deepening cooperation between Tokyo and the Philippines, both formal ​U.S. military allies.",
-          "keyPoints": "• China's Defence Ministry urged Japan on Thursday (November 26, 2026) to stop \"stirring up ​trouble\" over the South China Sea after a spokesperson was asked about ‌deepening cooperation between Tokyo and the Philippines, both formal ​U.S. military allies.<br>• The comments were in response to an ⁠announcement earlier this month that Japan will provide the Philippines with radars and drones to boost its coastal surveillance capabilities.<br>• Chinese and Philippine coastguard vessels ‌frequently clash near disputed shoals and reefs as part of long-simmering tensions over the vital trade waterway."
         },
         {
           "category": "scitech",
@@ -3944,169 +3930,169 @@
       "id": "gk_27 Nov 2026_1",
       "cat": "🏛️ National & Polity",
       "date": "27 Nov 2026",
-      "qEn": "[27 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"Artificial Intelligence (AI) may transform the way Arabic is learned and used, but human emotions and traditional values remain be...\"?",
-      "qHi": "[27 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"Artificial Intelligence (AI) may transform the way Arabic is learned and used, but human emotions and traditional values remain be...\"?",
-      "qMr": "[27 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"Artificial Intelligence (AI) may transform the way Arabic is learned and used, but human emotions and traditional values remain be...\"?",
+      "qEn": "[27 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"Nandini (name changed), 16, who lives in Rajasthan’s Sikar, had mapped out her future: finish school, go to college, and get a job...\"?",
+      "qHi": "[27 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"Nandini (name changed), 16, who lives in Rajasthan’s Sikar, had mapped out her future: finish school, go to college, and get a job...\"?",
+      "qMr": "[27 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"Nandini (name changed), 16, who lives in Rajasthan’s Sikar, had mapped out her future: finish school, go to college, and get a job...\"?",
       "optsEn": [
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
         "15th Finance Commission Special State Grant",
         "Inter-State Council Constitutional Review Panel",
-        "Cultural values of language remain irreplaceable in AI era: Arabic meet"
+        "In Rajasthan, the girls who refuse to be spoken for"
       ],
       "optsHi": [
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
         "15th Finance Commission Special State Grant",
         "Inter-State Council Constitutional Review Panel",
-        "Cultural values of language remain irreplaceable in AI era: Arabic meet"
+        "In Rajasthan, the girls who refuse to be spoken for"
       ],
       "optsMr": [
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
         "15th Finance Commission Special State Grant",
         "Inter-State Council Constitutional Review Panel",
-        "Cultural values of language remain irreplaceable in AI era: Arabic meet"
+        "In Rajasthan, the girls who refuse to be spoken for"
       ],
       "ans": 3,
-      "explanation": "<strong>1. Core Context & Background:</strong> Artificial Intelligence (AI) may transform the way Arabic is learned and used, but human emotions and traditional values remain beyond the reach of technology, an international conference on the Arabic language held at Anvarul Islam Arabic College, Kuniyil, observed on Thursday.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> The two-day conference, titled ‘Digital humanities: reimagining Arabic language and literature’, was organised by the Arabic department of the college in association with Calicut University’s Arabic department, Kerala State Higher Education Council, and Arab Union of Internet Writers. Liyaqat Ali, deputy director of collegiate education, inaugurated the conference on Wednesday.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Scholars Mujeeb Nellikkuth, Ali Jafar, Mohammed Aman K., P."
+      "explanation": "<strong>1. Core Context & Background:</strong> Nandini (name changed), 16, who lives in Rajasthan’s Sikar, had mapped out her future: finish school, go to college, and get a job to be financially independent.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Her family, however, had other plans. Last month, they fixed her wedding without her consent.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> But there are many Nandinis, especially in India’s villages, who do not have the education or the agency to say no to child marriage."
     },
     {
       "id": "gk_27 Nov 2026_2",
+      "cat": "🏛️ National & Polity",
+      "date": "27 Nov 2026",
+      "qEn": "[27 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"Artificial Intelligence (AI) may transform the way Arabic is learned and used, but human emotions and traditional values remain be...\"?",
+      "qHi": "[27 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"Artificial Intelligence (AI) may transform the way Arabic is learned and used, but human emotions and traditional values remain be...\"?",
+      "qMr": "[27 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"Artificial Intelligence (AI) may transform the way Arabic is learned and used, but human emotions and traditional values remain be...\"?",
+      "optsEn": [
+        "Cultural values of language remain irreplaceable in AI era: Arabic meet",
+        "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "15th Finance Commission Special State Grant",
+        "Inter-State Council Constitutional Review Panel"
+      ],
+      "optsHi": [
+        "Cultural values of language remain irreplaceable in AI era: Arabic meet",
+        "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "15th Finance Commission Special State Grant",
+        "Inter-State Council Constitutional Review Panel"
+      ],
+      "optsMr": [
+        "Cultural values of language remain irreplaceable in AI era: Arabic meet",
+        "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "15th Finance Commission Special State Grant",
+        "Inter-State Council Constitutional Review Panel"
+      ],
+      "ans": 0,
+      "explanation": "<strong>1. Core Context & Background:</strong> Artificial Intelligence (AI) may transform the way Arabic is learned and used, but human emotions and traditional values remain beyond the reach of technology, an international conference on the Arabic language held at Anvarul Islam Arabic College, Kuniyil, observed on Thursday.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> The two-day conference, titled ‘Digital humanities: reimagining Arabic language and literature’, was organised by the Arabic department of the college in association with Calicut University’s Arabic department, Kerala State Higher Education Council, and Arab Union of Internet Writers. Liyaqat Ali, deputy director of collegiate education, inaugurated the conference on Wednesday.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Scholars Mujeeb Nellikkuth, Ali Jafar, Mohammed Aman K., P."
+    },
+    {
+      "id": "gk_27 Nov 2026_3",
       "cat": "🏛️ National & Polity",
       "date": "27 Nov 2026",
       "qEn": "[27 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"The district administration of Coochbehar district in West Bengal on Thursday (November 26, 2026) issued a residence certificate t...\"?",
       "qHi": "[27 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"The district administration of Coochbehar district in West Bengal on Thursday (November 26, 2026) issued a residence certificate t...\"?",
       "qMr": "[27 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"The district administration of Coochbehar district in West Bengal on Thursday (November 26, 2026) issued a residence certificate t...\"?",
       "optsEn": [
-        "BDO issues residence certificate to mother of child denied birth certificate due t...",
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "BDO issues residence certificate to mother of child denied birth certificate due t...",
         "15th Finance Commission Special State Grant",
         "Inter-State Council Constitutional Review Panel"
       ],
       "optsHi": [
-        "BDO issues residence certificate to mother of child denied birth certificate due t...",
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "BDO issues residence certificate to mother of child denied birth certificate due t...",
         "15th Finance Commission Special State Grant",
         "Inter-State Council Constitutional Review Panel"
       ],
       "optsMr": [
-        "BDO issues residence certificate to mother of child denied birth certificate due t...",
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "BDO issues residence certificate to mother of child denied birth certificate due t...",
         "15th Finance Commission Special State Grant",
         "Inter-State Council Constitutional Review Panel"
       ],
-      "ans": 0,
+      "ans": 1,
       "explanation": "<strong>1. Core Context & Background:</strong> The district administration of Coochbehar district in West Bengal on Thursday (November 26, 2026) issued a residence certificate to the mother of a two-month-old infant, after her parents faced challenges to get the certificate on the ground that the name of the father was deleted from electoral rolls during the Special Intensive Revision (SIR) held earlier this year.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> The Hindu reported on November 25 that the birth certificate was denied to the infant because the father's name was deleted from the electoral roll during SIR. Amina Khatun, wife of Abdul Habib, gave birth to a girl at Dinhata Sub-Divisional Hospital on September 9.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Special Intensive Revision of electoral rolls / Election Commission of India / government"
     },
     {
-      "id": "gk_27 Nov 2026_3",
+      "id": "gk_27 Nov 2026_4",
       "cat": "🏛️ National & Polity",
       "date": "27 Nov 2026",
       "qEn": "[27 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"Large and Medium Industries Minister M.B. Patil held discussions with four Japanese companies on Thursday, the fourth day of his v...\"?",
       "qHi": "[27 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"Large and Medium Industries Minister M.B. Patil held discussions with four Japanese companies on Thursday, the fourth day of his v...\"?",
       "qMr": "[27 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"Large and Medium Industries Minister M.B. Patil held discussions with four Japanese companies on Thursday, the fourth day of his v...\"?",
       "optsEn": [
-        "Karnataka Industries Minister holds talks with four Japanese companies",
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "Karnataka Industries Minister holds talks with four Japanese companies",
         "15th Finance Commission Special State Grant",
         "Inter-State Council Constitutional Review Panel"
       ],
       "optsHi": [
-        "Karnataka Industries Minister holds talks with four Japanese companies",
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "Karnataka Industries Minister holds talks with four Japanese companies",
         "15th Finance Commission Special State Grant",
         "Inter-State Council Constitutional Review Panel"
       ],
       "optsMr": [
-        "Karnataka Industries Minister holds talks with four Japanese companies",
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "Karnataka Industries Minister holds talks with four Japanese companies",
         "15th Finance Commission Special State Grant",
         "Inter-State Council Constitutional Review Panel"
       ],
-      "ans": 0,
+      "ans": 1,
       "explanation": "<strong>1. Core Context & Background:</strong> Large and Medium Industries Minister M.B.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Patil held discussions with four Japanese companies on Thursday, the fourth day of his visit to Japan, focusing on their existing operations in Karnataka and expansion plans. According to a release, during a meeting with Seiren Co.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Discussions were also held with Makino, a leading manufacturer of high-precision machine tools, the release said."
     },
     {
-      "id": "gk_27 Nov 2026_4",
+      "id": "gk_27 Nov 2026_5",
       "cat": "🏛️ National & Polity",
       "date": "27 Nov 2026",
       "qEn": "[27 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"The Making of Cochin , a book on the erstwhile Cochin royal family, co-authored by Kocha Rama Varma, Usha Chettur Varma, and Rajit...\"?",
       "qHi": "[27 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"The Making of Cochin , a book on the erstwhile Cochin royal family, co-authored by Kocha Rama Varma, Usha Chettur Varma, and Rajit...\"?",
       "qMr": "[27 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"The Making of Cochin , a book on the erstwhile Cochin royal family, co-authored by Kocha Rama Varma, Usha Chettur Varma, and Rajit...\"?",
       "optsEn": [
-        "Chief Minister to release book on Cochin royal family",
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "Chief Minister to release book on Cochin royal family",
         "15th Finance Commission Special State Grant",
         "Inter-State Council Constitutional Review Panel"
       ],
       "optsHi": [
-        "Chief Minister to release book on Cochin royal family",
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "Chief Minister to release book on Cochin royal family",
         "15th Finance Commission Special State Grant",
         "Inter-State Council Constitutional Review Panel"
       ],
       "optsMr": [
-        "Chief Minister to release book on Cochin royal family",
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "Chief Minister to release book on Cochin royal family",
         "15th Finance Commission Special State Grant",
         "Inter-State Council Constitutional Review Panel"
       ],
-      "ans": 0,
+      "ans": 1,
       "explanation": "<strong>1. Core Context & Background:</strong> The Making of Cochin , a book on the erstwhile Cochin royal family, co-authored by Kocha Rama Varma, Usha Chettur Varma, and Rajith B.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Nair, will be released by Chief Minister V.D. Satheesan on December 5 at Kalikotta Palace, Thripunithura at 4 p.m.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> It will be followed by a discussion on the book."
-    },
-    {
-      "id": "gk_27 Nov 2026_5",
-      "cat": "🏛️ National & Polity",
-      "date": "27 Nov 2026",
-      "qEn": "[27 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"The government has called for a special sitting of Parliament beginning Monday (November 30, 2026), where it is likely to table an...\"?",
-      "qHi": "[27 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"The government has called for a special sitting of Parliament beginning Monday (November 30, 2026), where it is likely to table an...\"?",
-      "qMr": "[27 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"The government has called for a special sitting of Parliament beginning Monday (November 30, 2026), where it is likely to table an...\"?",
-      "optsEn": [
-        "Amended Delimitation Bill likely to be tabled in special Parliament sitting from N...",
-        "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel"
-      ],
-      "optsHi": [
-        "Amended Delimitation Bill likely to be tabled in special Parliament sitting from N...",
-        "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel"
-      ],
-      "optsMr": [
-        "Amended Delimitation Bill likely to be tabled in special Parliament sitting from N...",
-        "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel"
-      ],
-      "ans": 0,
-      "explanation": "<strong>1. Core Context & Background:</strong> The government has called for a special sitting of Parliament beginning Monday (November 30, 2026), where it is likely to table an amended Delimitation Bill.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> The two Houses will meet on separate dates, Union Parliamentary Affairs Minister Kiren Rijiju announced on Thursday (November 26, 2026), which is the 104th day since the Monsoon Session adjourned indefinitely on August 13. Lok Sabha sittings will begin on November 30 and Rajya Sabha sittings on December 2.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> She further added that there have been instances in the past when the Opposition has supported the government on matters of national importance and key reforms."
     },
     {
       "id": "gk_27 Nov 2026_6",
       "cat": "🏛️ National & Polity",
       "date": "27 Nov 2026",
-      "qEn": "[27 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"The Sthaneeka Bhattars of the Subramaniya Swamy Temple at Thirupparankundram gave some tense moments to the Madurai district admin...\"?",
-      "qHi": "[27 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"The Sthaneeka Bhattars of the Subramaniya Swamy Temple at Thirupparankundram gave some tense moments to the Madurai district admin...\"?",
-      "qMr": "[27 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"The Sthaneeka Bhattars of the Subramaniya Swamy Temple at Thirupparankundram gave some tense moments to the Madurai district admin...\"?",
+      "qEn": "[27 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"Two women were booked on Thursday in the Pir Panjal valley’s Poonch district over the use of Virtual Private Network (VPN) apps in...\"?",
+      "qHi": "[27 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"Two women were booked on Thursday in the Pir Panjal valley’s Poonch district over the use of Virtual Private Network (VPN) apps in...\"?",
+      "qMr": "[27 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"Two women were booked on Thursday in the Pir Panjal valley’s Poonch district over the use of Virtual Private Network (VPN) apps in...\"?",
       "optsEn": [
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "Two women booked over use of banned VPNs in Poonch; absconder held after two decad...",
         "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel",
-        "Sthaneeka Bhattars make contradictory statements on the lighting of deepam"
+        "Inter-State Council Constitutional Review Panel"
       ],
       "optsHi": [
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "Two women booked over use of banned VPNs in Poonch; absconder held after two decad...",
         "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel",
-        "Sthaneeka Bhattars make contradictory statements on the lighting of deepam"
+        "Inter-State Council Constitutional Review Panel"
       ],
       "optsMr": [
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "Two women booked over use of banned VPNs in Poonch; absconder held after two decad...",
         "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel",
-        "Sthaneeka Bhattars make contradictory statements on the lighting of deepam"
+        "Inter-State Council Constitutional Review Panel"
       ],
-      "ans": 3,
-      "explanation": "<strong>1. Core Context & Background:</strong> The Sthaneeka Bhattars of the Subramaniya Swamy Temple at Thirupparankundram gave some tense moments to the Madurai district administration by making contradictory statements on their “consent” for lighting the ceremonial lamp at the traditional spot — Deepa Mandapam — on Karthigai Deepam day.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Editorial | Indefensible defiance: On Tamil Nadu and Court’s Thirupparankundram order The administration had submitted at the Supreme Court that despite its readiness to light the lamp at the deepathoon , it could not comply with the court directive as the temple’s Board of Trustees insisted on lighting the lamp only at the Deepa Mandapam, following age-old practices, customs and rituals, and agama rules. A statement made on November 24 by the temple’s Executive Officer, G.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> This is in line with the agama rules and age-old Saiva customs,” they clarified."
+      "ans": 1,
+      "explanation": "<strong>1. Core Context & Background:</strong> Two women were booked on Thursday in the Pir Panjal valley’s Poonch district over the use of Virtual Private Network (VPN) apps in violation of prohibitory orders of the District Magistrate.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Officials identified the two women as Muneera Bi and Soniya Ayoub, both residents of Poonch’s Ari. Two separate First Information Reports (FIRs) were lodged under Section 223 of the Bharatiya Nyaya Sanhita (BNS), which deals with disobedience to an order duly promulgated by a public servant.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> The police said the arrest marks a significant achievement in bringing a long-pending pursuit to a successful conclusion after more than two decades."
     },
     {
       "id": "gk_27 Nov 2026_7",
