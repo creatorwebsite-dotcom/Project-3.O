@@ -1,12 +1,12 @@
 {
-  "updatedAt": "27 Nov 2026, 03:47 AM IST",
+  "updatedAt": "27 Nov 2026, 05:30 AM IST",
   "currentDateIso": "2026-11-27",
   "currentDateDisplay": "27 Nov 2026",
   "availableDates": [
     {
       "dateIso": "2026-11-27",
       "dateDisplay": "27 Nov 2026",
-      "updatedAt": "27 Nov 2026, 03:47 AM IST",
+      "updatedAt": "27 Nov 2026, 05:30 AM IST",
       "articleCount": 30
     },
     {
@@ -23,9 +23,143 @@
     }
   ],
   "hookLine1": "The Hindu Printed Broadsheet & Editorial Digest (27 Nov 2026)",
-  "hookLine2": "100% In-App Full Newspaper Pages & Deep Editorial Analysis • Updated: 27 Nov 2026, 03:47 AM IST",
+  "hookLine2": "100% In-App Full Newspaper Pages & Deep Editorial Analysis • Updated: 27 Nov 2026, 05:30 AM IST",
   "totalArticles": 30,
   "articles": [
+    {
+      "category": "national",
+      "categoryLabel": "🏛️ National & Polity",
+      "title": "Constitution is the guiding force for present, future, says Haryana CM Saini; Congress accuses BJP of undermining democracy",
+      "link": "https://www.thehindu.com/news/national/haryana/constitution-is-the-guiding-force-for-present-future-says-haryana-cm-saini-congress-accuses-bjp-of-undermining-democracy/article71747227.ece",
+      "pubDate": "Fri, 27 Nov 2026 04:17:00 +0530",
+      "dateIso": "2026-11-27",
+      "dateDisplay": "27 Nov 2026",
+      "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
+      "imageUrl": "https://th-i.thgim.com/public/news/national/other-states/dl84fv/article71747222.ece/alternates/LANDSCAPE_1200/1000322332.jpg",
+      "fullParagraphs": [
+        "Haryana Chief Minister Nayab Singh Saini on Thursday (November 26, 2026) said that the Constitution is the guiding force for our present and future, which has shown the country the right path in overcoming every challenge, even as the Congress party accused the BJP of undermining democratic conventions, the independence of constitutional institutions and the voting rights of citizens.",
+        "“Over the past 77 years, the Constitution has shown the country the right path in overcoming every challenge. Respecting the Constitution is not the responsibility of any one political party or government, but the duty of every individual whom the people have entrusted with the opportunity to serve them,” said Mr. Saini, addressing the House during the special session of the Haryana State Assembly on the 77th anniversary of the adoption of the Constitution.",
+        "He said that the true tribute to the framers of the Constitution would be to uphold the democratic path shown by them, maintain its decorum and contribute to building an India where justice is accessible to all, opportunities are available to everyone and the dignity of every citizen is protected.",
+        "Meanwhile, as part of the party’s nationwide demonstration, Haryana Congress organised a ‘Samvidhan Raksha March’ in Panchkula. Led by AICC In-charge for Haryana Sanjay Dutt, Haryana Pradesh Congress Committee President Rao Narender Singh, and Congress Legislature Party Leader and former Chief Minister Bhupinder Singh Hooda, the march drew senior party leaders.",
+        "Addressing the gathering, Mr. Dutt said that the country is passing through a decisive phase in which protecting the Constitution and democracy is no longer merely a political issue, but a question concerning the future of the nation. “Intoxicated by its arrogance of power, the BJP government is undermining democratic conventions, the independence of constitutional institutions and the voting rights of citizens. Elections are the greatest expression of democracy. However, when serious questions are raised about the integrity of electoral rolls, complaints emerge regarding the deletion of voters’ names and doubts arise over the transparency of the electoral process, it signals a grave threat to the entire democratic framework.”",
+        "Mr. Hooda said that any attack on the Constitution is a direct attack on the country’s democratic framework and the rights of its citizens. “The Congress Party will continue its struggle, both on the streets and inside legislatures, to safeguard the Constitution, the independence of constitutional institutions and free and fair elections,” he said.",
+        "The HPCC president said “The anti-people policies and the BJP Government’s attitude towards democratic institutions have generated widespread public resentment.”"
+      ],
+      "deepExplanation": "<strong>1. Core Context & Background:</strong> Haryana Chief Minister Nayab Singh Saini on Thursday (November 26, 2026) said that the Constitution is the guiding force for our present and future, which has shown the country the right path in overcoming every challenge, even as the Congress party accused the BJP of undermining democratic conventions, the independence of constitutional institutions and the voting rights of citizens.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> “Over the past 77 years, the Constitution has shown the country the right path in overcoming every challenge. Respecting the Constitution is not the responsibility of any one political party or government, but the duty of every individual whom the people have entrusted with the opportunity to serve them,” said Mr.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> The HPCC president said “The anti-people policies and the BJP Government’s attitude towards democratic institutions have generated widespread public resentment.”",
+      "vocabList": [
+        "Thursday",
+        "November",
+        "Constitution",
+        "Overcoming",
+        "Challenge",
+        "Congress"
+      ],
+      "summary": "Haryana Chief Minister Nayab Singh Saini on Thursday (November 26, 2026) said that the Constitution is the guiding force for our present and future, which has shown the country the right path in overcoming every challenge, even as the Congress party accused the BJP of undermining democratic conventions, the independence of constitutional institutions and the voting rights of citizens.",
+      "keyPoints": "• Haryana Chief Minister Nayab Singh Saini on Thursday (November 26, 2026) said that the Constitution is the guiding force for our present and future, which has shown the country the right path in overcoming every challenge, even as the Congress party accused the BJP of undermining democratic conventions, the independence of constitutional institutions and the voting rights of citizens.<br>• “Over the past 77 years, the Constitution has shown the country the right path in overcoming every challenge. Respecting the Constitution is not the responsibility of any one political party or government, but the duty of every individual whom the people have entrusted with the opportunity to serve them,” said Mr. Saini, addressing the House during the special session of the Haryana State Assembly on the 77th anniversary of the adoption of the Constitution.<br>• He said that the true tribute to the framers of the Constitution would be to uphold the democratic path shown by them, maintain its decorum and contribute to building an India where justice is accessible to all, opportunities are available to everyone and the dignity of every citizen is protected."
+    },
+    {
+      "category": "national",
+      "categoryLabel": "🏛️ National & Polity",
+      "title": "Leave aside any differences, remove BJP in U.P., says Congress chief",
+      "link": "https://www.thehindu.com/news/national/uttar-pradesh/leave-aside-any-differences-remove-bjp-in-up-says-congress-chief/article71748320.ece",
+      "pubDate": "Fri, 27 Nov 2026 04:09:06 +0530",
+      "dateIso": "2026-11-27",
+      "dateDisplay": "27 Nov 2026",
+      "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
+      "imageUrl": "https://th-i.thgim.com/public/incoming/glrlht/article71748319.ece/alternates/LANDSCAPE_1200/PTI11_26_2026_000268B.jpg",
+      "fullParagraphs": [
+        "Congress president Mallikarjun Kharge on Thursday (November 26, 2026) in Lucknow urged party leaders and workers to strengthen the Samajwadi Party (SP)-Congress alliance and leave aside any differences in a bid to oust the Bharatiya Janata Party (BJP) in Uttar Pradesh. “To win, we all have to fight together and leave aside egoistic talk. We have to strengthen the alliance and remove Modi-Yogi from power. Narendra Modi and Gyanesh Kumar are forming an alliance and snatching the right to vote from the people through Special Intensive Revision (SIR) and EVM manipulation,” said Mr. Kharge, addressing a Constitution Day event at the State Congress office in Lucknow.",
+        "Highlighting the contribution of the grand old party in the freedom struggle and the deepening of India’s democracy, Mr. Kharge added, “Congress is a party that works together with everyone. It is the result of this collective effort that every citizen of the country has the right to vote today. We fought to save Baba Saheb’s Constitution and our rights through voting in 2024. This time too, if we work unitedly, we will definitely win”.",
+        "Hitting out at Union Home Minister Amit Shah over allegedly disrespecting Dr. B.R. Ambedkar, the Congress chief added, “Amit Shah said in Parliament, 'It has become fashionable to invoke Baba Saheb Ambedkar’s name. If you had invoked God’s name so much, you would have attained heaven.’ You people yourself are stealing in the name of Lord Ram; you are not going to get heaven”.",
+        "Later, in the day Congress State unit leaders were detained while taking out Constitution Protection March. “We [Congressmen] were taking out the ‘Constitution Protection March’ peacefully and were detained, but our resolve to protect the Constitution became stronger. The place may change; the paths may be blocked, but the struggle to protect the Constitution has not stopped and will not stop,” said Anil Yadav, a senior Congress leader. Lucknow police took Congress leaders to Lucknow’s Eco Garden and freed in the evening.",
+        "“The BJP government cannot tolerate even voices raised in support of the Constitution and democracy. The police force’s arrest of Congress leaders and workers who peacefully took to the streets, vowing to defend the Constitution, is deeply shameful. Is it now a crime to demand protection of our Constitution?",
+        "“Remember, the repression of power cannot erase the values ​​of the Constitution, nor can it silence the voice of democracy. Congress will continue its struggle until the rights of every citizen, the power of every vote, and the Constitution are respected,” said Dwijendra Tripathi, a senior Congress worker based in Lucknow.",
+        "Indian National Congress / Samajwadi Party / Bharatiya Janata Party / election"
+      ],
+      "deepExplanation": "<strong>1. Core Context & Background:</strong> Congress president Mallikarjun Kharge on Thursday (November 26, 2026) in Lucknow urged party leaders and workers to strengthen the Samajwadi Party (SP)-Congress alliance and leave aside any differences in a bid to oust the Bharatiya Janata Party (BJP) in Uttar Pradesh.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> “To win, we all have to fight together and leave aside egoistic talk. We have to strengthen the alliance and remove Modi-Yogi from power.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Indian National Congress / Samajwadi Party / Bharatiya Janata Party / election",
+      "vocabList": [
+        "Congress",
+        "President",
+        "Mallikarjun",
+        "Thursday",
+        "November",
+        "Strengthen"
+      ],
+      "summary": "Congress president Mallikarjun Kharge on Thursday (November 26, 2026) in Lucknow urged party leaders and workers to strengthen the Samajwadi Party (SP)-Congress alliance and leave aside any differences in a bid to oust the Bharatiya Janata Party (BJP) in Uttar Pradesh. “To win, we all have to fight together and leave aside egoistic talk. We have to strengthen the alliance and remove Modi-Yogi from power. Narendra Modi and Gyanesh Kumar are forming an alliance and snatching the right to vote from the people through Special Intensive Revision (SIR) and EVM manipulation,” said Mr. Kharge, addressing a Constitution Day event at the State Congress office in Lucknow.",
+      "keyPoints": "• Congress president Mallikarjun Kharge on Thursday (November 26, 2026) in Lucknow urged party leaders and workers to strengthen the Samajwadi Party (SP)-Congress alliance and leave aside any differences in a bid to oust the Bharatiya Janata Party (BJP) in Uttar Pradesh. “To win, we all have to fight together and leave aside egoistic talk. We have to strengthen the alliance and remove Modi-Yogi from power. Narendra Modi and Gyanesh Kumar are forming an alliance and snatching the right to vote from the people through Special Intensive Revision (SIR) and EVM manipulation,” said Mr. Kharge, addressing a Constitution Day event at the State Congress office in Lucknow.<br>• Highlighting the contribution of the grand old party in the freedom struggle and the deepening of India’s democracy, Mr. Kharge added, “Congress is a party that works together with everyone. It is the result of this collective effort that every citizen of the country has the right to vote today. We fought to save Baba Saheb’s Constitution and our rights through voting in 2024. This time too, if we work unitedly, we will definitely win”.<br>• Hitting out at Union Home Minister Amit Shah over allegedly disrespecting Dr. B.R. Ambedkar, the Congress chief added, “Amit Shah said in Parliament, 'It has become fashionable to invoke Baba Saheb Ambedkar’s name. If you had invoked God’s name so much, you would have attained heaven.’ You people yourself are stealing in the name of Lord Ram; you are not going to get heaven”."
+    },
+    {
+      "category": "national",
+      "categoryLabel": "🏛️ National & Polity",
+      "title": "Delhi HC sets aside Centre’s order cancelling FCRA licence of NGO",
+      "link": "https://www.thehindu.com/news/cities/Delhi/delhi-hc-sets-aside-centres-order-cancelling-fcra-licence-of-ngo/article71747409.ece",
+      "pubDate": "Fri, 27 Nov 2026 03:59:46 +0530",
+      "dateIso": "2026-11-27",
+      "dateDisplay": "27 Nov 2026",
+      "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
+      "imageUrl": "https://th-i.thgim.com/public/incoming/heeubg/article71727333.ece/alternates/LANDSCAPE_1200/TH02-Rocky-MateG06GFRT7V.3.jpg.jpg",
+      "fullParagraphs": [
+        "The Delhi High Court on Thursday (November 26, 2026) set aside the Centre’s order cancelling the FCRA licence of NGO Socio Legal Information Centre (SLIC), holding that the allegation of the organisation engaging in “aggressive anti-government political activism” was unsupported by any material.",
+        "Editorial | Troubling bill: On the Foreign Contribution (Regulation) Amendment Bill, 2026",
+        "“Based on the record, this court is unable to discern any material based on which it could be said that the appellant’s activities would likely prejudicially affect the sovereignty, integrity, or security of India or public interest,” Justice A.J. Bhambhani said.",
+        "The judge added, “The respondent’s allegation that the appellant has indulged in “aggressive anti-government political activism”, is also not based on any material. No documents or other material has been placed on record by the respondent to support that allegation”.",
+        "Editorial | ​Fear of the foreign: On the FCRA amendments",
+        "The court further opined that the October 17, 2022 cancellation order the organisation’s FCRA registration was “misconceived, untenable and illegal, apart from being disproportionate and excessive in its rigour and impact”.",
+        "The court passed the judgment on a plea by the NGO seeking to set aside the October 2022 order of the Ministry of Home Affairs cancelling its Foreign Contribution (Regulation) Act registration certificate.",
+        "The NGO also challenged the freezing of its designated foreign contribution account and its utilisation accounts maintained with several banks across the country.",
+        "Editorial | Onerous rules: On the amended FCRA Rules, the fallout",
+        "The high court said the violations alleged in the cancellation order principally arise from the conditions for grant of an FCRA registration certificate, the essence of the allegation being that the NGO is guilty of diversion or misutilisation of such funds, or of using such funds for personal gains or diverting them for undesirable purposes.",
+        "“However, upon examining the use to which foreign contributions have been put by the appellant, it is seen that such funds have been utilised and deployed for activities that are perfectly in line with the stated objectives of the appellant, namely, of providing legal-aid and engaging in social welfare activities,” Justice Bhambhani said.",
+        "The court, in its 69-page judgment, said unless something sinister comes through from material available against it, an organisation that is engaged in assisting aggrieved persons in raising their grievances before courts and statutory commissions, acting through the available constitutional machinery, cannot be characterised as engaging in “political activity” or in activities impinging on political and law-and-order domains."
+      ],
+      "deepExplanation": "<strong>1. Core Context & Background:</strong> The Delhi High Court on Thursday (November 26, 2026) set aside the Centre’s order cancelling the FCRA licence of NGO Socio Legal Information Centre (SLIC), holding that the allegation of the organisation engaging in “aggressive anti-government political activism” was unsupported by any material.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Editorial | Troubling bill: On the Foreign Contribution (Regulation) Amendment Bill, 2026 “Based on the record, this court is unable to discern any material based on which it could be said that the appellant’s activities would likely prejudicially affect the sovereignty, integrity, or security of India or public interest,” Justice A.J. The judge added, “The respondent’s allegation that the appellant has indulged in “aggressive anti-government political activism”, is also not based on any material.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> The court, in its 69-page judgment, said unless something sinister comes through from material available against it, an organisation that is engaged in assisting aggrieved persons in raising their grievances before courts and statutory commissions, acting through the available constitutional machinery, cannot be characterised as engaging in “political activity” or in activities impinging on political and law-and-order domains.",
+      "vocabList": [
+        "Thursday",
+        "November",
+        "Cancelling",
+        "Information",
+        "Allegation",
+        "Organisation"
+      ],
+      "summary": "The Delhi High Court on Thursday (November 26, 2026) set aside the Centre’s order cancelling the FCRA licence of NGO Socio Legal Information Centre (SLIC), holding that the allegation of the organisation engaging in “aggressive anti-government political activism” was unsupported by any material.",
+      "keyPoints": "• The Delhi High Court on Thursday (November 26, 2026) set aside the Centre’s order cancelling the FCRA licence of NGO Socio Legal Information Centre (SLIC), holding that the allegation of the organisation engaging in “aggressive anti-government political activism” was unsupported by any material.<br>• Editorial | Troubling bill: On the Foreign Contribution (Regulation) Amendment Bill, 2026<br>• “Based on the record, this court is unable to discern any material based on which it could be said that the appellant’s activities would likely prejudicially affect the sovereignty, integrity, or security of India or public interest,” Justice A.J. Bhambhani said."
+    },
+    {
+      "category": "national",
+      "categoryLabel": "🏛️ National & Polity",
+      "title": "Nitin Nabin accuses Congress party of insulting both Constitution and Ambedkar",
+      "link": "https://www.thehindu.com/news/national/bihar/nitin-nabin-accuses-congress-party-of-insulting-both-constitution-and-ambedkar/article71747280.ece",
+      "pubDate": "Fri, 27 Nov 2026 02:51:20 +0530",
+      "dateIso": "2026-11-27",
+      "dateDisplay": "27 Nov 2026",
+      "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
+      "imageUrl": "https://th-i.thgim.com/public/incoming/ypoqb0/article71748171.ece/alternates/LANDSCAPE_1200/20261126314L.jpg",
+      "fullParagraphs": [
+        "Bharatiya Janata Party (BJP) National President Nitin Nabin on Thursday (November 26, 2026) alleged that the Congress party misused the Constitution for the sake of power, whereas Prime Minister Narendra Modi has used for the upliftment of the last person, social justice, and public welfare.",
+        "He said this while addressing an event titled ‘Samvidhan Gaurav Diwas’ (Constitution Pride Day), organised to mark ‘Constitution Day’ at Patna’s Gyan Bhawan.",
+        "Paying tribute to the architects of the Constitution, he accused the Congress party of having insulted both the Constitution and Dr. Baba Saheb Bhimrao Ambedkar.",
+        "He highlighted the government’s constitutional amendments, welfare schemes for the poor, and development initiatives in Bihar. He also called upon all citizens to fulfill their constitutional duties to help build a ‘Developed India’ (Viksit Bharat) by the year 2047.",
+        "Attacking the opposition party, Mr. Nabin said, “It is essential to understand how the Congress party treated the Constitution once the party came to power. The Congress consistently prioritized its own vested interests and personal ambitions above the Constitution.”",
+        "He further said, “Baba Saheb expressed hope on August 4, 1949 that Article 356 (President’s Rule) would remain a “dead letter”, a provision that would never actually be invoked. Instead, the Congress turned it into a weapon to crush state governments led by opposition parties.”",
+        "“From the first imposition of President’s Rule in Punjab on June 20, 1951, to the dismissal of the first elected government in Kerala in 1959, the Congress toppled elected governments more than 90 times throughout its tenure. During the reign of Indira Gandhi alone, this power was politically misused 50 times—including 39 instances within an 11-year span,”Mr. Nabin said.",
+        "Mr. Nabin accused that the Congress party humiliated the architect of the Constitution, Dr. Bhimrao Ambedkar, at every occasion.",
+        "“Today, Rahul Gandhi carries a copy of the Constitution, but that alone is not enough. He must internalise the Constitution and offer an apology to the nation for how his party treated its architect,”Mr. Nabin said.",
+        "The BJP National President asserted that Prime Minister Narendra Modi, back in 2010—when he was the Chief Minister of Gujarat had organized a ‘Samvidhan Gaurav Yatra’ (Constitution Pride March) to mark the 60th anniversary of the Constitution.",
+        "He added before taking the oath as Prime Minister for the third time; he bowed his head in reverence to the Constitution.",
+        "“The opposition merely carries a copy of the Constitution around but PM Narendra Modi holds the Constitution in his heart and carries its spirit to the hearts of the people,”Mr. Nabin said."
+      ],
+      "deepExplanation": "<strong>1. Core Context & Background:</strong> Bharatiya Janata Party (BJP) National President Nitin Nabin on Thursday (November 26, 2026) alleged that the Congress party misused the Constitution for the sake of power, whereas Prime Minister Narendra Modi has used for the upliftment of the last person, social justice, and public welfare.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> He said this while addressing an event titled ‘Samvidhan Gaurav Diwas’ (Constitution Pride Day), organised to mark ‘Constitution Day’ at Patna’s Gyan Bhawan. Paying tribute to the architects of the Constitution, he accused the Congress party of having insulted both the Constitution and Dr.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> “The opposition merely carries a copy of the Constitution around but PM Narendra Modi holds the Constitution in his heart and carries its spirit to the hearts of the people,”Mr.",
+      "vocabList": [
+        "Bharatiya",
+        "President",
+        "Thursday",
+        "November",
+        "Congress",
+        "Constitution"
+      ],
+      "summary": "Bharatiya Janata Party (BJP) National President Nitin Nabin on Thursday (November 26, 2026) alleged that the Congress party misused the Constitution for the sake of power, whereas Prime Minister Narendra Modi has used for the upliftment of the last person, social justice, and public welfare.",
+      "keyPoints": "• Bharatiya Janata Party (BJP) National President Nitin Nabin on Thursday (November 26, 2026) alleged that the Congress party misused the Constitution for the sake of power, whereas Prime Minister Narendra Modi has used for the upliftment of the last person, social justice, and public welfare.<br>• He said this while addressing an event titled ‘Samvidhan Gaurav Diwas’ (Constitution Pride Day), organised to mark ‘Constitution Day’ at Patna’s Gyan Bhawan.<br>• Paying tribute to the architects of the Constitution, he accused the Congress party of having insulted both the Constitution and Dr. Baba Saheb Bhimrao Ambedkar."
+    },
     {
       "category": "national",
       "categoryLabel": "🏛️ National & Polity",
@@ -58,149 +192,38 @@
     {
       "category": "national",
       "categoryLabel": "🏛️ National & Polity",
-      "title": "Cultural values of language remain irreplaceable in AI era: Arabic meet",
-      "link": "https://www.thehindu.com/news/national/kerala/cultural-values-of-language-remain-irreplaceable-in-ai-era-arabic-meet/article71746962.ece",
-      "pubDate": "Fri, 27 Nov 2026 02:24:15 +0530",
+      "title": "Shocked to see use of heavy equipment at Sheshnag, no need for motorable roads to pilgrimages: Dr. Karan Singh",
+      "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/shocked-to-see-use-of-heavy-equipment-at-sheshnag-no-need-for-motorable-roads-to-pilgrimages-dr-karan-singh/article71747335.ece",
+      "pubDate": "Fri, 27 Nov 2026 02:33:56 +0530",
       "dateIso": "2026-11-27",
       "dateDisplay": "27 Nov 2026",
       "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
-      "imageUrl": "https://th-i.thgim.com/public/news/national/kerala/yx3rge/article71746927.ece/alternates/LANDSCAPE_1200/Arabic%201.jpeg",
+      "imageUrl": "https://th-i.thgim.com/public/incoming/ylnzzo/article71748170.ece/alternates/LANDSCAPE_1200/PTI12_25_2024_000355A.jpg",
       "fullParagraphs": [
-        "Artificial Intelligence (AI) may transform the way Arabic is learned and used, but human emotions and traditional values remain beyond the reach of technology, an international conference on the Arabic language held at Anvarul Islam Arabic College, Kuniyil, observed on Thursday.",
-        "The two-day conference, titled ‘Digital humanities: reimagining Arabic language and literature’, was organised by the Arabic department of the college in association with Calicut University’s Arabic department, Kerala State Higher Education Council, and Arab Union of Internet Writers.",
-        "Liyaqat Ali, deputy director of collegiate education, inaugurated the conference on Wednesday. College Principal K. Mohammed Fawaz presided over the function.",
-        "Liyaqat Ali, deputy director of collegiate education, inaugurating an international conference on Arabic at Anvarul Islam Arabic College, Kuniyil, on Wednesday. | Photo Credit: SAKEER HUSSAIN",
-        "Arabic scholars Sumayya Ibrahim Abu Thailath from Palestine, Najeeb Ali Mulkhath from Yemen, Simi K. Salim, K. Ali Noufal, I.P. Abdul Salam, C.M. Sabir Navas, K.A. Nasser, P. Firoz, M.K. Ameer Swalahi, Shakir Babu Kuniyil, and K.P. Abdul Haleem Thangal spoke.",
-        "E.T. Mohammed Basheer, MP, inaugurated the valedictory function on Thursday. He highlighted the growing global significance of the Arabic language in an increasingly interconnected world.",
-        "Scholars Mujeeb Nellikkuth, Ali Jafar, Mohammed Aman K., P. Sulaiman and C. Abdul Wahab spoke."
+        "Senior J&K politician Karan Singh on Thursday expressed shock over the use of heavy earth-moving equipment to widen the route to the Amarnath shrine close to the Sheshnag lake in Kashmir. Meanwhile, Peoples Democratic Party (PDP) president Mehbooba Mufti asked J&K Chief Minister Omar Abdullah to withdraw the Memorandum of Understanding (MoU) with the Border Roads Organisation (BRO) and explain the use of heavy machinery at the high-altitude glacial lake.",
+        "“I was shocked to read that heavy earth-moving equipment is being used to widen the route to Shri Amarnath ji, and that too at a spot overlooking Sheshnag, which is one of the most beautiful lakes in India. I join my voice with those who are protesting about this, and would urge those concerned not to use heavy equipment on this route,” said Mr. Singh, who also served as the last Dogra Maharaja of J&K.",
+        "He cautioned that there was no need “to make every pilgrim route into a motorable road just for the convenience of tourists”. “Genuine pilgrims will not mind walking or riding towards this great shrine. For many years I have been raising the disaster being caused to the Himalayas due to avoidable road widening, particularly on the pilgrim routes in Uttarakhand. I see no reason why tourists and pilgrims cannot manage with two-lane roads,” said Mr. Singh.",
+        "He said in the name of tourists an unnecessary programme of road widening is underway, which involves extensive use of dynamite which severely damages the comparatively young Himalayas. “In fact, several disasters have already occurred, including the one at Kedarnath some years ago,” said Mr. Singh, in a statement.",
+        "In a post on X, Mr. Singh’s son Vikramaditya Singh termed it “a collective duty to preserve the natural beauty and unique ecology of J&K for future generations”.",
+        "“The felling and burning of protected Chinar and Chestnut trees in Kashmir, along with BRO road construction in close proximity to the sacred Sheshnag Lake, are deeply concerning developments. The fragile ecosystem of J&K, already under considerable stress, cannot afford such irreversible damage. I urge the J&K Government and the concerned authorities to take serious cognisance of these activities and ensure strict monitoring before it is too late,” said Mr. Singh.",
+        "Meanwhile, Ms. Mufti of the PDP expressed dissatisfaction over J&K Forest minister Altaf Kalooo’s statement that “all was well at the Sheshnag lake and there was no violation at the site”.",
+        "Addressing a press conference in Srinagar, Ms. Mufti demanded that the Omar Abdullah government should halt use of heavy machines like JCB and cancel the MoU with the BRO.",
+        "“The JCB should be removed from Sheshnag and the work stopped till environment specialists visit the site. Also. the MoU signed with the BRO should be made public. The MoU signed by the government should be brought to the public domain. Is the use of JCB part of the MoU?” said Ms. Mufti.",
+        "She also targeted the government on the extension granted to the BRO. “Mr. Abdullah needs to explain why the extension was given,” she added.",
+        "Referring to Kashmir as a seismic zone, Ms. Mufti said around 700 lakes were facing environmental threats. “Tree felling, construction of wider roads and transportation of heavy machinery, including JCBs, to the area could further aggravate environmental concerns,” she warned.",
+        "She also termed the Sheshnag lake “an important part of Kashmir’s religious, cultural and historical identity”. “The Amarnath shrine and its surroundings must be protected. The government should publish findings of the assessment and take necessary measures to protect the Sheshnag lake and the Amarnath shrine,” said Mr. Mufti."
       ],
-      "deepExplanation": "<strong>1. Core Context & Background:</strong> Artificial Intelligence (AI) may transform the way Arabic is learned and used, but human emotions and traditional values remain beyond the reach of technology, an international conference on the Arabic language held at Anvarul Islam Arabic College, Kuniyil, observed on Thursday.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> The two-day conference, titled ‘Digital humanities: reimagining Arabic language and literature’, was organised by the Arabic department of the college in association with Calicut University’s Arabic department, Kerala State Higher Education Council, and Arab Union of Internet Writers. Liyaqat Ali, deputy director of collegiate education, inaugurated the conference on Wednesday.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Scholars Mujeeb Nellikkuth, Ali Jafar, Mohammed Aman K., P.",
+      "deepExplanation": "<strong>1. Core Context & Background:</strong> Senior J&K politician Karan Singh on Thursday expressed shock over the use of heavy earth-moving equipment to widen the route to the Amarnath shrine close to the Sheshnag lake in Kashmir.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Meanwhile, Peoples Democratic Party (PDP) president Mehbooba Mufti asked J&K Chief Minister Omar Abdullah to withdraw the Memorandum of Understanding (MoU) with the Border Roads Organisation (BRO) and explain the use of heavy machinery at the high-altitude glacial lake. “I was shocked to read that heavy earth-moving equipment is being used to widen the route to Shri Amarnath ji, and that too at a spot overlooking Sheshnag, which is one of the most beautiful lakes in India.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> The government should publish findings of the assessment and take necessary measures to protect the Sheshnag lake and the Amarnath shrine,” said Mr.",
       "vocabList": [
-        "Artificial",
-        "Intelligence",
-        "Transform",
-        "Emotions",
-        "Traditional",
-        "Technology"
-      ],
-      "summary": "Artificial Intelligence (AI) may transform the way Arabic is learned and used, but human emotions and traditional values remain beyond the reach of technology, an international conference on the Arabic language held at Anvarul Islam Arabic College, Kuniyil, observed on Thursday.",
-      "keyPoints": "• Artificial Intelligence (AI) may transform the way Arabic is learned and used, but human emotions and traditional values remain beyond the reach of technology, an international conference on the Arabic language held at Anvarul Islam Arabic College, Kuniyil, observed on Thursday.<br>• The two-day conference, titled ‘Digital humanities: reimagining Arabic language and literature’, was organised by the Arabic department of the college in association with Calicut University’s Arabic department, Kerala State Higher Education Council, and Arab Union of Internet Writers.<br>• Liyaqat Ali, deputy director of collegiate education, inaugurated the conference on Wednesday. College Principal K. Mohammed Fawaz presided over the function."
-    },
-    {
-      "category": "national",
-      "categoryLabel": "🏛️ National & Polity",
-      "title": "BDO issues residence certificate to mother of child denied birth certificate due to SIR row",
-      "link": "https://www.thehindu.com/news/national/west-bengal/bdo-issues-residence-certificate-to-mother-of-child-denied-birth-certificate-due-to-sir-row/article71747493.ece",
-      "pubDate": "Fri, 27 Nov 2026 02:23:07 +0530",
-      "dateIso": "2026-11-27",
-      "dateDisplay": "27 Nov 2026",
-      "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
-      "imageUrl": "https://th-i.thgim.com/public/news/national/kvv7u5/article71739084.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-11-24%20at%206.01.49%20PM.jpeg",
-      "fullParagraphs": [
-        "The district administration of Coochbehar district in West Bengal on Thursday (November 26, 2026) issued a residence certificate to the mother of a two-month-old infant, after her parents faced challenges to get the certificate on the ground that the name of the father was deleted from electoral rolls during the Special Intensive Revision (SIR) held earlier this year.",
-        "The Hindu reported on November 25 that the birth certificate was denied to the infant because the father's name was deleted from the electoral roll during SIR. Amina Khatun, wife of Abdul Habib, gave birth to a girl at Dinhata Sub-Divisional Hospital on September 9. Amina Khatun and Abdul Habib approached the hospital and the concerned panchayat office to obtain their daughter’s birth certificate. The couple was reportedly asked to arrange residential verification from the local panchayat pradhan or MLA.",
-        "On the grounds that the name of Abdul Habib was deleted from the electoral roll in the SIR, the local BJP MLA office refused to give them residence proof. On Thursday (November 26), the BDO office issued a residence certificate to Amina Khatun.",
-        "“This is to certify that Amina Khatun, wife of Abdul Habib, is a permanent resident of village Khatamari P.O. Khatamari as per the enquiry report of Chowdhurihat Gram Panchayat -. Under Dinhata-II Development Block, P.S.: Sahebganj, Dist.: Cooch Behar. The name of the applicant has been enrolled in the Electoral Roll vide Part-191, Sl. No .848 of 7 Dinhata Assembly Constituency. I wish him/her all success in his/her life,” read the certificate issued by the BDO on Thursday.",
-        "Abdul Hamid told this correspondent that government officials came to his residence and took him to the BDO office where the residence proof was given to him. “I have received my residence verification certificate which I am going to submit at the hospital tomorrow. Hopefully, my daughter will now get the birth certificate soon,” the father said.",
-        "There have been allegations of denial of services by the West Bengal government to citizens whose names have been deleted from the electoral rolls during SIR. The Supreme Court, which oversaw the SIR process in the State, had made it clear that removal of a name from the electoral roll cannot be grounds for denial of services. The names of about 36 lakh electors deleted during SIR are pending before SIR tribunals in the State.",
-        "Special Intensive Revision of electoral rolls / Election Commission of India / government"
-      ],
-      "deepExplanation": "<strong>1. Core Context & Background:</strong> The district administration of Coochbehar district in West Bengal on Thursday (November 26, 2026) issued a residence certificate to the mother of a two-month-old infant, after her parents faced challenges to get the certificate on the ground that the name of the father was deleted from electoral rolls during the Special Intensive Revision (SIR) held earlier this year.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> The Hindu reported on November 25 that the birth certificate was denied to the infant because the father's name was deleted from the electoral roll during SIR. Amina Khatun, wife of Abdul Habib, gave birth to a girl at Dinhata Sub-Divisional Hospital on September 9.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Special Intensive Revision of electoral rolls / Election Commission of India / government",
-      "vocabList": [
-        "District",
-        "Administration",
-        "Coochbehar",
+        "Politician",
         "Thursday",
-        "November",
-        "Residence"
+        "Expressed",
+        "Equipment",
+        "Amarnath",
+        "Sheshnag"
       ],
-      "summary": "The district administration of Coochbehar district in West Bengal on Thursday (November 26, 2026) issued a residence certificate to the mother of a two-month-old infant, after her parents faced challenges to get the certificate on the ground that the name of the father was deleted from electoral rolls during the Special Intensive Revision (SIR) held earlier this year.",
-      "keyPoints": "• The district administration of Coochbehar district in West Bengal on Thursday (November 26, 2026) issued a residence certificate to the mother of a two-month-old infant, after her parents faced challenges to get the certificate on the ground that the name of the father was deleted from electoral rolls during the Special Intensive Revision (SIR) held earlier this year.<br>• The Hindu reported on November 25 that the birth certificate was denied to the infant because the father's name was deleted from the electoral roll during SIR. Amina Khatun, wife of Abdul Habib, gave birth to a girl at Dinhata Sub-Divisional Hospital on September 9. Amina Khatun and Abdul Habib approached the hospital and the concerned panchayat office to obtain their daughter’s birth certificate. The couple was reportedly asked to arrange residential verification from the local panchayat pradhan or MLA.<br>• On the grounds that the name of Abdul Habib was deleted from the electoral roll in the SIR, the local BJP MLA office refused to give them residence proof. On Thursday (November 26), the BDO office issued a residence certificate to Amina Khatun."
-    },
-    {
-      "category": "national",
-      "categoryLabel": "🏛️ National & Polity",
-      "title": "Karnataka Industries Minister holds talks with four Japanese companies",
-      "link": "https://www.thehindu.com/news/national/karnataka/karnataka-industries-minister-holds-talks-with-four-japanese-companies/article71747908.ece",
-      "pubDate": "Fri, 27 Nov 2026 02:22:06 +0530",
-      "dateIso": "2026-11-27",
-      "dateDisplay": "27 Nov 2026",
-      "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
-      "imageUrl": "https://th-i.thgim.com/public/incoming/8me0ks/article71748167.ece/alternates/LANDSCAPE_1200/Karnataka-to-buG31GQ419E.3.jpg.jpg",
-      "fullParagraphs": [
-        "Large and Medium Industries Minister M.B. Patil held discussions with four Japanese companies on Thursday, the fourth day of his visit to Japan, focusing on their existing operations in Karnataka and expansion plans.",
-        "According to a release, during a meeting with Seiren Co. Ltd., a manufacturer of automotive interior materials, discussions focused on its manufacturing operations at the Kadakola Industrial Area in Mysuru and its plans to expand its presence in line with Toyota’s growing capacity in the State.",
-        "At a meeting with the leadership of Enomoto Co. Ltd., a Japanese manufacturer of precision connector components and semiconductor lead frames, discussions centred on potential expansion locations, including the Tumakuru Machine Tool Park and the Chennai-Bengaluru Industrial Corridor.",
-        "In a meeting with representatives of Secom and Toyota Tsusho Corporation, the Minister discussed the growth plans of Sakra World Hospital. Discussions were also held with Makino, a leading manufacturer of high-precision machine tools, the release said."
-      ],
-      "deepExplanation": "<strong>1. Core Context & Background:</strong> Large and Medium Industries Minister M.B.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Patil held discussions with four Japanese companies on Thursday, the fourth day of his visit to Japan, focusing on their existing operations in Karnataka and expansion plans. According to a release, during a meeting with Seiren Co.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Discussions were also held with Makino, a leading manufacturer of high-precision machine tools, the release said.",
-      "vocabList": [
-        "Industries",
-        "Discussions",
-        "Japanese",
-        "Companies",
-        "Thursday",
-        "Focusing"
-      ],
-      "summary": "Large and Medium Industries Minister M.B. Patil held discussions with four Japanese companies on Thursday, the fourth day of his visit to Japan, focusing on their existing operations in Karnataka and expansion plans.",
-      "keyPoints": "• Large and Medium Industries Minister M.B. Patil held discussions with four Japanese companies on Thursday, the fourth day of his visit to Japan, focusing on their existing operations in Karnataka and expansion plans.<br>• According to a release, during a meeting with Seiren Co. Ltd., a manufacturer of automotive interior materials, discussions focused on its manufacturing operations at the Kadakola Industrial Area in Mysuru and its plans to expand its presence in line with Toyota’s growing capacity in the State.<br>• At a meeting with the leadership of Enomoto Co. Ltd., a Japanese manufacturer of precision connector components and semiconductor lead frames, discussions centred on potential expansion locations, including the Tumakuru Machine Tool Park and the Chennai-Bengaluru Industrial Corridor."
-    },
-    {
-      "category": "national",
-      "categoryLabel": "🏛️ National & Polity",
-      "title": "Chief Minister to release book on Cochin royal family",
-      "link": "https://www.thehindu.com/news/national/kerala/chief-minister-to-release-book-on-cochin-royal-family/article71747835.ece",
-      "pubDate": "Fri, 27 Nov 2026 01:57:14 +0530",
-      "dateIso": "2026-11-27",
-      "dateDisplay": "27 Nov 2026",
-      "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
-      "imageUrl": "https://www.thehindu.com/theme/images/og-image.png",
-      "fullParagraphs": [
-        "The Making of Cochin , a book on the erstwhile Cochin royal family, co-authored by Kocha Rama Varma, Usha Chettur Varma, and Rajith B. Nair, will be released by Chief Minister V.D. Satheesan on December 5 at Kalikotta Palace, Thripunithura at 4 p.m. It will be followed by a discussion on the book."
-      ],
-      "deepExplanation": "<strong>1. Core Context & Background:</strong> The Making of Cochin , a book on the erstwhile Cochin royal family, co-authored by Kocha Rama Varma, Usha Chettur Varma, and Rajith B.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Nair, will be released by Chief Minister V.D. Satheesan on December 5 at Kalikotta Palace, Thripunithura at 4 p.m.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> It will be followed by a discussion on the book.",
-      "vocabList": [
-        "Erstwhile",
-        "Authored",
-        "Released",
-        "Satheesan",
-        "December",
-        "Kalikotta"
-      ],
-      "summary": "The Making of Cochin , a book on the erstwhile Cochin royal family, co-authored by Kocha Rama Varma, Usha Chettur Varma, and Rajith B. Nair, will be released by Chief Minister V.D. Satheesan on December 5 at Kalikotta Palace, Thripunithura at 4 p.m. It will be followed by a discussion on the book.",
-      "keyPoints": "• The Making of Cochin , a book on the erstwhile Cochin royal family, co-authored by Kocha Rama Varma, Usha Chettur Varma, and Rajith B. Nair, will be released by Chief Minister V.D. Satheesan on December 5 at Kalikotta Palace, Thripunithura at 4 p.m. It will be followed by a discussion on the book."
-    },
-    {
-      "category": "national",
-      "categoryLabel": "🏛️ National & Polity",
-      "title": "Two women booked over use of banned VPNs in Poonch; absconder held after two decades in Reasi: Officials",
-      "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/two-women-booked-over-use-of-banned-vpns-in-poonch-absconder-held-after-two-decadesin-reasi-officials/article71747503.ece",
-      "pubDate": "Fri, 27 Nov 2026 01:45:57 +0530",
-      "dateIso": "2026-11-27",
-      "dateDisplay": "27 Nov 2026",
-      "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
-      "imageUrl": "https://th-i.thgim.com/public/incoming/9j9xhv/article71748163.ece/alternates/LANDSCAPE_1200/iStock-1447145892%207.jpg",
-      "fullParagraphs": [
-        "Two women were booked on Thursday in the Pir Panjal valley’s Poonch district over the use of Virtual Private Network (VPN) apps in violation of prohibitory orders of the District Magistrate.",
-        "Officials identified the two women as Muneera Bi and Soniya Ayoub, both residents of Poonch’s Ari. Two separate First Information Reports (FIRs) were lodged under Section 223 of the Bharatiya Nyaya Sanhita (BNS), which deals with disobedience to an order duly promulgated by a public servant.",
-        "In 2025, the District Magistrate, Poonch, issued prohibitory orders on the use of VPN apps in the district close to the Line of Control (LoC) and also considered as an infiltration route of terrorists.",
-        "Meanwhile, police officials warned to carry out action against those using VPN apps in the district and advised people to follow the official directions.",
-        "Meanwhile, the J&K Police in Reasi claimed to have arrested a long-evading absconder, who was a surrendered terrorist, after two decades in connection with multiple terror cases, including the killing of a police personnel.",
-        "The police identified the accused as Mohammad Mansha, a resident of Thuroo Lassoli, Reasi. The accused was facing charges under Sections 302, 307 and 121-A of the Ranbir Penal Code and Sections 7/25 of the Arms Act in a case of killing of a policeman.",
-        "However, the accused was declared an absconder after the Reasi court issued an arrest warrant in 2001. “A District Absconder Tracking Unit was constituted and deputed to Tral, Awantipora (in Kashmir). Through professional expertise, perseverance and effective inter-district coordination, the team successfully traced and apprehended the accused,” said officials.",
-        "The police said the accused was allegedly an active terrorist during 2000-2007, before surrendering in 2007. The police said the arrest marks a significant achievement in bringing a long-pending pursuit to a successful conclusion after more than two decades."
-      ],
-      "deepExplanation": "<strong>1. Core Context & Background:</strong> Two women were booked on Thursday in the Pir Panjal valley’s Poonch district over the use of Virtual Private Network (VPN) apps in violation of prohibitory orders of the District Magistrate.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Officials identified the two women as Muneera Bi and Soniya Ayoub, both residents of Poonch’s Ari. Two separate First Information Reports (FIRs) were lodged under Section 223 of the Bharatiya Nyaya Sanhita (BNS), which deals with disobedience to an order duly promulgated by a public servant.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> The police said the arrest marks a significant achievement in bringing a long-pending pursuit to a successful conclusion after more than two decades.",
-      "vocabList": [
-        "Thursday",
-        "District",
-        "Violation",
-        "Prohibitory",
-        "Magistrate",
-        "Officials"
-      ],
-      "summary": "Two women were booked on Thursday in the Pir Panjal valley’s Poonch district over the use of Virtual Private Network (VPN) apps in violation of prohibitory orders of the District Magistrate.",
-      "keyPoints": "• Two women were booked on Thursday in the Pir Panjal valley’s Poonch district over the use of Virtual Private Network (VPN) apps in violation of prohibitory orders of the District Magistrate.<br>• Officials identified the two women as Muneera Bi and Soniya Ayoub, both residents of Poonch’s Ari. Two separate First Information Reports (FIRs) were lodged under Section 223 of the Bharatiya Nyaya Sanhita (BNS), which deals with disobedience to an order duly promulgated by a public servant.<br>• In 2025, the District Magistrate, Poonch, issued prohibitory orders on the use of VPN apps in the district close to the Line of Control (LoC) and also considered as an infiltration route of terrorists."
+      "summary": "Senior J&K politician Karan Singh on Thursday expressed shock over the use of heavy earth-moving equipment to widen the route to the Amarnath shrine close to the Sheshnag lake in Kashmir. Meanwhile, Peoples Democratic Party (PDP) president Mehbooba Mufti asked J&K Chief Minister Omar Abdullah to withdraw the Memorandum of Understanding (MoU) with the Border Roads Organisation (BRO) and explain the use of heavy machinery at the high-altitude glacial lake.",
+      "keyPoints": "• Senior J&K politician Karan Singh on Thursday expressed shock over the use of heavy earth-moving equipment to widen the route to the Amarnath shrine close to the Sheshnag lake in Kashmir. Meanwhile, Peoples Democratic Party (PDP) president Mehbooba Mufti asked J&K Chief Minister Omar Abdullah to withdraw the Memorandum of Understanding (MoU) with the Border Roads Organisation (BRO) and explain the use of heavy machinery at the high-altitude glacial lake.<br>• “I was shocked to read that heavy earth-moving equipment is being used to widen the route to Shri Amarnath ji, and that too at a spot overlooking Sheshnag, which is one of the most beautiful lakes in India. I join my voice with those who are protesting about this, and would urge those concerned not to use heavy equipment on this route,” said Mr. Singh, who also served as the last Dogra Maharaja of J&K.<br>• He cautioned that there was no need “to make every pilgrim route into a motorable road just for the convenience of tourists”. “Genuine pilgrims will not mind walking or riding towards this great shrine. For many years I have been raising the disaster being caused to the Himalayas due to avoidable road widening, particularly on the pilgrim routes in Uttarakhand. I see no reason why tourists and pilgrims cannot manage with two-lane roads,” said Mr. Singh."
     },
     {
       "category": "economy",
@@ -413,7 +436,7 @@
       "categoryLabel": "🌐 International Relations",
       "title": "Strobe Talbott, former Time magazine reporter and Deputy Secretary of State, has died",
       "link": "https://www.thehindu.com/news/international/strobe-talbott-former-time-magazine-reporter-and-deputy-secretary-of-state-has-died/article71748303.ece",
-      "pubDate": "Fri, 27 Nov 2026 03:41:51 +0530",
+      "pubDate": "Fri, 27 Nov 2026 03:44:34 +0530",
       "dateIso": "2026-11-27",
       "dateDisplay": "27 Nov 2026",
       "examRelevance": "GS Paper-II & Current Affairs: Bilateral Agreements, Foreign Visits & UN/G20/BRICS",
@@ -997,8 +1020,142 @@
     "2026-11-27": {
       "dateIso": "2026-11-27",
       "dateDisplay": "27 Nov 2026",
-      "updatedAt": "27 Nov 2026, 03:47 AM IST",
+      "updatedAt": "27 Nov 2026, 05:30 AM IST",
       "articles": [
+        {
+          "category": "national",
+          "categoryLabel": "🏛️ National & Polity",
+          "title": "Constitution is the guiding force for present, future, says Haryana CM Saini; Congress accuses BJP of undermining democracy",
+          "link": "https://www.thehindu.com/news/national/haryana/constitution-is-the-guiding-force-for-present-future-says-haryana-cm-saini-congress-accuses-bjp-of-undermining-democracy/article71747227.ece",
+          "pubDate": "Fri, 27 Nov 2026 04:17:00 +0530",
+          "dateIso": "2026-11-27",
+          "dateDisplay": "27 Nov 2026",
+          "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
+          "imageUrl": "https://th-i.thgim.com/public/news/national/other-states/dl84fv/article71747222.ece/alternates/LANDSCAPE_1200/1000322332.jpg",
+          "fullParagraphs": [
+            "Haryana Chief Minister Nayab Singh Saini on Thursday (November 26, 2026) said that the Constitution is the guiding force for our present and future, which has shown the country the right path in overcoming every challenge, even as the Congress party accused the BJP of undermining democratic conventions, the independence of constitutional institutions and the voting rights of citizens.",
+            "“Over the past 77 years, the Constitution has shown the country the right path in overcoming every challenge. Respecting the Constitution is not the responsibility of any one political party or government, but the duty of every individual whom the people have entrusted with the opportunity to serve them,” said Mr. Saini, addressing the House during the special session of the Haryana State Assembly on the 77th anniversary of the adoption of the Constitution.",
+            "He said that the true tribute to the framers of the Constitution would be to uphold the democratic path shown by them, maintain its decorum and contribute to building an India where justice is accessible to all, opportunities are available to everyone and the dignity of every citizen is protected.",
+            "Meanwhile, as part of the party’s nationwide demonstration, Haryana Congress organised a ‘Samvidhan Raksha March’ in Panchkula. Led by AICC In-charge for Haryana Sanjay Dutt, Haryana Pradesh Congress Committee President Rao Narender Singh, and Congress Legislature Party Leader and former Chief Minister Bhupinder Singh Hooda, the march drew senior party leaders.",
+            "Addressing the gathering, Mr. Dutt said that the country is passing through a decisive phase in which protecting the Constitution and democracy is no longer merely a political issue, but a question concerning the future of the nation. “Intoxicated by its arrogance of power, the BJP government is undermining democratic conventions, the independence of constitutional institutions and the voting rights of citizens. Elections are the greatest expression of democracy. However, when serious questions are raised about the integrity of electoral rolls, complaints emerge regarding the deletion of voters’ names and doubts arise over the transparency of the electoral process, it signals a grave threat to the entire democratic framework.”",
+            "Mr. Hooda said that any attack on the Constitution is a direct attack on the country’s democratic framework and the rights of its citizens. “The Congress Party will continue its struggle, both on the streets and inside legislatures, to safeguard the Constitution, the independence of constitutional institutions and free and fair elections,” he said.",
+            "The HPCC president said “The anti-people policies and the BJP Government’s attitude towards democratic institutions have generated widespread public resentment.”"
+          ],
+          "deepExplanation": "<strong>1. Core Context & Background:</strong> Haryana Chief Minister Nayab Singh Saini on Thursday (November 26, 2026) said that the Constitution is the guiding force for our present and future, which has shown the country the right path in overcoming every challenge, even as the Congress party accused the BJP of undermining democratic conventions, the independence of constitutional institutions and the voting rights of citizens.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> “Over the past 77 years, the Constitution has shown the country the right path in overcoming every challenge. Respecting the Constitution is not the responsibility of any one political party or government, but the duty of every individual whom the people have entrusted with the opportunity to serve them,” said Mr.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> The HPCC president said “The anti-people policies and the BJP Government’s attitude towards democratic institutions have generated widespread public resentment.”",
+          "vocabList": [
+            "Thursday",
+            "November",
+            "Constitution",
+            "Overcoming",
+            "Challenge",
+            "Congress"
+          ],
+          "summary": "Haryana Chief Minister Nayab Singh Saini on Thursday (November 26, 2026) said that the Constitution is the guiding force for our present and future, which has shown the country the right path in overcoming every challenge, even as the Congress party accused the BJP of undermining democratic conventions, the independence of constitutional institutions and the voting rights of citizens.",
+          "keyPoints": "• Haryana Chief Minister Nayab Singh Saini on Thursday (November 26, 2026) said that the Constitution is the guiding force for our present and future, which has shown the country the right path in overcoming every challenge, even as the Congress party accused the BJP of undermining democratic conventions, the independence of constitutional institutions and the voting rights of citizens.<br>• “Over the past 77 years, the Constitution has shown the country the right path in overcoming every challenge. Respecting the Constitution is not the responsibility of any one political party or government, but the duty of every individual whom the people have entrusted with the opportunity to serve them,” said Mr. Saini, addressing the House during the special session of the Haryana State Assembly on the 77th anniversary of the adoption of the Constitution.<br>• He said that the true tribute to the framers of the Constitution would be to uphold the democratic path shown by them, maintain its decorum and contribute to building an India where justice is accessible to all, opportunities are available to everyone and the dignity of every citizen is protected."
+        },
+        {
+          "category": "national",
+          "categoryLabel": "🏛️ National & Polity",
+          "title": "Leave aside any differences, remove BJP in U.P., says Congress chief",
+          "link": "https://www.thehindu.com/news/national/uttar-pradesh/leave-aside-any-differences-remove-bjp-in-up-says-congress-chief/article71748320.ece",
+          "pubDate": "Fri, 27 Nov 2026 04:09:06 +0530",
+          "dateIso": "2026-11-27",
+          "dateDisplay": "27 Nov 2026",
+          "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/glrlht/article71748319.ece/alternates/LANDSCAPE_1200/PTI11_26_2026_000268B.jpg",
+          "fullParagraphs": [
+            "Congress president Mallikarjun Kharge on Thursday (November 26, 2026) in Lucknow urged party leaders and workers to strengthen the Samajwadi Party (SP)-Congress alliance and leave aside any differences in a bid to oust the Bharatiya Janata Party (BJP) in Uttar Pradesh. “To win, we all have to fight together and leave aside egoistic talk. We have to strengthen the alliance and remove Modi-Yogi from power. Narendra Modi and Gyanesh Kumar are forming an alliance and snatching the right to vote from the people through Special Intensive Revision (SIR) and EVM manipulation,” said Mr. Kharge, addressing a Constitution Day event at the State Congress office in Lucknow.",
+            "Highlighting the contribution of the grand old party in the freedom struggle and the deepening of India’s democracy, Mr. Kharge added, “Congress is a party that works together with everyone. It is the result of this collective effort that every citizen of the country has the right to vote today. We fought to save Baba Saheb’s Constitution and our rights through voting in 2024. This time too, if we work unitedly, we will definitely win”.",
+            "Hitting out at Union Home Minister Amit Shah over allegedly disrespecting Dr. B.R. Ambedkar, the Congress chief added, “Amit Shah said in Parliament, 'It has become fashionable to invoke Baba Saheb Ambedkar’s name. If you had invoked God’s name so much, you would have attained heaven.’ You people yourself are stealing in the name of Lord Ram; you are not going to get heaven”.",
+            "Later, in the day Congress State unit leaders were detained while taking out Constitution Protection March. “We [Congressmen] were taking out the ‘Constitution Protection March’ peacefully and were detained, but our resolve to protect the Constitution became stronger. The place may change; the paths may be blocked, but the struggle to protect the Constitution has not stopped and will not stop,” said Anil Yadav, a senior Congress leader. Lucknow police took Congress leaders to Lucknow’s Eco Garden and freed in the evening.",
+            "“The BJP government cannot tolerate even voices raised in support of the Constitution and democracy. The police force’s arrest of Congress leaders and workers who peacefully took to the streets, vowing to defend the Constitution, is deeply shameful. Is it now a crime to demand protection of our Constitution?",
+            "“Remember, the repression of power cannot erase the values ​​of the Constitution, nor can it silence the voice of democracy. Congress will continue its struggle until the rights of every citizen, the power of every vote, and the Constitution are respected,” said Dwijendra Tripathi, a senior Congress worker based in Lucknow.",
+            "Indian National Congress / Samajwadi Party / Bharatiya Janata Party / election"
+          ],
+          "deepExplanation": "<strong>1. Core Context & Background:</strong> Congress president Mallikarjun Kharge on Thursday (November 26, 2026) in Lucknow urged party leaders and workers to strengthen the Samajwadi Party (SP)-Congress alliance and leave aside any differences in a bid to oust the Bharatiya Janata Party (BJP) in Uttar Pradesh.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> “To win, we all have to fight together and leave aside egoistic talk. We have to strengthen the alliance and remove Modi-Yogi from power.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Indian National Congress / Samajwadi Party / Bharatiya Janata Party / election",
+          "vocabList": [
+            "Congress",
+            "President",
+            "Mallikarjun",
+            "Thursday",
+            "November",
+            "Strengthen"
+          ],
+          "summary": "Congress president Mallikarjun Kharge on Thursday (November 26, 2026) in Lucknow urged party leaders and workers to strengthen the Samajwadi Party (SP)-Congress alliance and leave aside any differences in a bid to oust the Bharatiya Janata Party (BJP) in Uttar Pradesh. “To win, we all have to fight together and leave aside egoistic talk. We have to strengthen the alliance and remove Modi-Yogi from power. Narendra Modi and Gyanesh Kumar are forming an alliance and snatching the right to vote from the people through Special Intensive Revision (SIR) and EVM manipulation,” said Mr. Kharge, addressing a Constitution Day event at the State Congress office in Lucknow.",
+          "keyPoints": "• Congress president Mallikarjun Kharge on Thursday (November 26, 2026) in Lucknow urged party leaders and workers to strengthen the Samajwadi Party (SP)-Congress alliance and leave aside any differences in a bid to oust the Bharatiya Janata Party (BJP) in Uttar Pradesh. “To win, we all have to fight together and leave aside egoistic talk. We have to strengthen the alliance and remove Modi-Yogi from power. Narendra Modi and Gyanesh Kumar are forming an alliance and snatching the right to vote from the people through Special Intensive Revision (SIR) and EVM manipulation,” said Mr. Kharge, addressing a Constitution Day event at the State Congress office in Lucknow.<br>• Highlighting the contribution of the grand old party in the freedom struggle and the deepening of India’s democracy, Mr. Kharge added, “Congress is a party that works together with everyone. It is the result of this collective effort that every citizen of the country has the right to vote today. We fought to save Baba Saheb’s Constitution and our rights through voting in 2024. This time too, if we work unitedly, we will definitely win”.<br>• Hitting out at Union Home Minister Amit Shah over allegedly disrespecting Dr. B.R. Ambedkar, the Congress chief added, “Amit Shah said in Parliament, 'It has become fashionable to invoke Baba Saheb Ambedkar’s name. If you had invoked God’s name so much, you would have attained heaven.’ You people yourself are stealing in the name of Lord Ram; you are not going to get heaven”."
+        },
+        {
+          "category": "national",
+          "categoryLabel": "🏛️ National & Polity",
+          "title": "Delhi HC sets aside Centre’s order cancelling FCRA licence of NGO",
+          "link": "https://www.thehindu.com/news/cities/Delhi/delhi-hc-sets-aside-centres-order-cancelling-fcra-licence-of-ngo/article71747409.ece",
+          "pubDate": "Fri, 27 Nov 2026 03:59:46 +0530",
+          "dateIso": "2026-11-27",
+          "dateDisplay": "27 Nov 2026",
+          "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/heeubg/article71727333.ece/alternates/LANDSCAPE_1200/TH02-Rocky-MateG06GFRT7V.3.jpg.jpg",
+          "fullParagraphs": [
+            "The Delhi High Court on Thursday (November 26, 2026) set aside the Centre’s order cancelling the FCRA licence of NGO Socio Legal Information Centre (SLIC), holding that the allegation of the organisation engaging in “aggressive anti-government political activism” was unsupported by any material.",
+            "Editorial | Troubling bill: On the Foreign Contribution (Regulation) Amendment Bill, 2026",
+            "“Based on the record, this court is unable to discern any material based on which it could be said that the appellant’s activities would likely prejudicially affect the sovereignty, integrity, or security of India or public interest,” Justice A.J. Bhambhani said.",
+            "The judge added, “The respondent’s allegation that the appellant has indulged in “aggressive anti-government political activism”, is also not based on any material. No documents or other material has been placed on record by the respondent to support that allegation”.",
+            "Editorial | ​Fear of the foreign: On the FCRA amendments",
+            "The court further opined that the October 17, 2022 cancellation order the organisation’s FCRA registration was “misconceived, untenable and illegal, apart from being disproportionate and excessive in its rigour and impact”.",
+            "The court passed the judgment on a plea by the NGO seeking to set aside the October 2022 order of the Ministry of Home Affairs cancelling its Foreign Contribution (Regulation) Act registration certificate.",
+            "The NGO also challenged the freezing of its designated foreign contribution account and its utilisation accounts maintained with several banks across the country.",
+            "Editorial | Onerous rules: On the amended FCRA Rules, the fallout",
+            "The high court said the violations alleged in the cancellation order principally arise from the conditions for grant of an FCRA registration certificate, the essence of the allegation being that the NGO is guilty of diversion or misutilisation of such funds, or of using such funds for personal gains or diverting them for undesirable purposes.",
+            "“However, upon examining the use to which foreign contributions have been put by the appellant, it is seen that such funds have been utilised and deployed for activities that are perfectly in line with the stated objectives of the appellant, namely, of providing legal-aid and engaging in social welfare activities,” Justice Bhambhani said.",
+            "The court, in its 69-page judgment, said unless something sinister comes through from material available against it, an organisation that is engaged in assisting aggrieved persons in raising their grievances before courts and statutory commissions, acting through the available constitutional machinery, cannot be characterised as engaging in “political activity” or in activities impinging on political and law-and-order domains."
+          ],
+          "deepExplanation": "<strong>1. Core Context & Background:</strong> The Delhi High Court on Thursday (November 26, 2026) set aside the Centre’s order cancelling the FCRA licence of NGO Socio Legal Information Centre (SLIC), holding that the allegation of the organisation engaging in “aggressive anti-government political activism” was unsupported by any material.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Editorial | Troubling bill: On the Foreign Contribution (Regulation) Amendment Bill, 2026 “Based on the record, this court is unable to discern any material based on which it could be said that the appellant’s activities would likely prejudicially affect the sovereignty, integrity, or security of India or public interest,” Justice A.J. The judge added, “The respondent’s allegation that the appellant has indulged in “aggressive anti-government political activism”, is also not based on any material.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> The court, in its 69-page judgment, said unless something sinister comes through from material available against it, an organisation that is engaged in assisting aggrieved persons in raising their grievances before courts and statutory commissions, acting through the available constitutional machinery, cannot be characterised as engaging in “political activity” or in activities impinging on political and law-and-order domains.",
+          "vocabList": [
+            "Thursday",
+            "November",
+            "Cancelling",
+            "Information",
+            "Allegation",
+            "Organisation"
+          ],
+          "summary": "The Delhi High Court on Thursday (November 26, 2026) set aside the Centre’s order cancelling the FCRA licence of NGO Socio Legal Information Centre (SLIC), holding that the allegation of the organisation engaging in “aggressive anti-government political activism” was unsupported by any material.",
+          "keyPoints": "• The Delhi High Court on Thursday (November 26, 2026) set aside the Centre’s order cancelling the FCRA licence of NGO Socio Legal Information Centre (SLIC), holding that the allegation of the organisation engaging in “aggressive anti-government political activism” was unsupported by any material.<br>• Editorial | Troubling bill: On the Foreign Contribution (Regulation) Amendment Bill, 2026<br>• “Based on the record, this court is unable to discern any material based on which it could be said that the appellant’s activities would likely prejudicially affect the sovereignty, integrity, or security of India or public interest,” Justice A.J. Bhambhani said."
+        },
+        {
+          "category": "national",
+          "categoryLabel": "🏛️ National & Polity",
+          "title": "Nitin Nabin accuses Congress party of insulting both Constitution and Ambedkar",
+          "link": "https://www.thehindu.com/news/national/bihar/nitin-nabin-accuses-congress-party-of-insulting-both-constitution-and-ambedkar/article71747280.ece",
+          "pubDate": "Fri, 27 Nov 2026 02:51:20 +0530",
+          "dateIso": "2026-11-27",
+          "dateDisplay": "27 Nov 2026",
+          "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/ypoqb0/article71748171.ece/alternates/LANDSCAPE_1200/20261126314L.jpg",
+          "fullParagraphs": [
+            "Bharatiya Janata Party (BJP) National President Nitin Nabin on Thursday (November 26, 2026) alleged that the Congress party misused the Constitution for the sake of power, whereas Prime Minister Narendra Modi has used for the upliftment of the last person, social justice, and public welfare.",
+            "He said this while addressing an event titled ‘Samvidhan Gaurav Diwas’ (Constitution Pride Day), organised to mark ‘Constitution Day’ at Patna’s Gyan Bhawan.",
+            "Paying tribute to the architects of the Constitution, he accused the Congress party of having insulted both the Constitution and Dr. Baba Saheb Bhimrao Ambedkar.",
+            "He highlighted the government’s constitutional amendments, welfare schemes for the poor, and development initiatives in Bihar. He also called upon all citizens to fulfill their constitutional duties to help build a ‘Developed India’ (Viksit Bharat) by the year 2047.",
+            "Attacking the opposition party, Mr. Nabin said, “It is essential to understand how the Congress party treated the Constitution once the party came to power. The Congress consistently prioritized its own vested interests and personal ambitions above the Constitution.”",
+            "He further said, “Baba Saheb expressed hope on August 4, 1949 that Article 356 (President’s Rule) would remain a “dead letter”, a provision that would never actually be invoked. Instead, the Congress turned it into a weapon to crush state governments led by opposition parties.”",
+            "“From the first imposition of President’s Rule in Punjab on June 20, 1951, to the dismissal of the first elected government in Kerala in 1959, the Congress toppled elected governments more than 90 times throughout its tenure. During the reign of Indira Gandhi alone, this power was politically misused 50 times—including 39 instances within an 11-year span,”Mr. Nabin said.",
+            "Mr. Nabin accused that the Congress party humiliated the architect of the Constitution, Dr. Bhimrao Ambedkar, at every occasion.",
+            "“Today, Rahul Gandhi carries a copy of the Constitution, but that alone is not enough. He must internalise the Constitution and offer an apology to the nation for how his party treated its architect,”Mr. Nabin said.",
+            "The BJP National President asserted that Prime Minister Narendra Modi, back in 2010—when he was the Chief Minister of Gujarat had organized a ‘Samvidhan Gaurav Yatra’ (Constitution Pride March) to mark the 60th anniversary of the Constitution.",
+            "He added before taking the oath as Prime Minister for the third time; he bowed his head in reverence to the Constitution.",
+            "“The opposition merely carries a copy of the Constitution around but PM Narendra Modi holds the Constitution in his heart and carries its spirit to the hearts of the people,”Mr. Nabin said."
+          ],
+          "deepExplanation": "<strong>1. Core Context & Background:</strong> Bharatiya Janata Party (BJP) National President Nitin Nabin on Thursday (November 26, 2026) alleged that the Congress party misused the Constitution for the sake of power, whereas Prime Minister Narendra Modi has used for the upliftment of the last person, social justice, and public welfare.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> He said this while addressing an event titled ‘Samvidhan Gaurav Diwas’ (Constitution Pride Day), organised to mark ‘Constitution Day’ at Patna’s Gyan Bhawan. Paying tribute to the architects of the Constitution, he accused the Congress party of having insulted both the Constitution and Dr.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> “The opposition merely carries a copy of the Constitution around but PM Narendra Modi holds the Constitution in his heart and carries its spirit to the hearts of the people,”Mr.",
+          "vocabList": [
+            "Bharatiya",
+            "President",
+            "Thursday",
+            "November",
+            "Congress",
+            "Constitution"
+          ],
+          "summary": "Bharatiya Janata Party (BJP) National President Nitin Nabin on Thursday (November 26, 2026) alleged that the Congress party misused the Constitution for the sake of power, whereas Prime Minister Narendra Modi has used for the upliftment of the last person, social justice, and public welfare.",
+          "keyPoints": "• Bharatiya Janata Party (BJP) National President Nitin Nabin on Thursday (November 26, 2026) alleged that the Congress party misused the Constitution for the sake of power, whereas Prime Minister Narendra Modi has used for the upliftment of the last person, social justice, and public welfare.<br>• He said this while addressing an event titled ‘Samvidhan Gaurav Diwas’ (Constitution Pride Day), organised to mark ‘Constitution Day’ at Patna’s Gyan Bhawan.<br>• Paying tribute to the architects of the Constitution, he accused the Congress party of having insulted both the Constitution and Dr. Baba Saheb Bhimrao Ambedkar."
+        },
         {
           "category": "national",
           "categoryLabel": "🏛️ National & Polity",
@@ -1031,149 +1188,38 @@
         {
           "category": "national",
           "categoryLabel": "🏛️ National & Polity",
-          "title": "Cultural values of language remain irreplaceable in AI era: Arabic meet",
-          "link": "https://www.thehindu.com/news/national/kerala/cultural-values-of-language-remain-irreplaceable-in-ai-era-arabic-meet/article71746962.ece",
-          "pubDate": "Fri, 27 Nov 2026 02:24:15 +0530",
+          "title": "Shocked to see use of heavy equipment at Sheshnag, no need for motorable roads to pilgrimages: Dr. Karan Singh",
+          "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/shocked-to-see-use-of-heavy-equipment-at-sheshnag-no-need-for-motorable-roads-to-pilgrimages-dr-karan-singh/article71747335.ece",
+          "pubDate": "Fri, 27 Nov 2026 02:33:56 +0530",
           "dateIso": "2026-11-27",
           "dateDisplay": "27 Nov 2026",
           "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
-          "imageUrl": "https://th-i.thgim.com/public/news/national/kerala/yx3rge/article71746927.ece/alternates/LANDSCAPE_1200/Arabic%201.jpeg",
+          "imageUrl": "https://th-i.thgim.com/public/incoming/ylnzzo/article71748170.ece/alternates/LANDSCAPE_1200/PTI12_25_2024_000355A.jpg",
           "fullParagraphs": [
-            "Artificial Intelligence (AI) may transform the way Arabic is learned and used, but human emotions and traditional values remain beyond the reach of technology, an international conference on the Arabic language held at Anvarul Islam Arabic College, Kuniyil, observed on Thursday.",
-            "The two-day conference, titled ‘Digital humanities: reimagining Arabic language and literature’, was organised by the Arabic department of the college in association with Calicut University’s Arabic department, Kerala State Higher Education Council, and Arab Union of Internet Writers.",
-            "Liyaqat Ali, deputy director of collegiate education, inaugurated the conference on Wednesday. College Principal K. Mohammed Fawaz presided over the function.",
-            "Liyaqat Ali, deputy director of collegiate education, inaugurating an international conference on Arabic at Anvarul Islam Arabic College, Kuniyil, on Wednesday. | Photo Credit: SAKEER HUSSAIN",
-            "Arabic scholars Sumayya Ibrahim Abu Thailath from Palestine, Najeeb Ali Mulkhath from Yemen, Simi K. Salim, K. Ali Noufal, I.P. Abdul Salam, C.M. Sabir Navas, K.A. Nasser, P. Firoz, M.K. Ameer Swalahi, Shakir Babu Kuniyil, and K.P. Abdul Haleem Thangal spoke.",
-            "E.T. Mohammed Basheer, MP, inaugurated the valedictory function on Thursday. He highlighted the growing global significance of the Arabic language in an increasingly interconnected world.",
-            "Scholars Mujeeb Nellikkuth, Ali Jafar, Mohammed Aman K., P. Sulaiman and C. Abdul Wahab spoke."
+            "Senior J&K politician Karan Singh on Thursday expressed shock over the use of heavy earth-moving equipment to widen the route to the Amarnath shrine close to the Sheshnag lake in Kashmir. Meanwhile, Peoples Democratic Party (PDP) president Mehbooba Mufti asked J&K Chief Minister Omar Abdullah to withdraw the Memorandum of Understanding (MoU) with the Border Roads Organisation (BRO) and explain the use of heavy machinery at the high-altitude glacial lake.",
+            "“I was shocked to read that heavy earth-moving equipment is being used to widen the route to Shri Amarnath ji, and that too at a spot overlooking Sheshnag, which is one of the most beautiful lakes in India. I join my voice with those who are protesting about this, and would urge those concerned not to use heavy equipment on this route,” said Mr. Singh, who also served as the last Dogra Maharaja of J&K.",
+            "He cautioned that there was no need “to make every pilgrim route into a motorable road just for the convenience of tourists”. “Genuine pilgrims will not mind walking or riding towards this great shrine. For many years I have been raising the disaster being caused to the Himalayas due to avoidable road widening, particularly on the pilgrim routes in Uttarakhand. I see no reason why tourists and pilgrims cannot manage with two-lane roads,” said Mr. Singh.",
+            "He said in the name of tourists an unnecessary programme of road widening is underway, which involves extensive use of dynamite which severely damages the comparatively young Himalayas. “In fact, several disasters have already occurred, including the one at Kedarnath some years ago,” said Mr. Singh, in a statement.",
+            "In a post on X, Mr. Singh’s son Vikramaditya Singh termed it “a collective duty to preserve the natural beauty and unique ecology of J&K for future generations”.",
+            "“The felling and burning of protected Chinar and Chestnut trees in Kashmir, along with BRO road construction in close proximity to the sacred Sheshnag Lake, are deeply concerning developments. The fragile ecosystem of J&K, already under considerable stress, cannot afford such irreversible damage. I urge the J&K Government and the concerned authorities to take serious cognisance of these activities and ensure strict monitoring before it is too late,” said Mr. Singh.",
+            "Meanwhile, Ms. Mufti of the PDP expressed dissatisfaction over J&K Forest minister Altaf Kalooo’s statement that “all was well at the Sheshnag lake and there was no violation at the site”.",
+            "Addressing a press conference in Srinagar, Ms. Mufti demanded that the Omar Abdullah government should halt use of heavy machines like JCB and cancel the MoU with the BRO.",
+            "“The JCB should be removed from Sheshnag and the work stopped till environment specialists visit the site. Also. the MoU signed with the BRO should be made public. The MoU signed by the government should be brought to the public domain. Is the use of JCB part of the MoU?” said Ms. Mufti.",
+            "She also targeted the government on the extension granted to the BRO. “Mr. Abdullah needs to explain why the extension was given,” she added.",
+            "Referring to Kashmir as a seismic zone, Ms. Mufti said around 700 lakes were facing environmental threats. “Tree felling, construction of wider roads and transportation of heavy machinery, including JCBs, to the area could further aggravate environmental concerns,” she warned.",
+            "She also termed the Sheshnag lake “an important part of Kashmir’s religious, cultural and historical identity”. “The Amarnath shrine and its surroundings must be protected. The government should publish findings of the assessment and take necessary measures to protect the Sheshnag lake and the Amarnath shrine,” said Mr. Mufti."
           ],
-          "deepExplanation": "<strong>1. Core Context & Background:</strong> Artificial Intelligence (AI) may transform the way Arabic is learned and used, but human emotions and traditional values remain beyond the reach of technology, an international conference on the Arabic language held at Anvarul Islam Arabic College, Kuniyil, observed on Thursday.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> The two-day conference, titled ‘Digital humanities: reimagining Arabic language and literature’, was organised by the Arabic department of the college in association with Calicut University’s Arabic department, Kerala State Higher Education Council, and Arab Union of Internet Writers. Liyaqat Ali, deputy director of collegiate education, inaugurated the conference on Wednesday.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Scholars Mujeeb Nellikkuth, Ali Jafar, Mohammed Aman K., P.",
+          "deepExplanation": "<strong>1. Core Context & Background:</strong> Senior J&K politician Karan Singh on Thursday expressed shock over the use of heavy earth-moving equipment to widen the route to the Amarnath shrine close to the Sheshnag lake in Kashmir.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Meanwhile, Peoples Democratic Party (PDP) president Mehbooba Mufti asked J&K Chief Minister Omar Abdullah to withdraw the Memorandum of Understanding (MoU) with the Border Roads Organisation (BRO) and explain the use of heavy machinery at the high-altitude glacial lake. “I was shocked to read that heavy earth-moving equipment is being used to widen the route to Shri Amarnath ji, and that too at a spot overlooking Sheshnag, which is one of the most beautiful lakes in India.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> The government should publish findings of the assessment and take necessary measures to protect the Sheshnag lake and the Amarnath shrine,” said Mr.",
           "vocabList": [
-            "Artificial",
-            "Intelligence",
-            "Transform",
-            "Emotions",
-            "Traditional",
-            "Technology"
-          ],
-          "summary": "Artificial Intelligence (AI) may transform the way Arabic is learned and used, but human emotions and traditional values remain beyond the reach of technology, an international conference on the Arabic language held at Anvarul Islam Arabic College, Kuniyil, observed on Thursday.",
-          "keyPoints": "• Artificial Intelligence (AI) may transform the way Arabic is learned and used, but human emotions and traditional values remain beyond the reach of technology, an international conference on the Arabic language held at Anvarul Islam Arabic College, Kuniyil, observed on Thursday.<br>• The two-day conference, titled ‘Digital humanities: reimagining Arabic language and literature’, was organised by the Arabic department of the college in association with Calicut University’s Arabic department, Kerala State Higher Education Council, and Arab Union of Internet Writers.<br>• Liyaqat Ali, deputy director of collegiate education, inaugurated the conference on Wednesday. College Principal K. Mohammed Fawaz presided over the function."
-        },
-        {
-          "category": "national",
-          "categoryLabel": "🏛️ National & Polity",
-          "title": "BDO issues residence certificate to mother of child denied birth certificate due to SIR row",
-          "link": "https://www.thehindu.com/news/national/west-bengal/bdo-issues-residence-certificate-to-mother-of-child-denied-birth-certificate-due-to-sir-row/article71747493.ece",
-          "pubDate": "Fri, 27 Nov 2026 02:23:07 +0530",
-          "dateIso": "2026-11-27",
-          "dateDisplay": "27 Nov 2026",
-          "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
-          "imageUrl": "https://th-i.thgim.com/public/news/national/kvv7u5/article71739084.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-11-24%20at%206.01.49%20PM.jpeg",
-          "fullParagraphs": [
-            "The district administration of Coochbehar district in West Bengal on Thursday (November 26, 2026) issued a residence certificate to the mother of a two-month-old infant, after her parents faced challenges to get the certificate on the ground that the name of the father was deleted from electoral rolls during the Special Intensive Revision (SIR) held earlier this year.",
-            "The Hindu reported on November 25 that the birth certificate was denied to the infant because the father's name was deleted from the electoral roll during SIR. Amina Khatun, wife of Abdul Habib, gave birth to a girl at Dinhata Sub-Divisional Hospital on September 9. Amina Khatun and Abdul Habib approached the hospital and the concerned panchayat office to obtain their daughter’s birth certificate. The couple was reportedly asked to arrange residential verification from the local panchayat pradhan or MLA.",
-            "On the grounds that the name of Abdul Habib was deleted from the electoral roll in the SIR, the local BJP MLA office refused to give them residence proof. On Thursday (November 26), the BDO office issued a residence certificate to Amina Khatun.",
-            "“This is to certify that Amina Khatun, wife of Abdul Habib, is a permanent resident of village Khatamari P.O. Khatamari as per the enquiry report of Chowdhurihat Gram Panchayat -. Under Dinhata-II Development Block, P.S.: Sahebganj, Dist.: Cooch Behar. The name of the applicant has been enrolled in the Electoral Roll vide Part-191, Sl. No .848 of 7 Dinhata Assembly Constituency. I wish him/her all success in his/her life,” read the certificate issued by the BDO on Thursday.",
-            "Abdul Hamid told this correspondent that government officials came to his residence and took him to the BDO office where the residence proof was given to him. “I have received my residence verification certificate which I am going to submit at the hospital tomorrow. Hopefully, my daughter will now get the birth certificate soon,” the father said.",
-            "There have been allegations of denial of services by the West Bengal government to citizens whose names have been deleted from the electoral rolls during SIR. The Supreme Court, which oversaw the SIR process in the State, had made it clear that removal of a name from the electoral roll cannot be grounds for denial of services. The names of about 36 lakh electors deleted during SIR are pending before SIR tribunals in the State.",
-            "Special Intensive Revision of electoral rolls / Election Commission of India / government"
-          ],
-          "deepExplanation": "<strong>1. Core Context & Background:</strong> The district administration of Coochbehar district in West Bengal on Thursday (November 26, 2026) issued a residence certificate to the mother of a two-month-old infant, after her parents faced challenges to get the certificate on the ground that the name of the father was deleted from electoral rolls during the Special Intensive Revision (SIR) held earlier this year.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> The Hindu reported on November 25 that the birth certificate was denied to the infant because the father's name was deleted from the electoral roll during SIR. Amina Khatun, wife of Abdul Habib, gave birth to a girl at Dinhata Sub-Divisional Hospital on September 9.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Special Intensive Revision of electoral rolls / Election Commission of India / government",
-          "vocabList": [
-            "District",
-            "Administration",
-            "Coochbehar",
+            "Politician",
             "Thursday",
-            "November",
-            "Residence"
+            "Expressed",
+            "Equipment",
+            "Amarnath",
+            "Sheshnag"
           ],
-          "summary": "The district administration of Coochbehar district in West Bengal on Thursday (November 26, 2026) issued a residence certificate to the mother of a two-month-old infant, after her parents faced challenges to get the certificate on the ground that the name of the father was deleted from electoral rolls during the Special Intensive Revision (SIR) held earlier this year.",
-          "keyPoints": "• The district administration of Coochbehar district in West Bengal on Thursday (November 26, 2026) issued a residence certificate to the mother of a two-month-old infant, after her parents faced challenges to get the certificate on the ground that the name of the father was deleted from electoral rolls during the Special Intensive Revision (SIR) held earlier this year.<br>• The Hindu reported on November 25 that the birth certificate was denied to the infant because the father's name was deleted from the electoral roll during SIR. Amina Khatun, wife of Abdul Habib, gave birth to a girl at Dinhata Sub-Divisional Hospital on September 9. Amina Khatun and Abdul Habib approached the hospital and the concerned panchayat office to obtain their daughter’s birth certificate. The couple was reportedly asked to arrange residential verification from the local panchayat pradhan or MLA.<br>• On the grounds that the name of Abdul Habib was deleted from the electoral roll in the SIR, the local BJP MLA office refused to give them residence proof. On Thursday (November 26), the BDO office issued a residence certificate to Amina Khatun."
-        },
-        {
-          "category": "national",
-          "categoryLabel": "🏛️ National & Polity",
-          "title": "Karnataka Industries Minister holds talks with four Japanese companies",
-          "link": "https://www.thehindu.com/news/national/karnataka/karnataka-industries-minister-holds-talks-with-four-japanese-companies/article71747908.ece",
-          "pubDate": "Fri, 27 Nov 2026 02:22:06 +0530",
-          "dateIso": "2026-11-27",
-          "dateDisplay": "27 Nov 2026",
-          "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
-          "imageUrl": "https://th-i.thgim.com/public/incoming/8me0ks/article71748167.ece/alternates/LANDSCAPE_1200/Karnataka-to-buG31GQ419E.3.jpg.jpg",
-          "fullParagraphs": [
-            "Large and Medium Industries Minister M.B. Patil held discussions with four Japanese companies on Thursday, the fourth day of his visit to Japan, focusing on their existing operations in Karnataka and expansion plans.",
-            "According to a release, during a meeting with Seiren Co. Ltd., a manufacturer of automotive interior materials, discussions focused on its manufacturing operations at the Kadakola Industrial Area in Mysuru and its plans to expand its presence in line with Toyota’s growing capacity in the State.",
-            "At a meeting with the leadership of Enomoto Co. Ltd., a Japanese manufacturer of precision connector components and semiconductor lead frames, discussions centred on potential expansion locations, including the Tumakuru Machine Tool Park and the Chennai-Bengaluru Industrial Corridor.",
-            "In a meeting with representatives of Secom and Toyota Tsusho Corporation, the Minister discussed the growth plans of Sakra World Hospital. Discussions were also held with Makino, a leading manufacturer of high-precision machine tools, the release said."
-          ],
-          "deepExplanation": "<strong>1. Core Context & Background:</strong> Large and Medium Industries Minister M.B.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Patil held discussions with four Japanese companies on Thursday, the fourth day of his visit to Japan, focusing on their existing operations in Karnataka and expansion plans. According to a release, during a meeting with Seiren Co.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Discussions were also held with Makino, a leading manufacturer of high-precision machine tools, the release said.",
-          "vocabList": [
-            "Industries",
-            "Discussions",
-            "Japanese",
-            "Companies",
-            "Thursday",
-            "Focusing"
-          ],
-          "summary": "Large and Medium Industries Minister M.B. Patil held discussions with four Japanese companies on Thursday, the fourth day of his visit to Japan, focusing on their existing operations in Karnataka and expansion plans.",
-          "keyPoints": "• Large and Medium Industries Minister M.B. Patil held discussions with four Japanese companies on Thursday, the fourth day of his visit to Japan, focusing on their existing operations in Karnataka and expansion plans.<br>• According to a release, during a meeting with Seiren Co. Ltd., a manufacturer of automotive interior materials, discussions focused on its manufacturing operations at the Kadakola Industrial Area in Mysuru and its plans to expand its presence in line with Toyota’s growing capacity in the State.<br>• At a meeting with the leadership of Enomoto Co. Ltd., a Japanese manufacturer of precision connector components and semiconductor lead frames, discussions centred on potential expansion locations, including the Tumakuru Machine Tool Park and the Chennai-Bengaluru Industrial Corridor."
-        },
-        {
-          "category": "national",
-          "categoryLabel": "🏛️ National & Polity",
-          "title": "Chief Minister to release book on Cochin royal family",
-          "link": "https://www.thehindu.com/news/national/kerala/chief-minister-to-release-book-on-cochin-royal-family/article71747835.ece",
-          "pubDate": "Fri, 27 Nov 2026 01:57:14 +0530",
-          "dateIso": "2026-11-27",
-          "dateDisplay": "27 Nov 2026",
-          "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
-          "imageUrl": "https://www.thehindu.com/theme/images/og-image.png",
-          "fullParagraphs": [
-            "The Making of Cochin , a book on the erstwhile Cochin royal family, co-authored by Kocha Rama Varma, Usha Chettur Varma, and Rajith B. Nair, will be released by Chief Minister V.D. Satheesan on December 5 at Kalikotta Palace, Thripunithura at 4 p.m. It will be followed by a discussion on the book."
-          ],
-          "deepExplanation": "<strong>1. Core Context & Background:</strong> The Making of Cochin , a book on the erstwhile Cochin royal family, co-authored by Kocha Rama Varma, Usha Chettur Varma, and Rajith B.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Nair, will be released by Chief Minister V.D. Satheesan on December 5 at Kalikotta Palace, Thripunithura at 4 p.m.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> It will be followed by a discussion on the book.",
-          "vocabList": [
-            "Erstwhile",
-            "Authored",
-            "Released",
-            "Satheesan",
-            "December",
-            "Kalikotta"
-          ],
-          "summary": "The Making of Cochin , a book on the erstwhile Cochin royal family, co-authored by Kocha Rama Varma, Usha Chettur Varma, and Rajith B. Nair, will be released by Chief Minister V.D. Satheesan on December 5 at Kalikotta Palace, Thripunithura at 4 p.m. It will be followed by a discussion on the book.",
-          "keyPoints": "• The Making of Cochin , a book on the erstwhile Cochin royal family, co-authored by Kocha Rama Varma, Usha Chettur Varma, and Rajith B. Nair, will be released by Chief Minister V.D. Satheesan on December 5 at Kalikotta Palace, Thripunithura at 4 p.m. It will be followed by a discussion on the book."
-        },
-        {
-          "category": "national",
-          "categoryLabel": "🏛️ National & Polity",
-          "title": "Two women booked over use of banned VPNs in Poonch; absconder held after two decades in Reasi: Officials",
-          "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/two-women-booked-over-use-of-banned-vpns-in-poonch-absconder-held-after-two-decadesin-reasi-officials/article71747503.ece",
-          "pubDate": "Fri, 27 Nov 2026 01:45:57 +0530",
-          "dateIso": "2026-11-27",
-          "dateDisplay": "27 Nov 2026",
-          "examRelevance": "GS Paper-II: Polity, Governance, Supreme Court Judgements, Bills & Govt Schemes",
-          "imageUrl": "https://th-i.thgim.com/public/incoming/9j9xhv/article71748163.ece/alternates/LANDSCAPE_1200/iStock-1447145892%207.jpg",
-          "fullParagraphs": [
-            "Two women were booked on Thursday in the Pir Panjal valley’s Poonch district over the use of Virtual Private Network (VPN) apps in violation of prohibitory orders of the District Magistrate.",
-            "Officials identified the two women as Muneera Bi and Soniya Ayoub, both residents of Poonch’s Ari. Two separate First Information Reports (FIRs) were lodged under Section 223 of the Bharatiya Nyaya Sanhita (BNS), which deals with disobedience to an order duly promulgated by a public servant.",
-            "In 2025, the District Magistrate, Poonch, issued prohibitory orders on the use of VPN apps in the district close to the Line of Control (LoC) and also considered as an infiltration route of terrorists.",
-            "Meanwhile, police officials warned to carry out action against those using VPN apps in the district and advised people to follow the official directions.",
-            "Meanwhile, the J&K Police in Reasi claimed to have arrested a long-evading absconder, who was a surrendered terrorist, after two decades in connection with multiple terror cases, including the killing of a police personnel.",
-            "The police identified the accused as Mohammad Mansha, a resident of Thuroo Lassoli, Reasi. The accused was facing charges under Sections 302, 307 and 121-A of the Ranbir Penal Code and Sections 7/25 of the Arms Act in a case of killing of a policeman.",
-            "However, the accused was declared an absconder after the Reasi court issued an arrest warrant in 2001. “A District Absconder Tracking Unit was constituted and deputed to Tral, Awantipora (in Kashmir). Through professional expertise, perseverance and effective inter-district coordination, the team successfully traced and apprehended the accused,” said officials.",
-            "The police said the accused was allegedly an active terrorist during 2000-2007, before surrendering in 2007. The police said the arrest marks a significant achievement in bringing a long-pending pursuit to a successful conclusion after more than two decades."
-          ],
-          "deepExplanation": "<strong>1. Core Context & Background:</strong> Two women were booked on Thursday in the Pir Panjal valley’s Poonch district over the use of Virtual Private Network (VPN) apps in violation of prohibitory orders of the District Magistrate.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Officials identified the two women as Muneera Bi and Soniya Ayoub, both residents of Poonch’s Ari. Two separate First Information Reports (FIRs) were lodged under Section 223 of the Bharatiya Nyaya Sanhita (BNS), which deals with disobedience to an order duly promulgated by a public servant.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> The police said the arrest marks a significant achievement in bringing a long-pending pursuit to a successful conclusion after more than two decades.",
-          "vocabList": [
-            "Thursday",
-            "District",
-            "Violation",
-            "Prohibitory",
-            "Magistrate",
-            "Officials"
-          ],
-          "summary": "Two women were booked on Thursday in the Pir Panjal valley’s Poonch district over the use of Virtual Private Network (VPN) apps in violation of prohibitory orders of the District Magistrate.",
-          "keyPoints": "• Two women were booked on Thursday in the Pir Panjal valley’s Poonch district over the use of Virtual Private Network (VPN) apps in violation of prohibitory orders of the District Magistrate.<br>• Officials identified the two women as Muneera Bi and Soniya Ayoub, both residents of Poonch’s Ari. Two separate First Information Reports (FIRs) were lodged under Section 223 of the Bharatiya Nyaya Sanhita (BNS), which deals with disobedience to an order duly promulgated by a public servant.<br>• In 2025, the District Magistrate, Poonch, issued prohibitory orders on the use of VPN apps in the district close to the Line of Control (LoC) and also considered as an infiltration route of terrorists."
+          "summary": "Senior J&K politician Karan Singh on Thursday expressed shock over the use of heavy earth-moving equipment to widen the route to the Amarnath shrine close to the Sheshnag lake in Kashmir. Meanwhile, Peoples Democratic Party (PDP) president Mehbooba Mufti asked J&K Chief Minister Omar Abdullah to withdraw the Memorandum of Understanding (MoU) with the Border Roads Organisation (BRO) and explain the use of heavy machinery at the high-altitude glacial lake.",
+          "keyPoints": "• Senior J&K politician Karan Singh on Thursday expressed shock over the use of heavy earth-moving equipment to widen the route to the Amarnath shrine close to the Sheshnag lake in Kashmir. Meanwhile, Peoples Democratic Party (PDP) president Mehbooba Mufti asked J&K Chief Minister Omar Abdullah to withdraw the Memorandum of Understanding (MoU) with the Border Roads Organisation (BRO) and explain the use of heavy machinery at the high-altitude glacial lake.<br>• “I was shocked to read that heavy earth-moving equipment is being used to widen the route to Shri Amarnath ji, and that too at a spot overlooking Sheshnag, which is one of the most beautiful lakes in India. I join my voice with those who are protesting about this, and would urge those concerned not to use heavy equipment on this route,” said Mr. Singh, who also served as the last Dogra Maharaja of J&K.<br>• He cautioned that there was no need “to make every pilgrim route into a motorable road just for the convenience of tourists”. “Genuine pilgrims will not mind walking or riding towards this great shrine. For many years I have been raising the disaster being caused to the Himalayas due to avoidable road widening, particularly on the pilgrim routes in Uttarakhand. I see no reason why tourists and pilgrims cannot manage with two-lane roads,” said Mr. Singh."
         },
         {
           "category": "economy",
@@ -1386,7 +1432,7 @@
           "categoryLabel": "🌐 International Relations",
           "title": "Strobe Talbott, former Time magazine reporter and Deputy Secretary of State, has died",
           "link": "https://www.thehindu.com/news/international/strobe-talbott-former-time-magazine-reporter-and-deputy-secretary-of-state-has-died/article71748303.ece",
-          "pubDate": "Fri, 27 Nov 2026 03:41:51 +0530",
+          "pubDate": "Fri, 27 Nov 2026 03:44:34 +0530",
           "dateIso": "2026-11-27",
           "dateDisplay": "27 Nov 2026",
           "examRelevance": "GS Paper-II & Current Affairs: Bilateral Agreements, Foreign Visits & UN/G20/BRICS",
@@ -3930,6 +3976,118 @@
       "id": "gk_27 Nov 2026_1",
       "cat": "🏛️ National & Polity",
       "date": "27 Nov 2026",
+      "qEn": "[27 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"Haryana Chief Minister Nayab Singh Saini on Thursday (November 26, 2026) said that the Constitution is the guiding force for our p...\"?",
+      "qHi": "[27 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"Haryana Chief Minister Nayab Singh Saini on Thursday (November 26, 2026) said that the Constitution is the guiding force for our p...\"?",
+      "qMr": "[27 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"Haryana Chief Minister Nayab Singh Saini on Thursday (November 26, 2026) said that the Constitution is the guiding force for our p...\"?",
+      "optsEn": [
+        "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "15th Finance Commission Special State Grant",
+        "Inter-State Council Constitutional Review Panel",
+        "Constitution is the guiding force for present, future, says Haryana CM Saini; Cong..."
+      ],
+      "optsHi": [
+        "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "15th Finance Commission Special State Grant",
+        "Inter-State Council Constitutional Review Panel",
+        "Constitution is the guiding force for present, future, says Haryana CM Saini; Cong..."
+      ],
+      "optsMr": [
+        "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "15th Finance Commission Special State Grant",
+        "Inter-State Council Constitutional Review Panel",
+        "Constitution is the guiding force for present, future, says Haryana CM Saini; Cong..."
+      ],
+      "ans": 3,
+      "explanation": "<strong>1. Core Context & Background:</strong> Haryana Chief Minister Nayab Singh Saini on Thursday (November 26, 2026) said that the Constitution is the guiding force for our present and future, which has shown the country the right path in overcoming every challenge, even as the Congress party accused the BJP of undermining democratic conventions, the independence of constitutional institutions and the voting rights of citizens.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> “Over the past 77 years, the Constitution has shown the country the right path in overcoming every challenge. Respecting the Constitution is not the responsibility of any one political party or government, but the duty of every individual whom the people have entrusted with the opportunity to serve them,” said Mr.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> The HPCC president said “The anti-people policies and the BJP Government’s attitude towards democratic institutions have generated widespread public resentment.”"
+    },
+    {
+      "id": "gk_27 Nov 2026_2",
+      "cat": "🏛️ National & Polity",
+      "date": "27 Nov 2026",
+      "qEn": "[27 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"Congress president Mallikarjun Kharge on Thursday (November 26, 2026) in Lucknow urged party leaders and workers to strengthen the...\"?",
+      "qHi": "[27 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"Congress president Mallikarjun Kharge on Thursday (November 26, 2026) in Lucknow urged party leaders and workers to strengthen the...\"?",
+      "qMr": "[27 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"Congress president Mallikarjun Kharge on Thursday (November 26, 2026) in Lucknow urged party leaders and workers to strengthen the...\"?",
+      "optsEn": [
+        "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "Leave aside any differences, remove BJP in U.P., says Congress chief",
+        "15th Finance Commission Special State Grant",
+        "Inter-State Council Constitutional Review Panel"
+      ],
+      "optsHi": [
+        "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "Leave aside any differences, remove BJP in U.P., says Congress chief",
+        "15th Finance Commission Special State Grant",
+        "Inter-State Council Constitutional Review Panel"
+      ],
+      "optsMr": [
+        "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "Leave aside any differences, remove BJP in U.P., says Congress chief",
+        "15th Finance Commission Special State Grant",
+        "Inter-State Council Constitutional Review Panel"
+      ],
+      "ans": 1,
+      "explanation": "<strong>1. Core Context & Background:</strong> Congress president Mallikarjun Kharge on Thursday (November 26, 2026) in Lucknow urged party leaders and workers to strengthen the Samajwadi Party (SP)-Congress alliance and leave aside any differences in a bid to oust the Bharatiya Janata Party (BJP) in Uttar Pradesh.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> “To win, we all have to fight together and leave aside egoistic talk. We have to strengthen the alliance and remove Modi-Yogi from power.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Indian National Congress / Samajwadi Party / Bharatiya Janata Party / election"
+    },
+    {
+      "id": "gk_27 Nov 2026_3",
+      "cat": "🏛️ National & Polity",
+      "date": "27 Nov 2026",
+      "qEn": "[27 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"The Delhi High Court on Thursday (November 26, 2026) set aside the Centre’s order cancelling the FCRA licence of NGO Socio Legal I...\"?",
+      "qHi": "[27 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"The Delhi High Court on Thursday (November 26, 2026) set aside the Centre’s order cancelling the FCRA licence of NGO Socio Legal I...\"?",
+      "qMr": "[27 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"The Delhi High Court on Thursday (November 26, 2026) set aside the Centre’s order cancelling the FCRA licence of NGO Socio Legal I...\"?",
+      "optsEn": [
+        "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "15th Finance Commission Special State Grant",
+        "Inter-State Council Constitutional Review Panel",
+        "Delhi HC sets aside Centre’s order cancelling FCRA licence of NGO"
+      ],
+      "optsHi": [
+        "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "15th Finance Commission Special State Grant",
+        "Inter-State Council Constitutional Review Panel",
+        "Delhi HC sets aside Centre’s order cancelling FCRA licence of NGO"
+      ],
+      "optsMr": [
+        "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "15th Finance Commission Special State Grant",
+        "Inter-State Council Constitutional Review Panel",
+        "Delhi HC sets aside Centre’s order cancelling FCRA licence of NGO"
+      ],
+      "ans": 3,
+      "explanation": "<strong>1. Core Context & Background:</strong> The Delhi High Court on Thursday (November 26, 2026) set aside the Centre’s order cancelling the FCRA licence of NGO Socio Legal Information Centre (SLIC), holding that the allegation of the organisation engaging in “aggressive anti-government political activism” was unsupported by any material.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Editorial | Troubling bill: On the Foreign Contribution (Regulation) Amendment Bill, 2026 “Based on the record, this court is unable to discern any material based on which it could be said that the appellant’s activities would likely prejudicially affect the sovereignty, integrity, or security of India or public interest,” Justice A.J. The judge added, “The respondent’s allegation that the appellant has indulged in “aggressive anti-government political activism”, is also not based on any material.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> The court, in its 69-page judgment, said unless something sinister comes through from material available against it, an organisation that is engaged in assisting aggrieved persons in raising their grievances before courts and statutory commissions, acting through the available constitutional machinery, cannot be characterised as engaging in “political activity” or in activities impinging on political and law-and-order domains."
+    },
+    {
+      "id": "gk_27 Nov 2026_4",
+      "cat": "🏛️ National & Polity",
+      "date": "27 Nov 2026",
+      "qEn": "[27 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"Bharatiya Janata Party (BJP) National President Nitin Nabin on Thursday (November 26, 2026) alleged that the Congress party misuse...\"?",
+      "qHi": "[27 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"Bharatiya Janata Party (BJP) National President Nitin Nabin on Thursday (November 26, 2026) alleged that the Congress party misuse...\"?",
+      "qMr": "[27 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"Bharatiya Janata Party (BJP) National President Nitin Nabin on Thursday (November 26, 2026) alleged that the Congress party misuse...\"?",
+      "optsEn": [
+        "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "Nitin Nabin accuses Congress party of insulting both Constitution and Ambedkar",
+        "15th Finance Commission Special State Grant",
+        "Inter-State Council Constitutional Review Panel"
+      ],
+      "optsHi": [
+        "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "Nitin Nabin accuses Congress party of insulting both Constitution and Ambedkar",
+        "15th Finance Commission Special State Grant",
+        "Inter-State Council Constitutional Review Panel"
+      ],
+      "optsMr": [
+        "Ministry of Home Affairs & NITI Aayog Joint Directive",
+        "Nitin Nabin accuses Congress party of insulting both Constitution and Ambedkar",
+        "15th Finance Commission Special State Grant",
+        "Inter-State Council Constitutional Review Panel"
+      ],
+      "ans": 1,
+      "explanation": "<strong>1. Core Context & Background:</strong> Bharatiya Janata Party (BJP) National President Nitin Nabin on Thursday (November 26, 2026) alleged that the Congress party misused the Constitution for the sake of power, whereas Prime Minister Narendra Modi has used for the upliftment of the last person, social justice, and public welfare.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> He said this while addressing an event titled ‘Samvidhan Gaurav Diwas’ (Constitution Pride Day), organised to mark ‘Constitution Day’ at Patna’s Gyan Bhawan. Paying tribute to the architects of the Constitution, he accused the Congress party of having insulted both the Constitution and Dr.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> “The opposition merely carries a copy of the Constitution around but PM Narendra Modi holds the Constitution in his heart and carries its spirit to the hearts of the people,”Mr."
+    },
+    {
+      "id": "gk_27 Nov 2026_5",
+      "cat": "🏛️ National & Polity",
+      "date": "27 Nov 2026",
       "qEn": "[27 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"Nandini (name changed), 16, who lives in Rajasthan’s Sikar, had mapped out her future: finish school, go to college, and get a job...\"?",
       "qHi": "[27 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"Nandini (name changed), 16, who lives in Rajasthan’s Sikar, had mapped out her future: finish school, go to college, and get a job...\"?",
       "qMr": "[27 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"Nandini (name changed), 16, who lives in Rajasthan’s Sikar, had mapped out her future: finish school, go to college, and get a job...\"?",
@@ -3955,144 +4113,32 @@
       "explanation": "<strong>1. Core Context & Background:</strong> Nandini (name changed), 16, who lives in Rajasthan’s Sikar, had mapped out her future: finish school, go to college, and get a job to be financially independent.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Her family, however, had other plans. Last month, they fixed her wedding without her consent.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> But there are many Nandinis, especially in India’s villages, who do not have the education or the agency to say no to child marriage."
     },
     {
-      "id": "gk_27 Nov 2026_2",
-      "cat": "🏛️ National & Polity",
-      "date": "27 Nov 2026",
-      "qEn": "[27 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"Artificial Intelligence (AI) may transform the way Arabic is learned and used, but human emotions and traditional values remain be...\"?",
-      "qHi": "[27 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"Artificial Intelligence (AI) may transform the way Arabic is learned and used, but human emotions and traditional values remain be...\"?",
-      "qMr": "[27 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"Artificial Intelligence (AI) may transform the way Arabic is learned and used, but human emotions and traditional values remain be...\"?",
-      "optsEn": [
-        "Cultural values of language remain irreplaceable in AI era: Arabic meet",
-        "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel"
-      ],
-      "optsHi": [
-        "Cultural values of language remain irreplaceable in AI era: Arabic meet",
-        "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel"
-      ],
-      "optsMr": [
-        "Cultural values of language remain irreplaceable in AI era: Arabic meet",
-        "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel"
-      ],
-      "ans": 0,
-      "explanation": "<strong>1. Core Context & Background:</strong> Artificial Intelligence (AI) may transform the way Arabic is learned and used, but human emotions and traditional values remain beyond the reach of technology, an international conference on the Arabic language held at Anvarul Islam Arabic College, Kuniyil, observed on Thursday.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> The two-day conference, titled ‘Digital humanities: reimagining Arabic language and literature’, was organised by the Arabic department of the college in association with Calicut University’s Arabic department, Kerala State Higher Education Council, and Arab Union of Internet Writers. Liyaqat Ali, deputy director of collegiate education, inaugurated the conference on Wednesday.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Scholars Mujeeb Nellikkuth, Ali Jafar, Mohammed Aman K., P."
-    },
-    {
-      "id": "gk_27 Nov 2026_3",
-      "cat": "🏛️ National & Polity",
-      "date": "27 Nov 2026",
-      "qEn": "[27 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"The district administration of Coochbehar district in West Bengal on Thursday (November 26, 2026) issued a residence certificate t...\"?",
-      "qHi": "[27 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"The district administration of Coochbehar district in West Bengal on Thursday (November 26, 2026) issued a residence certificate t...\"?",
-      "qMr": "[27 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"The district administration of Coochbehar district in West Bengal on Thursday (November 26, 2026) issued a residence certificate t...\"?",
-      "optsEn": [
-        "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "BDO issues residence certificate to mother of child denied birth certificate due t...",
-        "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel"
-      ],
-      "optsHi": [
-        "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "BDO issues residence certificate to mother of child denied birth certificate due t...",
-        "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel"
-      ],
-      "optsMr": [
-        "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "BDO issues residence certificate to mother of child denied birth certificate due t...",
-        "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel"
-      ],
-      "ans": 1,
-      "explanation": "<strong>1. Core Context & Background:</strong> The district administration of Coochbehar district in West Bengal on Thursday (November 26, 2026) issued a residence certificate to the mother of a two-month-old infant, after her parents faced challenges to get the certificate on the ground that the name of the father was deleted from electoral rolls during the Special Intensive Revision (SIR) held earlier this year.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> The Hindu reported on November 25 that the birth certificate was denied to the infant because the father's name was deleted from the electoral roll during SIR. Amina Khatun, wife of Abdul Habib, gave birth to a girl at Dinhata Sub-Divisional Hospital on September 9.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Special Intensive Revision of electoral rolls / Election Commission of India / government"
-    },
-    {
-      "id": "gk_27 Nov 2026_4",
-      "cat": "🏛️ National & Polity",
-      "date": "27 Nov 2026",
-      "qEn": "[27 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"Large and Medium Industries Minister M.B. Patil held discussions with four Japanese companies on Thursday, the fourth day of his v...\"?",
-      "qHi": "[27 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"Large and Medium Industries Minister M.B. Patil held discussions with four Japanese companies on Thursday, the fourth day of his v...\"?",
-      "qMr": "[27 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"Large and Medium Industries Minister M.B. Patil held discussions with four Japanese companies on Thursday, the fourth day of his v...\"?",
-      "optsEn": [
-        "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "Karnataka Industries Minister holds talks with four Japanese companies",
-        "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel"
-      ],
-      "optsHi": [
-        "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "Karnataka Industries Minister holds talks with four Japanese companies",
-        "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel"
-      ],
-      "optsMr": [
-        "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "Karnataka Industries Minister holds talks with four Japanese companies",
-        "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel"
-      ],
-      "ans": 1,
-      "explanation": "<strong>1. Core Context & Background:</strong> Large and Medium Industries Minister M.B.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Patil held discussions with four Japanese companies on Thursday, the fourth day of his visit to Japan, focusing on their existing operations in Karnataka and expansion plans. According to a release, during a meeting with Seiren Co.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> Discussions were also held with Makino, a leading manufacturer of high-precision machine tools, the release said."
-    },
-    {
-      "id": "gk_27 Nov 2026_5",
-      "cat": "🏛️ National & Polity",
-      "date": "27 Nov 2026",
-      "qEn": "[27 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"The Making of Cochin , a book on the erstwhile Cochin royal family, co-authored by Kocha Rama Varma, Usha Chettur Varma, and Rajit...\"?",
-      "qHi": "[27 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"The Making of Cochin , a book on the erstwhile Cochin royal family, co-authored by Kocha Rama Varma, Usha Chettur Varma, and Rajit...\"?",
-      "qMr": "[27 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"The Making of Cochin , a book on the erstwhile Cochin royal family, co-authored by Kocha Rama Varma, Usha Chettur Varma, and Rajit...\"?",
-      "optsEn": [
-        "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "Chief Minister to release book on Cochin royal family",
-        "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel"
-      ],
-      "optsHi": [
-        "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "Chief Minister to release book on Cochin royal family",
-        "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel"
-      ],
-      "optsMr": [
-        "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "Chief Minister to release book on Cochin royal family",
-        "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel"
-      ],
-      "ans": 1,
-      "explanation": "<strong>1. Core Context & Background:</strong> The Making of Cochin , a book on the erstwhile Cochin royal family, co-authored by Kocha Rama Varma, Usha Chettur Varma, and Rajith B.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Nair, will be released by Chief Minister V.D. Satheesan on December 5 at Kalikotta Palace, Thripunithura at 4 p.m.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> It will be followed by a discussion on the book."
-    },
-    {
       "id": "gk_27 Nov 2026_6",
       "cat": "🏛️ National & Polity",
       "date": "27 Nov 2026",
-      "qEn": "[27 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"Two women were booked on Thursday in the Pir Panjal valley’s Poonch district over the use of Virtual Private Network (VPN) apps in...\"?",
-      "qHi": "[27 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"Two women were booked on Thursday in the Pir Panjal valley’s Poonch district over the use of Virtual Private Network (VPN) apps in...\"?",
-      "qMr": "[27 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"Two women were booked on Thursday in the Pir Panjal valley’s Poonch district over the use of Virtual Private Network (VPN) apps in...\"?",
+      "qEn": "[27 Nov 2026 | 🏛️ National & Polity] With reference to today's current affairs, which of the following headlines/developments is highlighted in the news: \"Senior J&K politician Karan Singh on Thursday expressed shock over the use of heavy earth-moving equipment to widen the route to t...\"?",
+      "qHi": "[27 Nov 2026 | 🏛️ National & Polity] आज के समसामयिक घटनाक्रम (Current Affairs) के संदर्भ में, निम्नलिखित में से कौन-सा प्रमुख विषय चर्चा में है: \"Senior J&K politician Karan Singh on Thursday expressed shock over the use of heavy earth-moving equipment to widen the route to t...\"?",
+      "qMr": "[27 Nov 2026 | 🏛️ National & Polity] आजच्या चालू घडामोडींच्या संदर्भात खालीलपैकी कोणता महत्त्वाचा विषय चर्चेत आहे: \"Senior J&K politician Karan Singh on Thursday expressed shock over the use of heavy earth-moving equipment to widen the route to t...\"?",
       "optsEn": [
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "Two women booked over use of banned VPNs in Poonch; absconder held after two decad...",
         "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel"
+        "Inter-State Council Constitutional Review Panel",
+        "Shocked to see use of heavy equipment at Sheshnag, no need for motorable roads to ..."
       ],
       "optsHi": [
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "Two women booked over use of banned VPNs in Poonch; absconder held after two decad...",
         "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel"
+        "Inter-State Council Constitutional Review Panel",
+        "Shocked to see use of heavy equipment at Sheshnag, no need for motorable roads to ..."
       ],
       "optsMr": [
         "Ministry of Home Affairs & NITI Aayog Joint Directive",
-        "Two women booked over use of banned VPNs in Poonch; absconder held after two decad...",
         "15th Finance Commission Special State Grant",
-        "Inter-State Council Constitutional Review Panel"
+        "Inter-State Council Constitutional Review Panel",
+        "Shocked to see use of heavy equipment at Sheshnag, no need for motorable roads to ..."
       ],
-      "ans": 1,
-      "explanation": "<strong>1. Core Context & Background:</strong> Two women were booked on Thursday in the Pir Panjal valley’s Poonch district over the use of Virtual Private Network (VPN) apps in violation of prohibitory orders of the District Magistrate.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Officials identified the two women as Muneera Bi and Soniya Ayoub, both residents of Poonch’s Ari. Two separate First Information Reports (FIRs) were lodged under Section 223 of the Bharatiya Nyaya Sanhita (BNS), which deals with disobedience to an order duly promulgated by a public servant.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> The police said the arrest marks a significant achievement in bringing a long-pending pursuit to a successful conclusion after more than two decades."
+      "ans": 3,
+      "explanation": "<strong>1. Core Context & Background:</strong> Senior J&K politician Karan Singh on Thursday expressed shock over the use of heavy earth-moving equipment to widen the route to the Amarnath shrine close to the Sheshnag lake in Kashmir.<br><br><strong>2. Key Constitutional / Economic / Policy Analysis:</strong> Meanwhile, Peoples Democratic Party (PDP) president Mehbooba Mufti asked J&K Chief Minister Omar Abdullah to withdraw the Memorandum of Understanding (MoU) with the Border Roads Organisation (BRO) and explain the use of heavy machinery at the high-altitude glacial lake. “I was shocked to read that heavy earth-moving equipment is being used to widen the route to Shri Amarnath ji, and that too at a spot overlooking Sheshnag, which is one of the most beautiful lakes in India.<br><br><strong>3. Way Forward & Exam Conclusion:</strong> The government should publish findings of the assessment and take necessary measures to protect the Sheshnag lake and the Amarnath shrine,” said Mr."
     },
     {
       "id": "gk_27 Nov 2026_7",

@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-11-26 22:17:29",
+  "updated_at": "2026-11-27 00:00:26",
   "window_days": 15,
   "category_counts": {
-    "latest_jobs": 167,
-    "results": 52,
-    "admit_cards": 62,
-    "answer_keys": 22,
-    "syllabus": 9,
+    "latest_jobs": 149,
+    "results": 47,
+    "admit_cards": 57,
+    "answer_keys": 18,
+    "syllabus": 8,
     "admissions": 2
   },
   "trending_top_6": [
@@ -47,21 +47,21 @@
       "active": true
     },
     {
-      "id": "45222509181b",
-      "title": "RRB ALP CBT 1 Answer Key 2026",
-      "sub": "Answer Key",
-      "url": "https://rrb.digialm.com/EForms/configuredHtml/33244/102956/cOPXnjiLXCY5nEw5Vt/login.html",
-      "details": "",
-      "rushScore": 125,
+      "id": "2e39a6f6a7a7",
+      "title": "SSC Sub Inspector CAPF CPO SI 2025 Admit Card 2026",
+      "sub": "Admit Card",
+      "url": "https://ssc.gov.in/api/attachment/uploads/masterData/Results/LIST_1_29102026.pdf",
+      "details": "Name Of Post : SSC Sub Inspector SI in Delhi Police, Central Armed Police Forces Recruitment 2025 Admit Card 2026 for 3073 Post Post Date / Update : 25 November 2026 | 07:35 PM Short Information Staff Selection Commission SSC has released the notification for Sub Inspector SI in Delhi Police, Central Armed Police Forces Examination 2025. Those Candidate Are Enrolled with SSC CPO SI Vacancy Can Check the Answer Key. Before applying, candidates must read the complete advertisement in which selection procedure, exam syllabus, pattern, exam date and other information will be available.",
+      "rushScore": 118,
       "active": true
     },
     {
-      "id": "ec401493dd6c",
-      "title": "Railway RRB Group D CEN 09/2025 Result / Score Card",
-      "sub": "Result",
+      "id": "432162d01fcc",
+      "title": "Railway RRB NTPC 10+2 UG Level CBTST Admit Card 2026 | CEN 07/2025",
+      "sub": "Admit Card",
       "url": "https://www.rrbapply.gov.in/#/auth/home",
-      "details": "Name Of Post : Railway RRB Group D Various Posts of Level-1 CEN 09/2025 Recruitment 2026 Result / Score Card Post Date / Update : 12 November 2026 | 06:34 PM Short Information Indian Railway Railway Recruitment Board RRB Group D Various Posts of Level-1 CEN 09/2025. Those candidates who are Enrolled in this Railway RRB Group D CEN 09/2025 can Check Result. Read the notification for RRB Group D Various Posts of Level-1 CEN 09/2025 eligibility, post information, selection procedure, Details, age limit, pay scale and all other information.",
-      "rushScore": 123,
+      "details": "Indian Railway Railway Recruitment Board RRB Non Technical Popular Categories NTPC Under Graduate Level Recruitment CEN 07/2025. Those candidates who are Enrolled in This Vacancy Can Exam Answer Key. Read the notification for RRB NTPC 10+2 Level Commercial Cum Ticker Clerk, Train Clerk, Accounts Clerk Cum Typist, Junior Clerk Cum Typist Post 2026 eligibility, post information, selection procedure, Details, age limit, pay scale and all other information.",
+      "rushScore": 118,
       "active": true
     }
   ],
